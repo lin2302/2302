@@ -1,30 +1,65 @@
 name: Daily market update
+
 on:
   schedule:
     - cron: '30 21 * * 1-5'
   workflow_dispatch:
+
 permissions:
   contents: write
+
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Collect market and company news
+      - name: Collect company news, Chinese titles and quotes
         env:
           API_KEY: ${{ secrets.ALPHA_VANTAGE_API_KEY }}
         run: |
           mkdir -p data
           python - <<'PY'
-          import json, os, urllib.parse, urllib.request
-          key=os.environ['API_KEY']; tickers=['MU','AMD','SNDK','DELL','ASX','NVDA','TSM','INTC','GOOGL']
-          out={'updated_at':__import__('datetime').datetime.utcnow().isoformat()+'Z','companies':{}}
-          for t in tickers:
-            u='https://www.alphavantage.co/query?'+urllib.parse.urlencode({'function':'NEWS_SENTIMENT','tickers':t,'limit':8,'apikey':key})
+          import datetime, html, json, os, time, urllib.parse, urllib.request
+
+          companies={
+            'MU':'Micron','AMD':'AMD','SNDK':'SanDisk','000660.KS':'SK Hynix',
+            '005930.KS':'Samsung Electronics','DELL':'Dell','ASX':'ASE Technology',
+            'CBRS':'Cerebras','NVDA':'NVIDIA','TSM':'TSMC','INTC':'Intel','GOOGL':'Alphabet'
+          }
+          key=os.environ['API_KEY']
+          headers={'User-Agent':'chip-watch-daily/1.0'}
+          def get_json(url,timeout=30):
+            req=urllib.request.Request(url,headers=headers)
+            with urllib.request.urlopen(req,timeout=timeout) as r:return json.load(r)
+          def translate(text):
+            # Free daily translation endpoint; failure keeps the original title instead of breaking updates.
             try:
-              d=json.load(urllib.request.urlopen(u,timeout=30)); out['companies'][t]=[{'title':x.get('title'),'url':x.get('url'),'time':x.get('time_published'),'source':x.get('source')} for x in d.get('feed',[])]
-            except Exception as e: out['companies'][t]=[]
-          json.dump(out,open('data/daily.json','w'),ensure_ascii=False,indent=2)
+              url='https://api.mymemory.translated.net/get?'+urllib.parse.urlencode({'q':text[:450],'langpair':'en|zh-CN'})
+              return html.unescape(get_json(url,15).get('responseData',{}).get('translatedText') or text)
+            except Exception:return text
+          def quote(ticker):
+            try:
+              d=get_json('https://query1.finance.yahoo.com/v8/finance/chart/'+urllib.parse.quote(ticker,safe='.')+'?range=5d&interval=1d',15)
+              meta=d['chart']['result'][0]['meta']; price=meta.get('regularMarketPrice') or meta.get('previousClose'); prev=meta.get('previousClose')
+              pct=((price-prev)/prev*100) if price and prev else None
+              return {'price':price,'changePercent':pct,'currency':meta.get('currency'),'marketState':meta.get('marketState')}
+            except Exception:return {}
+          out={'updated_at':datetime.datetime.now(datetime.timezone.utc).isoformat(),'companies':{},'quotes':{}}
+          for ticker in companies:
+            out['quotes'][ticker]=quote(ticker)
+            url='https://www.alphavantage.co/query?'+urllib.parse.urlencode({'function':'NEWS_SENTIMENT','tickers':ticker,'limit':12,'apikey':key})
+            try:
+              feed=get_json(url).get('feed',[]); relevant=[]
+              for item in feed:
+                sentiments=item.get('ticker_sentiment',[])
+                hit=next((s for s in sentiments if s.get('ticker')==ticker),None)
+                if hit and float(hit.get('relevance_score','0'))>=0.18: relevant.append(item)
+              chosen=(relevant or feed)[:4]
+              out['companies'][ticker]=[{'title':x.get('title',''),'title_zh':translate(x.get('title','')),'url':x.get('url',''),'time':x.get('time_published',''),'source':x.get('source','')} for x in chosen]
+            except Exception: out['companies'][ticker]=[]
+            # Alpha Vantage free keys are rate-limited. Avoid empty/partial data caused by bursts.
+            time.sleep(13)
+          with open('data/daily.json','w',encoding='utf-8') as f:json.dump(out,f,ensure_ascii=False,indent=2)
           PY
       - run: |
           git config user.name 'chip-watch-bot'
