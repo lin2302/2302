@@ -1,67 +1,81 @@
 {
-  "updated_at": "2026-08-05T06:46:52.807199+00:00",
+  "updated_at": "2026-08-06T07:28:26.864321+00:00",
   "companies": {
     "MU": [
       {
-        "title": "Qualcomm Inc Stock (QCOM) Closed Up by 7.46% on Aug 4: Key Drivers Unveiled",
-        "title_zh": "高通公司股票（ QCOM ） 8月4日收盘上涨7.46 ％ ：关键驱动因素揭晓",
-        "url": "https://www.tradingkey.com/news/market-movers/262074398-market-movers-qcom-20260804",
-        "time": "20260804T201612",
-        "source": "TradingKey"
+        "title": "Can Microchip Technology’s (MCHP) PCIe Gen 6 Storage Fabric Prototype Reframe Its Data Center Narrative?",
+        "title_zh": "Microchip Technology (MCHP)的PCIe Gen 6存储结构原型能否重构其数据中心叙述？",
+        "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-mchp/microchip-technology/news/can-microchip-technologys-mchp-pcie-gen-6-storage-fabric-pro/amp",
+        "time": "20260806T013842",
+        "source": "Simply Wall Street"
       },
       {
-        "title": "SOXX ETF Posts Best Four-Day Rally Since 2020: Five Stocks To Watch - Intel (NASDAQ:INTC), Advanced Micro",
-        "title_zh": "SOXX ETF创下2020年以来最佳四日涨势：值得关注的五只股票-英特尔（纳斯达克股票代码： INTC ）、Advanced Micro",
-        "url": "https://www.benzinga.com/markets/tech/26/08/60929876/semiconductor-best-four-day-rally-since-2020-five-stocks-driving-the-move",
-        "time": "20260804T201209",
-        "source": "Benzinga"
+        "title": "Sandisk earnings impact on Micron, Western Digital, and Seagate",
+        "title_zh": "Sandisk对美光、西部数据和希捷的盈利影响",
+        "url": "https://m.investing.com/news/stock-market-news/sandisk-earnings-impact-on-micron-western-digital-and-seagate-93CH-4839061?ampMode=1",
+        "time": "20260805T194323",
+        "source": "Investing.com"
       },
       {
-        "title": "Seagate Technology Holdings PLC Stock (STX) Moved Up by 5.12% on Aug 4: A Full Analysis",
-        "title_zh": "希捷科技控股PLC股票（ STX ）在8月4日上涨5.12% ：全面分析",
-        "url": "https://www.tradingkey.com/news/market-movers/262074316-market-movers-stx-20260804",
-        "time": "20260804T191604",
-        "source": "TradingKey"
+        "title": "Can Microchip's Micron Alliance Help it Challenge AVGO & ALAB?",
+        "title_zh": "Microchip的美光联盟能否帮助它挑战AVGO和ALAB ？",
+        "url": "https://www.tradingview.com/news/zacks:d377ddf44094b:0-can-microchip-s-micron-alliance-help-it-challenge-avgo-alab/",
+        "time": "20260805T181424",
+        "source": "TradingView"
       },
       {
-        "title": "Western Digital Corp Stock (WDC) Moved Up by 4.77% on Aug 4: What Investors Need To Know",
-        "title_zh": "西部数据公司股票（ WDC ） 8月4日上涨4.77% ：投资者须知",
-        "url": "https://www.tradingkey.com/news/market-movers/262074313-market-movers-wdc-20260804",
-        "time": "20260804T191528",
-        "source": "TradingKey"
+        "title": "Micron (MU) Has More to Gain Than Nvidia (NVDA) Has to Lose From Samsung’s 2028 Warning",
+        "title_zh": "美光（ MU ）将从三星2028年的警告中获得比英伟达（ NVDA ）更多的收益",
+        "url": "https://uk.finance.yahoo.com/news/micron-mu-more-gain-nvidia-171417442.html",
+        "time": "20260805T171433",
+        "source": "Yahoo Finance UK"
       }
     ],
     "AMD": [
       {
-        "title": "Citizens raises Rocket Lab stock price target on strong quarterly results",
-        "title_zh": "Citizens根据强劲的季度业绩提高Rocket Lab股价目标",
-        "url": "https://www.investing.com/news/analyst-ratings/citizens-raises-rocket-lab-stock-price-target-on-strong-quarterly-results-93CH-4671515",
-        "time": "20260805T051125",
+        "title": "911,500,000 Class A Common Stock of Space Exploration Technologies Corp. are subject to a Lock-Up Agreement Ending on 6-AUG-2026.",
+        "title_zh": "太空探索技术公司的911,500,000股A类普通股须遵守于2026年8月6日结束的锁定协议。",
+        "url": "https://www.marketscreener.com/news/911-500-000-class-a-common-stock-of-space-exploration-technologies-corp-are-subject-to-a-lock-up-ag-ce7f50dcdf88f425",
+        "time": "20260806T001059",
+        "source": "marketscreener.com"
+      },
+      {
+        "title": "Envela Corp earnings beat by $0.04, revenue fell short of estimates",
+        "title_zh": "Envela Corp盈利超过0.04 $ ，收入低于预期",
+        "url": "https://www.investing.com/news/earnings/envela-corp-earnings-beat-by-004-revenue-fell-short-of-estimates-4839482",
+        "time": "20260805T225025",
         "source": "Investing.com"
       },
       {
-        "title": "PodcastOne Expects Revenue, Adjusted EBITDA Growth in Q1 Fiscal 2027",
-        "title_zh": "PodcastOne预计2027财年第一季度收入、调整后EBITDA增长",
-        "url": "https://www.stocktitan.net/news/PODC/podcast-one-nasdaq-podc-to-report-first-quarter-fiscal-2027-um9142rgfuxc.html",
-        "time": "20260804T234101",
-        "source": "Stock Titan"
+        "title": "Earnings call transcript: Everspin beats Q2 2026 estimates as revenue hits record",
+        "title_zh": "盈利通话记录： Everspin超过2026年第二季度预期，创下收入纪录",
+        "url": "https://m.investing.com/news/transcripts/earnings-call-transcript-everspin-beats-q2-2026-estimates-as-revenue-hits-record-93CH-4839549?ampMode=1",
+        "time": "20260805T214050",
+        "source": "Investing.com"
       },
       {
-        "title": "AMD's AI engine shifts into higher gear as data center revenue more than doubles, Helios ramps & market is confused",
-        "title_zh": "随着数据中心收入增加一倍以上， AMD的人工智能引擎转向更高的速度， Helios坡道和市场感到困惑",
-        "url": "https://siliconangle.com/2026/08/04/amds-ai-engine-shifts-higher-gear-data-center-revenue-doubles-helios-ramps-market-confused/",
-        "time": "20260804T233708",
+        "title": "Storage architecture focus at Supermicro Summit",
+        "title_zh": "Supermicro Summit的存储架构重点",
+        "url": "https://siliconangle.com/2026/08/05/storage-architecture-supermicro-open-storage-summit-supermicroopenstoragesummit/",
+        "time": "20260805T211856",
         "source": "SiliconANGLE"
-      },
-      {
-        "title": "NGL Energy Partners LP earnings beat by $0.33, revenue topped estimates",
-        "title_zh": "NGL Energy Partners LP盈利增长0.33 $ ，收入高于预期",
-        "url": "https://www.investing.com/news/earnings/ngl-energy-partners-lp-earnings-beat-by-033-revenue-topped-estimates-4835962",
-        "time": "20260804T223925",
-        "source": "Investing.com"
       }
     ],
     "SNDK": [
+      {
+        "title": "Sandisk Shares Slip Heading Into Earnings After Seeing Their Worst Month Ever",
+        "title_zh": "Sandisk股票在经历了有史以来最糟糕的一个月后滑向盈利",
+        "url": "https://www.moomoo.com/news/post/74167260/sandisk-shares-slip-heading-into-earnings-after-seeing-their-worst",
+        "time": "20260805T181329",
+        "source": "Moomoo"
+      },
+      {
+        "title": "Sandisk Corp (SNDK) legal officer sells 600 shares under 10b5-1 plan",
+        "title_zh": "Sandisk Corp (SNDK)法律官员根据10b5-1计划出售600股股票",
+        "url": "https://www.stocktitan.net/sec-filings/SNDK/form-4-sandisk-corp-insider-trading-activity-de1d8bce1c55.html",
+        "time": "20260805T051329",
+        "source": "Stock Titan"
+      },
       {
         "title": "Sandisk and 4 Other Must-See Earnings Charts",
         "title_zh": "Sandisk和4个其他必看收入图表",
@@ -75,25 +89,25 @@
         "url": "https://www.koreaherald.com/article/10830479",
         "time": "20260804T174001",
         "source": "The Korea Herald"
-      },
-      {
-        "title": "New 3D Flash Memory Technology from Kioxia and Sandisk Achieves Industry's Highest Bit Density for QLC NAND",
-        "title_zh": "铠侠和Sandisk的全新3D闪存技术为QLC NAND实现了业界最高的位密度",
-        "url": "https://finviz.com/news/376782/new-3d-flash-memory-technology-from-kioxia-and-sandisk-achieves-industrys-highest-bit-density-for-qlc-nand",
-        "time": "20260804T134001",
-        "source": "Finviz"
-      },
-      {
-        "title": "Sandisk and SK hynix Open Flash Framework for AI Inference Systems",
-        "title_zh": "适用于人工智能推理系统的Sandisk和SK海力士开放式闪存框架",
-        "url": "https://www.stocktitan.net/news/SNDK/sandisk-and-sk-hynix-advance-global-standardization-of-high-8hd8me1m63lf.html",
-        "time": "20260804T050856",
-        "source": "Stock Titan"
       }
     ],
     "000660.KS": [],
     "005930.KS": [],
     "DELL": [
+      {
+        "title": "Betting On AI Servers? Dell’s Order Book Deserves A Look",
+        "title_zh": "投注人工智能服务器？戴尔的订单簿值得一看",
+        "url": "https://www.trefis.com/stock/hpe/articles/610198/betting-on-ai-servers-dells-order-book-deserves-a-look/2026-08-05",
+        "time": "20260805T223816",
+        "source": "Trefis"
+      },
+      {
+        "title": "Wells Fargo & Company Issues Positive Forecast for Diamondback Energy (NASDAQ:FANG) Stock Price",
+        "title_zh": "富国银行和公司发布Diamondback Energy (NASDAQ: FANG)股价正面预测",
+        "url": "https://www.marketbeat.com/instant-alerts/wells-fargo-company-issues-positive-forecast-for-diamondback-energy-nasdaqfang-stock-price-2026-08-05/",
+        "time": "20260805T153815",
+        "source": "MarketBeat"
+      },
       {
         "title": "Diamondback Energy (NASDAQ:FANG) Director Sells $6,613,600.53 in Stock",
         "title_zh": "Diamondback Energy (NASDAQ: FANG)董事出售$ 6,613,600.53股票",
@@ -107,20 +121,6 @@
         "url": "https://simplywall.st/stocks/us/tech/nasdaq-crsr/corsair-gaming/news/is-corsairs-amd-ai-conference-spotlight-reframing-the-invest",
         "time": "20260804T211242",
         "source": "Simply Wall St"
-      },
-      {
-        "title": "Dell and Super Micro Rally 10%, Hewlett Packard Enterprise Climbs 6% as AI Server Stocks Surge",
-        "title_zh": "随着人工智能服务器库存激增，戴尔和超级微型反弹10% ，惠普企业攀升6%",
-        "url": "https://247wallst.com/investing/2026/08/04/dell-and-super-micro-rally-10-hewlett-packard-enterprise-climbs-6-as-ai-server-stocks-surge/",
-        "time": "20260804T171955",
-        "source": "24/7 Wall St."
-      },
-      {
-        "title": "Down 50% in The Year, Is SMCI a Buy?",
-        "title_zh": "年内下跌50% ， SMCI是买入吗？",
-        "url": "https://247wallst.com/investing/2026/08/04/down-50-in-the-year-is-smci-a-buy/",
-        "time": "20260804T150053",
-        "source": "24/7 Wall St."
       }
     ],
     "ASX": [
@@ -156,194 +156,194 @@
     "CBRS": [],
     "NVDA": [
       {
-        "title": "SpaceX Earnings: Stock Significantly Overvalued as Massive AI Investments Outweigh Hefty Neocloud Rent",
-        "title_zh": "SpaceX盈利：由于大量人工智能投资超过巨额新云租金，股票被严重高估",
-        "url": "https://www.morningstar.com/stocks/spacex-earnings-stock-significantly-overvalued-massive-ai-investments-outweigh-hefty-neocloud-rent",
-        "time": "20260805T022931",
-        "source": "Morningstar"
+        "title": "Nokia Acquires NXP's Arizona Fab to Secure AI Data Center Optical Chip Supply",
+        "title_zh": "诺基亚收购恩智浦亚利桑那晶圆厂以保障AI数据中心光芯片供应",
+        "url": "https://finance.biggo.com/news/b13e3c62-256f-4004-bffe-77feebdec3b0",
+        "time": "20260806T045452",
+        "source": "finance.biggo.com"
       },
       {
-        "title": "AMD's AI engine shifts into higher gear as data center revenue more than doubles, Helios ramps & market is confused",
-        "title_zh": "随着数据中心收入增加一倍以上， AMD的人工智能引擎转向更高的速度， Helios坡道和市场感到困惑",
-        "url": "https://siliconangle.com/2026/08/04/amds-ai-engine-shifts-higher-gear-data-center-revenue-doubles-helios-ramps-market-confused/",
-        "time": "20260804T233708",
-        "source": "SiliconANGLE"
+        "title": "Xtrackers Artificial Intelligence and Big Data ETF (XAIX) Stock Forecast, Price Targets & Predictions",
+        "title_zh": "Xtrackers人工智能和大数据ETF （ XAIX ）股票预测、价格目标和预测",
+        "url": "https://www.tipranks.com/etf/xaix/forecast",
+        "time": "20260806T030941",
+        "source": "TipRanks"
       },
       {
-        "title": "NGL Energy Partners LP earnings beat by $0.33, revenue topped estimates",
-        "title_zh": "NGL Energy Partners LP盈利增长0.33 $ ，收入高于预期",
-        "url": "https://www.investing.com/news/earnings/ngl-energy-partners-lp-earnings-beat-by-033-revenue-topped-estimates-4835962",
-        "time": "20260804T223925",
-        "source": "Investing.com"
+        "title": "Can Microchip Technology’s (MCHP) PCIe Gen 6 Storage Fabric Prototype Reframe Its Data Center Narrative?",
+        "title_zh": "Microchip Technology (MCHP)的PCIe Gen 6存储结构原型能否重构其数据中心叙述？",
+        "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-mchp/microchip-technology/news/can-microchip-technologys-mchp-pcie-gen-6-storage-fabric-pro/amp",
+        "time": "20260806T013842",
+        "source": "Simply Wall Street"
       },
       {
-        "title": "What Southern Copper (SCCO)'s Record Q2 Dividend and Earnings Amid Lower Output Means For Shareholders",
-        "title_zh": "南方铜业（ SCCO ）创纪录的第二季度股息和收益对股东意味着什么",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/southern-copper-scco-record-q2-210955485.html",
-        "time": "20260804T220907",
+        "title": "The Brink's Company Q2 2026 Earnings Call Summary",
+        "title_zh": "The Brink's Company 2026年第二季度盈利电话会议摘要",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/brinks-company-q2-2026-earnings-214045886.html",
+        "time": "20260805T234000",
         "source": "Yahoo Finance"
       }
     ],
     "TSM": [
       {
-        "title": "The Case Against the Proposed Chip Security Act in Taiwan",
-        "title_zh": "台湾芯片安全法案案例",
-        "url": "https://www.lawfaremedia.org/article/the-case-against-the-proposed-chip-security-act-in-taiwan",
-        "time": "20260804T163942",
-        "source": "Lawfare"
+        "title": "Taiwan Semiconductor Manufacturing (TSM) Stock Looks Fully Priced After Its 356% Run",
+        "title_zh": "台湾半导体制造业（ TSM ）股票在经历了356 ％的涨幅后看起来完全定价",
+        "url": "https://simplywall.st/stocks/us/semiconductors/nyse-tsm/taiwan-semiconductor-manufacturing/news/taiwan-semiconductor-manufacturing-tsm-stock-looks-fully-pri",
+        "time": "20260805T191608",
+        "source": "Simply Wall Street"
       },
       {
-        "title": "PVG Asset Management Corp Purchases 4,736 Shares of Taiwan Semiconductor Manufacturing Company Ltd. $TSM",
-        "title_zh": "PVG资产管理公司收购台湾半导体制造股份有限公司4736股$ TSM",
-        "url": "https://www.marketbeat.com/instant-alerts/filing-pvg-asset-management-corp-purchases-4736-shares-of-taiwan-semiconductor-manufacturing-company-ltd-tsm-2026-08-03/",
-        "time": "20260803T104247",
+        "title": "Fund Update: 304,891 TAIWAN SEMICONDUCTOR MANUFACTURING (TSM) shares added to Allen Investment Management, LLC portfolio",
+        "title_zh": "基金更新： 304,891股台湾半导体制造业（ TSM ）股票加入Allen Investment Management, LLC投资组合",
+        "url": "https://www.quiverquant.com/news/Fund+Update%3A+304%2C891+TAIWAN+SEMICONDUCTOR+MANUFACTURING+%28TSM%29+shares+added+to+Allen+Investment+Management%2C+LLC+portfolio",
+        "time": "20260805T181108",
+        "source": "Quiver Quantitative"
+      },
+      {
+        "title": "Eastern Bank Has $2.82 Million Position in Taiwan Semiconductor Manufacturing Company Ltd. $TSM",
+        "title_zh": "东方银行在台湾半导体制造有限公司持有$ 282万头寸$ TSM",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-eastern-bank-has-282-million-position-in-taiwan-semiconductor-manufacturing-company-ltd-tsm-2026-08-05/",
+        "time": "20260805T101608",
         "source": "MarketBeat"
       },
       {
-        "title": "Keel Point LLC Cuts Stock Holdings in Taiwan Semiconductor Manufacturing Company Ltd. $TSM",
-        "title_zh": "Keel Point LLC削减台湾半导体制造有限公司的股票持有量$ TSM",
-        "url": "https://www.marketbeat.com/instant-alerts/filing-keel-point-llc-cuts-stock-holdings-in-taiwan-semiconductor-manufacturing-company-ltd-tsm-2026-08-03/",
-        "time": "20260803T094247",
+        "title": "GK Wealth Management LLC Purchases New Position in Taiwan Semiconductor Manufacturing Company Ltd. $TSM",
+        "title_zh": "GK Wealth Management LLC收购台湾半导体制造有限公司的新职位$ TSM",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-gk-wealth-management-llc-purchases-new-position-in-taiwan-semiconductor-manufacturing-company-ltd-tsm-2026-08-05/",
+        "time": "20260805T101608",
         "source": "MarketBeat"
-      },
-      {
-        "title": "Is Taiwan Semiconductor Manufacturing (TSM) Expensive Or Undervalued On Mixed Valuation Signals?",
-        "title_zh": "台湾半导体制造业（ TSM ）在混合估值信号方面是否昂贵或被低估？",
-        "url": "https://simplywall.st/stocks/us/semiconductors/nyse-tsm/taiwan-semiconductor-manufacturing/news/is-taiwan-semiconductor-manufacturing-tsm-expensive-or-under",
-        "time": "20260802T184247",
-        "source": "Simply Wall St"
       }
     ],
     "INTC": [
       {
-        "title": "SOXX ETF Posts Best Four-Day Rally Since 2020: Five Stocks To Watch - Intel (NASDAQ:INTC), Advanced Micro",
-        "title_zh": "SOXX ETF创下2020年以来最佳四日涨势：值得关注的五只股票-英特尔（纳斯达克股票代码： INTC ）、Advanced Micro",
-        "url": "https://www.benzinga.com/markets/tech/26/08/60929876/semiconductor-best-four-day-rally-since-2020-five-stocks-driving-the-move",
-        "time": "20260804T201209",
-        "source": "Benzinga"
+        "title": "Nokia Acquires NXP's Arizona Fab to Secure AI Data Center Optical Chip Supply",
+        "title_zh": "诺基亚收购恩智浦亚利桑那晶圆厂以保障AI数据中心光芯片供应",
+        "url": "https://finance.biggo.com/news/b13e3c62-256f-4004-bffe-77feebdec3b0",
+        "time": "20260806T045452",
+        "source": "finance.biggo.com"
       },
       {
-        "title": "Advanced Micro Devices vs. Intel: Which Technology Stock Is a Better Buy in 2026?",
-        "title_zh": "先进微设备与英特尔：哪种技术股在2026年是更好的买入？",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-vs-intel-195901295.html",
-        "time": "20260804T193823",
-        "source": "Yahoo Finance"
+        "title": "Alphabet Stock Falls as AI Shakeup Puts Five9 Intel and CEVA in Focus",
+        "title_zh": "Alphabet股价下跌，因为人工智能重组使Five9英特尔和CEVA成为焦点",
+        "url": "https://simplywall.st/stocks/us/software/nasdaq-fivn/five9/news/alphabet-stock-falls-as-ai-shakeup-puts-five9-intel-and-ceva/amp",
+        "time": "20260805T214905",
+        "source": "Simply Wall Street"
       },
       {
-        "title": "Former Intel CEO Patrick Gelsinger Lavishes Praise On Quantum Computing Company’s Agreement With Secretive Government Agency",
-        "title_zh": "英特尔前首席执行官Patrick Gelsinger盛赞量子计算公司与秘密政府机构的协议",
-        "url": "https://wccftech.com/former-intel-ceo-patrick-gelsinger-lavishes-praise-on-quantum-computing-companys-agreement-with-secretive-government-agency/",
-        "time": "20260804T183823",
-        "source": "Wccftech"
+        "title": "Mangoceuticals Wins Nasdaq Extension Amid Nuclea Deal Progress",
+        "title_zh": "Mangoceuticals在Nuclea交易进展中赢得纳斯达克延期",
+        "url": "https://www.theglobeandmail.com/investing/markets/stocks/MGRX-Q/pressreleases/3676443/mangoceuticals-wins-nasdaq-extension-amid-nuclea-deal-progress/",
+        "time": "20260805T213952",
+        "source": "The Globe and Mail"
       },
       {
-        "title": "The Case Against the Proposed Chip Security Act in Taiwan",
-        "title_zh": "台湾芯片安全法案案例",
-        "url": "https://www.lawfaremedia.org/article/the-case-against-the-proposed-chip-security-act-in-taiwan",
-        "time": "20260804T163942",
-        "source": "Lawfare"
+        "title": "EOG Resources Issues Q2 2026 Financial Disclosure Update",
+        "title_zh": "EOG资源问题2026年第二季度财务披露更新",
+        "url": "https://www.theglobeandmail.com/investing/markets/stocks/EOG/pressreleases/3675775/eog-resources-issues-q2-2026-financial-disclosure-update/",
+        "time": "20260805T203757",
+        "source": "The Globe and Mail"
       }
     ],
     "GOOGL": [
       {
-        "title": "Aberdeen Group plc Buys ProQR Therapeutics NV (PRQR) -- Shares L",
-        "title_zh": "Aberdeen Group plc收购ProQR Therapeutics NV (PRQR) --股票L",
-        "url": "https://www.gurufocus.com/news/9004062/aberdeen-group-plc-buys-proqr-therapeutics-nv-prqr-shares-look-11-undervalued-on-gf-value",
-        "time": "20260805T014141",
-        "source": "GuruFocus"
+        "title": "iShares Expanded Tech Sector ETF offers broader...",
+        "title_zh": "iShares Expanded Tech Sector ETF提供更广泛的...",
+        "url": "https://pluang.com/en/news-feed/igm-vs-xlk-semua-orang-salah-pilih-etf-teknologi",
+        "time": "20260806T040413",
+        "source": "Pluang"
       },
       {
-        "title": "Elon Musk says SpaceX will build exclusively with Nvidia, touts space-based AI servers",
-        "title_zh": "埃隆·马斯克（ Elon Musk ）表示， SpaceX将独家使用英伟达构建，并吹捧基于太空的人工智能服务器",
-        "url": "https://finance.yahoo.com/technology/article/elon-musk-says-spacex-will-build-exclusively-with-nvidia-touts-space-based-ai-servers-211803293.html",
-        "time": "20260804T211700",
-        "source": "Yahoo Finance"
+        "title": "Earnings call transcript: LegalZoom Q2 2026 beats EPS but shares fall on outlook",
+        "title_zh": "财报电话会议记录： LegalZoom 2026年第二季度超越每股盈利，但股价下跌前景看好",
+        "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-legalzoom-q2-2026-beats-eps-but-shares-fall-on-outlook-93CH-4839476",
+        "time": "20260806T011123",
+        "source": "Investing.com"
       },
       {
-        "title": "DigitalOcean tops second quarter expectations amid surging AI demand",
-        "title_zh": "在人工智能需求激增的情况下， DigitalOcean超越了第二季度的预期",
-        "url": "https://siliconangle.com/2026/08/04/digitalocean-tops-second-quarter-expectations-amid-surging-ai-demand/",
-        "time": "20260804T204148",
-        "source": "SiliconANGLE"
+        "title": "Envela Corp earnings beat by $0.04, revenue fell short of estimates",
+        "title_zh": "Envela Corp盈利超过0.04 $ ，收入低于预期",
+        "url": "https://www.investing.com/news/earnings/envela-corp-earnings-beat-by-004-revenue-fell-short-of-estimates-4839482",
+        "time": "20260805T225025",
+        "source": "Investing.com"
       },
       {
-        "title": "SAP SE Stock (SAP) Closed Up by 3.21% on Aug 4: Drivers Behind the Movement",
-        "title_zh": "SAP SE股票（ SAP ）在8月4日收盘上涨3.21 ％ ：运动背后的驱动因素",
-        "url": "https://www.tradingkey.com/news/market-movers/262074399-market-movers-sap-20260804",
-        "time": "20260804T201500",
-        "source": "TradingKey"
+        "title": "Alphabet Stock Falls as AI Shakeup Puts Five9 Intel and CEVA in Focus",
+        "title_zh": "Alphabet股价下跌，因为人工智能重组使Five9英特尔和CEVA成为焦点",
+        "url": "https://simplywall.st/stocks/us/software/nasdaq-fivn/five9/news/alphabet-stock-falls-as-ai-shakeup-puts-five9-intel-and-ceva/amp",
+        "time": "20260805T214905",
+        "source": "Simply Wall Street"
       }
     ]
   },
   "quotes": {
     "MU": {
-      "price": 892.67,
+      "price": 893.19,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "AMD": {
-      "price": 518.58,
+      "price": 482.05,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "SNDK": {
-      "price": 1427.62,
+      "price": 1350.5,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "000660.KS": {
-      "price": 1682000.0,
+      "price": 1495000.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "005930.KS": {
-      "price": 247000.0,
+      "price": 230500.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "DELL": {
-      "price": 467.27,
+      "price": 462.7,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "ASX": {
-      "price": 38.7,
+      "price": 36.78,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "CBRS": {
-      "price": 227.15,
+      "price": 214.3,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "NVDA": {
-      "price": 211.94,
+      "price": 219.22,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "TSM": {
-      "price": 417.17,
+      "price": 414.0,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "INTC": {
-      "price": 100.86,
+      "price": 101.06,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "GOOGL": {
-      "price": 377.65,
+      "price": 362.43,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
