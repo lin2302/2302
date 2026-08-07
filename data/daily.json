@@ -1,67 +1,74 @@
 {
-  "updated_at": "2026-08-07T04:44:15.733389+00:00",
+  "updated_at": "2026-08-07T23:18:03.963146+00:00",
   "companies": {
     "MU": [
       {
-        "title": "Dlocal options signal 11% move on upcoming earnings release",
-        "title_zh": "Dlocal options暗示即将发布的盈利报告有11%的波动",
-        "url": "https://www.investing.com/news/stock-market-news/dlocal-options-signal-11-move-on-upcoming-earnings-release-93CH-4842973",
-        "time": "20260807T021028",
-        "source": "Investing.com"
+        "title": "Microchip Technology Inc Stock (MCHP) Moved Up by 13.93% on Aug 7: What Investors Need To Know",
+        "title_zh": "8月7日， Microchip Technology Inc (MCHP)股价上涨13.93% ：投资者须知",
+        "url": "https://www.tradingkey.com/news/market-movers/262089547-market-movers-mchp-20260807",
+        "time": "20260807T191536",
+        "source": "TradingKey"
       },
       {
-        "title": "SK hynix Vs. Micron: The Memory Trade Rotates Into The Valuation Gap (NASDAQ:MU)",
-        "title_zh": "SK海力士与美光：内存交易进入估值缺口（纳斯达克股票代码： MU ）",
-        "url": "https://seekingalpha.com/article/4932499-sk-hynix-vs-micron-the-memory-trade-rotates-into-the-valuation-gap",
-        "time": "20260806T233827",
-        "source": "Seeking Alpha"
+        "title": "SK Hynix Drops 5% After Approving $38B in New Memory Fabs; Seagate Falls 7%, Micron Barely Dips",
+        "title_zh": "SK海力士在批准$ 380亿新内存晶圆厂后下跌5% ；希捷下跌7% ，美光勉强下跌",
+        "url": "https://247wallst.com/investing/2026/08/07/sk-hynix-drops-5-after-approving-38b-in-new-memory-fabs-seagate-falls-7-micron-barely-dips/",
+        "time": "20260807T163837",
+        "source": "24/7 Wall St."
       },
       {
-        "title": "Biomarin Pharma earnings beat by $0.25, revenue topped estimates",
-        "title_zh": "Biomarin Pharma盈利增长0.25 $ ，收入高于预期",
-        "url": "https://www.investing.com/news/earnings/biomarin-pharma-earnings-beat-by-025-revenue-topped-estimates-4844477",
-        "time": "20260806T224025",
-        "source": "Investing.com"
+        "title": "Analog Devices Inc Stock (ADI) Moved Up by 3.26% on Aug 7: A Full Analysis",
+        "title_zh": "Analog Devices Inc股票(ADI)于8月7日上涨3.26% ：全面分析",
+        "url": "https://www.tradingkey.com/news/market-movers/262089321-market-movers-adi-20260807",
+        "time": "20260807T161502",
+        "source": "TradingKey"
       },
       {
-        "title": "Seagate Technology (NASDAQ:STX) Trading 1.8% Higher - Time to Buy?",
-        "title_zh": "希捷科技(NASDAQ: STX)交易价格上涨1.8% -买入时间？",
-        "url": "https://www.marketbeat.com/instant-alerts/seagate-technology-nasdaqstx-trading-18-higher-time-to-buy-2026-08-06/",
-        "time": "20260806T223859",
-        "source": "MarketBeat"
+        "title": "Coherent Stock Climbs 51% On A 6-Day Winning Streak",
+        "title_zh": "Coherent股票在6天连胜中攀升51%",
+        "url": "https://www.trefis.com/stock/cohr/articles/610542/coherent-stock-climbs-51-on-a-6-day-winning-streak/2026-08-07",
+        "time": "20260807T150933",
+        "source": "Trefis"
       }
     ],
     "AMD": [
       {
-        "title": "Hilton Worldwide Holdings Inc. (HLT) Stock forecasts",
-        "title_zh": "希尔顿全球控股有限公司（ HLT ）股票预测",
-        "url": "https://sg.finance.yahoo.com/research/reports/MS_0P00011FOE_AnalystReport_1785527535000",
-        "time": "20260807T010753",
-        "source": "Yahoo Finance Singapore"
+        "title": "Jim Cramer Shares Reasons Behind Why NVIDIA Corporation (NASDAQ:NVDA)’s Shares Are Finally Rising",
+        "title_zh": "Jim Cramer分享了NVIDIA Corporation （纳斯达克股票代码： NVDA ）股价终于上涨的原因",
+        "url": "https://ca.finance.yahoo.com/news/jim-cramer-shares-reasons-behind-182404118.html",
+        "time": "20260807T182341",
+        "source": "Yahoo! Finance Canada"
       },
       {
-        "title": "AMD acquires Taalas to hardwire AI models into silicon",
-        "title_zh": "AMD收购Taalas ，将AI模型硬连接到硅中",
-        "url": "https://siliconangle.com/2026/08/06/amd-acquires-taalas-hardwire-ai-models-silicon/",
-        "time": "20260806T230702",
-        "source": "SiliconANGLE"
+        "title": "Intel Announces Leadership Appointment to Strengthen Customer Engagement and Accelerate Growth",
+        "title_zh": "英特尔宣布任命领导层以加强客户互动并加速增长",
+        "url": "https://newsroom.intel.com/corporate/intel-announces-leadership-appointment-to-strengthen-customer-engagement-and-accelerate-growth",
+        "time": "20260807T180804",
+        "source": "Intel Newsroom"
       },
       {
-        "title": "Seagate Technology (NASDAQ:STX) Trading 1.8% Higher - Time to Buy?",
-        "title_zh": "希捷科技(NASDAQ: STX)交易价格上涨1.8% -买入时间？",
-        "url": "https://www.marketbeat.com/instant-alerts/seagate-technology-nasdaqstx-trading-18-higher-time-to-buy-2026-08-06/",
-        "time": "20260806T223859",
+        "title": "Traders Purchase Large Volume of Call Options on Marathon Digital (NASDAQ:MARA)",
+        "title_zh": "交易者在Marathon Digital （纳斯达克股票代码： MARA ）上购买大量看涨期权",
+        "url": "https://www.marketbeat.com/instant-alerts/traders-purchase-large-volume-of-call-options-on-marathon-digital-nasdaqmara-2026-08-07/",
+        "time": "20260807T172729",
         "source": "MarketBeat"
       },
       {
-        "title": "Republic Services (NYSE:RSG) Updates FY 2026 Earnings Guidance",
-        "title_zh": "Republic Services (NYSE: RSG) 2026财年盈利指引更新",
-        "url": "https://www.marketbeat.com/instant-alerts/republic-services-nysersg-updates-fy-2026-earnings-guidance-2026-08-06/",
-        "time": "20260806T223848",
+        "title": "PAR Technology (NYSE:PAR) Price Target Raised to $18.00",
+        "title_zh": "PAR Technology (NYSE: PAR)目标价上调至$ 18.00",
+        "url": "https://www.marketbeat.com/instant-alerts/par-technology-nysepar-price-target-raised-to-1800-2026-08-07/",
+        "time": "20260807T164020",
         "source": "MarketBeat"
       }
     ],
     "SNDK": [
+      {
+        "title": "SanDisk Options Price 16.1% Swing On Earnings: Here’s What History Shows",
+        "title_zh": "闪迪期权价格16.1%盈利波动：以下是历史记录",
+        "url": "https://www.tradingview.com/news/benzinga:2685bd995094b:0-sandisk-options-price-16-1-swing-on-earnings-here-s-what-history-shows/",
+        "time": "20260806T091123",
+        "source": "TradingView"
+      },
       {
         "title": "SNDK Stock Dips After-Hours As Sandisk's Q1 FY27 Outlook Misses Expectations Despite Memory-Driven Q4 Profit",
         "title_zh": "SNDK股票盘后下跌，因为尽管存在内存驱动的第四季度利润，但桑迪斯的27财年第一季度展望仍未达到预期",
@@ -82,48 +89,48 @@
         "url": "https://www.moomoo.com/news/post/74167260/sandisk-shares-slip-heading-into-earnings-after-seeing-their-worst",
         "time": "20260805T181329",
         "source": "Moomoo"
-      },
-      {
-        "title": "Sandisk Corp (SNDK) legal officer sells 600 shares under 10b5-1 plan",
-        "title_zh": "Sandisk Corp (SNDK)法律官员根据10b5-1计划出售600股股票",
-        "url": "https://www.stocktitan.net/sec-filings/SNDK/form-4-sandisk-corp-insider-trading-activity-de1d8bce1c55.html",
-        "time": "20260805T051329",
-        "source": "Stock Titan"
       }
     ],
     "000660.KS": [],
     "005930.KS": [],
     "DELL": [
       {
-        "title": "FMS 2026: CMS and MaxLinear Expand OpenZFS Storage for AI, Cloud, and Hyperscale Infrastructure",
-        "title_zh": "FMS 2026 ： CMS和MaxLinear为AI、云和超大规模基础设施扩展OpenZFS存储",
-        "url": "https://www.storagenewsletter.com/2026/08/06/fms-2026-cms-and-maxlinear-expand-openzfs-storage-for-ai-cloud-and-hyperscale-infrastructure/",
-        "time": "20260806T114121",
-        "source": "StorageNewsletter"
+        "title": "Jim Cramer Gloats After Getting The Boeing Company (NYSE:BA)’s Shares Right",
+        "title_zh": "吉姆·克莱默（ Jim Cramer ）在获得波音公司（ NYSE ： BA ）股权后沾沾自喜",
+        "url": "https://ca.finance.yahoo.com/news/jim-cramer-gloats-getting-boeing-182822239.html",
+        "time": "20260807T182800",
+        "source": "Yahoo! Finance Canada"
       },
       {
-        "title": "Commerce Announces Second Quarter 2026 Financial Results",
-        "title_zh": "商务部公布2026年第二季度财务业绩",
-        "url": "https://www.manilatimes.net/2026/08/06/tmt-newswire/globenewswire/commerce-announces-second-quarter-2026-financial-results/2399903/amp",
-        "time": "20260806T114113",
-        "source": "The Manila Times"
+        "title": "Does Hewlett Packard Enterprise’s (HPE) Quantum Bet Reframe Its Role In Next-Gen Data Center Infrastructure?",
+        "title_zh": "惠普企业（ HPE ）的量子赌注是否会重塑其在下一代数据中心基础设施中的作用？",
+        "url": "https://simplywall.st/stocks/us/tech/nyse-hpe/hewlett-packard-enterprise/news/does-hewlett-packard-enterprises-hpe-quantum-bet-reframe-its",
+        "time": "20260807T174509",
+        "source": "Simply Wall Street"
       },
       {
-        "title": "A 5-Day Winning Streak Has Hewlett Packard Enterprise Stock Up 20%",
-        "title_zh": "连续5天连胜，惠普企业股价上涨20%",
-        "url": "https://www.trefis.com/stock/hpe/articles/610369/a-5-day-winning-streak-has-hewlett-packard-enterprise-stock-up-20/2026-08-06",
-        "time": "20260806T094240",
-        "source": "Trefis"
+        "title": "NetApp Inc (NTAP) Earnings Forecast: Future EPS & Revenue Growth Estimates",
+        "title_zh": "NetApp Inc (NTAP)盈利预测：未来每股盈利和收入增长预测",
+        "url": "https://www.tradingkey.com/markets/stocks/ntap/forecast",
+        "time": "20260807T103835",
+        "source": "TradingKey"
       },
       {
-        "title": "Betting On AI Servers? Dell’s Order Book Deserves A Look",
-        "title_zh": "投注人工智能服务器？戴尔的订单簿值得一看",
-        "url": "https://www.trefis.com/stock/hpe/articles/610198/betting-on-ai-servers-dells-order-book-deserves-a-look/2026-08-05",
-        "time": "20260805T223816",
-        "source": "Trefis"
+        "title": "MP Materials Sold 1,006 Metric Tons of NdPr Products in Q2",
+        "title_zh": "第二季度， MP材料销售了1006吨钕钚产品",
+        "url": "https://www.stocktitan.net/news/MP/mp-materials-reports-second-quarter-2026-zcf328rdr260.html",
+        "time": "20260806T194024",
+        "source": "Stock Titan"
       }
     ],
     "ASX": [
+      {
+        "title": "Cetera Investment Advisers Has $2.94 Million Holdings in ASE Technology Holding Co., Ltd. $ASX",
+        "title_zh": "Cetera Investment Advisers持有ASE Technology Holding Co., Ltd. 294万美元的股份",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-cetera-investment-advisers-has-294-million-holdings-in-ase-technology-holding-co-ltd-asx-2026-08-07/",
+        "time": "20260807T071109",
+        "source": "MarketBeat"
+      },
       {
         "title": "Dimensional Fund Advisors LP Has $30.34 Million Stock Position in ASE Technology Holding Co., Ltd. $ASX",
         "title_zh": "Dimensional Fund Advisors LP持有ASE Technology Holding Co., Ltd. 3034万$股票头寸$ ASX",
@@ -144,47 +151,54 @@
         "url": "https://www.marketbeat.com/instant-alerts/filing-quantinno-capital-management-lp-raises-stock-holdings-in-ase-technology-holding-co-ltd-asx-2026-08-04/",
         "time": "20260805T001020",
         "source": "MarketBeat"
-      },
-      {
-        "title": "ASE Technology Prices $1 Billion Bond Offering; Shares Drop 6%",
-        "title_zh": "日月光科技发行10亿$债券；股价下跌6%",
-        "url": "https://www.marketscreener.com/news/ase-technology-prices-1-billion-bond-offering-shares-drop-6-ce7f50d9d18cf224",
-        "time": "20260804T123600",
-        "source": "marketscreener.com"
       }
     ],
     "CBRS": [],
     "NVDA": [
       {
-        "title": "Dlocal options signal 11% move on upcoming earnings release",
-        "title_zh": "Dlocal options暗示即将发布的盈利报告有11%的波动",
-        "url": "https://www.investing.com/news/stock-market-news/dlocal-options-signal-11-move-on-upcoming-earnings-release-93CH-4842973",
-        "time": "20260807T021028",
-        "source": "Investing.com"
+        "title": "Microchip Technology Inc Stock (MCHP) Moved Up by 13.93% on Aug 7: What Investors Need To Know",
+        "title_zh": "8月7日， Microchip Technology Inc (MCHP)股价上涨13.93% ：投资者须知",
+        "url": "https://www.tradingkey.com/news/market-movers/262089547-market-movers-mchp-20260807",
+        "time": "20260807T191536",
+        "source": "TradingKey"
       },
       {
-        "title": "AI Data Center Group Firmus Draws $2 Billion From Coatue, Nvidia",
-        "title_zh": "AI数据中心集团Firmus从英伟达Coatue获得20 $十亿资金",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-07/ai-data-center-group-firmus-draws-2-billion-from-coatue-nvidia",
-        "time": "20260807T014735",
-        "source": "Bloomberg.com"
+        "title": "Jim Cramer Gloats After Getting The Boeing Company (NYSE:BA)’s Shares Right",
+        "title_zh": "吉姆·克莱默（ Jim Cramer ）在获得波音公司（ NYSE ： BA ）股权后沾沾自喜",
+        "url": "https://ca.finance.yahoo.com/news/jim-cramer-gloats-getting-boeing-182822239.html",
+        "time": "20260807T182800",
+        "source": "Yahoo! Finance Canada"
       },
       {
-        "title": "AMD acquires Taalas to hardwire AI models into silicon",
-        "title_zh": "AMD收购Taalas ，将AI模型硬连接到硅中",
-        "url": "https://siliconangle.com/2026/08/06/amd-acquires-taalas-hardwire-ai-models-silicon/",
-        "time": "20260806T230702",
-        "source": "SiliconANGLE"
+        "title": "Jim Cramer Shares Reasons Behind Why NVIDIA Corporation (NASDAQ:NVDA)’s Shares Are Finally Rising",
+        "title_zh": "Jim Cramer分享了NVIDIA Corporation （纳斯达克股票代码： NVDA ）股价终于上涨的原因",
+        "url": "https://ca.finance.yahoo.com/news/jim-cramer-shares-reasons-behind-182404118.html",
+        "time": "20260807T182341",
+        "source": "Yahoo! Finance Canada"
       },
       {
-        "title": "Biomarin Pharma earnings beat by $0.25, revenue topped estimates",
-        "title_zh": "Biomarin Pharma盈利增长0.25 $ ，收入高于预期",
-        "url": "https://www.investing.com/news/earnings/biomarin-pharma-earnings-beat-by-025-revenue-topped-estimates-4844477",
-        "time": "20260806T224025",
-        "source": "Investing.com"
+        "title": "Traders Purchase Large Volume of Call Options on Marathon Digital (NASDAQ:MARA)",
+        "title_zh": "交易者在Marathon Digital （纳斯达克股票代码： MARA ）上购买大量看涨期权",
+        "url": "https://www.marketbeat.com/instant-alerts/traders-purchase-large-volume-of-call-options-on-marathon-digital-nasdaqmara-2026-08-07/",
+        "time": "20260807T172729",
+        "source": "MarketBeat"
       }
     ],
     "TSM": [
+      {
+        "title": "Avior Wealth Management LLC Trims Stake in Taiwan Semiconductor Manufacturing Company Ltd. $TSM",
+        "title_zh": "Avior Wealth Management LLC收购台湾半导体制造有限公司股份$ TSM",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-avior-wealth-management-llc-trims-stake-in-taiwan-semiconductor-manufacturing-company-ltd-tsm-2026-08-07/",
+        "time": "20260807T081058",
+        "source": "MarketBeat"
+      },
+      {
+        "title": "Taiwan Semiconductor Manufacturing Company Ltd. $TSM Shares Purchased by 55 North Private Wealth LLC",
+        "title_zh": "台湾半导体制造有限公司$ TSM股票由55 North Private Wealth LLC收购",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-taiwan-semiconductor-manufacturing-company-ltd-tsm-shares-purchased-by-55-north-private-wealth-llc-2026-08-07/",
+        "time": "20260807T081058",
+        "source": "MarketBeat"
+      },
       {
         "title": "Taiwan Semiconductor Manufacturing (TSM) Stock Looks Fully Priced After Its 356% Run",
         "title_zh": "台湾半导体制造业（ TSM ）股票在经历了356 ％的涨幅后看起来完全定价",
@@ -198,152 +212,138 @@
         "url": "https://www.quiverquant.com/news/Fund+Update%3A+304%2C891+TAIWAN+SEMICONDUCTOR+MANUFACTURING+%28TSM%29+shares+added+to+Allen+Investment+Management%2C+LLC+portfolio",
         "time": "20260805T181108",
         "source": "Quiver Quantitative"
-      },
-      {
-        "title": "Fund Update: 304,891 TAIWAN SEMICONDUCTOR MANUFACTURING (TSM) shares added to Allen Investment Management, LLC portfolio",
-        "title_zh": "基金更新： 304,891股台湾半导体制造业（ TSM ）股票加入Allen Investment Management, LLC投资组合",
-        "url": "https://www.quiverquant.com/news/Fund+Update:+304%2C891+TAIWAN+SEMICONDUCTOR+MANUFACTURING+%28TSM%29+shares+added+to+Allen+Investment+Management%2C+LLC+portfolio",
-        "time": "20260805T181100",
-        "source": "Quiver Quantitative"
-      },
-      {
-        "title": "Eastern Bank Has $2.82 Million Position in Taiwan Semiconductor Manufacturing Company Ltd. $TSM",
-        "title_zh": "东方银行在台湾半导体制造有限公司持有$ 282万头寸$ TSM",
-        "url": "https://www.marketbeat.com/instant-alerts/filing-eastern-bank-has-282-million-position-in-taiwan-semiconductor-manufacturing-company-ltd-tsm-2026-08-05/",
-        "time": "20260805T101608",
-        "source": "MarketBeat"
       }
     ],
     "INTC": [
       {
-        "title": "SCS Capital Trims Broadcom Stake, Sells 3,867 Shares",
-        "title_zh": "SCS Capital收购Broadcom股份，出售3,867股",
-        "url": "https://www.tipranks.com/news/company-announcements/scs-capital-trims-broadcom-stake-sells-3867-shares",
-        "time": "20260807T031212",
-        "source": "TipRanks"
+        "title": "Intel Announces Leadership Appointment to Strengthen Customer Engagement and Accelerate Growth",
+        "title_zh": "英特尔宣布任命领导层以加强客户互动并加速增长",
+        "url": "https://newsroom.intel.com/corporate/intel-announces-leadership-appointment-to-strengthen-customer-engagement-and-accelerate-growth",
+        "time": "20260807T180804",
+        "source": "Intel Newsroom"
       },
       {
-        "title": "Chord Energy’s Top Legal and Administrative Executive to Depart for ConocoPhillips",
-        "title_zh": "Chord Energy的高级法律和行政管理人员将前往康菲石油公司",
-        "url": "https://www.tipranks.com/news/company-announcements/chord-energys-top-legal-and-administrative-executive-to-depart-for-conocophillips",
-        "time": "20260806T220632",
-        "source": "TipRanks"
+        "title": "American Tower (NYSE:AMT) Leans On Data Centers As Tower Demand Stays Firm",
+        "title_zh": "美国铁塔（纽约证券交易所代码： AMT ）依靠数据中心，因为铁塔需求保持坚挺",
+        "url": "https://kalkinemedia.com/us/stocks/infrastructure-and-real-estate/american-tower-nyseamt-leans-on-data-centers-as-tower-demand-stays-firm",
+        "time": "20260807T170505",
+        "source": "Kalkine Media"
       },
       {
-        "title": "SoftBank books US$8.5bil gain on Intel to beat estimates",
-        "title_zh": "软银预计英特尔将获得85亿美元的收益，以超出预期",
-        "url": "https://www.thestar.com.my/business/business-news/2026/08/07/softbank-books-us85bil-gain-on-intel-to-beat-estimates",
-        "time": "20260806T203818",
-        "source": "The Star"
+        "title": "Applied Materials is about to report earnings. How to trade the AI picks-and-shovels play ahead of results",
+        "title_zh": "Applied Materials即将报告收入。如何在结果之前交易AI镐铲玩法",
+        "url": "https://www.cnbc.com/2026/08/07/applied-materials-is-about-to-report-earnings-how-to-trade-it-ahead-of-results.html",
+        "time": "20260807T154116",
+        "source": "CNBC"
       },
       {
-        "title": "Boeing Co Stock (BA) Closed Down by 3.31% on Aug 6: A Full Analysis",
-        "title_zh": "波音公司股票于8月6日下跌3.31% ：全面分析",
-        "url": "https://www.tradingkey.com/news/market-movers/262084963-market-movers-ba-20260806",
-        "time": "20260806T201515",
-        "source": "TradingKey"
+        "title": "DoubleVerify Stock Jumps As Nielsen Launches $2.15B Take-Private Deal",
+        "title_zh": "随着尼尔森推出$ 2.15 B的私有化交易， DoubleVerify股票上涨",
+        "url": "https://www.timothysykes.com/news/doubleverify-holdings-inc-dv-news-2026_08_07-2/",
+        "time": "20260807T134020",
+        "source": "www.timothysykes.com"
       }
     ],
     "GOOGL": [
       {
-        "title": "Alphabet Inc. (GOOGL) director shifts Class C stake via gift",
-        "title_zh": "Alphabet Inc. (GOOGL)董事通过GIFT转移C类股权",
-        "url": "https://www.stocktitan.net/sec-filings/GOOG/form-4-alphabet-inc-insider-trading-activity-85643ad53366.html",
-        "time": "20260807T023803",
-        "source": "Stock Titan"
+        "title": "Microsoft Is Winning the AI Cash Flow Test",
+        "title_zh": "微软赢得了人工智能现金流测试",
+        "url": "https://ca.finance.yahoo.com/news/microsoft-winning-ai-cash-flow-163832703.html",
+        "time": "20260807T163829",
+        "source": "Yahoo! Finance Canada"
       },
       {
-        "title": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Alphabet Inc. - GOOG",
-        "title_zh": "投资者提醒： Pomerantz律师事务所代表Alphabet Inc.的投资者调查索赔- GOOG",
-        "url": "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-alphabet-inc---goog-302845543.html",
-        "time": "20260806T215800",
-        "source": "PR Newswire"
+        "title": "Satya Nadella Said Microsoft's Own AI Chips Are Driving Up to 40% Efficiency Gains. Here's Why That Matters for Investors",
+        "title_zh": "Satya Nadella表示，微软自己的人工智能芯片正在推动效率提高40%。这就是为什么这对投资者很重要",
+        "url": "https://www.fool.com/investing/2026/08/07/satya-nadella-said-microsofts-own-ai-chips-are-dri/",
+        "time": "20260807T160939",
+        "source": "The Motley Fool"
       },
       {
-        "title": "Apple App Store revenue ticks up despite falling downloads",
-        "title_zh": "尽管下载量下降，但Apple App Store收入仍在上升",
-        "url": "https://www.proactiveinvestors.com/companies/news/1096688/apple-app-store-revenue-ticks-up-despite-falling-downloads-1096688.html",
-        "time": "20260806T200700",
-        "source": "Proactive financial news"
+        "title": "Alphabet Inc Class A (GOOGL) Stock Analysis & Forecast",
+        "title_zh": "Alphabet Inc A类（ GOOGL ）股票分析和预测",
+        "url": "https://www.tradingkey.com/markets/stocks/googl/analysis",
+        "time": "20260807T153802",
+        "source": "TradingKey"
       },
       {
-        "title": "Corsair's Q2 adjusted results topped guidance without tariff refund",
-        "title_zh": "Corsair第二季度调整后的业绩超出预期，不含关税退款",
-        "url": "https://www.stocktitan.net/news/CRSR/corsair-reports-strong-second-quarter-2026-profit-growth-and-cash-rotd2bfkvu3a.html",
-        "time": "20260806T194100",
-        "source": "Stock Titan"
+        "title": "Price Prediction: Google Will Hit $400 on This Date",
+        "title_zh": "价格预测：谷歌将在此日期达到400 $",
+        "url": "https://247wallst.com/investing/2026/08/07/price-prediction-google-will-hit-400-on-this-date/",
+        "time": "20260807T153001",
+        "source": "24/7 Wall St."
       }
     ]
   },
   "quotes": {
     "MU": {
-      "price": 881.47,
+      "price": 877.57,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "AMD": {
-      "price": 489.28,
+      "price": 483.36,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "SNDK": {
-      "price": 1258.58,
+      "price": 1212.21,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "000660.KS": {
-      "price": 1426000.0,
+      "price": 1422000.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "005930.KS": {
-      "price": 234000.0,
+      "price": 231000.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "DELL": {
-      "price": 437.65,
+      "price": 453.77,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "ASX": {
-      "price": 37.25,
+      "price": 37.39,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "CBRS": {
-      "price": 211.3,
+      "price": 226.73,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "NVDA": {
-      "price": 218.99,
+      "price": 223.96,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "TSM": {
-      "price": 418.2,
+      "price": 420.04,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "INTC": {
-      "price": 99.81,
+      "price": 101.65,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "GOOGL": {
-      "price": 357.75,
+      "price": 354.3,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
