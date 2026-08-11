@@ -1,67 +1,74 @@
 {
-  "updated_at": "2026-08-10T23:19:11.043470+00:00",
+  "updated_at": "2026-08-11T23:25:09.835173+00:00",
   "companies": {
     "MU": [
       {
-        "title": "Qualcomm Inc Stock (QCOM) Closed Down by 3.31% on Aug 10: What Investors Need To Know",
-        "title_zh": "高通公司股票(QCOM) 8月10日收盘下跌3.31% ：投资者须知",
-        "url": "https://www.tradingkey.com/news/market-movers/262093507-market-movers-qcom-20260810",
-        "time": "20260810T201547",
-        "source": "TradingKey"
+        "title": "AEHR Stock Surges As Earnings Beat Fuels Hypergrowth Bets",
+        "title_zh": "AEHR股票飙升，因为盈利超过了高增长押注",
+        "url": "https://stockstotrade.com/news/aehr-test-systems-aehr-news-2026_08_11/",
+        "time": "20260811T161025",
+        "source": "StocksToTrade"
       },
       {
-        "title": "Applied Materials Inc Stock (AMAT) Closed Down by 3.12% on Aug 10: Facts Behind the Movement",
-        "title_zh": "应用材料公司股票（ AMAT ）在8月10日收盘下跌3.12% ：运动背后的事实",
-        "url": "https://www.tradingkey.com/news/market-movers/262093515-market-movers-amat-20260810",
-        "time": "20260810T200700",
-        "source": "TradingKey"
+        "title": "Can Micron's Take-or-Pay Deals Improve Revenue Growth Visibility?",
+        "title_zh": "美光的Take-or-Pay交易能否提高收入增长的可见性？",
+        "url": "https://www.theglobeandmail.com/investing/markets/stocks/MU/pressreleases/3781876/can-microns-take-or-pay-deals-improve-revenue-growth-visibility/",
+        "time": "20260811T150837",
+        "source": "The Globe and Mail"
       },
       {
-        "title": "BofA: Nvidia's next earnings report could kick off a \"multi-quarter upgrade cycle\"",
-        "title_zh": "美银美林：英伟达下次财报可能开启“多季度升级周期”",
-        "url": "https://uk.finance.yahoo.com/news/bofa-nvidias-next-earnings-report-175100931.html",
-        "time": "20260810T175044",
-        "source": "Yahoo Finance UK"
+        "title": "Can Micron's Take-or-Pay Deals Improve Revenue Growth Visibility?",
+        "title_zh": "美光的Take-or-Pay交易能否提高收入增长的可见性？",
+        "url": "https://www.theglobeandmail.com/investing/markets/stocks/SNDK/pressreleases/3781876/can-microns-take-or-pay-deals-improve-revenue-growth-visibility/",
+        "time": "20260811T144941",
+        "source": "The Globe and Mail"
       },
       {
-        "title": "Micron Technology's Earnings Outlook Strengthens on Higher Memory Pricing, UBS Says",
-        "title_zh": "瑞银表示，美光科技的盈利前景因内存价格上涨而增强",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-apos-earnings-outlook-174222515.html",
-        "time": "20260810T174200",
-        "source": "Yahoo Finance"
+        "title": "Can Micron's Take-or-Pay Deals Improve Revenue Growth Visibility?",
+        "title_zh": "美光的Take-or-Pay交易能否提高收入增长的可见性？",
+        "url": "https://www.theglobeandmail.com/investing/markets/stocks/WDC/pressreleases/3781876/can-microns-take-or-pay-deals-improve-revenue-growth-visibility/",
+        "time": "20260811T144242",
+        "source": "The Globe and Mail"
       }
     ],
     "AMD": [
       {
-        "title": "Intel (INTC) Tripled This Year, But Can a $15B Share Sale Stop the Momentum?",
-        "title_zh": "英特尔（ INTC ）今年增长了两倍，但150亿美元的股票销售能否阻止这种势头？",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-tripled-15b-share-213517317.html",
-        "time": "20260810T220818",
-        "source": "Yahoo Finance"
-      },
-      {
-        "title": "Palo Alto Networks (NASDAQ:PANW) Stock Price Up 5.8% - Should You Buy?",
-        "title_zh": "Palo Alto Networks (NASDAQ: PANW)股价上涨5.8% -您应该买入吗？",
-        "url": "https://www.marketbeat.com/instant-alerts/palo-alto-networks-nasdaqpanw-stock-price-up-58-should-you-buy-2026-08-10/",
-        "time": "20260810T212256",
+        "title": "Arista Networks (NYSE:ANET) Trading 3% Higher - Still a Buy?",
+        "title_zh": "Arista Networks (NYSE: ANET)交易价格上涨3% -仍然买入？",
+        "url": "https://www.marketbeat.com/instant-alerts/arista-networks-nyseanet-trading-3-higher-still-a-buy-2026-08-11/",
+        "time": "20260811T214108",
         "source": "MarketBeat"
       },
       {
-        "title": "Iron Mountain (NYSE:IRM) EVP Mark Kidd Sells 6,000 Shares",
-        "title_zh": "Iron Mountain (NYSE: IRM)执行副总裁Mark Kidd出售6,000股",
-        "url": "https://www.marketbeat.com/instant-alerts/iron-mountain-nyseirm-evp-mark-kidd-sells-6000-shares-2026-08-10/",
-        "time": "20260810T212118",
+        "title": "Griffon (NYSE:GFF) COO Sells $692,713.26 in Stock",
+        "title_zh": "Griffon (NYSE: GFF)首席运营官出售$ 692,713.26的股票",
+        "url": "https://www.marketbeat.com/instant-alerts/griffon-nysegff-coo-sells-69271326-in-stock-2026-08-11/",
+        "time": "20260811T214039",
         "source": "MarketBeat"
       },
       {
-        "title": "NIQ Global Intelligence (NYSE:NIQ) Issues FY 2026 Earnings Guidance",
-        "title_zh": "NIQ Global Intelligence (NYSE: NIQ)发布2026财年盈利指引",
-        "url": "https://www.marketbeat.com/instant-alerts/niq-global-intelligence-nyseniq-issues-fy-2026-earnings-guidance-2026-08-10/",
-        "time": "20260810T204027",
+        "title": "Insider Selling: Forum Energy Technologies (NYSE:FET) SVP Sells 1,500 Shares",
+        "title_zh": "内幕销售： Forum Energy Technologies (NYSE: FET)高级副总裁出售1,500股股票",
+        "url": "https://www.marketbeat.com/instant-alerts/insider-selling-forum-energy-technologies-nysefet-svp-sells-1500-shares-2026-08-11/",
+        "time": "20260811T213322",
+        "source": "MarketBeat"
+      },
+      {
+        "title": "Insider Selling: Seagate Technology (NASDAQ:STX) CFO Sells $11,431,323.75 in Stock",
+        "title_zh": "内幕抛售：希捷科技(NASDAQ: STX)首席财务官抛售$ 11,431,323.75股票",
+        "url": "https://www.marketbeat.com/instant-alerts/insider-selling-seagate-technology-nasdaqstx-cfo-sells-1143132375-in-stock-2026-08-11/",
+        "time": "20260811T211905",
         "source": "MarketBeat"
       }
     ],
     "SNDK": [
+      {
+        "title": "Argus Upgrades Sandisk to Buy From Hold, Price Target Is $1,600",
+        "title_zh": "阿格斯升级Sandisk从搁置中购买，目标价格为$ 1,600",
+        "url": "https://www.moomoo.com/news/post/74425772/argus-upgrades-sandisk-to-buy-from-hold-price-target-is",
+        "time": "20260810T124050",
+        "source": "Moomoo"
+      },
       {
         "title": "SanDisk Corp (SNDK) Receives a Rating Update from a Top Analyst",
         "title_zh": "SanDisk Corp (SNDK)收到顶级分析师的评级更新",
@@ -82,48 +89,55 @@
         "url": "https://www.benzinga.com/markets/tech/26/08/61003946/sandisk-stock-bofa-ai-nand-2500-price-target-secular-opportunity",
         "time": "20260806T112800",
         "source": "Benzinga"
-      },
-      {
-        "title": "SanDisk Options Price 16.1% Swing On Earnings: Here’s What History Shows",
-        "title_zh": "闪迪期权价格16.1%盈利波动：以下是历史记录",
-        "url": "https://www.tradingview.com/news/benzinga:2685bd995094b:0-sandisk-options-price-16-1-swing-on-earnings-here-s-what-history-shows/",
-        "time": "20260806T091123",
-        "source": "TradingView"
       }
     ],
     "000660.KS": [],
     "005930.KS": [],
     "DELL": [
       {
-        "title": "Supermicro to report Q4 results in latest test for AI infrastructure company",
-        "title_zh": "Supermicro将在人工智能基础设施公司的最新测试中报告第四季度结果",
-        "url": "https://finance.yahoo.com/technology/article/supermicro-to-report-q4-results-in-latest-test-for-ai-infrastructure-company-210004983.html",
-        "time": "20260810T210000",
+        "title": "Arista Networks Stock Is Waiting On Parts, Not Orders",
+        "title_zh": "Arista Networks库存正在等待零件，而非订单",
+        "url": "https://www.trefis.com/stock/anet/articles/611012/arista-networks-stock-is-waiting-on-parts-not-orders/2026-08-11",
+        "time": "20260811T195807",
+        "source": "Trefis"
+      },
+      {
+        "title": "DELL is Overvalued at 21.92X P/E: Should You Still Buy the Stock?",
+        "title_zh": "戴尔被高估21.92倍市盈率：您是否应该继续购买该股票？",
+        "url": "https://www.tradingview.com/news/zacks:f6eb4ff01094b:0-dell-is-overvalued-at-21-92x-p-e-should-you-still-buy-the-stock/",
+        "time": "20260811T160803",
+        "source": "TradingView"
+      },
+      {
+        "title": "GE Vernova and Oracle among market cap stock movers on Tuesday",
+        "title_zh": "GE Vernova和甲骨文周二成为市值股票推动者",
+        "url": "https://www.investing.com/news/stock-market-news/ge-vernova-and-oracle-among-market-cap-stock-movers-on-tuesday-93CH-4852091",
+        "time": "20260811T143852",
+        "source": "Investing.com"
+      },
+      {
+        "title": "Jim Cramer Examines PayPal Holdings Performance Under Enrique Lores and M&A Speculation",
+        "title_zh": "Jim Cramer审视Enrique Lores和并购投机的PayPal Holdings表现",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-examines-paypal-holdings-165211521.html",
+        "time": "20260811T125200",
         "source": "Yahoo Finance"
-      },
-      {
-        "title": "Hewlett Packard Enterprise stock jumps 5% after Morgan Stanley upgrade, with $69 target implying ~30% upside",
-        "title_zh": "摩根士丹利升级后，惠普企业股票上涨5% ，目标价为$ 69 ，上涨幅度约为30%",
-        "url": "https://finance.biggo.com/news/7a330bd9-9e55-42c0-87cd-e56b4eb7b10d",
-        "time": "20260810T190806",
-        "source": "BigGo Finance"
-      },
-      {
-        "title": "Scanning crime and accident scenes",
-        "title_zh": "扫描犯罪和事故现场",
-        "url": "https://www.candgnews.com/articles/police-courts-fire/scanning-crime-and-accident-scenes/",
-        "time": "20260810T181112",
-        "source": "C&G Newspapers"
-      },
-      {
-        "title": "Why Hewlett Packard Enterprise (HPE) Stock Is Trading Up Today",
-        "title_zh": "为什么Hewlett Packard Enterprise (HPE)股票今天上涨",
-        "url": "https://stockstory.org/us/stocks/nyse/hpe/news/why-up-down/why-hewlett-packard-enterprise-hpe-stock-is-trading-up-today-4",
-        "time": "20260810T170807",
-        "source": "StockStory"
       }
     ],
     "ASX": [
+      {
+        "title": "ASE Technology (ASX) files Form 3 for new officer Sharon Mei Wan Ko",
+        "title_zh": "日月光科技（ ASX ）为新任高管Sharon Mei Wan Ko提交表格3",
+        "url": "https://www.stocktitan.net/sec-filings/ASX/form-3-ase-technology-holding-co-ltd-initial-statement-of-beneficial--f837d1474a20.html",
+        "time": "20260810T204440",
+        "source": "Stock Titan"
+      },
+      {
+        "title": "ASE Technology Holding Co., Ltd. Announces Monthly Net Revenues*",
+        "title_zh": "日月光科技控股有限公司公布月度净收入*",
+        "url": "https://www.tradingview.com/news/prnewswire:2bd56e0a6cefc:0-ase-technology-holding-co-ltd-announces-monthly-net-revenues/",
+        "time": "20260810T193947",
+        "source": "TradingView"
+      },
       {
         "title": "ASE Technology (NYSE: ASX) reports sharp July 2026 sales gains in core ATM unit",
         "title_zh": "日月光科技（纽约证券交易所代码： ASX ）报告2026年7月核心ATM部门销售额大幅增长",
@@ -137,23 +151,16 @@
         "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-sells-70566-shares-of-ase-technology-holding-co-ltd-asx-2026-08-10/",
         "time": "20260810T081158",
         "source": "MarketBeat"
-      },
-      {
-        "title": "ASE Technology reports 43.2% YoY revenue growth in July 2026, driven by strong ATM business performance.",
-        "title_zh": "ASE Technology报告称，在ATM业务强劲表现的推动下， 2026年7月的收入同比增长43.2%。",
-        "url": "https://pluang.com/en/news-feed/ase-technology-holding-umumkan-pendapatan-bersih-bulanan-juli-2026",
-        "time": "20260810T071159",
-        "source": "Pluang"
-      },
-      {
-        "title": "ASE Technology's Assembly, Testing and Materials Revenue Climbs 49.5%",
-        "title_zh": "日月光科技组装、测试和材料收入攀升49.5%",
-        "url": "https://www.stocktitan.net/news/ASX/ase-technology-holding-co-ltd-announces-monthly-net-b3nfo1l8se0x.html",
-        "time": "20260810T071158",
-        "source": "Stock Titan"
       }
     ],
     "CBRS": [
+      {
+        "title": "Cerebras Systems Inc. - Class A Common Stock (Nasdaq:CBRS) Stock Quote",
+        "title_zh": "Cerebras Systems Inc. - A类普通股（纳斯达克股票代码： CBRS ）股票报价",
+        "url": "https://markets.financialcontent.com/stocks/quote?Symbol=NQ%3ACBRS",
+        "time": "20260806T011118",
+        "source": "FinancialContent"
+      },
       {
         "title": "Kaplan Fox Announces an Investigation Into Cerebras Systems Inc. (NASDAQ: CBRS) for Potential Securities Law Violations",
         "title_zh": "Kaplan Fox宣布调查Cerebras Systems Inc. （纳斯达克股票代码： CBRS ）可能违反证券法的行为",
@@ -174,43 +181,36 @@
         "url": "https://www.theglobeandmail.com/investing/markets/stocks/CBRS/pressreleases/3505969/kaplan-fox-is-investigating-cerebras-systems-inc-nasdaq-cbrs-for-potential-securities-law-violations-investors-are-encouraged-to-contact-the-firm/",
         "time": "20260726T220947",
         "source": "The Globe and Mail"
-      },
-      {
-        "title": "JPMorgan Chase & Co. (CBRS) updates 3.3% Cerebras Systems ownership in new filing",
-        "title_zh": "摩根大通(CBRS)在新文件中更新了3.3%的Cerebras Systems所有权",
-        "url": "https://www.stocktitan.net/sec-filings/CBRS/schedule-13g-a-cerebras-systems-inc-amended-passive-investment-disclo-72922646d220.html",
-        "time": "20260726T085528",
-        "source": "Stock Titan"
       }
     ],
     "NVDA": [
       {
-        "title": "Intel (INTC) Tripled This Year, But Can a $15B Share Sale Stop the Momentum?",
-        "title_zh": "英特尔（ INTC ）今年增长了两倍，但150亿美元的股票销售能否阻止这种势头？",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-tripled-15b-share-213517317.html",
-        "time": "20260810T220818",
-        "source": "Yahoo Finance"
+        "title": "Alphabet (NASDAQ:GOOGL) Stock Price Down 3.8% - Time to Sell?",
+        "title_zh": "Alphabet (NASDAQ: GOOGL)股价下跌3.8% -卖出时间？",
+        "url": "https://www.marketbeat.com/instant-alerts/alphabet-nasdaqgoogl-stock-price-down-38-time-to-sell-2026-08-11/",
+        "time": "20260811T213305",
+        "source": "MarketBeat"
       },
       {
-        "title": "Nvidia partners with Wall Street giants to raise $500 billion for AI buildout",
-        "title_zh": "英伟达与华尔街巨头合作，为人工智能建设筹集5000亿美元",
-        "url": "https://www.nbcnews.com/tech/tech-news/nvidia-partners-wall-street-giants-raise-500-billion-ai-buildout-rcna591818",
-        "time": "20260810T205235",
-        "source": "NBC News"
+        "title": "Fidelity's Rate-Sensitive Dividend ETF (NYSEARCA: FDRR) Delivers Growth But Fails Income Investors After Fed Cuts",
+        "title_zh": "富达利率敏感股息ETF (NYSEARCA: FDRR)实现增长，但在美联储降息后未能实现收入投资者",
+        "url": "https://www.foreignpolicyjournal.com/2026/08/11/fidelitys-rate-sensitive-dividend-etf-nysearca-fdrr-delivers-growth-but-fails-income-investors-after-fed-cuts/",
+        "time": "20260811T212747",
+        "source": "Foreign Policy Journal"
       },
       {
-        "title": "OrbiMed trims MBX Biosciences (MBX) position to 6.4% after share sales",
-        "title_zh": "OrbiMed将MBX Biosciences (MBX)的持股比例降至6.4% （股票销售后）",
-        "url": "https://www.stocktitan.net/sec-filings/MBX/schedule-13d-a-mbx-biosciences-inc-amended-major-shareholder-report-e04e3f1d43c3.html",
-        "time": "20260810T204452",
-        "source": "Stock Titan"
+        "title": "Embraer shares (EMBJ) cash flow forecast rises twofold amid improving margin composition",
+        "title_zh": "在利润率构成改善的情况下，巴西航空工业公司股票(EMBJ)现金流预测上涨两倍",
+        "url": "https://ts2.tech/en/embraer-stock-embj-cash-flow-outlook-doubles-as-margin-mix-improves/",
+        "time": "20260811T204113",
+        "source": "TechStock²"
       },
       {
-        "title": "MASS (MASS) investor Christopher Brown plans 100,000-share stock sale",
-        "title_zh": "大规模投资者Christopher Brown计划出售10万股股票",
-        "url": "https://www.stocktitan.net/sec-filings/MASS/144-908-devices-inc-sec-filing-390e999b5184.html",
-        "time": "20260810T204123",
-        "source": "Stock Titan"
+        "title": "IBM Lands a $240 Million AI Inference Deal",
+        "title_zh": "IBM达成2.4亿美元的人工智能推理交易",
+        "url": "https://www.tradingview.com/news/gurufocus:292650ac0094b:0-ibm-lands-a-240-million-ai-inference-deal/",
+        "time": "20260811T193806",
+        "source": "TradingView"
       }
     ],
     "TSM": [
@@ -245,134 +245,134 @@
     ],
     "INTC": [
       {
-        "title": "Intel (INTC) Tripled This Year, But Can a $15B Share Sale Stop the Momentum?",
-        "title_zh": "英特尔（ INTC ）今年增长了两倍，但150亿美元的股票销售能否阻止这种势头？",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-tripled-15b-share-213517317.html",
-        "time": "20260810T220818",
-        "source": "Yahoo Finance"
+        "title": "Intel Stock Slips as $20 Billion Offering Expands Dilution",
+        "title_zh": "英特尔股票下跌， 200 $十亿发行扩大稀释",
+        "url": "https://uk.finance.yahoo.com/news/intel-stock-slips-20-billion-190840835.html",
+        "time": "20260811T190904",
+        "source": "Yahoo Finance UK"
       },
       {
-        "title": "Schwab Clients Buy Late-July Dips Across Stocks, ETFs and Options",
-        "title_zh": "施瓦布客户在7月下旬买入股票、ETF和期权",
-        "url": "https://www.stocktitan.net/news/SCHW/schwab-trading-activity-index-tm-stax-score-increases-modestly-in-hcqzvbth9my1.html",
-        "time": "20260810T163006",
-        "source": "Stock Titan"
+        "title": "Intel Just Increased Its Stock Offering to $20B. Why That's Good News for ASML",
+        "title_zh": "英特尔刚刚将其股票发行增加到$ 200亿。为什么这对ASML来说是好消息",
+        "url": "https://www.moomoo.com/news/post/74501919/intel-just-increased-its-stock-offering-to-20b-why-that",
+        "time": "20260811T163952",
+        "source": "Moomoo"
       },
       {
-        "title": "A 19.6-Acre Arizona Facility Serving Semiconductor Work Is Acquired",
-        "title_zh": "收购了占地19.6英亩的亚利桑那州半导体工厂",
-        "url": "https://www.stocktitan.net/news/GLW/pivotal-manufacturing-partners-and-meadow-partners-acquire-advanced-3vyqiihests1.html",
-        "time": "20260810T162613",
-        "source": "Stock Titan"
+        "title": "Trump administration decided not to participate in Intel secondary but gave blessing: report (INTC:NASDAQ)",
+        "title_zh": "特朗普政府决定不参与英特尔二级市场，但给予了祝福：报告（ INTC ：纳斯达克）",
+        "url": "https://seekingalpha.com/news/4630850-trump-administration-decided-not-to-participate-in-intel-secondary-but-gave-blessing-report",
+        "time": "20260811T160809",
+        "source": "Seeking Alpha"
       },
       {
-        "title": "Intel Stock Drops After $15 Billion Share Sale. Is AI Spending Getting Too Expensive?",
-        "title_zh": "英特尔股票在出售$ 150亿股后下跌。人工智能支出是否变得过于昂贵？",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-drops-15-billion-161850287.html",
-        "time": "20260810T161830",
-        "source": "Yahoo Finance"
+        "title": "Intel Just Increased Its Stock Offering to $20B. Why That’s Good News for ASML.",
+        "title_zh": "英特尔刚刚将其股票发行增加到$ 200亿。为什么这对ASML来说是个好消息。",
+        "url": "https://www.barrons.com/articles/intel-stock-offering-price-766da245",
+        "time": "20260811T143804",
+        "source": "Barron's"
       }
     ],
     "GOOGL": [
       {
-        "title": "Form 8K Alphabet Inc Class A For: 10 August By Investing.com",
-        "title_zh": "表格8K Alphabet Inc A类： 8月10日由Investing.com提供",
-        "url": "https://ca.investing.com/news/stock-market-news/form-8k-alphabet-inc-class-a-for-10-august-93CH-4790461",
-        "time": "20260810T201358",
-        "source": "Investing.com Canada"
+        "title": "Alphabet (NASDAQ:GOOGL) Stock Price Down 3.8% - Time to Sell?",
+        "title_zh": "Alphabet (NASDAQ: GOOGL)股价下跌3.8% -卖出时间？",
+        "url": "https://www.marketbeat.com/instant-alerts/alphabet-nasdaqgoogl-stock-price-down-38-time-to-sell-2026-08-11/",
+        "time": "20260811T213305",
+        "source": "MarketBeat"
       },
       {
-        "title": "Does Oracle’s Gemini-Fueled Government Deals Deepen Its AI Moat For ORCL’s Enterprise Platform?",
-        "title_zh": "甲骨文的双子座政府是否为ORCL的企业平台深化了AI护城河？",
-        "url": "https://simplywall.st/stocks/us/software/nyse-orcl/oracle/news/does-oracles-gemini-fueled-government-deals-deepen-its-ai-mo",
-        "time": "20260810T173858",
-        "source": "Simply Wall Street"
+        "title": "Fidelity's Rate-Sensitive Dividend ETF (NYSEARCA: FDRR) Delivers Growth But Fails Income Investors After Fed Cuts",
+        "title_zh": "富达利率敏感股息ETF (NYSEARCA: FDRR)实现增长，但在美联储降息后未能实现收入投资者",
+        "url": "https://www.foreignpolicyjournal.com/2026/08/11/fidelitys-rate-sensitive-dividend-etf-nysearca-fdrr-delivers-growth-but-fails-income-investors-after-fed-cuts/",
+        "time": "20260811T212747",
+        "source": "Foreign Policy Journal"
       },
       {
-        "title": "Should You Bet on UBER Stock Following Its Q2 Earnings Beat?",
-        "title_zh": "您是否应该在第二季度收入超过优步股票后押注优步股票？",
-        "url": "https://www.tradingview.com/news/zacks:2bf7155c6094b:0-should-you-bet-on-uber-stock-following-its-q2-earnings-beat/",
-        "time": "20260810T163931",
-        "source": "TradingView"
+        "title": "Berkshire Hathaway Q3 2026 Earnings Beat and $23.5 Billion Stock Buying Spree",
+        "title_zh": "伯克希尔哈撒韦公司2026年第三季度盈利超越和$ 235亿股票购买狂潮",
+        "url": "https://247wallst.com/cards/berkshire-hathaway-q3-2026-earnings-brk-a-01kzs6afxyrtmfzyrcq8x5rzym",
+        "time": "20260811T200404",
+        "source": "24/7 Wall St."
       },
       {
-        "title": "Should You Bet on UBER Stock Following Its Q2 Earnings Beat?",
-        "title_zh": "您是否应该在第二季度收入超过优步股票后押注优步股票？",
-        "url": "https://sg.finance.yahoo.com/news/bet-uber-stock-following-q2-163600887.html",
-        "time": "20260810T160914",
-        "source": "Yahoo Finance Singapore"
+        "title": "Alphabet Shares (NASDAQ:GOOGL) Slide 3.6% Ahead of Pixel 11 Debut; AI Investment Remains Central Issue",
+        "title_zh": "Alphabet股票（纳斯达克股票代码： GOOGL ）在Pixel 11首次亮相前下跌3.6% ；人工智能投资仍是核心问题",
+        "url": "https://ts2.tech/en/alphabet-stock-nasdaqgoogl-falls-3-6-before-pixel-11-launch-as-ai-spending-stays-in-focus/",
+        "time": "20260811T192658",
+        "source": "TechStock²"
       }
     ]
   },
   "quotes": {
     "MU": {
-      "price": 861.0,
+      "price": 868.52,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "AMD": {
-      "price": 469.56,
+      "price": 474.32,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "SNDK": {
-      "price": 1237.92,
+      "price": 1271.05,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "000660.KS": {
-      "price": 1420000.0,
+      "price": 1425000.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "005930.KS": {
-      "price": 230000.0,
+      "price": 239500.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "DELL": {
-      "price": 457.88,
+      "price": 440.97,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "ASX": {
-      "price": 37.59,
+      "price": 38.65,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "CBRS": {
-      "price": 230.01,
+      "price": 234.76,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "NVDA": {
-      "price": 217.55,
+      "price": 217.5,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "TSM": {
-      "price": 418.47,
+      "price": 422.06,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "INTC": {
-      "price": 97.52,
+      "price": 97.71,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "GOOGL": {
-      "price": 357.52,
+      "price": 343.8,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
