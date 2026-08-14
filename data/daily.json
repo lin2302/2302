@@ -1,67 +1,81 @@
 {
-  "updated_at": "2026-08-13T23:26:30.023918+00:00",
+  "updated_at": "2026-08-14T22:00:12.322233+00:00",
   "companies": {
     "MU": [
       {
-        "title": "Micron Ventures Launches $250 Million Fund to Invest in the Next Generation of AI",
-        "title_zh": "Micron Ventures推出2.5亿美元基金，投资于下一代人工智能",
-        "url": "https://investingnews.com/micron-ventures-launches-250-million-fund-to-invest-in-the-next-generation-of-ai/",
-        "time": "20260813T205639",
-        "source": "Investing News Network"
+        "title": "Seagate Stock Surges As Earnings Beat Triggers Big Target Hikes",
+        "title_zh": "希捷股市飙升，盈利优于大目标加息",
+        "url": "https://www.timothysykes.com/news/seagatetechnologyholdingsplc-stx-news-2026_08_14/",
+        "time": "20260814T200801",
+        "source": "www.timothysykes.com"
       },
       {
-        "title": "Lam Research Announces Plans to Invest More than $3B to Expand Global Lab Network, Increase Innovation Velocity in the AI Era",
-        "title_zh": "Lam Research宣布计划投资超过30亿美元扩大全球实验室网络，提高人工智能时代的创新速度",
-        "url": "https://www.prnewswire.com/news-releases/lam-research-announces-plans-to-invest-more-than-3b-to-expand-global-lab-network-increase-innovation-velocity-in-the-ai-era-302851309.html",
-        "time": "20260813T203833",
-        "source": "PR Newswire"
+        "title": "Applied Materials Stock Drops 4.5% Despite Record $9.12 Billion Revenue",
+        "title_zh": "尽管创纪录的91.2亿美元收入，但应用材料股票下跌4.5%",
+        "url": "https://ca.finance.yahoo.com/news/applied-materials-stock-drops-4-191355989.html",
+        "time": "20260814T191405",
+        "source": "Yahoo! Finance Canada"
       },
       {
-        "title": "Lam Research Announces Plans to Invest More than $3B to Expand Global Lab Network, Increase Innovation Velocity in the AI Era",
-        "title_zh": "Lam Research宣布计划投资超过30亿美元扩大全球实验室网络，提高人工智能时代的创新速度",
-        "url": "https://newsroom.lamresearch.com/2026-08-13-Lam-Research-Announces-Plans-to-Invest-More-than-3B-to-Expand-Global-Lab-Network,-Increase-Innovation-Velocity-in-the-AI-Era",
-        "time": "20260813T203130",
-        "source": "Lam Research Newsroom"
+        "title": "Gilead Sciences (GILD) Could Be 8% Overvalued As AI Deal And Q2 Results Lift Shares",
+        "title_zh": "由于人工智能交易和第二季度业绩提升，吉利德科学（ GILD ）可能被高估8%",
+        "url": "https://simplywall.st/stocks/us/pharmaceuticals-biotech/nasdaq-gild/gilead-sciences/news/gilead-sciences-gild-could-be-8-overvalued-as-ai-deal-and-q2",
+        "time": "20260814T184513",
+        "source": "Simply Wall Street"
       },
       {
-        "title": "Cisco Systems options outlook after 9.5% post-earnings drop",
-        "title_zh": "思科系统期权在收益后下跌9.5%后的前景",
-        "url": "https://www.investing.com/news/stock-market-news/cisco-systems-options-outlook-after-95-postearnings-drop-93CH-4858996",
-        "time": "20260813T193737",
-        "source": "Investing.com"
+        "title": "This Analyst Believes Eton Pharma’s Raised Guidance Is ‘Conservative’ – ETON Stock Heads For Best Ever Day",
+        "title_zh": "这位分析师认为伊顿制药提出的指导是“保守的” –伊顿股票创下有史以来最好的一天",
+        "url": "https://stocktwits.com/news-articles/markets/equity/this-analyst-believes-eton-pharma-s-raised-guidance-is-conservative-eton-stock-heads-for-best-ever-day/cZotoMERJ0Y",
+        "time": "20260814T173000",
+        "source": "Stocktwits"
       }
     ],
     "AMD": [
       {
-        "title": "Micron Ventures Launches $250 Million Fund to Invest in the Next Generation of AI",
-        "title_zh": "Micron Ventures推出2.5亿美元基金，投资于下一代人工智能",
-        "url": "https://investingnews.com/micron-ventures-launches-250-million-fund-to-invest-in-the-next-generation-of-ai/",
-        "time": "20260813T205639",
-        "source": "Investing News Network"
+        "title": "Broadcom options surge on selloff day, with $400 August 2026 call leading volume",
+        "title_zh": "Broadcom期权在抛售日激增， 2026年8月通话量领先400 $",
+        "url": "https://www.investing.com/news/stock-market-news/broadcom-options-surge-on-selloff-day-with-400-august-2026-call-leading-volume-93CH-4861400",
+        "time": "20260814T184313",
+        "source": "Investing.com"
       },
       {
-        "title": "Cerebras Plummets 13% After Earnings. But Intel & AMD Barrel Ahead with Strong Gains.",
-        "title_zh": "Cerebras盈利后暴跌13%。但英特尔和AMD Barrel以强劲的增长势头领先。",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/cerebras-plummets-13-earnings-intel-173540063.html",
-        "time": "20260813T173837",
+        "title": "Jeff Auxier's Top Second Quarter 2026 Move: Trimming Corning Inc at a -0.32% Portfolio Impact",
+        "title_zh": "Jeff Auxier 2026年第二季度最佳业绩：对康宁公司投资组合的影响为-0.32%",
+        "url": "https://www.gurufocus.com/news/9035368/jeff-auxiers-top-second-quarter-2026-move-trimming-corning-inc-at-a-032-portfolio-impact",
+        "time": "20260814T173326",
+        "source": "GuruFocus"
+      },
+      {
+        "title": "This Analyst Believes Eton Pharma’s Raised Guidance Is ‘Conservative’ – ETON Stock Heads For Best Ever Day",
+        "title_zh": "这位分析师认为伊顿制药提出的指导是“保守的” –伊顿股票创下有史以来最好的一天",
+        "url": "https://stocktwits.com/news-articles/markets/equity/this-analyst-believes-eton-pharma-s-raised-guidance-is-conservative-eton-stock-heads-for-best-ever-day/cZotoMERJ0Y",
+        "time": "20260814T173000",
+        "source": "Stocktwits"
+      },
+      {
+        "title": "Broadcom is Down Over 3 Months: One Wall Street Pro Sees 60%+ Gains Ahead",
+        "title_zh": "Broadcom股价下跌超过3个月：一位华尔街专业人士预计未来收益将超过60%",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-down-over-3-months-154215417.html",
+        "time": "20260814T153718",
         "source": "Yahoo Finance"
-      },
-      {
-        "title": "CLS vs. ANET: Which AI Stock Offers the Better Growth Opportunity?",
-        "title_zh": "CLS与ANET ：哪种人工智能股提供了更好的增长机会？",
-        "url": "https://sg.finance.yahoo.com/news/cls-vs-anet-ai-stock-172300275.html",
-        "time": "20260813T170707",
-        "source": "Yahoo Finance Singapore"
-      },
-      {
-        "title": "Expedia Stock Is Up 60% This Year. The B2B Business Deserves the Credit.",
-        "title_zh": "Expedia股票今年上涨了60%。B2B业务值得信赖。",
-        "url": "https://www.tikr.com/blog/expedia-stock-is-up-60-this-year-the-b2b-business-deserves-the-credit",
-        "time": "20260813T163807",
-        "source": "TIKR.com"
       }
     ],
     "SNDK": [
+      {
+        "title": "SNDK, WDC, MU, SMCI Stock Are The Top S&P 500 Gainers — Sustained Corporate Demand Anchored By SanDisk's Rosy Outlook Is Aiding Memory Stocks",
+        "title_zh": "SNDK、WDC、MU、SMCI股票是标普500指数涨幅最大的股票--以闪迪的玫瑰色前景为支撑的持续企业需求正在帮助内存股",
+        "url": "https://stocktwits.com/news-articles/markets/equity/sndk-wdc-mu-smci-stock-are-the-top-s-and-p-500-gainers/cZoqmegRJLs",
+        "time": "20260813T150500",
+        "source": "Stocktwits"
+      },
+      {
+        "title": "Kioxia and Sandisk Unveil New High-Performance QLC 3D Flash Memory Technology Designed for AI and Data-Intensive Applications",
+        "title_zh": "铠侠和桑迪斯克推出专为人工智能和数据密集型应用设计的新型高性能QLC 3D闪存技术",
+        "url": "https://finance.yahoo.com/technology/ai/articles/kioxia-sandisk-unveil-high-performance-123000673.html",
+        "time": "20260813T104146",
+        "source": "Yahoo Finance"
+      },
       {
         "title": "Sandisk Stock: Why I'm Buying On Fear (Rating Upgrade) (NASDAQ:SNDK)",
         "title_zh": "Sandisk股票：我为什么在恐惧中买入（评级升级） （纳斯达克股票代码： SNDK ）",
@@ -75,55 +89,48 @@
         "url": "https://www.tradingview.com/news/benzinga:f5dbc7d6d094b:0-sandisk-stock-is-gaining-wednesday-what-s-going-on/",
         "time": "20260812T104103",
         "source": "TradingView"
-      },
-      {
-        "title": "Jane Street Group Expands SanDisk Corp (SNDK) Stake with $7.2 Billion Addition",
-        "title_zh": "Jane Street Group扩大SanDisk Corp (SNDK)的股份，新增72亿美元$",
-        "url": "https://www.gurufocus.com/news/9026539/jane-street-group-expands-sandisk-corp-sndk-stake-with-72-billion-addition",
-        "time": "20260812T011035",
-        "source": "GuruFocus"
-      },
-      {
-        "title": "Sandisk (NASDAQ:SNDK) Shares Up 2.7% Following Analyst Upgrade",
-        "title_zh": "分析师升级后， Sandisk (NASDAQ: SNDK)股价上涨2.7%",
-        "url": "https://www.marketbeat.com/instant-alerts/sandisk-nasdaqsndk-shares-up-27-following-analyst-upgrade-2026-08-11/",
-        "time": "20260811T211035",
-        "source": "MarketBeat"
       }
     ],
     "000660.KS": [],
     "005930.KS": [],
     "DELL": [
       {
-        "title": "PLDT to double data center capacity for AI",
-        "title_zh": "PLDT将AI的数据中心容量增加一倍",
-        "url": "https://www.gmanetwork.com/news/money/companies/998468/pldt-to-double-data-center-capacity-for-ai/story/",
-        "time": "20260813T194025",
-        "source": "GMA Network"
+        "title": "Munich Reinsurance Co Stock Corp in Munich Sells 386,977 Shares of Hewlett Packard Enterprise Company $HPE",
+        "title_zh": "慕尼黑再保险公司出售386,977股惠普企业公司$ HPE股份",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-munich-reinsurance-co-stock-corp-in-munich-sells-386977-shares-of-hewlett-packard-enterprise-company-hpe-2026-08-14/",
+        "time": "20260814T110835",
+        "source": "MarketBeat"
       },
       {
-        "title": "Super Micro Stock Extends Rally After Blockbuster Earnings",
-        "title_zh": "超级微股在轰动性盈利后延续涨势",
-        "url": "https://uk.finance.yahoo.com/news/super-micro-stock-extends-rally-174959770.html",
-        "time": "20260813T174900",
-        "source": "Yahoo Finance UK"
+        "title": "Synopsys, Inc. $SNPS Shares Acquired by Union Bancaire Privee UBP SA",
+        "title_zh": "Synopsys, Inc. $ SNPS股份被Union Bancaire Privee UBP SA收购",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-synopsys-inc-snps-shares-acquired-by-union-bancaire-privee-ubp-sa-2026-08-14/",
+        "time": "20260814T094129",
+        "source": "MarketBeat"
       },
       {
-        "title": "Super Micro, Dell, and HP Jump After Strong Lenovo Earnings",
-        "title_zh": "超微、戴尔和惠普继联想实现强劲盈利后大幅增长",
-        "url": "https://247wallst.com/investing/2026/08/13/super-micro-dell-and-hp-jump-after-strong-lenovo-earnings/",
-        "time": "20260813T160926",
-        "source": "24/7 Wall St."
+        "title": "The Tables Have Turned: A Year Ago Hewlett Packard Was The Cheaper Bet, Not Dell and Super Micro",
+        "title_zh": "情况发生了变化：一年前，惠普是更便宜的赌注，而不是戴尔和超微",
+        "url": "https://www.trefis.com/stock/hpe/articles/611496/the-tables-have-turned-a-year-ago-hewlett-packard-was-the-cheaper-bet-not-dell-and-super-micro/2026-08-14",
+        "time": "20260814T084813",
+        "source": "Trefis"
       },
       {
-        "title": "Lenovo Doubles Infrastructure Revenue, Lifting HPE 8%: Juniper Makes It More Than AI Server Rally",
-        "title_zh": "联想基础设施收入翻番，惠普提升8% ： Juniper超越人工智能服务器拉力赛",
-        "url": "https://www.techtimes.com/articles/324307/20260813/lenovo-doubles-infrastructure-revenue-lifting-hpe-8-juniper-makes-it-more-ai-server-rally.htm",
-        "time": "20260813T151313",
-        "source": "Tech Times"
+        "title": "Boston Common Asset Management LLC Makes New Investment in Hewlett Packard Enterprise Company $HPE",
+        "title_zh": "Boston Common Asset Management LLC对惠普企业公司$ HPE进行新投资",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-boston-common-asset-management-llc-makes-new-investment-in-hewlett-packard-enterprise-company-hpe-2026-08-14/",
+        "time": "20260814T081917",
+        "source": "MarketBeat"
       }
     ],
     "ASX": [
+      {
+        "title": "Can Strong LEAP Demand Help ASE Technology Challenge AMKR & INTC?",
+        "title_zh": "强大的LEAP需求能否帮助ASE技术挑战AMKR和INTC ？",
+        "url": "https://www.tradingview.com/news/zacks:354cd8f4a094b:0-can-strong-leap-demand-help-ase-technology-challenge-amkr-intc/",
+        "time": "20260814T134237",
+        "source": "TradingView"
+      },
       {
         "title": "ASE Technology sees 15.5% revenue growth in Q2, driven by AI chip demand and advanced packaging.",
         "title_zh": "受人工智能芯片需求和先进封装的推动，日月光科技预计第二季度收入增长15.5%。",
@@ -144,13 +151,6 @@
         "url": "https://www.tradingkey.com/markets/stocks/asx/technical",
         "time": "20260812T021326",
         "source": "TradingKey"
-      },
-      {
-        "title": "ASE Technology Holding Posts Strong July 2026 Revenue Growth",
-        "title_zh": "日月光科技控股发布强劲的2026年7月收入增长",
-        "url": "https://www.theglobeandmail.com/investing/markets/stocks/ASX-N/pressreleases/3774092/ase-technology-holding-posts-strong-july-2026-revenue-growth/",
-        "time": "20260811T224134",
-        "source": "The Globe and Mail"
       }
     ],
     "CBRS": [
@@ -185,194 +185,194 @@
     ],
     "NVDA": [
       {
-        "title": "Micron Ventures Launches $250 Million Fund to Invest in the Next Generation of AI",
-        "title_zh": "Micron Ventures推出2.5亿美元基金，投资于下一代人工智能",
-        "url": "https://investingnews.com/micron-ventures-launches-250-million-fund-to-invest-in-the-next-generation-of-ai/",
-        "time": "20260813T205639",
-        "source": "Investing News Network"
+        "title": "Advanced Micro Devices (NASDAQ:AMD) Trading 6.5% Higher - Time to Buy?",
+        "title_zh": "高级微型设备（纳斯达克股票代码： AMD ）交易价格上涨6.5 ％ -购买时间？",
+        "url": "https://www.marketbeat.com/instant-alerts/advanced-micro-devices-nasdaqamd-trading-65-higher-time-to-buy-2026-08-14/",
+        "time": "20260814T213144",
+        "source": "MarketBeat"
       },
       {
-        "title": "Brookfield Corp. says it can manage the risks of financing Nvidia’s soaring growth",
-        "title_zh": "Brookfield Corp.表示，它可以管理为英伟达飙升的增长提供资金的风险",
-        "url": "https://www.theglobeandmail.com/business/article-brookfield-corp-says-it-can-manage-the-risks-of-financing-nvidias/",
-        "time": "20260813T193852",
-        "source": "The Globe and Mail"
-      },
-      {
-        "title": "Cisco Systems options outlook after 9.5% post-earnings drop",
-        "title_zh": "思科系统期权在收益后下跌9.5%后的前景",
-        "url": "https://www.investing.com/news/stock-market-news/cisco-systems-options-outlook-after-95-postearnings-drop-93CH-4858996",
-        "time": "20260813T193737",
+        "title": "Broadcom options surge on selloff day, with $400 August 2026 call leading volume",
+        "title_zh": "Broadcom期权在抛售日激增， 2026年8月通话量领先400 $",
+        "url": "https://www.investing.com/news/stock-market-news/broadcom-options-surge-on-selloff-day-with-400-august-2026-call-leading-volume-93CH-4861400",
+        "time": "20260814T184313",
         "source": "Investing.com"
       },
       {
-        "title": "The Bull Case For DTE Energy (DTE) Could Change Following AI Data Center Contract Legal Challenge",
-        "title_zh": "在人工智能数据中心合同法律挑战之后， DTE能源（ DTE ）的公牛案例可能会发生变化",
-        "url": "https://simplywall.st/stocks/us/utilities/nyse-dte/dte-energy/news/the-bull-case-for-dte-energy-dte-could-change-following-ai-d",
-        "time": "20260813T193454",
-        "source": "Simply Wall Street"
+        "title": "Comfort Systems USA Sees Surge in Performance Driven by AI Data Centers",
+        "title_zh": "在AI数据中心的推动下， Comfort Systems USA的性能激增",
+        "url": "https://intellectia.ai/news/stock/comfort-systems-usa-sees-surge-in-performance-driven-by-ai-data-centers",
+        "time": "20260814T164223",
+        "source": "Intellectia AI"
+      },
+      {
+        "title": "Copart options signal caution despite 7% rally",
+        "title_zh": "Copart期权尽管上涨7% ，但仍发出谨慎信号",
+        "url": "https://www.investing.com/news/stock-market-news/copart-options-signal-caution-despite-7-rally-93CH-4861278",
+        "time": "20260814T155144",
+        "source": "Investing.com"
       }
     ],
     "TSM": [
       {
-        "title": "Taiwan Semiconductor Manufacturing Company Ltd. $TSM Position Lifted by Trinity Street Asset Management LLP",
-        "title_zh": "台湾半导体制造有限公司$ TSM头寸由Trinity Street Asset Management LLP解除",
-        "url": "https://www.marketbeat.com/instant-alerts/filing-taiwan-semiconductor-manufacturing-company-ltd-tsm-position-lifted-by-trinity-street-asset-management-llp-2026-08-13/",
-        "time": "20260813T094130",
+        "title": "Taiwan Shows Resilience in Trying Times",
+        "title_zh": "台湾在艰难时刻展现出韧性",
+        "url": "https://jamestown.substack.com/p/taiwan-shows-resilience-in-trying",
+        "time": "20260814T124327",
+        "source": "Substack"
+      },
+      {
+        "title": "Y Intercept Hong Kong Ltd Lowers Stock Position in Taiwan Semiconductor Manufacturing Company Ltd. $TSM",
+        "title_zh": "Y Intercept Hong Kong Ltd降低台湾半导体制造有限公司股票头寸$ TSM",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-y-intercept-hong-kong-ltd-lowers-stock-position-in-taiwan-semiconductor-manufacturing-company-ltd-tsm-2026-08-14/",
+        "time": "20260814T114327",
         "source": "MarketBeat"
       },
       {
-        "title": "Taiwan Semiconductor Manufacturing Company Ltd. $TSM Shares Sold by Baskin Financial Services Inc.",
-        "title_zh": "台湾半导体制造有限公司$ Baskin Financial Services Inc.出售的TSM股票",
-        "url": "https://www.marketbeat.com/instant-alerts/filing-taiwan-semiconductor-manufacturing-company-ltd-tsm-shares-sold-by-baskin-financial-services-inc-2026-08-13/",
-        "time": "20260813T074130",
+        "title": "Jacobson & Schmitt Advisors LLC Takes Position in Taiwan Semiconductor Manufacturing Company Ltd. $TSM",
+        "title_zh": "Jacobson & Schmitt Advisors LLC在台湾半导体制造有限公司就职$ TSM",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-jacobson-schmitt-advisors-llc-takes-position-in-taiwan-semiconductor-manufacturing-company-ltd-tsm-2026-08-14/",
+        "time": "20260814T094327",
         "source": "MarketBeat"
       },
       {
-        "title": "Critical Manufacturing to Showcase MES-Powered Industrial Operations Platform for Intelligent Semiconductor Manufacturing at SEMICON Taiwan 2026",
-        "title_zh": "关键制造业将在SEMICON Taiwan 2026上展示MES驱动的智能半导体制造工业运营平台",
-        "url": "https://www.pandct.com/news/critical-manufacturing-to-showcase-mes-powered-industrial-operations-platform-for-intelligent-semiconductor-manufacturing-at-semicon-taiwan-2026",
-        "time": "20260813T034130",
-        "source": "Process and Control Today"
-      },
-      {
-        "title": "Why Is Taiwan Semiconductor Manufacturing (TSM) Raising Spending After 45% July Growth?",
-        "title_zh": "为什么台湾半导体制造业（ TSM ）在7月份增长45 ％后仍在提高支出？",
-        "url": "https://simplywall.st/stocks/us/semiconductors/nyse-tsm/taiwan-semiconductor-manufacturing/news/why-is-taiwan-semiconductor-manufacturing-tsm-raising-spendi",
-        "time": "20260812T204130",
+        "title": "TSMC (TSM) Stock Looks Fully Priced Despite Strong AI Demand",
+        "title_zh": "尽管人工智能需求强劲，但台积电（ TSM ）股票看起来完全定价",
+        "url": "https://simplywall.st/stocks/us/semiconductors/nyse-tsm/taiwan-semiconductor-manufacturing/news/tsmc-tsm-stock-looks-fully-priced-despite-strong-ai-demand",
+        "time": "20260814T094327",
         "source": "Simply Wall Street"
       }
     ],
     "INTC": [
       {
-        "title": "SanDisk, Lam Research among market cap stock movers on Thursday",
-        "title_zh": "闪迪， Lam Research周四在市值股票推动者中",
-        "url": "https://www.investing.com/news/stock-market-news/sandisk-lam-research-among-market-cap-stock-movers-on-thursday-93CH-4858943",
-        "time": "20260813T190845",
-        "source": "Investing.com"
+        "title": "Intel Corp. stock underperforms Friday when compared to competitors",
+        "title_zh": "与竞争对手相比，英特尔公司股票周五表现不佳",
+        "url": "https://www.marketwatch.com/data-news/intel-corp-stock-underperforms-friday-when-compared-to-competitors-c6667a91-bc7a4c12f5d4?mod=goog_fin_scmw",
+        "time": "20260814T203037",
+        "source": "MarketWatch"
       },
       {
-        "title": "Prediction: Synopsys Will Hit $650 on This Date",
-        "title_zh": "预测： Synopsys将在此日期达到$ 650",
-        "url": "https://247wallst.com/investing/2026/08/13/prediction-synopsys-will-hit-650-on-this-date/",
-        "time": "20260813T180021",
-        "source": "24/7 Wall St."
-      },
-      {
-        "title": "Cerebras Plummets 13% After Earnings. But Intel & AMD Barrel Ahead with Strong Gains.",
-        "title_zh": "Cerebras盈利后暴跌13%。但英特尔和AMD Barrel以强劲的增长势头领先。",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/cerebras-plummets-13-earnings-intel-173540063.html",
-        "time": "20260813T173837",
+        "title": "Arnold Van Den Berg's Top Q2 2026 Move: Trimming Coherent Corp at a -1.23% Portfolio Impact",
+        "title_zh": "阿诺德·范登堡（ Arnold Van Den Berg ） 2026年第二季度最佳举措：削减Coherent Corp对投资组合的影响为-1.23%",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/arnold-van-den-bergs-top-160027239.html",
+        "time": "20260814T153440",
         "source": "Yahoo Finance"
       },
       {
-        "title": "Why Intel Stock Popped Today",
-        "title_zh": "为什么今天英特尔股票突然上涨",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/why-intel-stock-popped-today-170428193.html",
-        "time": "20260813T163837",
-        "source": "Yahoo Finance"
+        "title": "Can Strong LEAP Demand Help ASE Technology Challenge AMKR & INTC?",
+        "title_zh": "强大的LEAP需求能否帮助ASE技术挑战AMKR和INTC ？",
+        "url": "https://www.tradingview.com/news/zacks:354cd8f4a094b:0-can-strong-leap-demand-help-ase-technology-challenge-amkr-intc/",
+        "time": "20260814T134237",
+        "source": "TradingView"
+      },
+      {
+        "title": "Taiwan Shows Resilience in Trying Times",
+        "title_zh": "台湾在艰难时刻展现出韧性",
+        "url": "https://jamestown.substack.com/p/taiwan-shows-resilience-in-trying",
+        "time": "20260814T124327",
+        "source": "Substack"
       }
     ],
     "GOOGL": [
       {
-        "title": "Verizon Communications (NYSE:VZ) Shares Up 2.6% - Here's Why",
-        "title_zh": "Verizon Communications (NYSE: VZ)股价上涨2.6% -原因如下",
-        "url": "https://www.marketbeat.com/instant-alerts/verizon-communications-nysevz-shares-up-26-heres-why-2026-08-13/",
-        "time": "20260813T215924",
-        "source": "MarketBeat"
+        "title": "Under Abel’s leadership for six months, Berkshire Hathaway significantly increased its stake in Google, with Class A shares rising to become one of the top five holdings; the company also boosted its positions in airline and real estate stocks in Q2.",
+        "title_zh": "在Abel六个月的领导下，伯克希尔哈撒韦公司大幅增加了其在谷歌的股份， A类股上涨成为五大持股之一；该公司在第二季度还提升了其在航空公司和房地产股票中的地位。",
+        "url": "https://www.moomoo.com/news/post/74736532/under-abel-s-leadership-for-six-months-berkshire-hathaway-significantly",
+        "time": "20260814T213523",
+        "source": "Moomoo"
       },
       {
-        "title": "Berkshire Bought Alphabet Stock in Q2—and Maybe Microsoft Too",
-        "title_zh": "伯克希尔在第二季度收购了Alphabet股票，也许微软也收购了",
-        "url": "https://www.barrons.com/articles/berkshire-hathaway-alphabet-microsoft-stock-52115df5",
-        "time": "20260813T201021",
-        "source": "Barron's"
+        "title": "Berkshire Hathaway expands Alphabet stake and trims bank exposure in Q2",
+        "title_zh": "伯克希尔哈撒韦公司在第二季度扩大Alphabet的股份并削减银行敞口",
+        "url": "https://www.investing.com/news/stock-market-news/berkshire-hathaway-expands-alphabet-stake-and-trims-bank-exposure-4861501",
+        "time": "20260814T205701",
+        "source": "Investing.com"
       },
       {
-        "title": "PLDT to double data center capacity for AI",
-        "title_zh": "PLDT将AI的数据中心容量增加一倍",
-        "url": "https://www.gmanetwork.com/news/money/companies/998468/pldt-to-double-data-center-capacity-for-ai/story/",
-        "time": "20260813T194025",
-        "source": "GMA Network"
+        "title": "Berkshire Hathaway bulks up on Alphabet, Delta Air, exits Constellation Brands, among Q2 trades (BRK.B:NYSE)",
+        "title_zh": "伯克希尔哈撒韦公司(Berkshire Hathaway)在Alphabet、达美航空(Delta Air)和第二季度交易中退出Constellation Brands (BRK.B: NYSE)",
+        "url": "https://seekingalpha.com/news/4633523-berkshire-hathaway-bulks-up-on-alphabet-delta-air-exits-constellation-brands-among-q2-trades",
+        "time": "20260814T204902",
+        "source": "Seeking Alpha"
       },
       {
-        "title": "Can AI Infrastructure Drive Verizon's Next Long-Term Growth?",
-        "title_zh": "人工智能基础设施能否推动Verizon的下一个长期增长？",
-        "url": "https://sg.finance.yahoo.com/news/ai-infrastructure-drive-verizons-next-175100177.html",
-        "time": "20260813T180944",
-        "source": "Yahoo Finance Singapore"
+        "title": "Berkshire Hathaway Doubles Down on Homebuilders, Makes Alphabet Top 3 Holding",
+        "title_zh": "伯克希尔哈撒韦在房屋建筑商上翻了一番，使Alphabet排名前三",
+        "url": "https://www.inkl.com/news/berkshire-hathaway-doubles-down-on-homebuilders-makes-alphabet-top-3-holding",
+        "time": "20260814T204505",
+        "source": "inkl"
       }
     ]
   },
   "quotes": {
     "MU": {
-      "price": 949.83,
+      "price": 971.66,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "AMD": {
-      "price": 483.01,
+      "price": 514.39,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "SNDK": {
-      "price": 1528.11,
+      "price": 1641.11,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "000660.KS": {
-      "price": 1593000.0,
+      "price": 1645000.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "005930.KS": {
-      "price": 268000.0,
+      "price": 274500.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "DELL": {
-      "price": 494.51,
+      "price": 490.81,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "ASX": {
-      "price": 39.64,
+      "price": 39.54,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "CBRS": {
-      "price": 231.01,
+      "price": 218.98,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "NVDA": {
-      "price": 225.3,
+      "price": 225.16,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "TSM": {
-      "price": 430.49,
+      "price": 426.35,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "INTC": {
-      "price": 104.56,
+      "price": 102.5,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "GOOGL": {
-      "price": 346.36,
+      "price": 345.9,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
