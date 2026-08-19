@@ -1,175 +1,378 @@
 {
-  "updated_at": "2026-08-18T21:58:48.707610+00:00",
+  "updated_at": "2026-08-19T22:03:13.412272+00:00",
   "companies": {
     "MU": [
       {
-        "title": "MARA Holdings Slides After Brutal Q2 Earnings Miss",
-        "title_zh": "MARA Holdings在第二季度盈利下滑后下滑",
-        "url": "https://stockstotrade.com/news/mara-holdings-inc-mara-news-2026_08_18-2/",
-        "time": "20260818T204726",
-        "source": "StocksToTrade"
-      },
-      {
-        "title": "Amkor, Teradyne, and Kulicke and Soffa Shares Are Falling, What You Need To Know",
-        "title_zh": "Amkor、Teradyne、Kulicke和Soffa股价下跌，您需要了解的信息",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/amkor-teradyne-kulicke-soffa-shares-204533100.html",
-        "time": "20260818T204541",
-        "source": "Yahoo Finance"
-      },
-      {
-        "title": "Corning Inc Stock (GLW) Moved Down by 8.02% on Aug 18: What Investors Need To Know",
-        "title_zh": "康宁公司股票（ GLW ）于8月18日下跌8.02% ：投资者须知",
-        "url": "https://www.tradingkey.com/news/market-movers/262115805-market-movers-glw-20260818",
-        "time": "20260818T191801",
+        "title": "Arista Networks Inc Stock (ANET) Closed Down by 3.64% on Aug 19: A Full Analysis",
+        "title_zh": "Arista Networks Inc股票（ ANET ）于8月19日收盘下跌3.64 ％ ：全面分析",
+        "url": "https://www.tradingkey.com/news/market-movers/262119124-market-movers-anet-20260819",
+        "time": "20260819T202104",
         "source": "TradingKey"
       },
       {
-        "title": "HL Stock Slips As Hecla Mining Misses Q2 Revenue Target",
-        "title_zh": "由于Hecla Mining错过了第二季度收入目标， HL库存下滑",
-        "url": "https://www.timothysykes.com/news/hecla-mining-company-hl-news-2026_08_18/",
-        "time": "20260818T190313",
-        "source": "Timothy Sykes"
+        "title": "Verizon EVP Kyle Malady sells $53,548 in common stock",
+        "title_zh": "Verizon执行副总裁Kyle Malady出售$ 53,548的普通股",
+        "url": "https://www.investing.com/news/insider-trading-news/verizon-evp-kyle-malady-sells-53548-in-common-stock-93CH-4868052",
+        "time": "20260819T184945",
+        "source": "Investing.com"
+      },
+      {
+        "title": "Cadre Holdings (CDRE) Lifts 2026 Outlook As Investors Ask If The Valuation Already Reflects It",
+        "title_zh": "Cadre Holdings (CDRE)提振2026年展望，因为投资者询问估值是否已经反映出来",
+        "url": "https://simplywall.st/stocks/us/capital-goods/nyse-cdre/cadre-holdings/news/cadre-holdings-cdre-lifts-2026-outlook-as-investors-ask-if-t",
+        "time": "20260819T184624",
+        "source": "Simply Wall Street"
+      },
+      {
+        "title": "Seagate Technology Holdings PLC Stock (STX) Moved Down by 6.52% on Aug 19: Key Drivers Unveiled",
+        "title_zh": "希捷科技控股PLC股票（ STX ）在8月19日下跌6.52% ：关键驱动因素揭晓",
+        "url": "https://www.tradingkey.com/news/market-movers/262118741-market-movers-stx-20260819",
+        "time": "20260819T181927",
+        "source": "TradingKey"
       }
     ],
     "AMD": [
       {
-        "title": "AMD (NASDAQ: AMD) logs insider stock transaction in SEC filing",
-        "title_zh": "AMD （纳斯达克股票代码： AMD ）在SEC文件中记录内幕股票交易",
-        "url": "https://www.stocktitan.net/sec-filings/AMD/form-4-advanced-micro-devices-inc-insider-trading-activity-45d1a7343dbd.html",
-        "time": "20260818T202903",
-        "source": "Stock Titan"
+        "title": "Analog Devices Earnings: Raising Fair Value Estimate with AI Strength",
+        "title_zh": "Analog Devices盈利：利用人工智能优势提高公允价值估算",
+        "url": "https://www.morningstar.com/stocks/analog-devices-earnings-raising-fair-value-estimate-with-ai-strength",
+        "time": "20260819T212403",
+        "source": "Morningstar"
       },
       {
-        "title": "Neoclouds collaborate to transform AI infrastructure",
-        "title_zh": "Neocloud合作改造人工智能基础设施",
-        "url": "https://siliconangle.com/2026/08/18/neoclouds-ai-infrastructure-supermicroopenstoragesummit/",
-        "time": "20260818T185620",
+        "title": "Layered data architecture powers Salesforce AI",
+        "title_zh": "分层数据架构为Salesforce AI提供支持",
+        "url": "https://siliconangle.com/2026/08/19/layered-data-architecture-powers-salesforce-ai-neo4jgraphtalk/",
+        "time": "20260819T203028",
         "source": "SiliconANGLE"
       },
       {
-        "title": "AMG TimesSquare Mid Cap Growth Fund Q2 2026 Commentary",
-        "title_zh": "AMG TimesSquare中盘成长基金2026年第二季度评论",
-        "url": "https://seekingalpha.com/article/4937815-amg-timessquare-mid-cap-growth-fund-q2-2026-commentary?source=generic_rss",
-        "time": "20260818T161114",
-        "source": "Seeking Alpha"
+        "title": "Arista Benefits From AI Networking Surge: Will Momentum Persist?",
+        "title_zh": "Arista从人工智能网络浪潮中获益：势头会持续吗？",
+        "url": "https://www.tradingview.com/news/zacks:5867200f4094b:0-arista-benefits-from-ai-networking-surge-will-momentum-persist/",
+        "time": "20260819T163712",
+        "source": "TradingView"
       },
       {
-        "title": "Nvidia, AMD, Broadcom, Meta Slide as Bond Yields Surge: Why Tech Stocks Are Getting Hit",
-        "title_zh": "Nvidia、AMD、Broadcom、Meta Slide债券收益率飙升：科技股为何受到冲击",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-amd-broadcom-meta-slide-154244427.html",
-        "time": "20260818T154310",
-        "source": "Yahoo Finance"
+        "title": "Advanced Micro Devices Inc Stock (AMD) Moved Down by 3.13% on Aug 19: A Full Analysis",
+        "title_zh": "8月19日， Advanced Micro Devices Inc （ AMD ）股价下跌3.13% ：全面分析",
+        "url": "https://www.tradingkey.com/news/market-movers/262118390-market-movers-amd-20260819",
+        "time": "20260819T143710",
+        "source": "TradingKey"
       }
     ],
     "SNDK": [
       {
-        "title": "SanDisk Flips Crucial Resistance as Experts, Technicals Predict More Gains",
-        "title_zh": "SanDisk反转关键阻力，因为专家、技术人员预测会获得更多收益",
-        "url": "https://www.benzinga.com/markets/equities/26/08/61237235/sandisk-stock-flips-crucial-resistance-as-experts-technicals-predict-more-gains",
-        "time": "20260816T181147",
+        "title": "SanDisk, Marvell among market cap stock movers on Tuesday",
+        "title_zh": "SanDisk、Marvell周二跻身市值上市公司行列",
+        "url": "https://www.investing.com/news/stock-market-news/sandisk-marvell-among-market-cap-stock-movers-on-tuesday-93CH-4865852",
+        "time": "20260818T184156",
+        "source": "Investing.com"
+      },
+      {
+        "title": "SanDisk Analysis: SNDK Is Down 8%, but the Breakout May Still Be Intact - SanDisk (NASDAQ:SNDK)",
+        "title_zh": "SanDisk分析： SNDK下跌8% ，但突破可能仍然完好无损- SanDisk (NASDAQ: SNDK)",
+        "url": "https://www.benzinga.com/trading-ideas/technicals/26/08/61281560/stock-of-the-day-sandisk-is-down-8-but-the-breakout-may-still-be-intact",
+        "time": "20260818T164157",
         "source": "Benzinga"
       },
       {
-        "title": "SanDisk price target raised to $1,550 from $1,400 at Wells Fargo",
-        "title_zh": "闪迪目标价从富国银行的1,400美元上调至1,550美元",
-        "url": "https://www.tipranks.com/news/the-fly/sandisk-price-target-raised-to-1550-from-1400-at-wells-fargo-thefly-news-2",
-        "time": "20260816T144031",
-        "source": "TipRanks"
+        "title": "Arm, SanDisk among market cap stock movers on Tuesday",
+        "title_zh": "ARM、闪迪周二成为市值股票推动者",
+        "url": "https://www.investing.com/news/stock-market-news/arm-sandisk-among-market-cap-stock-movers-on-tuesday-93CH-4865645",
+        "time": "20260818T151042",
+        "source": "Investing.com"
       },
       {
-        "title": "Sandisk: The Memory Trade Lives On After Investor's Day (NASDAQ:SNDK)",
-        "title_zh": "Sandisk ：投资者节后的记忆交易（纳斯达克股票代码： SNDK ）",
-        "url": "https://seekingalpha.com/article/4936852-sandisk-the-memory-trade-lives-on-after-investors-day",
-        "time": "20260816T093000",
-        "source": "Seeking Alpha"
-      },
-      {
-        "title": "Situational Awareness made massive bets on Sandisk, Micron before July implosion",
-        "title_zh": "情境意识在7月内爆之前对Sandisk ， Micron进行了大量押注",
-        "url": "https://seekingalpha.com/news/4633584-situational-awareness-massive-bets-sandisk-micron",
-        "time": "20260815T101500",
-        "source": "Seeking Alpha"
+        "title": "SanDisk (SNDK) Gets New ‘Buy’ Reco, Surges 8.88%",
+        "title_zh": "闪迪(SNDK)获得新的“买入”回购，激增8.88%",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-sndk-gets-buy-reco-012552380.html",
+        "time": "20260817T212500",
+        "source": "Yahoo Finance"
       }
     ],
     "000660.KS": [],
     "005930.KS": [],
-    "DELL": [],
-    "ASX": [],
-    "CBRS": [],
-    "NVDA": [],
-    "TSM": [],
-    "INTC": [],
-    "GOOGL": []
+    "DELL": [
+      {
+        "title": "Arista Networks calls time on server line due to supply chain pressures",
+        "title_zh": "由于供应链压力， Arista Networks调用服务器线上的时间",
+        "url": "https://www.sdxcentral.com/news/arista-networks-calls-time-on-server-line-due-to-supply-chain-pressures/",
+        "time": "20260819T134609",
+        "source": "SDxCentral"
+      },
+      {
+        "title": "Palo Alto Networks launches AI defense program",
+        "title_zh": "Palo Alto Networks推出人工智能防御计划",
+        "url": "https://www.investing.com/news/company-news/palo-alto-networks-launches-ai-defense-program-93CH-4867563",
+        "time": "20260819T133901",
+        "source": "Investing.com"
+      },
+      {
+        "title": "DigitalOcean SVP Cherie Barrett sells $589,840 in company stock",
+        "title_zh": "DigitalOcean高级副总裁Cherie Barrett出售$ 589,840公司股票",
+        "url": "https://www.investing.com/news/insider-trading-news/digitalocean-svp-cherie-barrett-sells-589840-in-company-stock-93CH-4864217",
+        "time": "20260818T204136",
+        "source": "Investing.com"
+      },
+      {
+        "title": "Epic unveils AI-driven Ergo Visit at 2026 UGM",
+        "title_zh": "Epic在2026年UGM上推出人工智能驱动的Ergo Visit",
+        "url": "https://www.techtarget.com/searchhealthit/news/366649337/Epic-unveils-AI-driven-Ergo-Visit-at-2026-UGM",
+        "time": "20260818T171106",
+        "source": "TechTarget"
+      }
+    ],
+    "ASX": [
+      {
+        "title": "Investors Purchase High Volume of ASE Technology Call Options (NYSE:ASX)",
+        "title_zh": "投资者购买大量日月光科技看涨期权（纽约证券交易所代码： ASX ）",
+        "url": "https://www.marketbeat.com/instant-alerts/investors-purchase-high-volume-of-ase-technology-call-options-nyseasx-2026-08-18/",
+        "time": "20260818T161159",
+        "source": "MarketBeat"
+      },
+      {
+        "title": "ASE Technology (NYSE:ASX) Stock Price Passes Above Two Hundred Day Moving Average - Time to Sell?",
+        "title_zh": "日月光科技(NYSE: ASX)股价突破两百日移动平均线-卖出时间？",
+        "url": "https://www.marketbeat.com/instant-alerts/ase-technology-nyseasx-stock-price-passes-above-two-hundred-day-moving-average-time-to-sell-2026-08-18/",
+        "time": "20260818T054009",
+        "source": "MarketBeat"
+      },
+      {
+        "title": "ASE Technology Arm Acquires Machinery Worth NT$1.03 Billion",
+        "title_zh": "日月光科技收购价值10.3亿新台币的机械",
+        "url": "https://www.marketscreener.com/news/ase-technology-arm-acquires-machinery-worth-nt-1-03-billion-ce7859dcde80fe2c",
+        "time": "20260818T034909",
+        "source": "marketscreener.com"
+      },
+      {
+        "title": "ETFs Investing in ASE Technology Holding Co., Ltd. Sponsored ADR Stocks",
+        "title_zh": "ETF投资于ASE Technology Holding Co., Ltd.发起的ADR股票",
+        "url": "https://www.tradingview.com/symbols/DUS-2DQ/etfs/",
+        "time": "20260817T234009",
+        "source": "TradingView"
+      }
+    ],
+    "CBRS": [
+      {
+        "title": "After $3.1M sale, Cerebras (NASDAQ: CBRS) insider files for new stock sale",
+        "title_zh": "在$ 310万的销售后， Cerebras （纳斯达克股票代码： CBRS ）的内幕文件将进行新股销售",
+        "url": "https://www.stocktitan.net/sec-filings/CBRS/144-cerebras-systems-inc-sec-filing-3e03a21c0b31.html",
+        "time": "20260819T011117",
+        "source": "Stock Titan"
+      },
+      {
+        "title": "Cerebras Systems (CBRS) officer lines up new stock sale after 6.1M June trade",
+        "title_zh": "Cerebras Systems (CBRS)官员在6月610万笔交易后排队出售新股票",
+        "url": "https://www.stocktitan.net/sec-filings/CBRS/144-cerebras-systems-inc-sec-filing-2da9492f3497.html",
+        "time": "20260819T011117",
+        "source": "Stock Titan"
+      },
+      {
+        "title": "Cerebras (NASDAQ: CBRS) officer lines up 34,706-share sale",
+        "title_zh": "Cerebras （纳斯达克股票代码： CBRS ）官员排队出售34,706股",
+        "url": "https://www.stocktitan.net/sec-filings/CBRS/144-cerebras-systems-inc-sec-filing-b97847e09f29.html",
+        "time": "20260819T011117",
+        "source": "Stock Titan"
+      },
+      {
+        "title": "Cerebras Systems (CBRS) converts 1.9M Class B to A shares",
+        "title_zh": "Cerebras Systems (CBRS)将190万股B类股票转换为A类股票",
+        "url": "https://www.stocktitan.net/sec-filings/CBRS/form-4-cerebras-systems-inc-insider-trading-activity-47faeebf8f9b.html",
+        "time": "20260818T224048",
+        "source": "Stock Titan"
+      }
+    ],
+    "NVDA": [
+      {
+        "title": "Analog Devices Earnings: Raising Fair Value Estimate with AI Strength",
+        "title_zh": "Analog Devices盈利：利用人工智能优势提高公允价值估算",
+        "url": "https://www.morningstar.com/stocks/analog-devices-earnings-raising-fair-value-estimate-with-ai-strength",
+        "time": "20260819T212403",
+        "source": "Morningstar"
+      },
+      {
+        "title": "Arista Networks Inc Stock (ANET) Closed Down by 3.64% on Aug 19: A Full Analysis",
+        "title_zh": "Arista Networks Inc股票（ ANET ）于8月19日收盘下跌3.64 ％ ：全面分析",
+        "url": "https://www.tradingkey.com/news/market-movers/262119124-market-movers-anet-20260819",
+        "time": "20260819T202104",
+        "source": "TradingKey"
+      },
+      {
+        "title": "Why Stryker (SYK) Stock Is Trading Up Today",
+        "title_zh": "为什么史赛克(SYK)股票今天上涨",
+        "url": "https://www.tradingview.com/news/stockstory:48530f226094b:0-why-stryker-syk-stock-is-trading-up-today/",
+        "time": "20260819T202016",
+        "source": "TradingView"
+      },
+      {
+        "title": "Verizon EVP Kyle Malady sells $53,548 in common stock",
+        "title_zh": "Verizon执行副总裁Kyle Malady出售$ 53,548的普通股",
+        "url": "https://www.investing.com/news/insider-trading-news/verizon-evp-kyle-malady-sells-53548-in-common-stock-93CH-4868052",
+        "time": "20260819T184945",
+        "source": "Investing.com"
+      }
+    ],
+    "TSM": [
+      {
+        "title": "100,462 Shares in Taiwan Semiconductor Manufacturing Company Ltd. $TSM Purchased by Trust Co. of Vermont",
+        "title_zh": "台湾半导体制造有限公司100,462股股票$ TSM由佛蒙特州信托公司收购",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-100462-shares-in-taiwan-semiconductor-manufacturing-company-ltd-tsm-purchased-by-trust-co-of-vermont-2026-08-19/",
+        "time": "20260819T104147",
+        "source": "MarketBeat"
+      },
+      {
+        "title": "Taiwan Semiconductor Manufacturing Company Ltd. (NYSE:TSM) Given Consensus Recommendation of \"Buy\" by Analysts",
+        "title_zh": "台湾半导体制造股份有限公司（纽约证券交易所代码： TSM ）获得分析师“买入”的共识性建议",
+        "url": "https://www.marketbeat.com/instant-alerts/taiwan-semiconductor-manufacturing-company-ltd-nysetsm-given-consensus-recommendation-of-buy-by-analysts-2026-08-19/",
+        "time": "20260819T064147",
+        "source": "MarketBeat"
+      },
+      {
+        "title": "BofA Sends Bullish Message For Taiwan Semiconductor Stock Fans",
+        "title_zh": "美银美林向台湾半导体股票爱好者发出看涨信息",
+        "url": "https://www.tradingview.com/news/gurufocus:9fb5c10e2094b:0-bofa-sends-bullish-message-for-taiwan-semiconductor-stock-fans/",
+        "time": "20260819T030600",
+        "source": "TradingView"
+      },
+      {
+        "title": "Taiwan Semiconductor Manufacturing (NYSE:TSM) Trading Down 4% - Here's What Happened",
+        "title_zh": "台湾半导体制造(NYSE: TSM)交易下跌4% -以下是发生的情况",
+        "url": "https://www.marketbeat.com/instant-alerts/taiwan-semiconductor-manufacturing-nysetsm-trading-down-4-heres-what-happened-2026-08-18/",
+        "time": "20260818T211200",
+        "source": "MarketBeat"
+      }
+    ],
+    "INTC": [
+      {
+        "title": "Analog Devices Earnings: Raising Fair Value Estimate with AI Strength",
+        "title_zh": "Analog Devices盈利：利用人工智能优势提高公允价值估算",
+        "url": "https://www.morningstar.com/stocks/analog-devices-earnings-raising-fair-value-estimate-with-ai-strength",
+        "time": "20260819T212403",
+        "source": "Morningstar"
+      },
+      {
+        "title": "Arista Networks Inc Stock (ANET) Closed Down by 3.64% on Aug 19: A Full Analysis",
+        "title_zh": "Arista Networks Inc股票（ ANET ）于8月19日收盘下跌3.64 ％ ：全面分析",
+        "url": "https://www.tradingkey.com/news/market-movers/262119124-market-movers-anet-20260819",
+        "time": "20260819T202104",
+        "source": "TradingKey"
+      },
+      {
+        "title": "Citigroup Inc Stock (C) Moved Down by 3.45% on Aug 19: Facts Behind the Movement",
+        "title_zh": "花旗集团(Citigroup Inc)股票（ C ）在8月19日下跌3.45% ：走势背后的事实",
+        "url": "https://www.tradingkey.com/news/market-movers/262118854-market-movers-c-20260819",
+        "time": "20260819T191930",
+        "source": "TradingKey"
+      },
+      {
+        "title": "Booking Holdings Inc Stock (BKNG) Moved Up by 3.07% on Aug 19: Drivers Behind the Movement",
+        "title_zh": "Booking Holdings Inc股票（ BKNG ）在8月19日上涨3.07 ％ ：运动背后的驱动因素",
+        "url": "https://www.tradingkey.com/news/market-movers/262118742-market-movers-bkng-20260819",
+        "time": "20260819T181523",
+        "source": "TradingKey"
+      }
+    ],
+    "GOOGL": [
+      {
+        "title": "Apple stock stands out among Magnificent Seven on low AI spending",
+        "title_zh": "苹果股票在低AI支出方面在Magnificent Seven中脱颖而出",
+        "url": "https://qz.com/apple-stock-magnificent-seven-ai-spending-market-edge-081926",
+        "time": "20260819T175500",
+        "source": "Quartz"
+      },
+      {
+        "title": "Thomas Kean Jr. trades in Alphabet, Amazon, and Stryker stocks",
+        "title_zh": "Thomas Kean Jr.交易Alphabet、Amazon和Stryker股票",
+        "url": "https://www.investing.com/news/company-news/thomas-kean-jr-trades-in-alphabet-amazon-and-stryker-stocks-93CH-4867972",
+        "time": "20260819T172526",
+        "source": "Investing.com"
+      },
+      {
+        "title": "Thomas Kean Jr. trades in Alphabet, Amazon, and Stryker stocks By Investing.com",
+        "title_zh": "Thomas Kean Jr.通过Investing.com交易Alphabet、Amazon和Stryker股票",
+        "url": "https://ca.investing.com/news/stock-market-news/thomas-kean-jr-trades-in-alphabet-amazon-and-stryker-stocks-93CH-4808601",
+        "time": "20260819T171212",
+        "source": "Investing.com Canada"
+      },
+      {
+        "title": "Microsoft signs offtake deal for wastewater-based carbon removal",
+        "title_zh": "微软签署废水基碳去除的承购协议",
+        "url": "https://www.esgdive.com/news/microsoft-crew-carbon-sign-offtake-deal-for-wastewater-based-carbon-removal/828289/",
+        "time": "20260819T170653",
+        "source": "ESG Dive"
+      }
+    ]
   },
   "quotes": {
     "MU": {
-      "price": 940.76,
+      "price": 937.105,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "AMD": {
-      "price": 484.39,
+      "price": 466.42,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "SNDK": {
-      "price": 1625.78,
+      "price": 1568.87,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "000660.KS": {
-      "price": 1662000.0,
+      "price": 1500000.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "005930.KS": {
-      "price": 268500.0,
+      "price": 247500.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "DELL": {
-      "price": 468.65,
+      "price": 437.55,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "ASX": {
-      "price": 36.41,
+      "price": 35.66,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "CBRS": {
-      "price": 220.01,
+      "price": 215.69,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "NVDA": {
-      "price": 219.74,
+      "price": 217.56,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "TSM": {
-      "price": 413.41,
+      "price": 412.09,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "INTC": {
-      "price": 96.685,
+      "price": 92.8,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "GOOGL": {
-      "price": 344.2,
+      "price": 344.72,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
