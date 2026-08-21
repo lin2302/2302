@@ -1,64 +1,64 @@
 {
-  "updated_at": "2026-08-20T22:50:04.234898+00:00",
+  "updated_at": "2026-08-21T22:01:38.550009+00:00",
   "companies": {
     "MU": [
       {
-        "title": "Paul Tudor Jones Just Liquidated His Entire Stake in Applied Materials Stock. I Don’t Think He’s 100% Bearish on AI Though… Yet",
-        "title_zh": "保罗·都铎·琼斯刚刚清算了他在应用材料股票中的全部股份。我不认为他对人工智能100 ％看空，但……",
-        "url": "https://www.barchart.com/story/news/3956206/paul-tudor-jones-just-liquidated-his-entire-stake-in-applied-materials-stock-i-dont-think-hes-100-bearish-on-ai-though-yet",
-        "time": "20260820T181302",
-        "source": "Barchart.com"
-      },
-      {
-        "title": "MUG ETF Price and Chart — CBOE:MUG",
-        "title_zh": "MUG ETF价格和图表— CBOE ： MUG",
-        "url": "https://www.tradingview.com/symbols/AMEX-MUG/",
-        "time": "20260820T172906",
-        "source": "TradingView"
-      },
-      {
-        "title": "Mosaic (MOS) On Its New Debt Deal, Bargain Still Left Or Already Priced In",
-        "title_zh": "马赛克（ MOS ）的新债务交易，讨价还价仍然存在或已经定价",
-        "url": "https://simplywall.st/stocks/us/materials/nyse-mos/mosaic/news/mosaic-mos-on-its-new-debt-deal-bargain-still-left-or-alread",
-        "time": "20260820T163133",
-        "source": "Simply Wall Street"
-      },
-      {
-        "title": "Seagate Technology Holdings PLC Stock (STX) Moved Up by 3.05% on Aug 20: Key Drivers Unveiled",
-        "title_zh": "希捷科技控股PLC股票（ STX ）在8月20日上涨3.05% ：关键驱动因素揭晓",
-        "url": "https://www.tradingkey.com/news/market-movers/262121482-market-movers-stx-20260820",
-        "time": "20260820T141536",
+        "title": "Arista Networks Inc Stock (ANET) Moved Up by 3.08% on Aug 21: Facts Behind the Movement",
+        "title_zh": "Arista Networks Inc股票（ ANET ）在8月21日上涨3.08% ：运动背后的事实",
+        "url": "https://www.tradingkey.com/news/market-movers/262125152-market-movers-anet-20260821",
+        "time": "20260821T181512",
         "source": "TradingKey"
+      },
+      {
+        "title": "Micron Establishes Boise Research Hub for Memory and AI",
+        "title_zh": "美光建立博伊西内存和人工智能研究中心",
+        "url": "https://www.hpcwire.com/bigdatawire/this-just-in/micron-establishes-boise-research-hub-for-memory-and-ai/",
+        "time": "20260821T155432",
+        "source": "HPCwire"
+      },
+      {
+        "title": "Pearl Diver Credit Company to release Q2 2026 results and hold earnings call on August 27",
+        "title_zh": "Pearl Diver Credit Company将于8月27日发布2026年第二季度业绩并举行财报电话会议",
+        "url": "https://pluang.com/en/news-feed/pearl-diver-credit-company-inc-jadwal-rilis-laporan-keuangan-kuartal-ii-2026",
+        "time": "20260821T121003",
+        "source": "Pluang"
+      },
+      {
+        "title": "Got $100? 1 Artificial Intelligence (AI) Memory ETF to Buy Hand Over Fist",
+        "title_zh": "获得$ 100? 1人工智能(AI)记忆ETF买拳交接",
+        "url": "https://www.theglobeandmail.com/investing/markets/stocks/IVZ/pressreleases/3967921/got-100-1-artificial-intelligence-ai-memory-etf-to-buy-hand-over-fist/",
+        "time": "20260821T111055",
+        "source": "The Globe and Mail"
       }
     ],
     "AMD": [
       {
-        "title": "The Options Market Gives Synopsys Room To Fall Two-Fifths Or Rise Two-Thirds",
-        "title_zh": "期权市场让Synopsys房价下跌五分之二或上涨三分之二",
-        "url": "https://www.trefis.com/stock/snps/articles/612234/the-options-market-gives-synopsys-room-to-fall-two-fifths-or-rise-two-thirds/2026-08-20",
-        "time": "20260820T184210",
-        "source": "Trefis"
+        "title": "Advanced Micro Devices vs. Arm Holdings: Comparing Revenue Trends Between These Artificial Intelligence Companies",
+        "title_zh": "先进微设备与ARM控股：这些人工智能公司之间的收入趋势比较",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-vs-arm-200141974.html",
+        "time": "20260821T200205",
+        "source": "Yahoo Finance"
       },
       {
-        "title": "Storage modernization: Supermicro and partners on AI",
-        "title_zh": "存储现代化： Supermicro和AI合作伙伴",
-        "url": "https://siliconangle.com/2026/08/20/storage-modernization-supermicro-partners-ai-supermicroopenstoragesummit/",
-        "time": "20260820T180006",
-        "source": "SiliconANGLE"
+        "title": "Advanced Micro Devices (AMD) Posts Record Sales, But Musk’s NVIDIA (NVDA) Pledge Sinks the Stock",
+        "title_zh": "先进微设备（ AMD ）发布创纪录的销售额，但马斯克的NVIDIA （ NVDA ）承诺使股票下跌",
+        "url": "https://ca.finance.yahoo.com/news/advanced-micro-devices-amd-posts-194827905.html",
+        "time": "20260821T194800",
+        "source": "Yahoo! Finance Canada"
       },
       {
-        "title": "ROBX ETF Price and Chart — AMEX:ROBX",
-        "title_zh": "ROBX ETF价格和图表— AMEX ： ROBX",
-        "url": "https://www.tradingview.com/symbols/AMEX-ROBX/",
-        "time": "20260820T172912",
-        "source": "TradingView"
+        "title": "Semis Aren't Slowing Down: Trade 4 Leading Chip Stocks With 2X Leverage",
+        "title_zh": "Semis并未放缓：以2倍的杠杆率交易4只领先的芯片股",
+        "url": "https://www.barchart.com/story/news/3974434/semis-aren-t-slowing-down-trade-4-leading-chip-stocks-with-2x-leverage",
+        "time": "20260821T174140",
+        "source": "Barchart.com"
       },
       {
-        "title": "Is Riot’s US$573 Million Rockdale Expansion Loan Reshaping The Investment Case For Riot Platforms (RIOT)?",
-        "title_zh": "Riot的5.73亿美元Rockdale扩张贷款是否正在重塑Riot平台（ RIOT ）的投资案例？",
-        "url": "https://simplywall.st/stocks/us/software/nasdaq-riot/riot-platforms/news/is-riots-us573-million-rockdale-expansion-loan-reshaping-the/amp",
-        "time": "20260820T151121",
-        "source": "Simply Wall Street"
+        "title": "Should You Add NVIDIA Stock to Your Portfolio Ahead of Q2 Earnings?",
+        "title_zh": "您是否应该在第二季度收益之前将NVIDIA股票添加到您的投资组合中？",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/add-nvidia-stock-portfolio-ahead-141400651.html",
+        "time": "20260821T143856",
+        "source": "Yahoo Finance"
       }
     ],
     "SNDK": [
@@ -70,6 +70,13 @@
         "source": "TradingView"
       },
       {
+        "title": "Forced Out of $5.6B in Sandisk, Leopold’s Bull Case Is Still Alive. Here’s How You Should Play It.",
+        "title_zh": "在桑迪斯克被迫退出56亿美元的$ ，利奥波德的公牛案仍然存在。以下是您应该如何玩它。",
+        "url": "https://www.barchart.com/story/news/3938557/forced-out-of-5-6b-in-sandisk-leopolds-bull-case-is-still-alive-heres-how-you-should-play-it",
+        "time": "20260820T064103",
+        "source": "Barchart.com"
+      },
+      {
         "title": "Sandisk: We Retain Skepticism on Longer-Term Targets",
         "title_zh": "Sandisk ：我们对长期目标仍持怀疑态度",
         "url": "https://www.morningstar.com/stocks/sandisk-we-retain-skepticism-longer-term-targets",
@@ -77,50 +84,43 @@
         "source": "Morningstar"
       },
       {
-        "title": "SanDisk, Marvell among market cap stock movers on Tuesday",
-        "title_zh": "SanDisk、Marvell周二跻身市值上市公司行列",
-        "url": "https://www.investing.com/news/stock-market-news/sandisk-marvell-among-market-cap-stock-movers-on-tuesday-93CH-4865852",
-        "time": "20260818T184156",
-        "source": "Investing.com"
-      },
-      {
-        "title": "SanDisk Analysis: SNDK Is Down 8%, but the Breakout May Still Be Intact - SanDisk (NASDAQ:SNDK)",
-        "title_zh": "SanDisk分析： SNDK下跌8% ，但突破可能仍然完好无损- SanDisk (NASDAQ: SNDK)",
-        "url": "https://www.benzinga.com/trading-ideas/technicals/26/08/61281560/stock-of-the-day-sandisk-is-down-8-but-the-breakout-may-still-be-intact",
-        "time": "20260818T164157",
-        "source": "Benzinga"
+        "title": "Sandisk Corp FY 2026: Revenue $20.25B, EPS $73.76— 10-K Summary",
+        "title_zh": "2026财年Sandisk Corp ：收入$ 20.25 B ， EPS $ 73.76 — 10-K汇总",
+        "url": "https://www.tradingview.com/news/tradingview:932e707e0d112:0-sandisk-corp-fy-2026-revenue-20-25b-eps-73-76-10-k-summary/",
+        "time": "20260818T201141",
+        "source": "TradingView"
       }
     ],
     "000660.KS": [],
     "005930.KS": [],
     "DELL": [
       {
-        "title": "Snowflake Rides on AI Momentum: Can It Stay Ahead of DELL and Oracle?",
-        "title_zh": "Snowflake乘坐人工智能动力：它能否领先于戴尔和甲骨文？",
-        "url": "https://www.tradingview.com/news/zacks:1f262cab3094b:0-snowflake-rides-on-ai-momentum-can-it-stay-ahead-of-dell-and-oracle/",
-        "time": "20260820T164018",
-        "source": "TradingView"
+        "title": "Gartner Magic Quadrant for Enterprise Storage 2026: Everpure Tops Both Axes Again as the Six Leaders Hold",
+        "title_zh": "Gartner 2026年企业存储魔力象限： Everpure在六位领导者中再次领先",
+        "url": "https://www.storagereview.com/news/gartner-magic-quadrant-for-enterprise-storage-2026-everpure-tops-both-axes-again-as-the-six-leaders-hold",
+        "time": "20260821T204016",
+        "source": "StorageReview.com"
       },
       {
-        "title": "IT vs. OT: Key differences explained",
-        "title_zh": "IT与OT ：主要差异说明",
-        "url": "https://www.techtarget.com/it-infrastructure/tip/IT-vs-OT-Key-differences-explained",
-        "time": "20260820T141020",
-        "source": "TechTarget"
+        "title": "Resilient CDW stock jumps on strong Q2 2026 earnings and AI demand",
+        "title_zh": "2026年第二季度盈利和人工智能需求强劲， CDW库存韧性提升",
+        "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/resilient-cdw-stock-jumps-on-strong-q2-2026-earnings-and-ai-demand/69983181",
+        "time": "20260821T195800",
+        "source": "Ad-hoc-news.de"
       },
       {
-        "title": "Kentucky Farm Bureau Mutual Insurance Co Makes New Investment in Diamondback Energy, Inc. $FANG",
-        "title_zh": "肯塔基州农场局互助保险公司对Diamondback Energy, Inc.进行新投资$ FANG",
-        "url": "https://www.marketbeat.com/instant-alerts/filing-kentucky-farm-bureau-mutual-insurance-co-makes-new-investment-in-diamondback-energy-inc-fang-2026-08-20/",
-        "time": "20260820T100743",
-        "source": "MarketBeat"
+        "title": "Bruker Corporation Executive is Named Finance Chief at Quanterix",
+        "title_zh": "布鲁克公司高管被任命为Quanterix财务总监",
+        "url": "https://www.mpo-mag.com/breaking-news/bruker-corporation-executive-is-named-finance-chief-at-quanterix/",
+        "time": "20260821T171013",
+        "source": "Medical Product Outsourcing"
       },
       {
-        "title": "E Fund Management Co. Ltd. Takes $1.86 Million Position in Diamondback Energy, Inc. $FANG",
-        "title_zh": "E Fund Management Co. Ltd.在Diamondback Energy, Inc.持有$ 186万头寸$ FANG",
-        "url": "https://www.marketbeat.com/instant-alerts/filing-e-fund-management-co-ltd-takes-186-million-position-in-diamondback-energy-inc-fang-2026-08-20/",
-        "time": "20260820T084157",
-        "source": "MarketBeat"
+        "title": "HPQ Set to Report Q3 Earnings: What's in Store for the Stock?",
+        "title_zh": "HPQ将报告第三季度收益：库存有什么好处？",
+        "url": "https://www.theglobeandmail.com/investing/markets/stocks/DELL/pressreleases/3972050/hpq-set-to-report-q3-earnings-whats-in-store-for-the-stock/",
+        "time": "20260821T155912",
+        "source": "The Globe and Mail"
       }
     ],
     "ASX": [
@@ -155,62 +155,62 @@
     ],
     "CBRS": [
       {
-        "title": "Cerebras Systems (CBRS) CEO keeps 13.9M Class B stake after tax sale",
-        "title_zh": "Cerebras Systems (CBRS)首席执行官在税务出售后持有1390万股B类股权",
-        "url": "https://www.stocktitan.net/sec-filings/CBRS/form-4-cerebras-systems-inc-insider-trading-activity-408cbb335504.html",
-        "time": "20260820T014227",
+        "title": "Cerebras (CBRS) holder shifts 1.9M shares between classes",
+        "title_zh": "Cerebras （ CBRS ）持有人在课程之间转移了190万股股票",
+        "url": "https://www.stocktitan.net/sec-filings/CBRS/form-4-cerebras-systems-inc-insider-trading-activity-b328f11c0631.html",
+        "time": "20260821T011121",
         "source": "Stock Titan"
       },
       {
-        "title": "Cerebras Systems (CBRS) holder logs 2.53M convertible Class B shares",
-        "title_zh": "Cerebras Systems (CBRS)持有人记录253万股可转换B类股票",
-        "url": "https://www.stocktitan.net/sec-filings/CBRS/form-4-cerebras-systems-inc-insider-trading-activity-5782350f0f88.html",
-        "time": "20260819T214227",
+        "title": "Cerebras (CBRS) CTO sells 21K shares, retains 7.58M Class B",
+        "title_zh": "Cerebras （ CBRS ）首席技术官出售21,000股，保留7.58 M股B类",
+        "url": "https://www.stocktitan.net/sec-filings/CBRS/form-4-cerebras-systems-inc-insider-trading-activity-fc5ab3dd9566.html",
+        "time": "20260821T001121",
         "source": "Stock Titan"
       },
       {
-        "title": "Cerebras (NASDAQ: CBRS) director sells 68K, gets 111K shares",
-        "title_zh": "Cerebras （纳斯达克股票代码： CBRS ）董事出售6.8万股，获得11.1万股",
-        "url": "https://www.stocktitan.net/sec-filings/CBRS/form-4-cerebras-systems-inc-insider-trading-activity-7c13e82c723e.html",
-        "time": "20260819T214227",
+        "title": "Cerebras (CBRS) CAO offloads shares to cover RSU taxes",
+        "title_zh": "Cerebras （ CBRS ） CAO卸载股票以支付RSU税",
+        "url": "https://www.stocktitan.net/sec-filings/CBRS/form-4-cerebras-systems-inc-insider-trading-activity-69a80d1c8a46.html",
+        "time": "20260821T001121",
         "source": "Stock Titan"
       },
       {
-        "title": "Cerebras Systems (CBRS) Benchmark funds move 2.4M shares",
-        "title_zh": "Cerebras Systems (CBRS)基准基金转移240万股",
-        "url": "https://www.stocktitan.net/sec-filings/CBRS/form-4-cerebras-systems-inc-insider-trading-activity-87b0a7bd8f9a.html",
-        "time": "20260819T214227",
+        "title": "Cerebras Systems (CBRS) CFO shifts 32.5K shares to Class A",
+        "title_zh": "Cerebras Systems (CBRS)首席财务官将32,500股股份转移至A类",
+        "url": "https://www.stocktitan.net/sec-filings/CBRS/form-4-cerebras-systems-inc-insider-trading-activity-2a45d8ab7cb4.html",
+        "time": "20260821T001120",
         "source": "Stock Titan"
       }
     ],
     "NVDA": [
       {
-        "title": "3 Buy-Rated Dividend Stocks to Play the AI Boom",
-        "title_zh": "3只买入评级股息股票，助力AI热潮",
-        "url": "https://finviz.com/news/384403/3-buy-rated-dividend-stocks-to-play-the-ai-boom",
-        "time": "20260820T215509",
-        "source": "Finviz"
+        "title": "Lululemon Is Down 49% From Its All-Time High. Should You Buy Before Sept. 3?",
+        "title_zh": "Lululemon从历史最高点下跌了49%。您应该在9月3日之前购买吗？",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/lululemon-down-49-time-high-212700665.html",
+        "time": "20260821T212637",
+        "source": "Yahoo Finance"
       },
       {
-        "title": "Arch Capital Group (NASDAQ:ACGL) CFO Francois Morin Sells 11,010 Shares of Stock",
-        "title_zh": "Arch Capital Group （纳斯达克股票代码： ACGL ）首席财务官Francois Morin出售11,010股股票",
-        "url": "https://www.marketbeat.com/instant-alerts/arch-capital-group-nasdaqacgl-cfo-francois-morin-sells-11010-shares-of-stock-2026-08-20/",
-        "time": "20260820T215104",
-        "source": "MarketBeat"
+        "title": "Nvidia Reportedly Strikes $7B Licensing And Investment Deal With AI Startup Poolside — NVDA Stock Ends Week 5% Lower",
+        "title_zh": "据报道，英伟达与AI初创公司池畔达成70亿$的许可和投资交易— NVDA股票周末下跌5%",
+        "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-reportedly-strikes-7b-licensing-205155931.html",
+        "time": "20260821T205153",
+        "source": "Yahoo Finance"
       },
       {
-        "title": "HUT Stock Draws Wall Street Upgrades On Massive Nvidia AI Deals",
-        "title_zh": "HUT股票吸引华尔街对Nvidia AI大规模交易进行升级",
-        "url": "https://stockstotrade.com/news/hut-8-corp-hut-news-2026_08_20/",
-        "time": "20260820T190831",
-        "source": "StocksToTrade"
+        "title": "Advanced Micro Devices vs. Arm Holdings: Comparing Revenue Trends Between These Artificial Intelligence Companies",
+        "title_zh": "先进微设备与ARM控股：这些人工智能公司之间的收入趋势比较",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-vs-arm-200141974.html",
+        "time": "20260821T200205",
+        "source": "Yahoo Finance"
       },
       {
-        "title": "Paul Tudor Jones Just Liquidated His Entire Stake in Applied Materials Stock. I Don’t Think He’s 100% Bearish on AI Though… Yet",
-        "title_zh": "保罗·都铎·琼斯刚刚清算了他在应用材料股票中的全部股份。我不认为他对人工智能100 ％看空，但……",
-        "url": "https://www.barchart.com/story/news/3956206/paul-tudor-jones-just-liquidated-his-entire-stake-in-applied-materials-stock-i-dont-think-hes-100-bearish-on-ai-though-yet",
-        "time": "20260820T181302",
-        "source": "Barchart.com"
+        "title": "Advanced Micro Devices (AMD) Posts Record Sales, But Musk’s NVIDIA (NVDA) Pledge Sinks the Stock",
+        "title_zh": "先进微设备（ AMD ）发布创纪录的销售额，但马斯克的NVIDIA （ NVDA ）承诺使股票下跌",
+        "url": "https://ca.finance.yahoo.com/news/advanced-micro-devices-amd-posts-194827905.html",
+        "time": "20260821T194800",
+        "source": "Yahoo! Finance Canada"
       }
     ],
     "TSM": [
@@ -245,98 +245,98 @@
     ],
     "INTC": [
       {
-        "title": "Intel (INTC) Stock Became 67% Of A Major Investor’s US Equity Portfolio",
-        "title_zh": "英特尔(INTC)股票成为主要投资者美国股票投资组合的67%",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-stock-became-67-170734414.html",
-        "time": "20260820T170810",
+        "title": "Should You Add NVIDIA Stock to Your Portfolio Ahead of Q2 Earnings?",
+        "title_zh": "您是否应该在第二季度收益之前将NVIDIA股票添加到您的投资组合中？",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/add-nvidia-stock-portfolio-ahead-141400651.html",
+        "time": "20260821T143856",
         "source": "Yahoo Finance"
       },
       {
-        "title": "Six in 10 Leaders Bet Big on Robots. Only Four in 10 Are Ready.",
-        "title_zh": "十分之六的领导者在机器人上下大赌注。只有十分之四的人准备好了。",
-        "url": "https://newsroom.intel.com/artificial-intelligence/6-in-10-leaders-bet-big-on-robots-only-4-in-10-are-ready",
-        "time": "20260820T123806",
-        "source": "Intel Newsroom"
+        "title": "‘It’s Done’: Investor Warns Warren Buffett’s Berkshire Can’t Beat the S&P 500 — Bets on PayPal and Intel Instead",
+        "title_zh": "“大功告成” ：投资者警告沃伦·巴菲特的伯克希尔无法击败标准普尔500指数—押注PayPal和英特尔",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/done-investor-warns-warren-buffett-123111231.html",
+        "time": "20260821T123823",
+        "source": "Yahoo Finance"
       },
       {
-        "title": "Micron, Intel, SanDisk Hogged May’s Chip Spotlight — But These 3 Smaller Stocks Crushed Them",
-        "title_zh": "美光、英特尔、闪迪占据了May的芯片聚光灯—但这3只较小的股票粉碎了他们",
-        "url": "https://stocktwits.com/news-articles/markets/equity/micron-intel-san-disk-hogged-may-s-chip-spotlight-but-these-3-smaller-stocks-crushed-them/cZggTlPReAi",
-        "time": "20260820T034108",
-        "source": "Stocktwits"
+        "title": "After Earnings, Is Applied Materials Stock a Buy, a Sell, or Fairly Valued?",
+        "title_zh": "盈利后，应用材料股票是买入、卖出还是公允价值？",
+        "url": "https://www.morningstar.com/stocks/after-earnings-is-applied-materials-stock-buy-sell-or-fairly-valued-7",
+        "time": "20260821T100514",
+        "source": "Morningstar"
       },
       {
-        "title": "Kaplan Fox Continues to Alert Investors of Pentair plc (NYSE: PNR) to a Class Action Deadline on October 2, 2026",
-        "title_zh": "Kaplan Fox继续提醒Pentair plc (NYSE: PNR)投资者注意2026年10月2日的集体诉讼截止日期",
-        "url": "https://www.barchart.com/story/news/3941174/kaplan-fox-continues-to-alert-investors-of-pentair-plc-nyse-pnr-to-a-class-action-deadline-on-october-2-2026",
-        "time": "20260820T020912",
-        "source": "Barchart.com"
+        "title": "Oppenheimer & Co. Inc. Buys 6,702 Shares of Micron Technology, Inc. $MU",
+        "title_zh": "Oppenheimer & Co. Inc.收购Micron Technology, Inc. 6,702股股份$ MU",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-oppenheimer-co-inc-buys-6702-shares-of-micron-technology-inc-mu-2026-08-21/",
+        "time": "20260821T083859",
+        "source": "MarketBeat"
       }
     ],
     "GOOGL": [
       {
-        "title": "TVA to charge data centers more for power under separate rate",
-        "title_zh": "TVA在单独费率下向数据中心收取更多电费",
-        "url": "https://www.timesfreepress.com/news/2026/aug/20/tva-to-charge-data-centers-more-for-power-under/",
-        "time": "20260820T200308",
-        "source": "Chattanooga Times Free Press"
+        "title": "GTA 6 makers subpoena Microsoft, Discord in hunt for leakers",
+        "title_zh": "GTA 6制造商传唤微软， Discord寻找泄密者",
+        "url": "https://mashable.com/tech/take-two-interactive-subpoena-microsoft-discord-cyberleek-grand-theft-auto",
+        "time": "20260821T175131",
+        "source": "Mashable"
       },
       {
-        "title": "After becoming China’s answer to YouTube, BiliBili has its eyes on the rest of the world",
-        "title_zh": "在成为中国对YouTube的回应之后， BiliBili将目光投向了世界其他地方",
-        "url": "https://www.tubefilter.com/2026/08/20/bilibili-china-youtube-west-expansion-plan/",
-        "time": "20260820T191142",
-        "source": "Tubefilter"
+        "title": "Walmart makes major change to how you can pay in stores",
+        "title_zh": "沃尔玛对店内付款方式进行了重大调整",
+        "url": "https://ca.finance.yahoo.com/news/walmart-makes-major-change-pay-183417661.html",
+        "time": "20260821T173438",
+        "source": "Yahoo! Finance Canada"
       },
       {
-        "title": "A look at HTTP's new QUERY method",
-        "title_zh": "看看HTTP的新查询方法",
-        "url": "https://www.techtarget.com/it-infrastructure/tip/A-look-at-HTTPs-new-QUERY-method",
-        "time": "20260820T184520",
-        "source": "TechTarget"
+        "title": "Walmart to accept Apple Pay and Google Pay at all U.S. stores",
+        "title_zh": "沃尔玛将在美国所有商店接受Apple Pay和Google Pay",
+        "url": "https://qz.com/walmart-apple-pay-contactless-payments-tap-to-pay-082126",
+        "time": "20260821T171946",
+        "source": "Quartz"
       },
       {
-        "title": "Chinese Video Platform Bilibili Is Going Global",
-        "title_zh": "中国视频平台Bilibili正在走向全球",
-        "url": "https://www.engadget.com/2241074/chinese-video-platform-bilibili-is-going-global/",
-        "time": "20260820T181142",
+        "title": "Walmart Will Finally Accept Tap To Pay In Stores By The End Of 2026",
+        "title_zh": "沃尔玛最终将在2026年底前接受Tap to Pay店内付款",
+        "url": "https://www.engadget.com/2241608/walmart-will-finally-accept-tap-to-pay-in-stores-by-end-of-2026/",
+        "time": "20260821T153944",
         "source": "Engadget"
       }
     ]
   },
   "quotes": {
     "MU": {
-      "price": 974.33,
+      "price": 966.78,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "AMD": {
-      "price": 469.455,
+      "price": 473.25,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "SNDK": {
-      "price": 1600.62,
+      "price": 1596.08,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "000660.KS": {
-      "price": 1691000.0,
+      "price": 1730000.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "005930.KS": {
-      "price": 271000.0,
+      "price": 281500.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "DELL": {
-      "price": 434.78,
+      "price": 442.08,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
@@ -348,31 +348,31 @@
       "marketState": null
     },
     "CBRS": {
-      "price": 209.85,
+      "price": 196.13,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "NVDA": {
-      "price": 216.85,
+      "price": 214.72,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "TSM": {
-      "price": 416.0,
+      "price": 418.95,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "INTC": {
-      "price": 92.13,
+      "price": 90.07,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "GOOGL": {
-      "price": 340.67,
+      "price": 344.82,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
