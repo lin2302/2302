@@ -1,129 +1,136 @@
 {
-  "updated_at": "2026-08-25T21:50:06.707825+00:00",
+  "updated_at": "2026-08-27T00:55:02.271552+00:00",
   "companies": {
     "MU": [
       {
-        "title": "Western Digital Corp Stock (WDC) Closed Up by 3.53% on Aug 25: Key Drivers Unveiled",
-        "title_zh": "西部数据公司股票（ WDC ） 8月25日收盘上涨3.53% ：关键驱动因素揭晓",
-        "url": "https://www.tradingkey.com/news/market-movers/262131297-market-movers-wdc-20260825",
-        "time": "20260825T201606",
-        "source": "TradingKey"
+        "title": "Lam Research vs. Microchip: Which Chip Stock Is the Better Buy?",
+        "title_zh": "Lam Research与Microchip ：哪种芯片股更好买入？",
+        "url": "https://ca.finance.yahoo.com/news/lam-research-vs-microchip-chip-141100462.html",
+        "time": "20260826T143853",
+        "source": "Yahoo! Finance Canada"
       },
       {
-        "title": "CDW Corp Stock (CDW) Moved Up by 7.73% on Aug 25: A Full Analysis",
-        "title_zh": "CDW Corp股票（ CDW ）于8月25日上涨7.73 ％ ：全面分析",
-        "url": "https://www.tradingkey.com/news/market-movers/262131112-market-movers-cdw-20260825",
-        "time": "20260825T191530",
-        "source": "TradingKey"
+        "title": "Urban Outfitters earnings on deck with profit recovery in focus",
+        "title_zh": "Urban Outfitters在甲板上的盈利，重点是利润恢复",
+        "url": "https://www.investing.com/news/earnings/urban-outfitters-earnings-on-deck-with-profit-recovery-in-focus-93CH-4877356",
+        "time": "20260826T134257",
+        "source": "Investing.com"
       },
       {
-        "title": "Micron Technology (MU) Showed A Rack Scale AI Memory Pooling Breakthrough",
-        "title_zh": "美光科技（ MU ）展示机架式AI内存池突破",
-        "url": "https://uk.finance.yahoo.com/news/micron-technology-mu-showed-rack-190659119.html",
-        "time": "20260825T190700",
-        "source": "Yahoo Finance UK"
+        "title": "Stifel maintains Boston Scientific stock rating after cyber incident",
+        "title_zh": "Stifel在网络事件后维持波士顿科学的股票评级",
+        "url": "https://www.investing.com/news/analyst-ratings/stifel-maintains-boston-scientific-stock-rating-after-cyber-incident-93CH-4877269",
+        "time": "20260826T132217",
+        "source": "Investing.com"
       },
       {
-        "title": "Seagate Technology Holdings PLC Stock (STX) Moved Up by 3.37% on Aug 25: Drivers Behind the Movement",
-        "title_zh": "希捷科技控股PLC股票（ STX ）在8月25日上涨3.37% ：推动这一趋势的因素",
-        "url": "https://www.tradingkey.com/news/market-movers/262130825-market-movers-stx-20260825",
-        "time": "20260825T151536",
-        "source": "TradingKey"
+        "title": "Micron Announces Leadership Appointments to Accelerate Innovation and Growth",
+        "title_zh": "美光宣布任命领导层以加速创新和增长",
+        "url": "https://finance.yahoo.com/technology/articles/micron-announces-leadership-appointments-accelerate-120000952.html",
+        "time": "20260826T123842",
+        "source": "Yahoo Finance"
       }
     ],
     "AMD": [
       {
-        "title": "Apple refreshes Mac mini, Mac Studio lineups with new chips",
-        "title_zh": "苹果用新芯片刷新Mac mini、Mac Studio阵容",
-        "url": "https://siliconangle.com/2026/08/25/apple-refreshes-mac-mini-mac-studio-lineups-with-new-chips/",
-        "time": "20260825T204657",
-        "source": "SiliconANGLE"
+        "title": "Oracle Corp Stock (ORCL) Opened Up by 4.55% on Aug 26: A Full Analysis",
+        "title_zh": "甲骨文公司股票（ ORCL ） 8月26日开盘上涨4.55% ：全面分析",
+        "url": "https://www.tradingkey.com/news/market-movers/262133342-market-movers-orcl-20260826",
+        "time": "20260826T134713",
+        "source": "TradingKey"
       },
       {
-        "title": "Cisco Taps Supermicro for Rack-Scale AI Systems With Nvidia, Shares Climb",
-        "title_zh": "思科借助Nvidia利用Supermicro实现机架式AI系统，股价攀升",
-        "url": "https://finance.biggo.com/news/0f15f88f-3906-464c-a422-5e3d836c0a5f",
-        "time": "20260825T183736",
-        "source": "BigGo Finance"
+        "title": "Stifel maintains Boston Scientific stock rating after cyber incident",
+        "title_zh": "Stifel在网络事件后维持波士顿科学的股票评级",
+        "url": "https://www.investing.com/news/analyst-ratings/stifel-maintains-boston-scientific-stock-rating-after-cyber-incident-93CH-4877269",
+        "time": "20260826T132217",
+        "source": "Investing.com"
       },
       {
-        "title": "Warrior Met Coal stock hits all-time high at 110.44 USD",
-        "title_zh": "Warrior Met煤炭库存创历史新高，达到110.44美元",
-        "url": "https://au.investing.com/news/stock-market-news/warrior-met-coal-stock-hits-alltime-high-at-11044-usd-93CH-4614012",
-        "time": "20260825T164222",
-        "source": "Investing.com Australia"
+        "title": "Nvidia earnings live updates: Q2 results, memory prices and AI outlook",
+        "title_zh": "英伟达财报实时更新：第二季度业绩、内存价格和人工智能前景",
+        "url": "https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html",
+        "time": "20260826T120500",
+        "source": "CNBC"
       },
       {
-        "title": "SMCI's Backlogs are Growing at a Record Pace: What's Ahead?",
-        "title_zh": "SMCI的积压工作正以创纪录的速度增长：未来会发生什么？",
-        "url": "https://www.tradingview.com/news/zacks:1cd9837d0094b:0-smci-s-backlogs-are-growing-at-a-record-pace-what-s-ahead/",
-        "time": "20260825T143822",
-        "source": "TradingView"
+        "title": "PowerCompute's Oklahoma GPU earns Vast.ai's highest machine status",
+        "title_zh": "PowerCompute的俄克拉荷马GPU获得Vast.ai的最高机器地位",
+        "url": "https://www.stocktitan.net/news/PWCM/power-compute-gpu-deployment-achieves-verified-status-on-vast-ai-98fx76mav53f.html",
+        "time": "20260826T115912",
+        "source": "Stock Titan"
       }
     ],
     "SNDK": [
       {
-        "title": "Memory stocks lose momentum as ‘smart money’ shifts away",
-        "title_zh": "随着“聪明钱”的转移，记忆股失去动力",
-        "url": "https://www.communicationstoday.co.in/memory-stocks-lose-momentum-as-smart-money-shifts-away/",
-        "time": "20260824T031405",
-        "source": "Communications Today"
+        "title": "MU, SNDK See August Rebound, But China Risks Loom: After CXMT, Flash Memory Maker YMTC Prepares For Massive IPO",
+        "title_zh": "MU ， SNDK见8月反弹，但中国风险迫在眉睫： CXMT之后，闪存制造商YMTC准备大规模IPO",
+        "url": "https://www.tradingview.com/news/stocktwits:1351fc72b094b:0-mu-sndk-see-august-rebound-but-china-risks-loom-after-cxmt-flash-memory-maker-ymtc-prepares-for-massive-ipo/",
+        "time": "20260826T091122",
+        "source": "TradingView"
       },
       {
-        "title": "Micron, Sandisk, and SK Hynix: History Says This About the Memory Trio's Rally",
-        "title_zh": "美光、桑迪斯克和SK海力士：历史证明了记忆三重奏的拉力赛",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/micron-sandisk-sk-hynix-history-233500299.html",
-        "time": "20260823T193500",
-        "source": "Yahoo Finance"
-      },
-      {
-        "title": "Billionaire Stanley Druckenmiller Just Sold Some Sandisk Stock and Bought These 3 Unstoppable Artificial Intelligence (AI) Stocks",
-        "title_zh": "亿万富翁斯坦利·德鲁肯米勒（ Stanley Druckenmiller ）刚刚卖出一些桑迪斯克股票并买下了这3只不可阻挡的人工智能（ AI ）股票",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-stanley-druckenmiller-just-sold-200400662.html",
-        "time": "20260822T201044",
-        "source": "Yahoo Finance"
-      },
-      {
-        "title": "$SNDK Stock Fell 3% This Week. Here's What We See in Our Data.",
-        "title_zh": "本周$ SNDK股票下跌3%。以下是我们在数据中看到的内容。",
-        "url": "https://www.moomoo.com/news/post/75103594/sndk-stock-fell-3-this-week-here-s-what-we",
-        "time": "20260822T061405",
+        "title": "SanDisk Options Spot-On: On August 25th, 152.13K Contracts Were Traded, With 917.03K Open Interest",
+        "title_zh": "闪迪期权即期： 8月25日，交易了152.13K合约， 917.03K未结利息",
+        "url": "https://www.moomoo.com/news/post/75245337/sandisk-options-spot-on-on-august-25th-152-13k-contracts",
+        "time": "20260825T204003",
         "source": "Moomoo"
+      },
+      {
+        "title": "Nvidia, Bloom Energy, SanDisk, Expion Energy and Visa: Why These 5 Stocks Are on Investors' Radars Today",
+        "title_zh": "英伟达、Bloom Energy、闪迪、Expion Energy和Visa ：为什么这5只股票如今备受投资者关注",
+        "url": "https://www.tradingview.com/news/benzinga:e468b6461094b:0-nvidia-bloom-energy-sandisk-expion-energy-and-visa-why-these-5-stocks-are-on-investors-radars-today/",
+        "time": "20260825T014004",
+        "source": "TradingView"
+      },
+      {
+        "title": "Sandisk Corp (SNDK) insider stock withheld on equity vesting",
+        "title_zh": "Sandisk Corp (SNDK)股权归属预扣内幕股",
+        "url": "https://www.stocktitan.net/sec-filings/SNDK/form-4-sandisk-corp-insider-trading-activity-2e7db6735144.html",
+        "time": "20260824T214004",
+        "source": "Stock Titan"
       }
     ],
     "000660.KS": [],
     "005930.KS": [],
     "DELL": [
       {
-        "title": "Seagate & 2 Momentum Stocks to Buy Now for Explosive Upside",
-        "title_zh": "希捷和2只Momentum股票立即购买爆炸性上行",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/seagate-2-momentum-stocks-buy-190000195.html",
-        "time": "20260825T190945",
-        "source": "Yahoo Finance"
+        "title": "HPE's Private Cloud AI Gains Momentum: What Lies Ahead?",
+        "title_zh": "HPE的私有云AI获得动力：前方是什么？",
+        "url": "https://www.tradingview.com/news/zacks:d88d18dc7094b:0-hpe-s-private-cloud-ai-gains-momentum-what-lies-ahead/",
+        "time": "20260826T143833",
+        "source": "TradingView"
       },
       {
-        "title": "Super Micro Surges 8% as Taiwan Indicts Employees but Not the Company, Dell Climbs 4%",
-        "title_zh": "超微股价飙升8% ，因台湾指责员工而非公司，戴尔攀升4%",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-surges-8-taiwan-144527005.html",
-        "time": "20260825T150934",
-        "source": "Yahoo Finance"
+        "title": "HP issues clarification for partnering with Chinese company that has been labeled as national security threat by America",
+        "title_zh": "惠普就与被美国标记为国家安全威胁的中国公司的合作发布澄清",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/hp-issues-clarification-for-partnering-with-chinese-company-that-has-been-labeled-as-national-security-threat-by-america/articleshow/133539569.cms",
+        "time": "20260826T113618",
+        "source": "The Times of India"
       },
       {
-        "title": "Dell shares may move 11% on Sept. 1 earnings release",
-        "title_zh": "戴尔股票可能会在9月1日的财报中上涨11%",
-        "url": "https://m.investing.com/news/stock-market-news/dell-shares-may-move-11-on-sept-1-earnings-release-93CH-4875642?ampMode=1",
-        "time": "20260825T150742",
+        "title": "Dell, Oracle among market cap stock movers on Wednesday",
+        "title_zh": "戴尔，甲骨文周三成为市值股票推动者之一",
+        "url": "https://www.investing.com/news/stock-market-news/dell-oracle-among-market-cap-stock-movers-on-wednesday-93CH-4877503",
+        "time": "20260826T103500",
         "source": "Investing.com"
       },
       {
-        "title": "Daiichi Life Insurance Co. Ltd. Buys New Holdings in Diamondback Energy, Inc. $FANG",
-        "title_zh": "Daiichi Life Insurance Co. Ltd.收购Diamondback Energy, Inc.的新控股公司$ FANG",
-        "url": "https://www.marketbeat.com/instant-alerts/filing-daiichi-life-insurance-co-ltd-buys-new-holdings-in-diamondback-energy-inc-fang-2026-08-25/",
-        "time": "20260825T081654",
-        "source": "MarketBeat"
+        "title": "Zacks.com featured highlights Seagate Technology, Western Digital and Dell",
+        "title_zh": "Zacks.com精选亮点希捷科技、西部数据和戴尔",
+        "url": "https://www.theglobeandmail.com/investing/markets/stocks/WDC/pressreleases/4087150/zackscom-featured-highlights-seagate-technology-western-digital-and-dell/",
+        "time": "20260826T101043",
+        "source": "The Globe and Mail"
       }
     ],
     "ASX": [
+      {
+        "title": "ASE Technology (NYSE:ASX) Stock Crosses Above 200-Day Moving Average - Here's What Happened",
+        "title_zh": "日月光科技(NYSE: ASX)股价突破200天移动平均线-情况如下",
+        "url": "https://www.marketbeat.com/instant-alerts/price-ase-technology-nyse-asx-stock-crosses-above-200-day-moving-average-heres-what-happened-2026-08-26/",
+        "time": "20260826T061249",
+        "source": "MarketBeat"
+      },
       {
         "title": "ASE Technology Unit Bags NT$1.06 Billion Facility Engineering Contract",
         "title_zh": "日月光科技单元包装袋NT $ 10.6亿设施工程合同",
@@ -144,16 +151,23 @@
         "url": "https://finance.biggo.com/news/1d70e94d-2d22-4337-b1f6-793d08879e60",
         "time": "20260822T124104",
         "source": "BigGo Finance"
-      },
-      {
-        "title": "ASX vs. AMAT: Which AI Semiconductor Stock is the Better Buy?",
-        "title_zh": "ASX与AMAT ：哪种AI半导体股票是更好的买入？",
-        "url": "https://www.easternprogress.com/asx-vs-amat-which-ai-semiconductor-stock-is-the-better-buy/article_1857067f-4a91-553a-8be3-c6ee362f7624.html",
-        "time": "20260820T041206",
-        "source": "Eastern Progress"
       }
     ],
     "CBRS": [
+      {
+        "title": "Cerebras (CBRS) fund shifts Class B stake into Class A",
+        "title_zh": "Cerebras (CBRS)基金将B类股权转移至A类",
+        "url": "https://www.stocktitan.net/sec-filings/CBRS/form-4-cerebras-systems-inc-insider-trading-activity-92a8dfda1f1e.html",
+        "time": "20260825T234110",
+        "source": "Stock Titan"
+      },
+      {
+        "title": "Cerebras Systems (CBRS) CEO sells stock above $195 a share",
+        "title_zh": "Cerebras Systems （ CBRS ）首席执行官出售每股195 $以上的股票",
+        "url": "https://www.stocktitan.net/sec-filings/CBRS/form-4-cerebras-systems-inc-insider-trading-activity-b1823716990d.html",
+        "time": "20260825T224111",
+        "source": "Stock Titan"
+      },
       {
         "title": "Cerebras (NASDAQ: CBRS) CTO reshapes 2.1M shares, donates to charity",
         "title_zh": "Cerebras （纳斯达克股票代码： CBRS ）首席技术官重塑210万股股票，向慈善机构捐款",
@@ -162,58 +176,58 @@
         "source": "Stock Titan"
       },
       {
-        "title": "Cerebras (CBRS) holder shifts 1.9M shares between classes",
-        "title_zh": "Cerebras （ CBRS ）持有人在课程之间转移了190万股股票",
-        "url": "https://www.stocktitan.net/sec-filings/CBRS/form-4-cerebras-systems-inc-insider-trading-activity-b328f11c0631.html",
-        "time": "20260821T011121",
-        "source": "Stock Titan"
-      },
-      {
-        "title": "Cerebras (CBRS) CTO sells 21K shares, retains 7.58M Class B",
-        "title_zh": "Cerebras （ CBRS ）首席技术官出售21,000股，保留7.58 M股B类",
-        "url": "https://www.stocktitan.net/sec-filings/CBRS/form-4-cerebras-systems-inc-insider-trading-activity-fc5ab3dd9566.html",
-        "time": "20260821T001121",
-        "source": "Stock Titan"
-      },
-      {
-        "title": "Cerebras (CBRS) CAO offloads shares to cover RSU taxes",
-        "title_zh": "Cerebras （ CBRS ） CAO卸载股票以支付RSU税",
-        "url": "https://www.stocktitan.net/sec-filings/CBRS/form-4-cerebras-systems-inc-insider-trading-activity-69a80d1c8a46.html",
-        "time": "20260821T001121",
+        "title": "Cerebras Systems (CBRS) director shifts 995K shares in in-kind move",
+        "title_zh": "Cerebras Systems (CBRS)董事以实物形式转移了995,000股股份",
+        "url": "https://www.stocktitan.net/sec-filings/CBRS/form-4-cerebras-systems-inc-insider-trading-activity-0aee453966f9.html",
+        "time": "20260821T214450",
         "source": "Stock Titan"
       }
     ],
     "NVDA": [
       {
-        "title": "Super Micro Computer climbs 9% on Cisco partnership (SMCI:NASDAQ)",
-        "title_zh": "Super Micro Computer在思科合作伙伴关系（ SMCI ：纳斯达克）上攀升9%",
-        "url": "https://seekingalpha.com/news/4636790-super-micro-computer-climbs-9-on-cisco-partnership",
-        "time": "20260825T204225",
-        "source": "Seeking Alpha"
+        "title": "Nvidia earnings countdown: 2 things investors need to see for the stock to climb higher",
+        "title_zh": "英伟达盈利倒计时：投资者需要看到股价上涨的2件事",
+        "url": "https://ca.finance.yahoo.com/video/nvidia-earnings-countdown-2-things-investors-need-to-see-for-the-stock-to-climb-higher-150246651.html",
+        "time": "20260826T150222",
+        "source": "Yahoo! Finance Canada"
       },
       {
-        "title": "Western Digital Corp Stock (WDC) Closed Up by 3.53% on Aug 25: Key Drivers Unveiled",
-        "title_zh": "西部数据公司股票（ WDC ） 8月25日收盘上涨3.53% ：关键驱动因素揭晓",
-        "url": "https://www.tradingkey.com/news/market-movers/262131297-market-movers-wdc-20260825",
-        "time": "20260825T201606",
-        "source": "TradingKey"
+        "title": "TTM Technologies CEO Edwin Roks Buys 10,000 Shares for $1.1 Million. What Is He Telling Investors?",
+        "title_zh": "TTM Technologies首席执行官Edwin Roks以110万美元的价格购买了10,000股股票。他告诉投资者什么？",
+        "url": "https://www.theglobeandmail.com/investing/markets/markets-news/motley/4105655/ttm-technologies-ceo-edwin-roks-buys-10-000-shares-for-1-1-million-what-is-he-telling-investors/",
+        "time": "20260826T134936",
+        "source": "The Globe and Mail"
       },
       {
-        "title": "Cadence Design Systems Inc Stock (CDNS) Closed Up by 5.06% on Aug 25: What Investors Need To Know",
-        "title_zh": "Cadence Design Systems Inc股票于8月25日收盘上涨5.06% ：投资者须知",
-        "url": "https://www.tradingkey.com/news/market-movers/262131292-market-movers-cdns-20260825",
-        "time": "20260825T201525",
-        "source": "TradingKey"
+        "title": "Best Buy or Dollar General: Why One Earnings Report Matters Far More Than the Other",
+        "title_zh": "百思买或Dollar General ：为什么一份收益报告比另一份报告重要得多",
+        "url": "https://247wallst.com/investing/2026/08/26/best-buy-or-dollar-general-why-one-earnings-report-matters-far-more-than-the-other/",
+        "time": "20260826T133444",
+        "source": "24/7 Wall St."
       },
       {
-        "title": "Cisco and Supermicro Are Building for AI's Next Phase",
-        "title_zh": "思科和Supermicro正在构建人工智能的下一阶段",
-        "url": "https://www.tradingview.com/news/gurufocus:24edaf93c094b:0-cisco-and-supermicro-are-building-for-ai-s-next-phase/",
-        "time": "20260825T193736",
-        "source": "TradingView"
+        "title": "Honeywell's transformation into three companies is the focus of a new podcast",
+        "title_zh": "霍尼韦尔转型为三家公司是新播客的重点",
+        "url": "https://www.stocktitan.net/news/TROW/t-rowe-price-explores-what-investors-can-learn-from-honeywell-g3e9k68la6b9.html",
+        "time": "20260826T133027",
+        "source": "Stock Titan"
       }
     ],
     "TSM": [
+      {
+        "title": "TSMC Stock And 2 Global Blue Chips For AI Infrastructure Growth",
+        "title_zh": "台积电股票和2个全球人工智能基础设施增长蓝筹股",
+        "url": "https://simplywall.st/stocks/tw/semiconductors/twse-2330/taiwan-semiconductor-manufacturing-shares/news/tsmc-stock-and-2-global-blue-chips-for-ai-infrastructure-gro",
+        "time": "20260825T154109",
+        "source": "Simply Wall Street"
+      },
+      {
+        "title": "TSM Rides on AI, Advanced Nodes & Capacity Expansion: Worth a Buy?",
+        "title_zh": "TSM搭乘人工智能、高级节点和容量扩展：值得购买吗？",
+        "url": "https://www.tradingview.com/news/zacks:10f15255e094b:0-tsm-rides-on-ai-advanced-nodes-capacity-expansion-worth-a-buy/",
+        "time": "20260825T154109",
+        "source": "TradingView"
+      },
       {
         "title": "Taiwan Semiconductor Manufacturing Co Ltd Stock (TSM) Moved Down by 3.11% on Aug 24: Facts Behind the Movement",
         "title_zh": "台湾半导体制造股份有限公司(TSM)股价于8月24日下跌3.11% ：走势背后的事实",
@@ -227,152 +241,138 @@
         "url": "https://cepa.org/article/unbreakable-shield-why-taiwans-chip-expertise-cannot-be-cloned/",
         "time": "20260824T134249",
         "source": "Center for European Policy Analysis (CEPA)"
-      },
-      {
-        "title": "Taiwan Semiconductor Stock: Does the Booming Revenue Outweigh Geopolitical Risk?",
-        "title_zh": "台湾半导体股票：蓬勃发展的收入是否超过地缘政治风险？",
-        "url": "https://www.theglobeandmail.com/investing/markets/stocks/NVDA-Q/pressreleases/3990062/taiwan-semiconductor-stock-does-the-booming-revenue-outweigh-geopolitical-risk/",
-        "time": "20260823T054404",
-        "source": "The Globe and Mail"
-      },
-      {
-        "title": "Taiwan Semiconductor Manufacturing (TSM) Stock Could Be 27% Overvalued On Fresh AI Demand News",
-        "title_zh": "台湾半导体制造业（ TSM ）股票可能因最新的人工智能需求消息而被高估27 ％",
-        "url": "https://simplywall.st/stocks/us/semiconductors/nyse-tsm/taiwan-semiconductor-manufacturing/news/taiwan-semiconductor-manufacturing-tsm-stock-could-be-27-ove",
-        "time": "20260823T024404",
-        "source": "Simply Wall Street"
       }
     ],
     "INTC": [
       {
-        "title": "Apple refreshes Mac mini, Mac Studio lineups with new chips",
-        "title_zh": "苹果用新芯片刷新Mac mini、Mac Studio阵容",
-        "url": "https://siliconangle.com/2026/08/25/apple-refreshes-mac-mini-mac-studio-lineups-with-new-chips/",
-        "time": "20260825T204657",
-        "source": "SiliconANGLE"
-      },
-      {
-        "title": "Cisco Taps Supermicro for Rack-Scale AI Systems With Nvidia, Shares Climb",
-        "title_zh": "思科借助Nvidia利用Supermicro实现机架式AI系统，股价攀升",
-        "url": "https://finance.biggo.com/news/0f15f88f-3906-464c-a422-5e3d836c0a5f",
-        "time": "20260825T183736",
-        "source": "BigGo Finance"
-      },
-      {
-        "title": "SMCI's Backlogs are Growing at a Record Pace: What's Ahead?",
-        "title_zh": "SMCI的积压工作正以创纪录的速度增长：未来会发生什么？",
-        "url": "https://www.tradingview.com/news/zacks:1cd9837d0094b:0-smci-s-backlogs-are-growing-at-a-record-pace-what-s-ahead/",
-        "time": "20260825T143822",
+        "title": "Trump's Solar Tariffs Could Spark The Next Intel-Style Government Deal: 2 Stocks To Watch",
+        "title_zh": "特朗普的太阳能关税可能引发下一轮英特尔式政府协议： 2只股票值得关注",
+        "url": "https://www.tradingview.com/news/benzinga:d497b6ce4094b:0-trump-s-solar-tariffs-could-spark-the-next-intel-style-government-deal-2-stocks-to-watch/",
+        "time": "20260826T123813",
         "source": "TradingView"
       },
       {
-        "title": "Apple launches new Mac Studio with M5 Max and M5 Ultra chips",
-        "title_zh": "苹果推出搭载M5 Max和M5 Ultra芯片的全新Mac Studio",
-        "url": "https://www.investing.com/news/company-news/apple-launches-new-mac-studio-with-m5-max-and-m5-ultra-chips-93CH-4875512",
-        "time": "20260825T140202",
-        "source": "Investing.com"
+        "title": "Odyssean LLC Buys New Shares in Advanced Micro Devices, Inc. $AMD",
+        "title_zh": "Odyssean LLC收购Advanced Micro Devices, Inc.新股$ AMD",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-odyssean-llc-buys-new-shares-in-advanced-micro-devices-inc-amd-2026-08-26/",
+        "time": "20260826T105507",
+        "source": "MarketBeat"
+      },
+      {
+        "title": "Xanadu And Mitsubishi Chemical Win Funding For Quantum Chip Research",
+        "title_zh": "世外桃源和三菱化学赢得量子芯片研究资金",
+        "url": "https://quantumzeitgeist.com/xanadu-mitsubishi-chemical-funding-win-quantum/",
+        "time": "20260826T104036",
+        "source": "Quantum Zeitgeist"
+      },
+      {
+        "title": "Prediction market traders all but rule out an Nvidia earnings miss",
+        "title_zh": "预测市场交易者几乎排除了Nvidia盈利缺失的可能性",
+        "url": "https://ca.finance.yahoo.com/news/prediction-market-traders-rule-nvidia-103600817.html",
+        "time": "20260826T103557",
+        "source": "Yahoo! Finance Canada"
       }
     ],
     "GOOGL": [
       {
-        "title": "Is Moody's (MCO) Gemini Integration Quietly Redefining Its Edge In AI-Driven Credit Workflows?",
-        "title_zh": "穆迪(Moody's) (MCO) Gemini整合是否悄然重新定义了其在人工智能驱动的信贷工作流程中的优势？",
-        "url": "https://simplywall.st/stocks/us/diversified-financials/nyse-mco/moodys/news/is-moodys-mco-gemini-integration-quietly-redefining-its-edge",
-        "time": "20260825T203449",
-        "source": "Simply Wall Street"
+        "title": "Google's Gemini 3.5 Transcribe enters the voice API market at 2.6% error rate",
+        "title_zh": "谷歌的Gemini 3.5 Transcribe以2.6%的错误率进入语音API市场",
+        "url": "https://247wallst.com/cards/googl-xpost-01m0zry7evy68hgjsz7dhaskkv",
+        "time": "20260826T193202",
+        "source": "24/7 Wall St."
       },
       {
-        "title": "Cadence Design Systems Inc Stock (CDNS) Closed Up by 5.06% on Aug 25: What Investors Need To Know",
-        "title_zh": "Cadence Design Systems Inc股票于8月25日收盘上涨5.06% ：投资者须知",
-        "url": "https://www.tradingkey.com/news/market-movers/262131292-market-movers-cdns-20260825",
-        "time": "20260825T201525",
+        "title": "Palantir Technologies Inc Stock (PLTR) Moved Up by 3.03% on Aug 26: Drivers Behind the Movement",
+        "title_zh": "Palantir Technologies Inc股票(PLTR)在8月26日上涨3.03% ：推动这一运动的因素",
+        "url": "https://www.tradingkey.com/news/market-movers/262133799-market-movers-pltr-20260826",
+        "time": "20260826T191502",
         "source": "TradingKey"
       },
       {
-        "title": "Trimble introduces AI agent for transportation workflows",
-        "title_zh": "Trimble为交通运输工作流程引入人工智能代理",
-        "url": "https://www.ttnews.com/articles/trimble-launch-arc-agent-ai",
-        "time": "20260825T185754",
-        "source": "Transport Topics"
+        "title": "Michael Rulli from Ohio’s 6th district sells part of Alphabet Inc. stock",
+        "title_zh": "来自俄亥俄州第六区的Michael Rulli出售部分Alphabet Inc.股票",
+        "url": "https://www.investing.com/news/company-news/michael-rulli-from-ohios-6th-district-sells-part-of-alphabet-inc-stock-93CH-4877672",
+        "time": "20260826T164601",
+        "source": "Investing.com"
       },
       {
-        "title": "Palo Alto Networks Inc Stock (PANW) Moved Down by 4.02% on Aug 25: What Signal Does It Send?",
-        "title_zh": "Palo Alto Networks Inc股票（ PANW ）在8月25日下跌4.02% ：它发出了什么信号？",
-        "url": "https://www.tradingkey.com/news/market-movers/262131012-market-movers-panw-20260825",
-        "time": "20260825T181536",
-        "source": "TradingKey"
+        "title": "Alphabet A stock trades in the mid-$340s as AI capex and cloud growth shape the Q2 2026 story",
+        "title_zh": "Alphabet A股票在$ 340年代中期交易，因为人工智能资本支出和云增长塑造了2026年第二季度的故事",
+        "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/alphabet-a-stock-trades-in-the-mid-340s-as-ai-capex-and-cloud-growth/70004993",
+        "time": "20260826T160322",
+        "source": "Ad-hoc-news.de"
       }
     ]
   },
   "quotes": {
     "MU": {
-      "price": 932.97,
+      "price": 938.4,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "AMD": {
-      "price": 479.18,
+      "price": 480.93,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "SNDK": {
-      "price": 1480.77,
+      "price": 1499.37,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "000660.KS": {
-      "price": 1678000.0,
+      "price": 1744000.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "005930.KS": {
-      "price": 257000.0,
+      "price": 266500.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "DELL": {
-      "price": 451.5,
+      "price": 463.82,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "ASX": {
-      "price": 37.08,
+      "price": 37.26,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "CBRS": {
-      "price": 183.915,
+      "price": 182.15,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "NVDA": {
-      "price": 213.05,
+      "price": 209.66,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "TSM": {
-      "price": 417.41,
+      "price": 417.69,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "INTC": {
-      "price": 87.48,
+      "price": 88.24,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "GOOGL": {
-      "price": 346.96,
+      "price": 342.0,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
