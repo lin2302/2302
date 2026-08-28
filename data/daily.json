@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-08-27T00:55:02.271552+00:00",
+  "updated_at": "2026-08-28T05:30:18.818624+00:00",
   "companies": {
     "MU": [
       {
-        "title": "Lam Research vs. Microchip: Which Chip Stock Is the Better Buy?",
-        "title_zh": "Lam Research与Microchip ：哪种芯片股更好买入？",
-        "url": "https://ca.finance.yahoo.com/news/lam-research-vs-microchip-chip-141100462.html",
-        "time": "20260826T143853",
-        "source": "Yahoo! Finance Canada"
+        "title": "Lam Research Breaks Ground on New Oregon Lab to Accelerate AI Era Semiconductor Research & Development Locally, Globally",
+        "title_zh": "Lam Research在俄勒冈州新实验室破土动工，以加速本地和全球的人工智能时代半导体研发",
+        "url": "https://www.prnewswire.com/news-releases/lam-research-breaks-ground-on-new-oregon-lab-to-accelerate-ai-era-semiconductor-research--development-locally-globally-302860979.html",
+        "time": "20260827T103147",
+        "source": "PR Newswire"
       },
       {
-        "title": "Urban Outfitters earnings on deck with profit recovery in focus",
-        "title_zh": "Urban Outfitters在甲板上的盈利，重点是利润恢复",
-        "url": "https://www.investing.com/news/earnings/urban-outfitters-earnings-on-deck-with-profit-recovery-in-focus-93CH-4877356",
-        "time": "20260826T134257",
+        "title": "Lam Research breaks ground on new Oregon R&D facility",
+        "title_zh": "Lam Research在俄勒冈州新研发设施破土动工",
+        "url": "https://www.investing.com/news/company-news/lam-research-breaks-ground-on-new-oregon-rd-facility-93CH-4877900",
+        "time": "20260826T213148",
         "source": "Investing.com"
       },
       {
-        "title": "Stifel maintains Boston Scientific stock rating after cyber incident",
-        "title_zh": "Stifel在网络事件后维持波士顿科学的股票评级",
-        "url": "https://www.investing.com/news/analyst-ratings/stifel-maintains-boston-scientific-stock-rating-after-cyber-incident-93CH-4877269",
-        "time": "20260826T132217",
-        "source": "Investing.com"
+        "title": "Jim Cramer Is Bullish on Micron (MU) as AI Fuels Memory Demand",
+        "title_zh": "随着人工智能推动内存需求， Jim Cramer看好美光(MU)",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-bullish-micron-mu-201626167.html",
+        "time": "20260826T201857",
+        "source": "Yahoo Finance"
       },
       {
-        "title": "Micron Announces Leadership Appointments to Accelerate Innovation and Growth",
-        "title_zh": "美光宣布任命领导层以加速创新和增长",
-        "url": "https://finance.yahoo.com/technology/articles/micron-announces-leadership-appointments-accelerate-120000952.html",
-        "time": "20260826T123842",
+        "title": "Micron Technology to Report Fiscal Fourth Quarter Results on September 30, 2026",
+        "title_zh": "美光科技将于2026年9月30日公布第四季度财报",
+        "url": "https://finance.yahoo.com/technology/articles/micron-technology-report-fiscal-fourth-200100507.html",
+        "time": "20260826T200100",
         "source": "Yahoo Finance"
       }
     ],
@@ -38,6 +38,13 @@
         "url": "https://www.tradingkey.com/news/market-movers/262133342-market-movers-orcl-20260826",
         "time": "20260826T134713",
         "source": "TradingKey"
+      },
+      {
+        "title": "AMD vs. Broadcom: Which AI Stock Has the Bigger Upside Potential?",
+        "title_zh": "AMD与Broadcom ：哪种AI股票具有更大的上行潜力？",
+        "url": "https://www.theglobeandmail.com/investing/markets/stocks/AMD-Q/pressreleases/4102481/amd-vs-broadcom-which-ai-stock-has-the-bigger-upside-potential/",
+        "time": "20260826T132431",
+        "source": "The Globe and Mail"
       },
       {
         "title": "Stifel maintains Boston Scientific stock rating after cyber incident",
@@ -52,13 +59,6 @@
         "url": "https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html",
         "time": "20260826T120500",
         "source": "CNBC"
-      },
-      {
-        "title": "PowerCompute's Oklahoma GPU earns Vast.ai's highest machine status",
-        "title_zh": "PowerCompute的俄克拉荷马GPU获得Vast.ai的最高机器地位",
-        "url": "https://www.stocktitan.net/news/PWCM/power-compute-gpu-deployment-achieves-verified-status-on-vast-ai-98fx76mav53f.html",
-        "time": "20260826T115912",
-        "source": "Stock Titan"
       }
     ],
     "SNDK": [
@@ -185,32 +185,32 @@
     ],
     "NVDA": [
       {
-        "title": "Nvidia earnings countdown: 2 things investors need to see for the stock to climb higher",
-        "title_zh": "英伟达盈利倒计时：投资者需要看到股价上涨的2件事",
-        "url": "https://ca.finance.yahoo.com/video/nvidia-earnings-countdown-2-things-investors-need-to-see-for-the-stock-to-climb-higher-150246651.html",
-        "time": "20260826T150222",
-        "source": "Yahoo! Finance Canada"
+        "title": "Roundhill Ball Metaverse ETF (METV) holdings",
+        "title_zh": "Roundhill Ball Metaverse ETF （ METV ）控股",
+        "url": "https://au.finance.yahoo.com/quote/METV/holdings/",
+        "time": "20260828T004205",
+        "source": "Yahoo Finance Australia"
       },
       {
-        "title": "TTM Technologies CEO Edwin Roks Buys 10,000 Shares for $1.1 Million. What Is He Telling Investors?",
-        "title_zh": "TTM Technologies首席执行官Edwin Roks以110万美元的价格购买了10,000股股票。他告诉投资者什么？",
-        "url": "https://www.theglobeandmail.com/investing/markets/markets-news/motley/4105655/ttm-technologies-ceo-edwin-roks-buys-10-000-shares-for-1-1-million-what-is-he-telling-investors/",
-        "time": "20260826T134936",
-        "source": "The Globe and Mail"
+        "title": "Procter & Gamble Has Raised Its Dividend for 70 Straight Years. Here's How Much $25,000 Invested Pays Annually.",
+        "title_zh": "宝洁连续70年提高股息。以下是每年支付25,000 $的金额。",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/procter-gamble-raised-dividend-70-154100762.html",
+        "time": "20260827T201923",
+        "source": "Yahoo Finance"
       },
       {
-        "title": "Best Buy or Dollar General: Why One Earnings Report Matters Far More Than the Other",
-        "title_zh": "百思买或Dollar General ：为什么一份收益报告比另一份报告重要得多",
-        "url": "https://247wallst.com/investing/2026/08/26/best-buy-or-dollar-general-why-one-earnings-report-matters-far-more-than-the-other/",
-        "time": "20260826T133444",
-        "source": "24/7 Wall St."
+        "title": "Why Palo Alto Networks Stock Just Popped",
+        "title_zh": "为什么Palo Alto Networks的股票刚刚上市",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/why-palo-alto-networks-stock-144244212.html",
+        "time": "20260827T104200",
+        "source": "Yahoo Finance"
       },
       {
-        "title": "Honeywell's transformation into three companies is the focus of a new podcast",
-        "title_zh": "霍尼韦尔转型为三家公司是新播客的重点",
-        "url": "https://www.stocktitan.net/news/TROW/t-rowe-price-explores-what-investors-can-learn-from-honeywell-g3e9k68la6b9.html",
-        "time": "20260826T133027",
-        "source": "Stock Titan"
+        "title": "Edwards Lifesciences CVP Daveen Chopra sells $2.9m in stock",
+        "title_zh": "Edwards Lifesciences CVP Daveen Chopra出售290万$股票",
+        "url": "https://www.investing.com/news/insider-trading-news/edwards-lifesciences-cvp-daveen-chopra-sells-29m-in-stock-93CH-4878147",
+        "time": "20260827T014323",
+        "source": "Investing.com"
       }
     ],
     "TSM": [
@@ -245,32 +245,32 @@
     ],
     "INTC": [
       {
+        "title": "Lam Research Breaks Ground on New Oregon Lab to Accelerate AI Era Semiconductor Research & Development Locally, Globally",
+        "title_zh": "Lam Research在俄勒冈州新实验室破土动工，以加速本地和全球的人工智能时代半导体研发",
+        "url": "https://www.prnewswire.com/news-releases/lam-research-breaks-ground-on-new-oregon-lab-to-accelerate-ai-era-semiconductor-research--development-locally-globally-302860979.html",
+        "time": "20260827T103147",
+        "source": "PR Newswire"
+      },
+      {
+        "title": "Lam Research breaks ground on new Oregon R&D facility",
+        "title_zh": "Lam Research在俄勒冈州新研发设施破土动工",
+        "url": "https://www.investing.com/news/company-news/lam-research-breaks-ground-on-new-oregon-rd-facility-93CH-4877900",
+        "time": "20260826T213148",
+        "source": "Investing.com"
+      },
+      {
+        "title": "Jim Cramer Is Bullish on Micron (MU) as AI Fuels Memory Demand",
+        "title_zh": "随着人工智能推动内存需求， Jim Cramer看好美光(MU)",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-bullish-micron-mu-201626167.html",
+        "time": "20260826T201857",
+        "source": "Yahoo Finance"
+      },
+      {
         "title": "Trump's Solar Tariffs Could Spark The Next Intel-Style Government Deal: 2 Stocks To Watch",
         "title_zh": "特朗普的太阳能关税可能引发下一轮英特尔式政府协议： 2只股票值得关注",
         "url": "https://www.tradingview.com/news/benzinga:d497b6ce4094b:0-trump-s-solar-tariffs-could-spark-the-next-intel-style-government-deal-2-stocks-to-watch/",
         "time": "20260826T123813",
         "source": "TradingView"
-      },
-      {
-        "title": "Odyssean LLC Buys New Shares in Advanced Micro Devices, Inc. $AMD",
-        "title_zh": "Odyssean LLC收购Advanced Micro Devices, Inc.新股$ AMD",
-        "url": "https://www.marketbeat.com/instant-alerts/filing-odyssean-llc-buys-new-shares-in-advanced-micro-devices-inc-amd-2026-08-26/",
-        "time": "20260826T105507",
-        "source": "MarketBeat"
-      },
-      {
-        "title": "Xanadu And Mitsubishi Chemical Win Funding For Quantum Chip Research",
-        "title_zh": "世外桃源和三菱化学赢得量子芯片研究资金",
-        "url": "https://quantumzeitgeist.com/xanadu-mitsubishi-chemical-funding-win-quantum/",
-        "time": "20260826T104036",
-        "source": "Quantum Zeitgeist"
-      },
-      {
-        "title": "Prediction market traders all but rule out an Nvidia earnings miss",
-        "title_zh": "预测市场交易者几乎排除了Nvidia盈利缺失的可能性",
-        "url": "https://ca.finance.yahoo.com/news/prediction-market-traders-rule-nvidia-103600817.html",
-        "time": "20260826T103557",
-        "source": "Yahoo! Finance Canada"
       }
     ],
     "GOOGL": [
@@ -306,73 +306,73 @@
   },
   "quotes": {
     "MU": {
-      "price": 938.4,
+      "price": 935.39,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "AMD": {
-      "price": 480.93,
+      "price": 476.67,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "SNDK": {
-      "price": 1499.37,
+      "price": 1484.95,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "000660.KS": {
-      "price": 1744000.0,
+      "price": 1678000.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "005930.KS": {
-      "price": 266500.0,
+      "price": 257500.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "DELL": {
-      "price": 463.82,
+      "price": 472.26,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "ASX": {
-      "price": 37.26,
+      "price": 38.9,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "CBRS": {
-      "price": 182.15,
+      "price": 186.67,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "NVDA": {
-      "price": 209.66,
+      "price": 227.98,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "TSM": {
-      "price": 417.69,
+      "price": 427.3,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "INTC": {
-      "price": 88.24,
+      "price": 92.09,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "GOOGL": {
-      "price": 342.0,
+      "price": 340.65,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
