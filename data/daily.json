@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T05:30:18.818624+00:00",
+  "updated_at": "2026-08-29T03:12:50.781673+00:00",
   "companies": {
     "MU": [
       {
@@ -33,32 +33,32 @@
     ],
     "AMD": [
       {
-        "title": "Oracle Corp Stock (ORCL) Opened Up by 4.55% on Aug 26: A Full Analysis",
-        "title_zh": "甲骨文公司股票（ ORCL ） 8月26日开盘上涨4.55% ：全面分析",
-        "url": "https://www.tradingkey.com/news/market-movers/262133342-market-movers-orcl-20260826",
-        "time": "20260826T134713",
-        "source": "TradingKey"
+        "title": "Glenview Trust Co Buys 10,051 Shares of American Express Company $AXP",
+        "title_zh": "Glenview Trust Co收购美国运通公司$ AXP的10,051股股份",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-glenview-trust-co-buys-10051-shares-of-american-express-company-axp-2026-08-28/",
+        "time": "20260828T114131",
+        "source": "MarketBeat"
       },
       {
-        "title": "AMD vs. Broadcom: Which AI Stock Has the Bigger Upside Potential?",
-        "title_zh": "AMD与Broadcom ：哪种AI股票具有更大的上行潜力？",
-        "url": "https://www.theglobeandmail.com/investing/markets/stocks/AMD-Q/pressreleases/4102481/amd-vs-broadcom-which-ai-stock-has-the-bigger-upside-potential/",
-        "time": "20260826T132431",
-        "source": "The Globe and Mail"
+        "title": "United Capital Financial Advisors LLC Purchases Shares of 29,094 Parker-Hannifin Corporation $PH",
+        "title_zh": "United Capital Financial Advisors LLC购买29,094 Parker-Hannifin Corporation的股份$ PH",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-united-capital-financial-advisors-llc-purchases-shares-of-29094-parker-hannifin-corporation-ph-2026-08-28/",
+        "time": "20260828T105131",
+        "source": "MarketBeat"
       },
       {
-        "title": "Stifel maintains Boston Scientific stock rating after cyber incident",
-        "title_zh": "Stifel在网络事件后维持波士顿科学的股票评级",
-        "url": "https://www.investing.com/news/analyst-ratings/stifel-maintains-boston-scientific-stock-rating-after-cyber-incident-93CH-4877269",
-        "time": "20260826T132217",
-        "source": "Investing.com"
+        "title": "51,040 Shares in Parker-Hannifin Corporation $PH Acquired by Public Employees Retirement System of Ohio",
+        "title_zh": "Parker-Hannifin Corporation的51,040股股份$ PH被俄亥俄州公务员退休系统收购",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-51040-shares-in-parker-hannifin-corporation-ph-acquired-by-public-employees-retirement-system-of-ohio-2026-08-28/",
+        "time": "20260828T105130",
+        "source": "MarketBeat"
       },
       {
-        "title": "Nvidia earnings live updates: Q2 results, memory prices and AI outlook",
-        "title_zh": "英伟达财报实时更新：第二季度业绩、内存价格和人工智能前景",
-        "url": "https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html",
-        "time": "20260826T120500",
-        "source": "CNBC"
+        "title": "Glenview Trust Co Invests $4.43 Million in Sysco Corporation $SYY",
+        "title_zh": "Glenview Trust Co向Sysco Corporation投资$ 443万$ SYY",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-glenview-trust-co-invests-443-million-in-sysco-corporation-syy-2026-08-28/",
+        "time": "20260828T103705",
+        "source": "MarketBeat"
       }
     ],
     "SNDK": [
@@ -185,6 +185,13 @@
     ],
     "NVDA": [
       {
+        "title": "Jupiter Topco LLC Purchases Shares of 2,806,686 Bank of America Corporation $BAC",
+        "title_zh": "Jupiter Topco LLC收购美国银行2,806,686股股份$ BAC",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-jupiter-topco-llc-purchases-shares-of-2806686-bank-of-america-corporation-bac-2026-08-28/",
+        "time": "20260828T093912",
+        "source": "MarketBeat"
+      },
+      {
         "title": "Roundhill Ball Metaverse ETF (METV) holdings",
         "title_zh": "Roundhill Ball Metaverse ETF （ METV ）控股",
         "url": "https://au.finance.yahoo.com/quote/METV/holdings/",
@@ -199,18 +206,11 @@
         "source": "Yahoo Finance"
       },
       {
-        "title": "Why Palo Alto Networks Stock Just Popped",
-        "title_zh": "为什么Palo Alto Networks的股票刚刚上市",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/why-palo-alto-networks-stock-144244212.html",
-        "time": "20260827T104200",
-        "source": "Yahoo Finance"
-      },
-      {
-        "title": "Edwards Lifesciences CVP Daveen Chopra sells $2.9m in stock",
-        "title_zh": "Edwards Lifesciences CVP Daveen Chopra出售290万$股票",
-        "url": "https://www.investing.com/news/insider-trading-news/edwards-lifesciences-cvp-daveen-chopra-sells-29m-in-stock-93CH-4878147",
-        "time": "20260827T014323",
-        "source": "Investing.com"
+        "title": "Have Insiders Sold EOG Resources Shares Recently?",
+        "title_zh": "业内人士最近是否出售了EOG资源股份？",
+        "url": "https://simplywall.st/stocks/us/energy/nyse-eog/eog-resources/news/have-insiders-sold-eog-resources-shares-recently",
+        "time": "20260827T111530",
+        "source": "Simply Wall Street"
       }
     ],
     "TSM": [
@@ -245,6 +245,13 @@
     ],
     "INTC": [
       {
+        "title": "Autodesk Posts Strong Q2 Results, Raises 2027 Outlook",
+        "title_zh": "Autodesk发布强劲的第二季度业绩，提高2027年展望",
+        "url": "https://www.tipranks.com/news/company-announcements/autodesk-posts-strong-q2-results-raises-2027-outlook",
+        "time": "20260827T210657",
+        "source": "TipRanks"
+      },
+      {
         "title": "Lam Research Breaks Ground on New Oregon Lab to Accelerate AI Era Semiconductor Research & Development Locally, Globally",
         "title_zh": "Lam Research在俄勒冈州新实验室破土动工，以加速本地和全球的人工智能时代半导体研发",
         "url": "https://www.prnewswire.com/news-releases/lam-research-breaks-ground-on-new-oregon-lab-to-accelerate-ai-era-semiconductor-research--development-locally-globally-302860979.html",
@@ -252,25 +259,18 @@
         "source": "PR Newswire"
       },
       {
+        "title": "What Are Wall Street Analysts' Target Price for Jack Henry & Associates Stock?",
+        "title_zh": "华尔街分析师对Jack Henry & Associates股票的目标价格是多少？",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-131928496.html",
+        "time": "20260827T061900",
+        "source": "Yahoo Finance"
+      },
+      {
         "title": "Lam Research breaks ground on new Oregon R&D facility",
         "title_zh": "Lam Research在俄勒冈州新研发设施破土动工",
         "url": "https://www.investing.com/news/company-news/lam-research-breaks-ground-on-new-oregon-rd-facility-93CH-4877900",
         "time": "20260826T213148",
         "source": "Investing.com"
-      },
-      {
-        "title": "Jim Cramer Is Bullish on Micron (MU) as AI Fuels Memory Demand",
-        "title_zh": "随着人工智能推动内存需求， Jim Cramer看好美光(MU)",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-bullish-micron-mu-201626167.html",
-        "time": "20260826T201857",
-        "source": "Yahoo Finance"
-      },
-      {
-        "title": "Trump's Solar Tariffs Could Spark The Next Intel-Style Government Deal: 2 Stocks To Watch",
-        "title_zh": "特朗普的太阳能关税可能引发下一轮英特尔式政府协议： 2只股票值得关注",
-        "url": "https://www.tradingview.com/news/benzinga:d497b6ce4094b:0-trump-s-solar-tariffs-could-spark-the-next-intel-style-government-deal-2-stocks-to-watch/",
-        "time": "20260826T123813",
-        "source": "TradingView"
       }
     ],
     "GOOGL": [
@@ -306,73 +306,73 @@
   },
   "quotes": {
     "MU": {
-      "price": 935.39,
+      "price": 932.86,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "AMD": {
-      "price": 476.67,
+      "price": 465.58,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "SNDK": {
-      "price": 1484.95,
+      "price": 1484.98,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "000660.KS": {
-      "price": 1678000.0,
+      "price": 1653000.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "005930.KS": {
-      "price": 257500.0,
+      "price": 257000.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "DELL": {
-      "price": 472.26,
+      "price": 456.24,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "ASX": {
-      "price": 38.9,
+      "price": 37.78,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "CBRS": {
-      "price": 186.67,
+      "price": 179.08,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "NVDA": {
-      "price": 227.98,
+      "price": 217.55,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "TSM": {
-      "price": 427.3,
+      "price": 417.52,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "INTC": {
-      "price": 92.09,
+      "price": 89.47,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "GOOGL": {
-      "price": 340.65,
+      "price": 346.59,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
