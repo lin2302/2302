@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-29T03:12:50.781673+00:00",
+  "updated_at": "2026-09-01T00:41:24.748144+00:00",
   "companies": {
     "MU": [
+      {
+        "title": "Flputnam Investment Management Co. Decreases Stock Holdings in Lam Research Corporation $LRCX",
+        "title_zh": "Flputnam Investment Management Co.减少Lam Research Corporation的股票持有量$ LRCX",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-flputnam-investment-management-co-decreases-stock-holdings-in-lam-research-corporation-lrcx-2026-08-30/",
+        "time": "20260830T085001",
+        "source": "MarketBeat"
+      },
       {
         "title": "Lam Research Breaks Ground on New Oregon Lab to Accelerate AI Era Semiconductor Research & Development Locally, Globally",
         "title_zh": "Lam Research在俄勒冈州新实验室破土动工，以加速本地和全球的人工智能时代半导体研发",
@@ -22,42 +29,35 @@
         "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-bullish-micron-mu-201626167.html",
         "time": "20260826T201857",
         "source": "Yahoo Finance"
-      },
-      {
-        "title": "Micron Technology to Report Fiscal Fourth Quarter Results on September 30, 2026",
-        "title_zh": "美光科技将于2026年9月30日公布第四季度财报",
-        "url": "https://finance.yahoo.com/technology/articles/micron-technology-report-fiscal-fourth-200100507.html",
-        "time": "20260826T200100",
-        "source": "Yahoo Finance"
       }
     ],
     "AMD": [
       {
-        "title": "Glenview Trust Co Buys 10,051 Shares of American Express Company $AXP",
-        "title_zh": "Glenview Trust Co收购美国运通公司$ AXP的10,051股股份",
-        "url": "https://www.marketbeat.com/instant-alerts/filing-glenview-trust-co-buys-10051-shares-of-american-express-company-axp-2026-08-28/",
-        "time": "20260828T114131",
+        "title": "UBS AM a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC Has $393.75 Million Stock Position in Sysco Corporation $SYY",
+        "title_zh": "UBS AM是UBS ASSET MANAGEMENT AMERICAS LLC的独立业务部门，在SYSCO CORPORATION持有$ 3.9375亿美元的股票头寸$ SYY",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-ubs-am-a-distinct-business-unit-of-ubs-asset-management-americas-llc-has-39375-million-stock-position-in-sysco-corporation-syy-2026-08-31/",
+        "time": "20260831T095239",
         "source": "MarketBeat"
       },
       {
-        "title": "United Capital Financial Advisors LLC Purchases Shares of 29,094 Parker-Hannifin Corporation $PH",
-        "title_zh": "United Capital Financial Advisors LLC购买29,094 Parker-Hannifin Corporation的股份$ PH",
-        "url": "https://www.marketbeat.com/instant-alerts/filing-united-capital-financial-advisors-llc-purchases-shares-of-29094-parker-hannifin-corporation-ph-2026-08-28/",
-        "time": "20260828T105131",
+        "title": "5,872 Shares in Digital Realty Trust, Inc. $DLR Acquired by Jefferies Financial Group Inc.",
+        "title_zh": "Digital Realty Trust, Inc.的5,872股股票$ DLR被Jefferies Financial Group Inc.收购",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-5872-shares-in-digital-realty-trust-inc-dlr-acquired-by-jefferies-financial-group-inc-2026-08-31/",
+        "time": "20260831T094206",
         "source": "MarketBeat"
       },
       {
-        "title": "51,040 Shares in Parker-Hannifin Corporation $PH Acquired by Public Employees Retirement System of Ohio",
-        "title_zh": "Parker-Hannifin Corporation的51,040股股份$ PH被俄亥俄州公务员退休系统收购",
-        "url": "https://www.marketbeat.com/instant-alerts/filing-51040-shares-in-parker-hannifin-corporation-ph-acquired-by-public-employees-retirement-system-of-ohio-2026-08-28/",
-        "time": "20260828T105130",
+        "title": "Quantbot Technologies LP Has $138,000 Stock Holdings in Colgate-Palmolive Company $CL",
+        "title_zh": "Quantbot Technologies LP在高露洁-棕榄公司持有$ 138,000股股票$ CL",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-quantbot-technologies-lp-has-138000-stock-holdings-in-colgate-palmolive-company-cl-2026-08-31/",
+        "time": "20260831T092621",
         "source": "MarketBeat"
       },
       {
-        "title": "Glenview Trust Co Invests $4.43 Million in Sysco Corporation $SYY",
-        "title_zh": "Glenview Trust Co向Sysco Corporation投资$ 443万$ SYY",
-        "url": "https://www.marketbeat.com/instant-alerts/filing-glenview-trust-co-invests-443-million-in-sysco-corporation-syy-2026-08-28/",
-        "time": "20260828T103705",
+        "title": "Flputnam Investment Management Co. Has $3.65 Million Holdings in Fastenal Company $FAST",
+        "title_zh": "富卢南投资管理公司（ Flputnam Investment Management Co. ）持有Fastenal公司365万美元的股份",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-flputnam-investment-management-co-has-365-million-holdings-in-fastenal-company-fast-2026-08-31/",
+        "time": "20260831T084243",
         "source": "MarketBeat"
       }
     ],
@@ -95,6 +95,13 @@
     "005930.KS": [],
     "DELL": [
       {
+        "title": "Hewlett Packard Enterprise (HPE) Q3 2026 Preview: Reports on September 2",
+        "title_zh": "惠普企业版（ HPE ） 2026年第三季度预览： 9月2日报告",
+        "url": "https://news.alphastreet.com/hewlett-packard-enterprise-hpe-q3-2026-preview-reports-on-september-2/",
+        "time": "20260829T154757",
+        "source": "AlphaStreet"
+      },
+      {
         "title": "HPE's Private Cloud AI Gains Momentum: What Lies Ahead?",
         "title_zh": "HPE的私有云AI获得动力：前方是什么？",
         "url": "https://www.tradingview.com/news/zacks:d88d18dc7094b:0-hpe-s-private-cloud-ai-gains-momentum-what-lies-ahead/",
@@ -114,13 +121,6 @@
         "url": "https://www.investing.com/news/stock-market-news/dell-oracle-among-market-cap-stock-movers-on-wednesday-93CH-4877503",
         "time": "20260826T103500",
         "source": "Investing.com"
-      },
-      {
-        "title": "Zacks.com featured highlights Seagate Technology, Western Digital and Dell",
-        "title_zh": "Zacks.com精选亮点希捷科技、西部数据和戴尔",
-        "url": "https://www.theglobeandmail.com/investing/markets/stocks/WDC/pressreleases/4087150/zackscom-featured-highlights-seagate-technology-western-digital-and-dell/",
-        "time": "20260826T101043",
-        "source": "The Globe and Mail"
       }
     ],
     "ASX": [
@@ -185,32 +185,32 @@
     ],
     "NVDA": [
       {
-        "title": "Jupiter Topco LLC Purchases Shares of 2,806,686 Bank of America Corporation $BAC",
-        "title_zh": "Jupiter Topco LLC收购美国银行2,806,686股股份$ BAC",
-        "url": "https://www.marketbeat.com/instant-alerts/filing-jupiter-topco-llc-purchases-shares-of-2806686-bank-of-america-corporation-bac-2026-08-28/",
-        "time": "20260828T093912",
-        "source": "MarketBeat"
+        "title": "GE HealthCare Wins EU Nod for Photon-Counting CT",
+        "title_zh": "GE HealthCare赢得欧盟光子计数CT认证",
+        "url": "https://www.mpo-mag.com/breaking-news/ge-healthcare-wins-eu-nod-for-photon-counting-ct/",
+        "time": "20260831T141255",
+        "source": "Medical Product Outsourcing"
       },
       {
-        "title": "Roundhill Ball Metaverse ETF (METV) holdings",
-        "title_zh": "Roundhill Ball Metaverse ETF （ METV ）控股",
-        "url": "https://au.finance.yahoo.com/quote/METV/holdings/",
-        "time": "20260828T004205",
-        "source": "Yahoo Finance Australia"
+        "title": "Alphabet stock holds firm as AI-driven earnings and dividend support a $4 trillion valuation",
+        "title_zh": "Alphabet股票持稳，因为人工智能驱动的盈利和股息支持4万亿美元的估值",
+        "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/alphabet-stock-holds-firm-as-ai-driven-earnings-and-dividend-support-a-4/70026982",
+        "time": "20260831T055947",
+        "source": "AD HOC NEWS"
       },
       {
-        "title": "Procter & Gamble Has Raised Its Dividend for 70 Straight Years. Here's How Much $25,000 Invested Pays Annually.",
-        "title_zh": "宝洁连续70年提高股息。以下是每年支付25,000 $的金额。",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/procter-gamble-raised-dividend-70-154100762.html",
-        "time": "20260827T201923",
-        "source": "Yahoo Finance"
+        "title": "Why I Think Realty Income Is the Best Monthly Dividend Stock You Can Buy",
+        "title_zh": "为什么我认为房地产收入是你能买到的最好的月度股息股票",
+        "url": "https://www.theglobeandmail.com/investing/markets/stocks/O-N/pressreleases/4344210/why-i-think-realty-income-is-the-best-monthly-dividend-stock-you-can-buy/",
+        "time": "20260830T223319",
+        "source": "The Globe and Mail"
       },
       {
-        "title": "Have Insiders Sold EOG Resources Shares Recently?",
-        "title_zh": "业内人士最近是否出售了EOG资源股份？",
-        "url": "https://simplywall.st/stocks/us/energy/nyse-eog/eog-resources/news/have-insiders-sold-eog-resources-shares-recently",
-        "time": "20260827T111530",
-        "source": "Simply Wall Street"
+        "title": "Why I Think Realty Income Is the Best Monthly Dividend Stock You Can Buy",
+        "title_zh": "为什么我认为房地产收入是你能买到的最好的月度股息股票",
+        "url": "https://www.theglobeandmail.com/investing/markets/markets-news/Motley%20Fool/4344210/why-i-think-realty-income-is-the-best-monthly-dividend-stock-you-can-buy/",
+        "time": "20260830T121707",
+        "source": "The Globe and Mail"
       }
     ],
     "TSM": [
@@ -245,6 +245,13 @@
     ],
     "INTC": [
       {
+        "title": "Flputnam Investment Management Co. Decreases Stock Holdings in Lam Research Corporation $LRCX",
+        "title_zh": "Flputnam Investment Management Co.减少Lam Research Corporation的股票持有量$ LRCX",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-flputnam-investment-management-co-decreases-stock-holdings-in-lam-research-corporation-lrcx-2026-08-30/",
+        "time": "20260830T085001",
+        "source": "MarketBeat"
+      },
+      {
         "title": "Autodesk Posts Strong Q2 Results, Raises 2027 Outlook",
         "title_zh": "Autodesk发布强劲的第二季度业绩，提高2027年展望",
         "url": "https://www.tipranks.com/news/company-announcements/autodesk-posts-strong-q2-results-raises-2027-outlook",
@@ -264,115 +271,108 @@
         "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-131928496.html",
         "time": "20260827T061900",
         "source": "Yahoo Finance"
-      },
-      {
-        "title": "Lam Research breaks ground on new Oregon R&D facility",
-        "title_zh": "Lam Research在俄勒冈州新研发设施破土动工",
-        "url": "https://www.investing.com/news/company-news/lam-research-breaks-ground-on-new-oregon-rd-facility-93CH-4877900",
-        "time": "20260826T213148",
-        "source": "Investing.com"
       }
     ],
     "GOOGL": [
       {
-        "title": "Google's Gemini 3.5 Transcribe enters the voice API market at 2.6% error rate",
-        "title_zh": "谷歌的Gemini 3.5 Transcribe以2.6%的错误率进入语音API市场",
-        "url": "https://247wallst.com/cards/googl-xpost-01m0zry7evy68hgjsz7dhaskkv",
-        "time": "20260826T193202",
-        "source": "24/7 Wall St."
+        "title": "Alphabet stock holds firm as AI-driven earnings and dividend support a $4 trillion valuation",
+        "title_zh": "Alphabet股票持稳，因为人工智能驱动的盈利和股息支持4万亿美元的估值",
+        "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/alphabet-stock-holds-firm-as-ai-driven-earnings-and-dividend-support-a-4/70026982",
+        "time": "20260831T055947",
+        "source": "AD HOC NEWS"
       },
       {
-        "title": "Palantir Technologies Inc Stock (PLTR) Moved Up by 3.03% on Aug 26: Drivers Behind the Movement",
-        "title_zh": "Palantir Technologies Inc股票(PLTR)在8月26日上涨3.03% ：推动这一运动的因素",
-        "url": "https://www.tradingkey.com/news/market-movers/262133799-market-movers-pltr-20260826",
-        "time": "20260826T191502",
-        "source": "TradingKey"
+        "title": "Gary Black Says Tesla Robotaxi Skepticism Comes Down To Market Share - Tesla (NASDAQ:TSLA)",
+        "title_zh": "加里·布莱克（ Gary Black ）表示，特斯拉对机器人出租车市场份额持怀疑态度-特斯拉（纳斯达克股票代码： TSLA ）",
+        "url": "https://www.benzinga.com/markets/tech/26/08/61513571/gary-black-tesla-robotaxi-market-share-autonomy-commodity",
+        "time": "20260831T023623",
+        "source": "Benzinga"
       },
       {
-        "title": "Michael Rulli from Ohio’s 6th district sells part of Alphabet Inc. stock",
-        "title_zh": "来自俄亥俄州第六区的Michael Rulli出售部分Alphabet Inc.股票",
-        "url": "https://www.investing.com/news/company-news/michael-rulli-from-ohios-6th-district-sells-part-of-alphabet-inc-stock-93CH-4877672",
-        "time": "20260826T164601",
-        "source": "Investing.com"
+        "title": "Congressman Sold Alphabet Stock Three Months After Buying It, and He Might Have Lost Money",
+        "title_zh": "国会议员在购买Alphabet股票三个月后卖掉了它，他可能会赔钱",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/congressman-sold-alphabet-stock-three-193104909.html",
+        "time": "20260830T153100",
+        "source": "Yahoo Finance"
       },
       {
-        "title": "Alphabet A stock trades in the mid-$340s as AI capex and cloud growth shape the Q2 2026 story",
-        "title_zh": "Alphabet A股票在$ 340年代中期交易，因为人工智能资本支出和云增长塑造了2026年第二季度的故事",
-        "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/alphabet-a-stock-trades-in-the-mid-340s-as-ai-capex-and-cloud-growth/70004993",
-        "time": "20260826T160322",
-        "source": "Ad-hoc-news.de"
+        "title": "Canada Pension Plan Investment Board Acquires Shares of 135,810 Global Payments Inc. $GPN",
+        "title_zh": "加拿大养老金计划投资委员会收购135,810 Global Payments Inc.的股份$ GPN",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-canada-pension-plan-investment-board-acquires-shares-of-135810-global-payments-inc-gpn-2026-08-30/",
+        "time": "20260830T081354",
+        "source": "MarketBeat"
       }
     ]
   },
   "quotes": {
     "MU": {
-      "price": 932.86,
+      "price": 958.73,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "AMD": {
-      "price": 465.58,
+      "price": 470.72,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "SNDK": {
-      "price": 1484.98,
+      "price": 1566.7,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "000660.KS": {
-      "price": 1653000.0,
+      "price": 1665000.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "005930.KS": {
-      "price": 257000.0,
+      "price": 255500.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "DELL": {
-      "price": 456.24,
+      "price": 456.01,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "ASX": {
-      "price": 37.78,
+      "price": 36.95,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "CBRS": {
-      "price": 179.08,
+      "price": 184.24,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "NVDA": {
-      "price": 217.55,
+      "price": 220.78,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "TSM": {
-      "price": 417.52,
+      "price": 415.32,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "INTC": {
-      "price": 89.47,
+      "price": 89.51,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "GOOGL": {
-      "price": 346.59,
+      "price": 339.35,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
