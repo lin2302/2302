@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-09-02T23:26:14.671956+00:00",
+  "updated_at": "2026-09-03T23:22:35.094231+00:00",
   "companies": {
     "MU": [
+      {
+        "title": "Soros Fund Management Increased Micron Nearly Eightfold. Is AI Memory Still One of the Best Chip Trades?",
+        "title_zh": "索罗斯基金管理公司将美光股价上涨近八倍。人工智能内存仍然是最好的芯片交易之一吗？",
+        "url": "https://finance.yahoo.com/technology/ai/articles/soros-fund-management-increased-micron-032555590.html",
+        "time": "20260902T232500",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "Netlist Shares Sink After Losing Appeal in Patent Case Against Micron",
+        "title_zh": "在针对美光的专利案上诉中败诉后， Netlist股票下沉",
+        "url": "https://www.moomoo.com/news/post/75718049/netlist-shares-sink-after-losing-appeal-in-patent-case-against",
+        "time": "20260902T180958",
+        "source": "Moomoo"
+      },
       {
         "title": "Micron Stock Offers More Than A Market Ride",
         "title_zh": "美光股票提供的不仅仅是市场之旅",
@@ -10,117 +24,103 @@
         "source": "Trefis"
       },
       {
-        "title": "Vertex Pharmaceuticals stock hits all-time high at $555.84",
-        "title_zh": "Vertex Pharmaceuticals股价创历史新高，达到555.84 $",
-        "url": "https://www.investing.com/news/company-news/vertex-pharmaceuticals-stock-hits-alltime-high-at-55584-93CH-4886285",
-        "time": "20260902T140253",
-        "source": "Investing.com"
-      },
-      {
-        "title": "Billionaire Philippe Laffont Increased Micron 19-Fold and Added 49% to Amazon. Is This One Giant AI Demand Bet?",
-        "title_zh": "亿万富翁Philippe Laffont将美光增加了19倍，并为亚马逊增加了49%。这是一个巨大的人工智能需求赌注吗？",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-philippe-laffont-increased-micron-105607340.html",
-        "time": "20260902T110653",
-        "source": "Yahoo Finance"
-      },
-      {
-        "title": "Why Super Micro Computer (NASDAQ:SMCI) Tracks the Broader AI Chip Story?",
-        "title_zh": "为什么超级微型计算机（纳斯达克股票代码： SMCI ）追踪更广泛的人工智能芯片故事？",
-        "url": "https://kalkinemedia.com/us/stocks/artificial-intelligence/why-super-micro-computer-nasdaqsmci-tracks-the-broader-ai-chip-story",
-        "time": "20260902T080600",
-        "source": "Kalkine Media"
+        "title": "Billionaire David Tepper Exited SanDisk During Its Historic Rally– The Stock Has Since Fallen Over 30%",
+        "title_zh": "亿万富翁大卫·泰珀（ David Tepper ）在闪迪历史性反弹期间退出闪迪-股价此后下跌超过30 ％",
+        "url": "https://www.benzinga.com/markets/equities/26/09/61576298/tepper-sandisk-exit",
+        "time": "20260902T143049",
+        "source": "Benzinga"
       }
     ],
     "AMD": [
       {
-        "title": "Insider Selling: Leidos (NYSE:LDOS) Director Sells 1,000 Shares",
-        "title_zh": "内幕销售： Leidos (NYSE: LDOS)董事出售1,000股",
-        "url": "https://www.marketbeat.com/instant-alerts/insider-insider-selling-leidos-nyse-ldos-director-sells-1000-shares-2026-09-02/",
-        "time": "20260902T212814",
+        "title": "AI Infrastructure Demand Remains Red-Hot: HPE, AVGO, DELL Deliver",
+        "title_zh": "人工智能基础设施需求依然火热： HPE、AVGO、戴尔交付",
+        "url": "https://uk.finance.yahoo.com/news/ai-infrastructure-demand-remains-red-220200558.html",
+        "time": "20260903T220208",
+        "source": "Yahoo Finance UK"
+      },
+      {
+        "title": "Cathie Wood Sold About $72.8 Million of AMD and Bought About $53 Million of Nvidia. What Changed?",
+        "title_zh": "Cathie Wood出售约7280万$ AMD并购买约5300万$ Nvidia。发生了什么变化？",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-sold-72-8-200905404.html",
+        "time": "20260903T201441",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "Webull Sees Unusually High Options Volume (NASDAQ:BULL)",
+        "title_zh": "Webull看到异常高的期权成交量（纳斯达克股票代码： BULL ）",
+        "url": "https://www.marketbeat.com/instant-alerts/options-webull-sees-unusually-high-options-volume-nasdaq-bull-2026-09-03/",
+        "time": "20260903T172400",
         "source": "MarketBeat"
       },
       {
-        "title": "Can AMD's Saudi AI Buildout Challenge NVIDIA and Broadcom?",
-        "title_zh": "AMD的沙特AI Buildout能否挑战NVIDIA和Broadcom ？",
-        "url": "https://ca.finance.yahoo.com/news/amds-saudi-ai-buildout-challenge-184700108.html",
-        "time": "20260902T184741",
-        "source": "Yahoo! Finance Canada"
-      },
-      {
-        "title": "Insider Selling: First Solar (NASDAQ:FSLR) CTO Sells $160,000.00 in Stock",
-        "title_zh": "内幕销售： First Solar (NASDAQ: FSLR)首席技术官出售$ 160,000.00股票",
-        "url": "https://www.marketbeat.com/instant-alerts/insider-insider-selling-first-solar-nasdaq-fslr-cto-sells-16000000-in-stock-2026-09-02/",
-        "time": "20260902T171129",
-        "source": "MarketBeat"
-      },
-      {
-        "title": "Mizuho Raises Public Storage (NYSE:PSA) Price Target to $319.00",
-        "title_zh": "瑞穗将公共存储(NYSE: PSA)目标价上调至$ 319.00",
-        "url": "https://www.marketbeat.com/instant-alerts/analyst-mizuho-raises-public-storage-nyse-psa-price-target-to-31900-2026-09-02/",
-        "time": "20260902T132034",
-        "source": "MarketBeat"
+        "title": "AI implementation is requiring holistic solutions",
+        "title_zh": "人工智能的实施需要整体解决方案",
+        "url": "https://siliconangle.com/2026/09/03/ai-implementation-supermicroopenstoragesummit/",
+        "time": "20260903T171635",
+        "source": "SiliconANGLE"
       }
     ],
     "SNDK": [
+      {
+        "title": "Sandisk chief legal officer sells $915,360 in common stock By Investing.com",
+        "title_zh": "Sandisk首席法务官通过Investing.com出售$ 915,360的普通股",
+        "url": "https://uk.investing.com/news/stock-market-news/sandisk-chief-legal-officer-sells-915360-in-common-stock-93CH-4856589",
+        "time": "20260903T061849",
+        "source": "Investing.com UK"
+      },
+      {
+        "title": "Data Centers Now Deliver a Third of Sandisk's Revenue -- $2.98 Billion in a Single Quarter",
+        "title_zh": "数据中心现在交付了三分之一的Sandisk收入--单季度收入为29.8亿美元（ $ ）",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/data-centers-now-deliver-third-225801151.html",
+        "time": "20260902T185800",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "Billionaire David Tepper Exited SanDisk During Its Historic Rally– The Stock Has Since Fallen Over 30%",
+        "title_zh": "亿万富翁大卫·泰珀（ David Tepper ）在闪迪历史性反弹期间退出闪迪-股价此后下跌超过30 ％",
+        "url": "https://www.benzinga.com/markets/equities/26/09/61576298/tepper-sandisk-exit",
+        "time": "20260902T143049",
+        "source": "Benzinga"
+      },
       {
         "title": "Kioxia and Sandisk Plan $31B Japan Investment to Expand NAND Capacity",
         "title_zh": "铠侠和桑迪斯克计划在日本投资$ 310亿以扩大NAND产能",
         "url": "https://www.eetasia.com/kioxia-and-sandisk-plan-31b-japan-investment-to-expand-nand-capacity/",
         "time": "20260831T231030",
         "source": "EE Times Asia"
-      },
-      {
-        "title": "Kioxia-Sandisk venture to spend 1.8 trillion yen on new chip factory",
-        "title_zh": "铠侠-桑迪斯合资企业斥资1.8万亿日元建造新芯片工厂",
-        "url": "https://www.asahi.com/ajw/articles/photo/84526745",
-        "time": "20260828T164000",
-        "source": "朝日新聞"
-      },
-      {
-        "title": "MU, SNDK See August Rebound, But China Risks Loom: After CXMT, Flash Memory Maker YMTC Prepares For Massive IPO",
-        "title_zh": "MU ， SNDK见8月反弹，但中国风险迫在眉睫： CXMT之后，闪存制造商YMTC准备大规模IPO",
-        "url": "https://www.tradingview.com/news/stocktwits:1351fc72b094b:0-mu-sndk-see-august-rebound-but-china-risks-loom-after-cxmt-flash-memory-maker-ymtc-prepares-for-massive-ipo/",
-        "time": "20260826T091122",
-        "source": "TradingView"
-      },
-      {
-        "title": "SanDisk Options Spot-On: On August 25th, 152.13K Contracts Were Traded, With 917.03K Open Interest",
-        "title_zh": "闪迪期权即期： 8月25日，交易了152.13K合约， 917.03K未结利息",
-        "url": "https://www.moomoo.com/news/post/75245337/sandisk-options-spot-on-on-august-25th-152-13k-contracts",
-        "time": "20260825T204003",
-        "source": "Moomoo"
       }
     ],
     "000660.KS": [],
     "005930.KS": [],
     "DELL": [
       {
-        "title": "HPE stack serves Spurs stadium refit: VMware out, Juniper pending",
-        "title_zh": "HPE堆栈为马刺体育场改装提供服务： VMware OUT ， Juniper PENDING",
-        "url": "https://www.sdxcentral.com/news/hpe-stack-serves-spurs-stadium-refit-vmware-out-juniper-pending/",
-        "time": "20260902T221752",
-        "source": "SDxCentral"
+        "title": "AI Infrastructure Demand Remains Red-Hot: HPE, AVGO, DELL Deliver",
+        "title_zh": "人工智能基础设施需求依然火热： HPE、AVGO、戴尔交付",
+        "url": "https://uk.finance.yahoo.com/news/ai-infrastructure-demand-remains-red-220200558.html",
+        "time": "20260903T220208",
+        "source": "Yahoo Finance UK"
       },
       {
-        "title": "HPE follows in Dell’s footsteps as it rides the AI server boom to a big earnings beat",
-        "title_zh": "HPE跟随戴尔的脚步，驾驭人工智能服务器的繁荣，实现了巨大的收入增长",
-        "url": "https://www.marketwatch.com/story/hpe-follows-in-dells-footsteps-as-it-rides-the-ai-server-boom-to-a-big-earnings-beat-ec46eaea",
-        "time": "20260902T202555",
-        "source": "MarketWatch"
+        "title": "Are investors underappreciating Broadcom's strong performance?",
+        "title_zh": "投资者是否低估了博通的强劲表现？",
+        "url": "https://finance.yahoo.com/video/investors-underappreciating-broadcoms-strong-performance-142402034.html",
+        "time": "20260903T142446",
+        "source": "Yahoo Finance"
       },
       {
-        "title": "(HPE) Hewlett Packard Enterprise Company Expects Q4 Revenue Range $13.9B - $14.8B",
-        "title_zh": "(HPE)惠普企业公司预计第四季度收入范围$ 139亿- $ 148亿",
-        "url": "https://www.marketscreener.com/news/hpe-hewlett-packard-enterprise-company-expects-q4-revenue-range-13-9b-14-8b-ce7858d3db81f22c",
-        "time": "20260902T201027",
-        "source": "marketscreener.com"
+        "title": "Hewlett Packard Enterprise Falls 5% as Supply Constraints Overshadow Raised Guidance, Super Micro Slips, Dell Holds Steady",
+        "title_zh": "Hewlett Packard Enterprise股价下跌5% ，因供应制约因素黯然失色，超级微滑，戴尔持稳",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/hewlett-packard-enterprise-falls-5-135222527.html",
+        "time": "20260903T135315",
+        "source": "Yahoo Finance"
       },
       {
-        "title": "Unstructured data: Supermicro partners tackle challenges",
-        "title_zh": "非结构化数据： Supermicro合作伙伴应对挑战",
-        "url": "https://siliconangle.com/2026/09/02/unstructured-data-hammerspace-cloudian-seagate-supermicro-supermicroopenstoragesummit/",
-        "time": "20260902T180056",
-        "source": "SiliconANGLE"
+        "title": "Hewlett Packard Enterprise Falls 5% as Supply Constraints Overshadow Raised Guidance, Super Micro Slips, Dell Holds Steady",
+        "title_zh": "Hewlett Packard Enterprise股价下跌5% ，因供应制约因素黯然失色，超级微滑，戴尔持稳",
+        "url": "https://247wallst.com/investing/2026/09/03/hewlett-packard-enterprise-falls-5-as-supply-constraints-overshadow-raised-guidance-super-micro-slips-dell-holds-steady/",
+        "time": "20260903T135215",
+        "source": "24/7 Wall St."
       }
     ],
     "ASX": [
@@ -185,35 +185,42 @@
     ],
     "NVDA": [
       {
-        "title": "HPE follows in Dell’s footsteps as it rides the AI server boom to a big earnings beat",
-        "title_zh": "HPE跟随戴尔的脚步，驾驭人工智能服务器的繁荣，实现了巨大的收入增长",
-        "url": "https://www.marketwatch.com/story/hpe-follows-in-dells-footsteps-as-it-rides-the-ai-server-boom-to-a-big-earnings-beat-ec46eaea",
-        "time": "20260902T202555",
-        "source": "MarketWatch"
+        "title": "AI Infrastructure Demand Remains Red-Hot: HPE, AVGO, DELL Deliver",
+        "title_zh": "人工智能基础设施需求依然火热： HPE、AVGO、戴尔交付",
+        "url": "https://uk.finance.yahoo.com/news/ai-infrastructure-demand-remains-red-220200558.html",
+        "time": "20260903T220208",
+        "source": "Yahoo Finance UK"
       },
       {
-        "title": "Can AMD's Saudi AI Buildout Challenge NVIDIA and Broadcom?",
-        "title_zh": "AMD的沙特AI Buildout能否挑战NVIDIA和Broadcom ？",
-        "url": "https://ca.finance.yahoo.com/news/amds-saudi-ai-buildout-challenge-184700108.html",
-        "time": "20260902T184741",
-        "source": "Yahoo! Finance Canada"
+        "title": "Equinix (NASDAQ:EQIX) Insider Sells $206,189.13 in Stock",
+        "title_zh": "Equinix (NASDAQ: EQIX) Insider售出$ 206,189.13股票",
+        "url": "https://www.marketbeat.com/instant-alerts/insider-equinix-nasdaq-eqix-insider-sells-20618913-in-stock-2026-09-03/",
+        "time": "20260903T213821",
+        "source": "MarketBeat"
       },
       {
-        "title": "Should You Buy Pfizer Stock Below $30?",
-        "title_zh": "您是否应该购买低于$ 30的辉瑞股票？",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/buy-pfizer-stock-below-30-172000892.html",
-        "time": "20260902T172009",
+        "title": "Cathie Wood Sold About $72.8 Million of AMD and Bought About $53 Million of Nvidia. What Changed?",
+        "title_zh": "Cathie Wood出售约7280万$ AMD并购买约5300万$ Nvidia。发生了什么变化？",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-sold-72-8-200905404.html",
+        "time": "20260903T201441",
         "source": "Yahoo Finance"
       },
       {
-        "title": "NVIDIA Rises 4% on Reported $12.9B Hugging Face Deal, Dell Jumps 8% After Guidance Beat",
-        "title_zh": "NVIDIA与报告的129亿美元拥抱面部交易相比上涨4% ，戴尔在指导跳跃后上涨8%",
-        "url": "https://247wallst.com/investing/2026/09/02/nvidia-rises-4-on-reported-12-9b-hugging-face-deal-dell-jumps-8-after-guidance-beat/",
-        "time": "20260902T171043",
-        "source": "24/7 Wall St."
+        "title": "Jim Cramer Wants NVIDIA (NVDA) to Bet $500 Billion on Itself as AI Financing Risks Grow",
+        "title_zh": "随着人工智能融资风险的增长， Jim Cramer希望NVIDIA (NVDA)将5000亿美元押在自己身上",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-wants-nvidia-nvda-175615939.html",
+        "time": "20260903T181130",
+        "source": "Yahoo Finance"
       }
     ],
     "TSM": [
+      {
+        "title": "Licensable picture: Taiwan Semiconductor Manufacturing Co Ltd Chairman Morris Chang answers a question in Taipei",
+        "title_zh": "许可图片：台湾半导体制造股份有限公司董事长Morris Chang在台北回答问题",
+        "url": "https://www.reutersconnect.com/item/taiwan-semiconductor-manufacturing-co-ltd-chairman-morris-chang-answers-a-question-in-taipei/dGFnOnJldXRlcnMuY29tLDIwMTQ6bmV3c21sX0dNMUVBN0cxQkRDMDE",
+        "time": "20260902T123403",
+        "source": "Reuters Connect"
+      },
       {
         "title": "TSMC will invest an additional $100 billion into Arizona operations",
         "title_zh": "台积电将向亚利桑那州的业务再投资1000亿美元",
@@ -234,145 +241,138 @@
         "url": "https://simplywall.st/stocks/tw/semiconductors/twse-2330/taiwan-semiconductor-manufacturing-shares/news/tsmc-stock-and-2-global-blue-chips-for-ai-infrastructure-gro",
         "time": "20260825T154109",
         "source": "Simply Wall Street"
-      },
-      {
-        "title": "Taiwan Semiconductor Manufacturing Co Ltd Stock (TSM) Moved Down by 3.11% on Aug 24: Facts Behind the Movement",
-        "title_zh": "台湾半导体制造股份有限公司(TSM)股价于8月24日下跌3.11% ：走势背后的事实",
-        "url": "https://www.tradingkey.com/news/market-movers/262127968-market-movers-tsm-20260824",
-        "time": "20260824T144249",
-        "source": "TradingKey"
       }
     ],
     "INTC": [
       {
-        "title": "Apple to Mac developers: It’s time to let go of Intel",
-        "title_zh": "苹果致Mac开发者：是时候放弃英特尔了",
-        "url": "https://www.macworld.com/article/3225932/apple-to-mac-developers-its-time-to-let-go-of-intel.html",
-        "time": "20260902T162553",
-        "source": "Macworld"
+        "title": "Mizuho cuts Intel stock price target to $92 on multiple compression",
+        "title_zh": "瑞穗将多次压缩的英特尔股价目标下调至92 $",
+        "url": "https://www.investing.com/news/analyst-ratings/mizuho-cuts-intel-stock-price-target-to-92-on-multiple-compression-93CH-4888577",
+        "time": "20260903T213022",
+        "source": "Investing.com"
       },
       {
-        "title": "A look inside Apple’s relationships with Intel and TSMC",
-        "title_zh": "了解苹果与英特尔和台积电的关系",
-        "url": "https://www.computerworld.com/article/4217583/a-look-inside-apples-relationships-with-intel-and-tsmc.html",
-        "time": "20260902T161856",
-        "source": "Computerworld"
+        "title": "Lululemon Faces Q2 Revenue Decline as Americas Weaken but International Sales Grow",
+        "title_zh": "Lululemon面临第二季度收入下滑，因为美洲市场疲软，但国际销售额增长",
+        "url": "https://www.tipranks.com/news/company-announcements/lululemon-faces-q2-revenue-decline-as-americas-weaken-but-international-sales-grow",
+        "time": "20260903T203905",
+        "source": "TipRanks"
       },
       {
-        "title": "Micron Stock Offers More Than A Market Ride",
-        "title_zh": "美光股票提供的不仅仅是市场之旅",
-        "url": "https://www.trefis.com/stock/mu/articles/613938/micron-stock-offers-more-than-a-market-ride/2026-09-02",
-        "time": "20260902T161011",
-        "source": "Trefis"
+        "title": "Apple Inc. | History, Products, & Headquarters - Tim Cook, Trillion Dollar, Tech Giant",
+        "title_zh": "Apple Inc. |历史、产品和总部- Tim Cook, Trillion Dollar, Tech Giant",
+        "url": "https://www.britannica.com/money/Apple-Inc/2011-2019-Tim-Cook-and-Apples-expansion",
+        "time": "20260903T184034",
+        "source": "Britannica"
       },
       {
-        "title": "Why Did Alphabet (NASDAQ:GOOGL) Shares Just Tumble on Executive News?",
-        "title_zh": "为什么Alphabet （纳斯达克股票代码： GOOGL ）的股票在高管新闻中暴跌？",
-        "url": "https://kalkinemedia.com/us/stocks/technical-analysis/why-did-alphabet-nasdaqgoogl-shares-just-tumble-on-executive-news",
-        "time": "20260902T121952",
-        "source": "Kalkine Media"
+        "title": "AMD is Quietly Eating Intel’s Lunch",
+        "title_zh": "AMD正在安静地享用英特尔的午餐",
+        "url": "https://247wallst.com/investing/2026/09/03/amd-is-quietly-eating-intels-lunch/",
+        "time": "20260903T122631",
+        "source": "24/7 Wall St."
       }
     ],
     "GOOGL": [
       {
-        "title": "Waymo taps into debt markets with $3B deal with Pimco, Blackstone - report",
-        "title_zh": "Waymo通过与Pimco、Blackstone的$ 3B交易进入债务市场-报告",
-        "url": "https://www.investing.com/news/stock-market-news/waymo-taps-into-debt-markets-with-3b-deal-with-pimco-blackstone--report-4886609",
-        "time": "20260902T180902",
-        "source": "Investing.com"
+        "title": "Match Group (NASDAQ:MTCH) Hits New High Despite Revenue Pressure",
+        "title_zh": "Match Group （纳斯达克股票代码： MTCH ）在收入压力下创下新高",
+        "url": "https://kalkinemedia.com/us/stocks/communication/match-group-nasdaqmtch-hits-new-high-despite-revenue-pressure",
+        "time": "20260903T170925",
+        "source": "Kalkine Media"
       },
       {
-        "title": "Broadcom's price sinks over 6% after releasing Q3 earnings",
-        "title_zh": "博通发布第三季度财报后价格下跌超过6%",
-        "url": "https://finance.yahoo.com/video/broadcoms-price-sinks-over-6-after-releasing-q3-earnings-204118312.html",
-        "time": "20260902T164100",
+        "title": "Cramer Warns Broadcom’s $30 Billion AI Bet Depends on a Stock You Cannot Buy",
+        "title_zh": "Cramer警告博通300亿美元的人工智能赌注取决于您无法购买的股票",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/cramer-warns-broadcom-30-billion-162353047.html",
+        "time": "20260903T162441",
         "source": "Yahoo Finance"
       },
       {
-        "title": "Waymo seeks more than $3B in first debt deal to fund growth",
-        "title_zh": "Waymo寻求超过30亿美元的首笔债务交易来为增长提供资金",
-        "url": "https://www.ttnews.com/articles/waymo-3b-debt-deal-fund-growth",
-        "time": "20260902T153300",
-        "source": "Transport Topics"
+        "title": "KeyBanc reiterates Microsoft stock Overweight on cleaner Azure disclosure",
+        "title_zh": "KeyBanc重申对更清洁的Azure披露的微软股票增持",
+        "url": "https://www.investing.com/news/analyst-ratings/keybanc-reiterates-microsoft-stock-overweight-on-cleaner-azure-disclosure-93CH-4888116",
+        "time": "20260903T142021",
+        "source": "Investing.com"
       },
       {
-        "title": "Gartner Warns CX AI Budgets Are Surging",
-        "title_zh": "Gartner警告CX AI预算激增",
-        "url": "https://www.cxtoday.com/ai-automation-in-cx/gartner-warns-cx-ai-budgets-are-surging/",
-        "time": "20260902T143159",
-        "source": "CX Today"
+        "title": "Uber to lay off 3,300 employees as competition with robotaxis grow",
+        "title_zh": "随着与机器人出租车的竞争加剧，优步将裁员3300人",
+        "url": "https://www.livenowfox.com/news/uber-lay-off-3300-employees-competition-robotaxis-grow",
+        "time": "20260903T141351",
+        "source": "LiveNOW from FOX"
       }
     ]
   },
   "quotes": {
     "MU": {
-      "price": 956.08,
+      "price": 958.16,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "AMD": {
-      "price": 457.06,
+      "price": 456.16,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "SNDK": {
-      "price": 1553.4,
+      "price": 1554.99,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "000660.KS": {
-      "price": 1613000.0,
+      "price": 1596000.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "005930.KS": {
-      "price": 250500.0,
+      "price": 250000.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "DELL": {
-      "price": 492.2,
+      "price": 516.39,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "ASX": {
-      "price": 37.08,
+      "price": 37.43,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "CBRS": {
-      "price": 184.52,
+      "price": 190.44,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "NVDA": {
-      "price": 224.41,
+      "price": 228.45,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "TSM": {
-      "price": 415.5,
+      "price": 417.01,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "INTC": {
-      "price": 90.05,
+      "price": 91.67,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "GOOGL": {
-      "price": 337.12,
+      "price": 342.48,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
