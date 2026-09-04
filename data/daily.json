@@ -1,64 +1,64 @@
 {
-  "updated_at": "2026-09-03T23:22:35.094231+00:00",
+  "updated_at": "2026-09-04T23:06:49.560330+00:00",
   "companies": {
     "MU": [
       {
-        "title": "Soros Fund Management Increased Micron Nearly Eightfold. Is AI Memory Still One of the Best Chip Trades?",
-        "title_zh": "索罗斯基金管理公司将美光股价上涨近八倍。人工智能内存仍然是最好的芯片交易之一吗？",
-        "url": "https://finance.yahoo.com/technology/ai/articles/soros-fund-management-increased-micron-032555590.html",
-        "time": "20260902T232500",
+        "title": "Moody’s changes Seplat Energy outlook on Nigeria upgrade",
+        "title_zh": "穆迪改变Seplat Energy对尼日利亚升级的展望",
+        "url": "https://www.investing.com/news/stock-market-news/moodys-changes-seplat-energy-outlook-on-nigeria-upgrade-93CH-4889952",
+        "time": "20260904T192240",
+        "source": "Investing.com"
+      },
+      {
+        "title": "Western Digital (WDC) Down 2.2% Since Last Earnings Report: Can It Rebound?",
+        "title_zh": "西部数据(WDC)自上次收益报告以来下跌2.2% ：能否反弹？",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/western-digital-wdc-down-2-153035488.html",
+        "time": "20260904T153136",
         "source": "Yahoo Finance"
       },
       {
-        "title": "Netlist Shares Sink After Losing Appeal in Patent Case Against Micron",
-        "title_zh": "在针对美光的专利案上诉中败诉后， Netlist股票下沉",
-        "url": "https://www.moomoo.com/news/post/75718049/netlist-shares-sink-after-losing-appeal-in-patent-case-against",
-        "time": "20260902T180958",
-        "source": "Moomoo"
-      },
-      {
-        "title": "Micron Stock Offers More Than A Market Ride",
-        "title_zh": "美光股票提供的不仅仅是市场之旅",
-        "url": "https://www.trefis.com/stock/mu/articles/613938/micron-stock-offers-more-than-a-market-ride/2026-09-02",
-        "time": "20260902T161011",
-        "source": "Trefis"
-      },
-      {
-        "title": "Billionaire David Tepper Exited SanDisk During Its Historic Rally– The Stock Has Since Fallen Over 30%",
-        "title_zh": "亿万富翁大卫·泰珀（ David Tepper ）在闪迪历史性反弹期间退出闪迪-股价此后下跌超过30 ％",
-        "url": "https://www.benzinga.com/markets/equities/26/09/61576298/tepper-sandisk-exit",
-        "time": "20260902T143049",
+        "title": "Micron, SanDisk Jump 4% Despite Hot Jobs Report Raising Fed Hike Odds - Micron Technology (NASDAQ:MU)",
+        "title_zh": "美光、闪迪飙升4% ，尽管就业热门报告提高了美联储加息几率-美光科技(NASDAQ: MU)",
+        "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61631763/micron-sandisk-hot-jobs-report",
+        "time": "20260904T150828",
         "source": "Benzinga"
+      },
+      {
+        "title": "Lam Research and Tesla among market cap stock movers on Friday",
+        "title_zh": "Lam Research和特斯拉周五成为市值股票推动者",
+        "url": "https://m.investing.com/news/stock-market-news/lam-research-and-tesla-among-market-cap-stock-movers-on-friday-93CH-4889757?ampMode=1",
+        "time": "20260904T141052",
+        "source": "Investing.com"
       }
     ],
     "AMD": [
       {
-        "title": "AI Infrastructure Demand Remains Red-Hot: HPE, AVGO, DELL Deliver",
-        "title_zh": "人工智能基础设施需求依然火热： HPE、AVGO、戴尔交付",
-        "url": "https://uk.finance.yahoo.com/news/ai-infrastructure-demand-remains-red-220200558.html",
-        "time": "20260903T220208",
-        "source": "Yahoo Finance UK"
+        "title": "Isman Adrian Acquires 10 Shares of Bunge Global SA at $119.25 Each on September 1, 2026",
+        "title_zh": "Isman Adrian于2026年9月1日以每股119.25 $的价格收购Bunge Global SA的10股股票",
+        "url": "https://kalkinemedia.com/us/news/announcements/isman-adrian-acquires-10-shares-of-bunge-global-sa-at-11925-each-on-september-1-2026",
+        "time": "20260904T183208",
+        "source": "Kalkine Media"
       },
       {
-        "title": "Cathie Wood Sold About $72.8 Million of AMD and Bought About $53 Million of Nvidia. What Changed?",
-        "title_zh": "Cathie Wood出售约7280万$ AMD并购买约5300万$ Nvidia。发生了什么变化？",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-sold-72-8-200905404.html",
-        "time": "20260903T201441",
-        "source": "Yahoo Finance"
+        "title": "How Far AMD Stock Can Swing In Its Calm Case",
+        "title_zh": "AMD股票在平静的情况下可以摆动多远",
+        "url": "https://www.trefis.com/stock/amd/articles/614414/how-far-amd-stock-can-swing-in-its-calm-case/2026-09-04",
+        "time": "20260904T163116",
+        "source": "Trefis"
       },
       {
-        "title": "Webull Sees Unusually High Options Volume (NASDAQ:BULL)",
-        "title_zh": "Webull看到异常高的期权成交量（纳斯达克股票代码： BULL ）",
-        "url": "https://www.marketbeat.com/instant-alerts/options-webull-sees-unusually-high-options-volume-nasdaq-bull-2026-09-03/",
-        "time": "20260903T172400",
+        "title": "Marvell Technology and Taiwan Semiconductor are No-Brainer Picks: They Have What Wins in a Gold Rush",
+        "title_zh": "Marvell Technology和台湾半导体是明智之选：他们在淘金热中获胜",
+        "url": "https://247wallst.com/investing/2026/09/04/marvell-technology-and-taiwan-semiconductor-are-no-brainer-picks-they-have-what-wins-in-a-gold-rush/",
+        "time": "20260904T114038",
+        "source": "24/7 Wall St."
+      },
+      {
+        "title": "Stonebridge Capital Management Inc. Sells 23,810 Shares of Intel Corporation $INTC",
+        "title_zh": "Stonebridge Capital Management Inc.出售英特尔公司23,810股$ INTC股票",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-stonebridge-capital-management-inc-sells-23810-shares-of-intel-corporation-intc-2026-09-04/",
+        "time": "20260904T082735",
         "source": "MarketBeat"
-      },
-      {
-        "title": "AI implementation is requiring holistic solutions",
-        "title_zh": "人工智能的实施需要整体解决方案",
-        "url": "https://siliconangle.com/2026/09/03/ai-implementation-supermicroopenstoragesummit/",
-        "time": "20260903T171635",
-        "source": "SiliconANGLE"
       }
     ],
     "SNDK": [
@@ -95,32 +95,32 @@
     "005930.KS": [],
     "DELL": [
       {
-        "title": "AI Infrastructure Demand Remains Red-Hot: HPE, AVGO, DELL Deliver",
-        "title_zh": "人工智能基础设施需求依然火热： HPE、AVGO、戴尔交付",
-        "url": "https://uk.finance.yahoo.com/news/ai-infrastructure-demand-remains-red-220200558.html",
-        "time": "20260903T220208",
-        "source": "Yahoo Finance UK"
-      },
-      {
-        "title": "Are investors underappreciating Broadcom's strong performance?",
-        "title_zh": "投资者是否低估了博通的强劲表现？",
-        "url": "https://finance.yahoo.com/video/investors-underappreciating-broadcoms-strong-performance-142402034.html",
-        "time": "20260903T142446",
+        "title": "Super Micro Surges 7% as Semiconductors Lead a Flat Tape; Hewlett Packard Enterprise Falls 3%, Dell Edges Higher",
+        "title_zh": "超级微浪涌7% ，半导体领跑扁平磁带；惠普企业股下跌3% ，戴尔优势更高",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-surges-7-semiconductors-180514356.html",
+        "time": "20260904T181554",
         "source": "Yahoo Finance"
       },
       {
-        "title": "Hewlett Packard Enterprise Falls 5% as Supply Constraints Overshadow Raised Guidance, Super Micro Slips, Dell Holds Steady",
-        "title_zh": "Hewlett Packard Enterprise股价下跌5% ，因供应制约因素黯然失色，超级微滑，戴尔持稳",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/hewlett-packard-enterprise-falls-5-135222527.html",
-        "time": "20260903T135315",
-        "source": "Yahoo Finance"
+        "title": "HR Tech Firm Gusto Expands to 76K SF at Vornado’s Penn 1",
+        "title_zh": "人力资源技术公司Gusto在Vornado's Penn 1扩张至76,000平方英尺",
+        "url": "https://commercialobserver.com/2026/09/gusto-lease-expansion-renewal-vornado-penn-1/",
+        "time": "20260904T153029",
+        "source": "Commercial Observer"
       },
       {
-        "title": "Hewlett Packard Enterprise Falls 5% as Supply Constraints Overshadow Raised Guidance, Super Micro Slips, Dell Holds Steady",
-        "title_zh": "Hewlett Packard Enterprise股价下跌5% ，因供应制约因素黯然失色，超级微滑，戴尔持稳",
-        "url": "https://247wallst.com/investing/2026/09/03/hewlett-packard-enterprise-falls-5-as-supply-constraints-overshadow-raised-guidance-super-micro-slips-dell-holds-steady/",
-        "time": "20260903T135215",
-        "source": "24/7 Wall St."
+        "title": "Micron, SanDisk Jump 4% Despite Hot Jobs Report Raising Fed Hike Odds - Micron Technology (NASDAQ:MU)",
+        "title_zh": "美光、闪迪飙升4% ，尽管就业热门报告提高了美联储加息几率-美光科技(NASDAQ: MU)",
+        "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61631763/micron-sandisk-hot-jobs-report",
+        "time": "20260904T150828",
+        "source": "Benzinga"
+      },
+      {
+        "title": "TCFG Investment Advisors LLC Decreases Holdings in NVIDIA Corporation $NVDA",
+        "title_zh": "TCFG Investment Advisors LLC减持NVIDIA Corporation $ NVDA股份",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-tcfg-investment-advisors-llc-decreases-holdings-in-nvidia-corporation-nvda-2026-09-04/",
+        "time": "20260904T082814",
+        "source": "MarketBeat"
       }
     ],
     "ASX": [
@@ -185,35 +185,42 @@
     ],
     "NVDA": [
       {
-        "title": "AI Infrastructure Demand Remains Red-Hot: HPE, AVGO, DELL Deliver",
-        "title_zh": "人工智能基础设施需求依然火热： HPE、AVGO、戴尔交付",
-        "url": "https://uk.finance.yahoo.com/news/ai-infrastructure-demand-remains-red-220200558.html",
-        "time": "20260903T220208",
-        "source": "Yahoo Finance UK"
+        "title": "Moody’s changes Seplat Energy outlook on Nigeria upgrade",
+        "title_zh": "穆迪改变Seplat Energy对尼日利亚升级的展望",
+        "url": "https://www.investing.com/news/stock-market-news/moodys-changes-seplat-energy-outlook-on-nigeria-upgrade-93CH-4889952",
+        "time": "20260904T192240",
+        "source": "Investing.com"
       },
       {
-        "title": "Equinix (NASDAQ:EQIX) Insider Sells $206,189.13 in Stock",
-        "title_zh": "Equinix (NASDAQ: EQIX) Insider售出$ 206,189.13股票",
-        "url": "https://www.marketbeat.com/instant-alerts/insider-equinix-nasdaq-eqix-insider-sells-20618913-in-stock-2026-09-03/",
-        "time": "20260903T213821",
-        "source": "MarketBeat"
+        "title": "These companies are growing their dividends and may see upside, Morgan Stanley says",
+        "title_zh": "摩根士丹利表示，这些公司的股息正在增长，并可能看到上行空间",
+        "url": "https://www.cnbc.com/2026/09/04/these-companies-are-growing-their-dividends-morgan-stanley-says.html",
+        "time": "20260904T191236",
+        "source": "CNBC"
       },
       {
-        "title": "Cathie Wood Sold About $72.8 Million of AMD and Bought About $53 Million of Nvidia. What Changed?",
-        "title_zh": "Cathie Wood出售约7280万$ AMD并购买约5300万$ Nvidia。发生了什么变化？",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-sold-72-8-200905404.html",
-        "time": "20260903T201441",
-        "source": "Yahoo Finance"
+        "title": "HP Announces New OmniBook PCs to Help Build the Next Generation of AI Experiences",
+        "title_zh": "惠普宣布推出新的OmniBook PC ，以帮助构建下一代人工智能体验",
+        "url": "https://au.finance.yahoo.com/news/hp-announces-omnibook-pcs-help-180000897.html",
+        "time": "20260904T180058",
+        "source": "Yahoo Finance Australia"
       },
       {
-        "title": "Jim Cramer Wants NVIDIA (NVDA) to Bet $500 Billion on Itself as AI Financing Risks Grow",
-        "title_zh": "随着人工智能融资风险的增长， Jim Cramer希望NVIDIA (NVDA)将5000亿美元押在自己身上",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-wants-nvidia-nvda-175615939.html",
-        "time": "20260903T181130",
+        "title": "American Financial Group Lifted Its Dividend 10.2% and Kept Buying Back Stock",
+        "title_zh": "美国金融集团提高股息10.2%并继续回购股票",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/american-financial-group-lifted-dividend-103500922.html",
+        "time": "20260904T173500",
         "source": "Yahoo Finance"
       }
     ],
     "TSM": [
+      {
+        "title": "Marvell Technology and Taiwan Semiconductor are No-Brainer Picks: They Have What Wins in a Gold Rush",
+        "title_zh": "Marvell Technology和台湾半导体是明智之选：他们在淘金热中获胜",
+        "url": "https://247wallst.com/investing/2026/09/04/marvell-technology-and-taiwan-semiconductor-are-no-brainer-picks-they-have-what-wins-in-a-gold-rush/",
+        "time": "20260904T114038",
+        "source": "24/7 Wall St."
+      },
       {
         "title": "Licensable picture: Taiwan Semiconductor Manufacturing Co Ltd Chairman Morris Chang answers a question in Taipei",
         "title_zh": "许可图片：台湾半导体制造股份有限公司董事长Morris Chang在台北回答问题",
@@ -229,13 +236,6 @@
         "source": "AZ Big Media"
       },
       {
-        "title": "TSM Rides on AI, Advanced Nodes & Capacity Expansion: Worth a Buy?",
-        "title_zh": "TSM搭乘人工智能、高级节点和容量扩展：值得购买吗？",
-        "url": "https://www.tradingview.com/news/zacks:10f15255e094b:0-tsm-rides-on-ai-advanced-nodes-capacity-expansion-worth-a-buy/",
-        "time": "20260825T154109",
-        "source": "TradingView"
-      },
-      {
         "title": "TSMC Stock And 2 Global Blue Chips For AI Infrastructure Growth",
         "title_zh": "台积电股票和2个全球人工智能基础设施增长蓝筹股",
         "url": "https://simplywall.st/stocks/tw/semiconductors/twse-2330/taiwan-semiconductor-manufacturing-shares/news/tsmc-stock-and-2-global-blue-chips-for-ai-infrastructure-gro",
@@ -245,134 +245,134 @@
     ],
     "INTC": [
       {
-        "title": "Mizuho cuts Intel stock price target to $92 on multiple compression",
-        "title_zh": "瑞穗将多次压缩的英特尔股价目标下调至92 $",
-        "url": "https://www.investing.com/news/analyst-ratings/mizuho-cuts-intel-stock-price-target-to-92-on-multiple-compression-93CH-4888577",
-        "time": "20260903T213022",
-        "source": "Investing.com"
-      },
-      {
-        "title": "Lululemon Faces Q2 Revenue Decline as Americas Weaken but International Sales Grow",
-        "title_zh": "Lululemon面临第二季度收入下滑，因为美洲市场疲软，但国际销售额增长",
-        "url": "https://www.tipranks.com/news/company-announcements/lululemon-faces-q2-revenue-decline-as-americas-weaken-but-international-sales-grow",
-        "time": "20260903T203905",
+        "title": "AFM discloses Goldman Sachs’ 2.91% stake in Qiagen",
+        "title_zh": "AFM披露高盛持有QIAGEN 2.91%的股份",
+        "url": "https://www.tipranks.com/news/company-announcements/afm-discloses-goldman-sachs-2-91-stake-in-qiagen",
+        "time": "20260904T203012",
         "source": "TipRanks"
       },
       {
-        "title": "Apple Inc. | History, Products, & Headquarters - Tim Cook, Trillion Dollar, Tech Giant",
-        "title_zh": "Apple Inc. |历史、产品和总部- Tim Cook, Trillion Dollar, Tech Giant",
-        "url": "https://www.britannica.com/money/Apple-Inc/2011-2019-Tim-Cook-and-Apples-expansion",
-        "time": "20260903T184034",
-        "source": "Britannica"
+        "title": "Intel '100% committed' to getting New Albany fab completed, Moreno says",
+        "title_zh": "Moreno表示，英特尔“100%致力于”完成新奥尔巴尼晶圆厂的建设",
+        "url": "https://eu.dispatch.com/story/news/local/2026/09/04/moreno-confident-intel-plant-despite-delays-new-albany/91608798007/",
+        "time": "20260904T161413",
+        "source": "The Columbus Dispatch"
       },
       {
-        "title": "AMD is Quietly Eating Intel’s Lunch",
-        "title_zh": "AMD正在安静地享用英特尔的午餐",
-        "url": "https://247wallst.com/investing/2026/09/03/amd-is-quietly-eating-intels-lunch/",
-        "time": "20260903T122631",
-        "source": "24/7 Wall St."
+        "title": "Micron, SanDisk Jump 4% Despite Hot Jobs Report Raising Fed Hike Odds - Micron Technology (NASDAQ:MU)",
+        "title_zh": "美光、闪迪飙升4% ，尽管就业热门报告提高了美联储加息几率-美光科技(NASDAQ: MU)",
+        "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61631763/micron-sandisk-hot-jobs-report",
+        "time": "20260904T150828",
+        "source": "Benzinga"
+      },
+      {
+        "title": "Stonebridge Capital Management Inc. Sells 23,810 Shares of Intel Corporation $INTC",
+        "title_zh": "Stonebridge Capital Management Inc.出售英特尔公司23,810股$ INTC股票",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-stonebridge-capital-management-inc-sells-23810-shares-of-intel-corporation-intc-2026-09-04/",
+        "time": "20260904T082735",
+        "source": "MarketBeat"
       }
     ],
     "GOOGL": [
       {
-        "title": "Match Group (NASDAQ:MTCH) Hits New High Despite Revenue Pressure",
-        "title_zh": "Match Group （纳斯达克股票代码： MTCH ）在收入压力下创下新高",
-        "url": "https://kalkinemedia.com/us/stocks/communication/match-group-nasdaqmtch-hits-new-high-despite-revenue-pressure",
-        "time": "20260903T170925",
-        "source": "Kalkine Media"
+        "title": "US safety regulator probes Tesla's Cybercab",
+        "title_zh": "美国安全监管机构调查特斯拉Cybercab",
+        "url": "https://uk.finance.yahoo.com/news/us-safety-regulator-probes-teslas-141512817.html",
+        "time": "20260904T141631",
+        "source": "Yahoo Finance UK"
       },
       {
-        "title": "Cramer Warns Broadcom’s $30 Billion AI Bet Depends on a Stock You Cannot Buy",
-        "title_zh": "Cramer警告博通300亿美元的人工智能赌注取决于您无法购买的股票",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/cramer-warns-broadcom-30-billion-162353047.html",
-        "time": "20260903T162441",
-        "source": "Yahoo Finance"
-      },
-      {
-        "title": "KeyBanc reiterates Microsoft stock Overweight on cleaner Azure disclosure",
-        "title_zh": "KeyBanc重申对更清洁的Azure披露的微软股票增持",
-        "url": "https://www.investing.com/news/analyst-ratings/keybanc-reiterates-microsoft-stock-overweight-on-cleaner-azure-disclosure-93CH-4888116",
-        "time": "20260903T142021",
+        "title": "Bilibili prices $700 million convertible notes due 2031",
+        "title_zh": "Bilibili定价$ 7亿2031年到期的可转换票据",
+        "url": "https://www.investing.com/news/company-news/bilibili-prices-700-million-convertible-notes-due-2031-93CH-4889645",
+        "time": "20260904T133230",
         "source": "Investing.com"
       },
       {
-        "title": "Uber to lay off 3,300 employees as competition with robotaxis grow",
-        "title_zh": "随着与机器人出租车的竞争加剧，优步将裁员3300人",
-        "url": "https://www.livenowfox.com/news/uber-lay-off-3300-employees-competition-robotaxis-grow",
-        "time": "20260903T141351",
-        "source": "LiveNOW from FOX"
+        "title": "Bilibili stock rises amid $700M convertible notes with Tencent",
+        "title_zh": "腾讯7亿$可转换票据Bilibili股价上涨",
+        "url": "https://www.investing.com/news/stock-market-news/bilibili-stock-rises-amid-700m-convertible-notes-with-tencent-93CH-4889669",
+        "time": "20260904T133230",
+        "source": "Investing.com"
+      },
+      {
+        "title": "Tesla Begins Cybercab Rides in Austin as NHTSA Evaluates Rollout",
+        "title_zh": "随着NHTSA评估推出，特斯拉开始在奥斯汀提供网络出租车服务",
+        "url": "https://finance.yahoo.com/technology/ai/articles/tesla-begins-cybercab-rides-austin-133108183.html",
+        "time": "20260904T131431",
+        "source": "Yahoo Finance"
       }
     ]
   },
   "quotes": {
     "MU": {
-      "price": 958.16,
+      "price": 1016.59,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "AMD": {
-      "price": 456.16,
+      "price": 477.57,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "SNDK": {
-      "price": 1554.99,
+      "price": 1740.0,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "000660.KS": {
-      "price": 1596000.0,
+      "price": 1647000.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "005930.KS": {
-      "price": 250000.0,
+      "price": 255500.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "DELL": {
-      "price": 516.39,
+      "price": 524.14,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "ASX": {
-      "price": 37.43,
+      "price": 37.51,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "CBRS": {
-      "price": 190.44,
+      "price": 210.05,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "NVDA": {
-      "price": 228.45,
+      "price": 230.36,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "TSM": {
-      "price": 417.01,
+      "price": 428.91,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "INTC": {
-      "price": 91.67,
+      "price": 95.8,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "GOOGL": {
-      "price": 342.48,
+      "price": 338.46,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
