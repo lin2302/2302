@@ -1,88 +1,378 @@
 {
-  "updated_at": "2026-09-07T23:37:16.360595+00:00",
+  "updated_at": "2026-09-08T23:28:41.402253+00:00",
   "companies": {
-    "MU": [],
-    "AMD": [],
-    "SNDK": [],
+    "MU": [
+      {
+        "title": "Cboe data suggests bullish flow in Sandisk Corporation with shares up 2.51%",
+        "title_zh": "Cboe数据显示Sandisk Corporation股价上涨2.51%",
+        "url": "https://www.tipranks.com/news/the-fly/cboe-data-suggests-bullish-flow-in-sandisk-corporation-with-shares-up-2-51-thefly-news",
+        "time": "20260908T170659",
+        "source": "TipRanks"
+      },
+      {
+        "title": "Oracle, Adobe, Micron, Alphabet and Nvidia are part of Zacks Earnings Preview",
+        "title_zh": "Oracle、Adobe、Micron、Alphabet和Nvidia是Zacks收益预览的一部分",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-adobe-micron-alphabet-nvidia-132800804.html",
+        "time": "20260908T130806",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "Why Micron Technology Stock Surged 16.5% Last Month",
+        "title_zh": "为什么美光科技股上月飙升16.5%",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/why-micron-technology-stock-surged-123304442.html",
+        "time": "20260908T121110",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "Micron vs. Sandisk: 1 Artificial Intelligence (AI) Memory Winner Is Down 20% and Clearly the Superior Buy Today",
+        "title_zh": "美光与桑迪斯克： 1个人工智能（ AI ）内存获胜者下跌20 ％ ，显然是今天的超级买家",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/micron-vs-sandisk-1-artificial-113000528.html",
+        "time": "20260908T112428",
+        "source": "Yahoo Finance"
+      }
+    ],
+    "AMD": [
+      {
+        "title": "AMD Stock Spikes 6% After CFO Claims Total Addressable Market To Hit $3 Trillion In 2030",
+        "title_zh": "AMD股价飙升6% ，此前首席财务官称2030年潜在市场总额将达到3万亿美元（ $ ）",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-spikes-6-cfo-195748362.html",
+        "time": "20260908T195826",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "Microsoft's Project Zenith Turns Windows 11 Into a Ready-to-Code AI Workstation -- Redmondmag.com",
+        "title_zh": "微软的Project Zenith将Windows 11转变为即用型AI工作站--Redmondmag.com",
+        "url": "https://redmondmag.com/articles/2026/09/08/microsoft-project-zenith.aspx",
+        "time": "20260908T165858",
+        "source": "Redmondmag.com"
+      },
+      {
+        "title": "AI-Optimized Processors Fuel Advanced Micro Devices (AMD) Stock Growth",
+        "title_zh": "人工智能优化处理器推动先进微器件（ AMD ）库存增长",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/ai-optimized-processors-fuel-advanced-143631312.html",
+        "time": "20260908T143930",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "AMD Has Something Nvidia Doesn’t. Is the Stock Finally Ready to Break Out?",
+        "title_zh": "AMD拥有英伟达没有的东西。股票终于准备好突破了吗？",
+        "url": "https://247wallst.com/investing/2026/09/08/amd-has-something-nvidia-doesnt-is-the-stock-finally-ready-to-break-out/",
+        "time": "20260908T143930",
+        "source": "24/7 Wall St."
+      }
+    ],
+    "SNDK": [
+      {
+        "title": "Micron vs. Sandisk: 1 Artificial Intelligence (AI) Memory Winner Is Down 20% and Clearly the Superior Buy Today",
+        "title_zh": "美光与桑迪斯克： 1个人工智能（ AI ）内存获胜者下跌20 ％ ，显然是今天的超级买家",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/micron-vs-sandisk-1-artificial-113000528.html",
+        "time": "20260908T112428",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "Sandisk Corporation (SNDK) Up 23.6% Since Last Earnings Report: Can It Continue?",
+        "title_zh": "Sandisk Corporation (SNDK)自上次盈利报告以来上涨23.6% ：能否继续？",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-corporation-sndk-23-6-153019811.html",
+        "time": "20260904T103000",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "Sandisk chief legal officer sells $915,360 in common stock By Investing.com",
+        "title_zh": "Sandisk首席法务官通过Investing.com出售$ 915,360的普通股",
+        "url": "https://uk.investing.com/news/stock-market-news/sandisk-chief-legal-officer-sells-915360-in-common-stock-93CH-4856589",
+        "time": "20260903T061849",
+        "source": "Investing.com UK"
+      },
+      {
+        "title": "Data Centers Now Deliver a Third of Sandisk's Revenue -- $2.98 Billion in a Single Quarter",
+        "title_zh": "数据中心现在交付了三分之一的Sandisk收入--单季度收入为29.8亿美元（ $ ）",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/data-centers-now-deliver-third-225801151.html",
+        "time": "20260902T185800",
+        "source": "Yahoo Finance"
+      }
+    ],
     "000660.KS": [],
     "005930.KS": [],
-    "DELL": [],
-    "ASX": [],
-    "CBRS": [],
-    "NVDA": [],
-    "TSM": [],
-    "INTC": [],
-    "GOOGL": []
+    "DELL": [
+      {
+        "title": "Super Micro Climbs 4%, Hewlett Packard Enterprise Advances 5%: Is the Margin Beat Already Guided Away?",
+        "title_zh": "Super Micro攀升4 ％ ， Hewlett Packard Enterprise晋升5 ％ ：利润率已经被引导了吗？",
+        "url": "https://247wallst.com/investing/2026/09/08/super-micro-climbs-4-hewlett-packard-enterprise-advances-5-is-the-margin-beat-already-guided-away/",
+        "time": "20260908T152038",
+        "source": "24/7 Wall St."
+      },
+      {
+        "title": "Gusto Doubles Penn 1 Office Footprint to 76K SF",
+        "title_zh": "Gusto将Penn 1办公室占地面积翻倍至76K SF",
+        "url": "https://finance.yahoo.com/real-estate/articles/gusto-doubles-penn-1-office-085814830.html",
+        "time": "20260908T085919",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "ORCL Stock Rallies Into Earnings Week: OpenAI GPT-6 Astra Buzz, Morgan Stanley’s Big Target Give Bulls A Boost",
+        "title_zh": "ORCL股市进入盈利周： OpenAI GPT-6 Astra Buzz ，摩根士丹利的大目标提振多头",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/orcl-stock-rallies-earnings-week-031101768.html",
+        "time": "20260908T031115",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "NetApp Q1 Beat and Raised Guidance Put AI Storage Growth in Focus",
+        "title_zh": "NetApp Q1超越和提升的指导将重点放在人工智能存储增长上",
+        "url": "https://uk.finance.yahoo.com/news/netapp-q1-beat-raised-guidance-163600631.html",
+        "time": "20260907T164111",
+        "source": "Yahoo Finance UK"
+      }
+    ],
+    "ASX": [
+      {
+        "title": "Nilsine Partners LLC Invests $1.28 Million in ASE Technology Holding Co., Ltd. $ASX",
+        "title_zh": "Nilsine Partners LLC向ASE Technology Holding Co., Ltd.投资$ 128万$ ASX",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-nilsine-partners-llc-invests-128-million-in-ase-technology-holding-co-ltd-asx-2026-09-07/",
+        "time": "20260907T090425",
+        "source": "MarketBeat"
+      },
+      {
+        "title": "315,750 Shares in ASE Technology Holding Co., Ltd. $ASX Acquired by Nykredit A S",
+        "title_zh": "ASE Technology Holding Co., Ltd. 315,750股股份$ ASX被Nykredit A S收购",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-315750-shares-in-ase-technology-holding-co-ltd-asx-acquired-by-nykredit-a-s-2026-09-05/",
+        "time": "20260905T094247",
+        "source": "MarketBeat"
+      },
+      {
+        "title": "Aubrey Capital Management Ltd Buys Shares of 70,000 ASE Technology Holding Co., Ltd. $ASX",
+        "title_zh": "Aubrey Capital Management Ltd收购ASE Technology Holding Co., Ltd. 70,000股股票$ ASX",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-aubrey-capital-management-ltd-buys-shares-of-70000-ase-technology-holding-co-ltd-asx-2026-09-01/",
+        "time": "20260901T075022",
+        "source": "MarketBeat"
+      },
+      {
+        "title": "NINE MASTS CAPITAL Ltd Reduces Stock Holdings in ASE Technology Holding Co., Ltd. $ASX",
+        "title_zh": "NINE MASTS CAPITAL LTD减持ASE Technology Holding Co., Ltd.的股票$ ASX",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-nine-masts-capital-ltd-reduces-stock-holdings-in-ase-technology-holding-co-ltd-asx-2026-08-31/",
+        "time": "20260831T165022",
+        "source": "MarketBeat"
+      }
+    ],
+    "CBRS": [
+      {
+        "title": "Cerebras Systems Director Susan Lior Reports In-Kind Stock Distributions on NASDAQ:CBRS",
+        "title_zh": "Cerebras Systems董事Susan Lior在纳斯达克报告实物股票分布： CBRS",
+        "url": "https://kalkinemedia.com/us/news/announcements/cerebras-systems-director-susan-lior-reports-in-kind-stock-distributions-on-nasdaqcbrs",
+        "time": "20260904T222520",
+        "source": "Kalkine Media"
+      },
+      {
+        "title": "Top Cerebras Systems (CBRS) Competitors 2026",
+        "title_zh": "2026年顶级大脑系统（ CBRS ）竞争对手",
+        "url": "https://www.marketbeat.com/stocks/NASDAQ/CBRS/competitors-and-alternatives/",
+        "time": "20260901T174120",
+        "source": "MarketBeat"
+      },
+      {
+        "title": "Cerebras (CBRS) fund shifts Class B stake into Class A",
+        "title_zh": "Cerebras (CBRS)基金将B类股权转移至A类",
+        "url": "https://www.stocktitan.net/sec-filings/CBRS/form-4-cerebras-systems-inc-insider-trading-activity-92a8dfda1f1e.html",
+        "time": "20260825T234110",
+        "source": "Stock Titan"
+      },
+      {
+        "title": "Cerebras Systems (CBRS) CEO sells stock above $195 a share",
+        "title_zh": "Cerebras Systems （ CBRS ）首席执行官出售每股195 $以上的股票",
+        "url": "https://www.stocktitan.net/sec-filings/CBRS/form-4-cerebras-systems-inc-insider-trading-activity-b1823716990d.html",
+        "time": "20260825T224111",
+        "source": "Stock Titan"
+      }
+    ],
+    "NVDA": [
+      {
+        "title": "Trane makes data center reference kits available in Autodesk Revit and Forma platforms",
+        "title_zh": "Trane在Autodesk Revit和Forma平台上提供数据中心参考套件",
+        "url": "https://www.facilitiesdive.com/news/trane-makes-data-center-reference-kits-available-in-autodesk-revit-and-form/829762/",
+        "time": "20260908T165034",
+        "source": "Facilities Dive"
+      },
+      {
+        "title": "Coca-Cola vs PepsiCo: What's the Better Dividend Stock to Buy Right Now?",
+        "title_zh": "可口可乐与百事可乐：现在买什么股息更好？",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-vs-pepsico-whats-162001666.html",
+        "time": "20260908T161909",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "Cramer Says It’s Time To Buy The Dip on JNJ",
+        "title_zh": "Cramer说是时候在JNJ购买DIP了",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/cramer-says-time-buy-dip-151012185.html",
+        "time": "20260908T144820",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "Adobe (ADBE) Declines on Elevated Investor Hopes",
+        "title_zh": "Adobe (ADBE)拒绝提高的投资者希望",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-adbe-declines-elevated-investor-144047481.html",
+        "time": "20260908T144000",
+        "source": "Yahoo Finance"
+      }
+    ],
+    "TSM": [
+      {
+        "title": "Intel Climbs 5% on High-NA EUV Production Lead, ASML and Taiwan Semiconductor Advance 3%",
+        "title_zh": "英特尔在高NA EUV生产领先优势、ASML和台湾半导体前进3%的基础上攀升5%",
+        "url": "https://247wallst.com/investing/2026/09/08/intel-climbs-5-on-high-na-euv-production-lead-asml-and-taiwan-semiconductor-advance-3/",
+        "time": "20260908T132756",
+        "source": "24/7 Wall St."
+      },
+      {
+        "title": "ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
+        "title_zh": "ASML和台积电宣布率先推出面向高NA EUV的大幅面光罩产业转型计划",
+        "url": "https://pr.tsmc.com/english/news/3338",
+        "time": "20260908T122756",
+        "source": "TSMC"
+      },
+      {
+        "title": "Why Taiwan’s Silicon Shield Is Failing",
+        "title_zh": "为什么台湾的硅盾会失败",
+        "url": "https://nationalinterest.org/blog/techland/why-taiwans-silicon-shield-is-failing",
+        "time": "20260907T045141",
+        "source": "The National Interest"
+      },
+      {
+        "title": "Where Does AMD Make Its Processors?",
+        "title_zh": "AMD在哪里生产处理器？",
+        "url": "https://www.bgr.com/2249619/amd-where-does-it-make-processors/",
+        "time": "20260907T020137",
+        "source": "BGR"
+      }
+    ],
+    "INTC": [
+      {
+        "title": "Cleveland-Cliffs (NYSE:CLF) Shares Extend Gains on Steady Steel Pricing",
+        "title_zh": "克利夫兰-克利夫斯(Cleveland-Cliffs) (NYSE: CLF)的股票扩大了钢铁价格稳定的收益",
+        "url": "https://kalkinemedia.com/us/stocks/metal-and-mining/cleveland-cliffs-nyseclf-shares-extend-gains-on-steady-steel-pricing",
+        "time": "20260908T200037",
+        "source": "Kalkine Media"
+      },
+      {
+        "title": "Intel Stock Rises 5% on Reported 10% CPU Price Increase",
+        "title_zh": "英特尔股价因报告CPU价格上涨10%而上涨5%",
+        "url": "https://uk.finance.yahoo.com/news/intel-stock-rises-5-reported-172148304.html",
+        "time": "20260908T172241",
+        "source": "Yahoo Finance UK"
+      },
+      {
+        "title": "Stocks to Watch: Amgen, Qualcomm, Intel, Rigetti",
+        "title_zh": "值得关注的股票：安进、高通、英特尔、Rigetti",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-08-2026/card/stocks-to-watch-amgen-nike-bloom-energy-cg2CI9iPuPrPrQKnUDxu",
+        "time": "20260908T164330",
+        "source": "WSJ"
+      },
+      {
+        "title": "Intel’s stock is rising as the company looks primed to boost prices even more",
+        "title_zh": "英特尔的股价正在上涨，因为该公司看起来有望进一步提振价格",
+        "url": "https://www.marketwatch.com/story/intels-stock-is-rising-as-the-company-looks-primed-to-boost-prices-even-more-8b8dfc99",
+        "time": "20260908T154844",
+        "source": "MarketWatch"
+      }
+    ],
+    "GOOGL": [
+      {
+        "title": "Jim Cramer Says Amazon and Alphabet Are Cheap. Their Cash Flows Complicate the Case",
+        "title_zh": "Jim Cramer说亚马逊和Alphabet很便宜。他们的现金流使个案复杂化",
+        "url": "https://ca.finance.yahoo.com/news/jim-cramer-says-amazon-alphabet-231012551.html",
+        "time": "20260908T191000",
+        "source": "Yahoo! Finance Canada"
+      },
+      {
+        "title": "Microsoft Breaks Out Azure Sales at $100 Billion Annualized Pace, Reorganizes AI Segments",
+        "title_zh": "微软以1000亿美元的年化速度突破Azure销售额，重组AI细分市场",
+        "url": "https://www.benzinga.com/markets/tech/26/09/61665885/microsoft-breaks-out-azure-sales-at-100-billion-annualized-pace-reorganizes-ai-segments",
+        "time": "20260908T164207",
+        "source": "Benzinga"
+      },
+      {
+        "title": "Adobe (ADBE) Declines on Elevated Investor Hopes",
+        "title_zh": "Adobe (ADBE)拒绝提高的投资者希望",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-adbe-declines-elevated-investor-144047481.html",
+        "time": "20260908T144000",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "AI-Optimized Processors Fuel Advanced Micro Devices (AMD) Stock Growth",
+        "title_zh": "人工智能优化处理器推动先进微器件（ AMD ）库存增长",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/ai-optimized-processors-fuel-advanced-143631312.html",
+        "time": "20260908T143930",
+        "source": "Yahoo Finance"
+      }
+    ]
   },
   "quotes": {
     "MU": {
-      "price": 1016.59,
+      "price": 1000.26,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "AMD": {
-      "price": 477.57,
+      "price": 505.74,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "SNDK": {
-      "price": 1740.0,
+      "price": 1737.99,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "000660.KS": {
-      "price": 1783000.0,
+      "price": 1793000.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "005930.KS": {
-      "price": 270000.0,
+      "price": 269500.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "DELL": {
-      "price": 524.14,
+      "price": 533.88,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "ASX": {
-      "price": 37.51,
+      "price": 39.79,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "CBRS": {
-      "price": 210.05,
+      "price": 199.77,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "NVDA": {
-      "price": 230.36,
+      "price": 225.73,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "TSM": {
-      "price": 428.91,
+      "price": 439.0,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "INTC": {
-      "price": 95.8,
+      "price": 104.47,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "GOOGL": {
-      "price": 338.46,
+      "price": 338.36,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
