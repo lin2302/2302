@@ -1,63 +1,63 @@
 {
-  "updated_at": "2026-09-09T23:22:50.000540+00:00",
+  "updated_at": "2026-09-10T23:16:21.494294+00:00",
   "companies": {
     "MU": [
       {
-        "title": "Earnings call transcript: Signet Jewelers Q2 2026 beats on profit, raises outlook",
-        "title_zh": "财报电话会议记录： 2026年第二季度Signet Jewelers超越利润，提升前景",
-        "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-signet-jewelers-q2-2026-beats-on-profit-raises-outlook-93CH-4893873",
-        "time": "20260909T142922",
+        "title": "Lam Research director Bethany Mayer sells $3m in shares",
+        "title_zh": "Lam Research董事Bethany Mayer出售$ 300万股",
+        "url": "https://m.investing.com/news/insider-trading-news/lam-research-director-bethany-mayer-sells-3m-in-shares-93CH-4896621?ampMode=1",
+        "time": "20260910T171610",
         "source": "Investing.com"
       },
       {
-        "title": "Cantor Fitzgerald reiterates Microchip Technology stock rating on analog sector strength",
-        "title_zh": "Cantor Fitzgerald重申Microchip Technology对模拟行业实力的股票评级",
-        "url": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-microchip-technology-stock-rating-on-analog-sector-strength-93CH-4893559",
-        "time": "20260909T124149",
-        "source": "Investing.com"
+        "title": "Can Seagate Sustain Its Strong Revenue Growth in Fiscal 2027?",
+        "title_zh": "希捷能否在2027财年维持强劲的收入增长？",
+        "url": "https://ca.finance.yahoo.com/news/seagate-sustain-strong-revenue-growth-150700755.html",
+        "time": "20260910T151736",
+        "source": "Yahoo! Finance Canada"
       },
       {
-        "title": "Analyzing Broadcom In Comparison To Competitors In Semiconductors & Semiconductor Equipment Industry",
-        "title_zh": "分析Broadcom与半导体和半导体设备行业竞争对手的比较",
-        "url": "https://www.benzinga.com/news/26/09/61679061/analyzing-broadcom-comparison-competitors-semiconductors-amp-semiconductor-equipment-industry",
-        "time": "20260909T095849",
+        "title": "Memory Stocks Slide as Rates and Oil Swamp JPMorgan's Overweight Call: SK Hynix Sinks 5%, Western Digital Drops 3%, Micron Slips",
+        "title_zh": "摩根大通加码看涨： SK海力士下跌5% ，西部数据下跌3% ，美光下跌",
+        "url": "https://247wallst.com/investing/2026/09/10/memory-stocks-slide-as-rates-and-oil-swamp-jpmorgans-overweight-call-sk-hynix-sinks-5-western-digital-drops-3-micron-slips/",
+        "time": "20260910T134051",
+        "source": "24/7 Wall St."
+      },
+      {
+        "title": "SK Hynix Could Rally 88% More, And Micron Investors Are Paying Attention",
+        "title_zh": "SK海力士可能反弹88% ，美光投资者正在关注",
+        "url": "https://www.benzinga.com/markets/tech/26/09/61693163/sk-hynix-88-percent-upside-micron-stock-ai-memory",
+        "time": "20260909T221607",
         "source": "Benzinga"
-      },
-      {
-        "title": "Bull of the Day: Seagate Technology (STX)",
-        "title_zh": "今日牛市：希捷科技（ STX ）",
-        "url": "https://uk.finance.yahoo.com/news/bull-day-seagate-technology-stx-083000724.html",
-        "time": "20260909T081319",
-        "source": "Yahoo Finance UK"
       }
     ],
     "AMD": [
       {
-        "title": "Could Advanced Micro Devices (AMD)’s Partnership With Cisco Systems (CSCO) Unlock a Massive Middle East AI Opportunity?",
-        "title_zh": "Advanced Micro Devices （ AMD ）与思科系统公司（ CSCO ）的合作能否释放巨大的中东人工智能机遇？",
-        "url": "https://finance.yahoo.com/technology/ai/articles/could-advanced-micro-devices-amd-213247998.html",
-        "time": "20260909T220738",
+        "title": "Super Micro Computer Sees $60B AI Order Book Powering Fiscal 2027 Outlook",
+        "title_zh": "超级微电脑看到$ 600亿人工智能订单簿推动2027财年展望",
+        "url": "https://finance.yahoo.com/technology/ai/articles/super-micro-computer-sees-60b-210215702.html",
+        "time": "20260910T211235",
         "source": "Yahoo Finance"
       },
       {
-        "title": "Guidance Upside Drives Advanced Micro Devices (AMD) Higher, Hurting Non Owners",
-        "title_zh": "GUIDANCE UPSIDE推动高级微设备（ AMD ）走高，伤害非业主",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/guidance-upside-drives-advanced-micro-153647914.html",
-        "time": "20260909T153600",
-        "source": "Yahoo Finance"
-      },
-      {
-        "title": "AMD Rises 3% as CFO Lifts AI Chip Market Forecast Toward $3 Trillion; Intel Ticks Up",
-        "title_zh": "随着首席财务官将人工智能芯片市场预测提升至3万亿美元， AMD股价上涨3% ；英特尔上涨",
-        "url": "https://247wallst.com/investing/2026/09/09/amd-rises-3-as-cfo-lifts-ai-chip-market-forecast-toward-3-trillion-intel-ticks-up/",
-        "time": "20260909T150732",
+        "title": "Analog Devices Wants Robots to Think Without Nvidia | Is ADI the Next Big AI Stock?",
+        "title_zh": "Analog Devices希望机器人在没有英伟达的情况下思考| ADI是下一个大型AI股票吗？",
+        "url": "https://247wallst.com/investing/2026/09/10/analog-devices-wants-robots-to-think-without-nvidia-is-adi-the-next-big-ai-stock/",
+        "time": "20260910T173033",
         "source": "24/7 Wall St."
       },
       {
-        "title": "Capital Advantage Inc. Sells 5,783 Shares of Advanced Micro Devices, Inc. $AMD",
-        "title_zh": "Capital Advantage Inc.出售5,783股Advanced Micro Devices, Inc.股票$ AMD",
-        "url": "https://www.marketbeat.com/instant-alerts/filing-capital-advantage-inc-sells-5783-shares-of-advanced-micro-devices-inc-amd-2026-09-09/",
-        "time": "20260909T113737",
+        "title": "Analyst Sets Lofty Price Target For AMD Stock",
+        "title_zh": "分析师为AMD股票设定高价目标",
+        "url": "https://www.schaeffersresearch.com/content/news/2026/09/10/analyst-sets-lofty-price-target-for-amd-stock",
+        "time": "20260910T133714",
+        "source": "Schaeffer's Investment Research"
+      },
+      {
+        "title": "Miramontes Capital LLC Buys Shares of 1,307 Advanced Micro Devices, Inc. $AMD",
+        "title_zh": "Miramontes Capital LLC收购1,307 Advanced Micro Devices, Inc.的股份$ AMD",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-miramontes-capital-llc-buys-shares-of-1307-advanced-micro-devices-inc-amd-2026-09-10/",
+        "time": "20260910T101923",
         "source": "MarketBeat"
       }
     ],
@@ -95,32 +95,32 @@
     "005930.KS": [],
     "DELL": [
       {
-        "title": "Microsoft-Activision Deal Challengers Seek $60 Million Legal Fee",
-        "title_zh": "微软-Activision交易挑战者寻求$ 6000万法律费用",
-        "url": "https://news.bloomberglaw.com/esg/microsoft-activision-deal-challengers-seek-60-million-legal-fee",
-        "time": "20260909T151520",
-        "source": "Bloomberg Law News"
+        "title": "Hewlett Packard Enterprise Drops 5.1% Amid Sector-Wide Selling",
+        "title_zh": "Hewlett Packard Enterprise在全行业销售中下跌5.1%",
+        "url": "https://news.alphastreet.com/hewlett-packard-enterprise-drops-5-1-amid-sector-wide-selling/",
+        "time": "20260910T182612",
+        "source": "AlphaStreet"
       },
       {
-        "title": "Tuesday’s insider buys and sells: Major moves at Dell and Group 1",
-        "title_zh": "周二的内幕买卖：戴尔和第1集团的重大举措",
-        "url": "https://m.investing.com/news/stock-market-news/tuesdays-insider-buys-and-sells-major-moves-at-dell-and-group-1-93CH-4893671?ampMode=1",
-        "time": "20260909T124956",
+        "title": "AI Server Stocks Slide as Two-Day Run Unwinds: Hewlett Packard Enterprise Sinks 4%, Dell Pulls Back, Super Micro Sits Out the Selloff",
+        "title_zh": "人工智能服务器库存下滑，两天运行放松：惠普企业下跌4% ，戴尔回撤，超微抛售",
+        "url": "https://247wallst.com/investing/2026/09/10/ai-server-stocks-slide-as-two-day-run-unwinds-hewlett-packard-enterprise-sinks-4-dell-pulls-back-super-micro-sits-out-the-selloff/",
+        "time": "20260910T160208",
+        "source": "24/7 Wall St."
+      },
+      {
+        "title": "Sl spv-2, l.p., Dell director, sells $26m in Dell stock",
+        "title_zh": "戴尔总监Sl spv-2, l.p.出售$ 2600万的戴尔股票",
+        "url": "https://m.investing.com/news/insider-trading-news/sl-spv2-lp-dell-director-sells-26m-in-dell-stock-93CH-4894914?ampMode=1",
+        "time": "20260910T032025",
         "source": "Investing.com"
       },
       {
-        "title": "NetApp (NTAP) Stock May Trade At A Cash Flow Discount But An Earnings Premium",
-        "title_zh": "NetApp （ NTAP ）股票可以现金流折扣交易，但收益溢价",
-        "url": "https://simplywall.st/stocks/us/tech/nasdaq-ntap/netapp/news/netapp-ntap-stock-may-trade-at-a-cash-flow-discount-but-an-e",
-        "time": "20260909T124121",
-        "source": "Simply Wall Street"
-      },
-      {
-        "title": "Here are Wednesday's biggest analyst calls: Nvidia, Tesla, Dell, First Solar, Affirm, Teva, Robinhood & more",
-        "title_zh": "以下是周三最大的分析师电话会议：英伟达、特斯拉、戴尔、First Solar、Affirm、Teva、Robinhood等",
-        "url": "https://www.cnbc.com/2026/09/09/wednesday-big-analyst-calls-include-nvidia-tesla-dell-first-solar.html",
-        "time": "20260909T122001",
-        "source": "CNBC"
+        "title": "Silver Lake Partners IV, Dell director sell $48m in Dell stock",
+        "title_zh": "Silver Lake Partners IV ，戴尔董事出售$ 4800万的戴尔股票",
+        "url": "https://m.investing.com/news/insider-trading-news/silver-lake-partners-iv-dell-director-sell-48m-in-dell-stock-93CH-4894916?ampMode=1",
+        "time": "20260910T032025",
+        "source": "Investing.com"
       }
     ],
     "ASX": [
@@ -185,31 +185,31 @@
     ],
     "NVDA": [
       {
-        "title": "Microsoft (NASDAQ: MSFT) \"Useful Yield\" Push Puts NVIDIA's (NASDAQ: NVDA) AI Economics To The Test",
-        "title_zh": "微软（纳斯达克股票代码： MSFT ） “实用收益率”推动英伟达（纳斯达克股票代码： NVDA ）的人工智能经济性经受考验",
-        "url": "https://www.foreignpolicyjournal.com/2026/09/09/microsoft-nasdaq-msft-useful-yield-push-puts-nvidias-nasdaq-nvda-ai-economics-to-the-test/",
-        "time": "20260909T192238",
-        "source": "Foreign Policy Journal"
+        "title": "Super Micro Computer Sees $60B AI Order Book Powering Fiscal 2027 Outlook",
+        "title_zh": "超级微电脑看到$ 600亿人工智能订单簿推动2027财年展望",
+        "url": "https://finance.yahoo.com/technology/ai/articles/super-micro-computer-sees-60b-210215702.html",
+        "time": "20260910T211235",
+        "source": "Yahoo Finance"
       },
       {
-        "title": "HP Extends Data-Center AI Architecture to the Edge",
-        "title_zh": "惠普将数据中心AI架构扩展到边缘",
-        "url": "https://www.hpcwire.com/aiwire/2026/09/09/hp-extends-data-center-ai-architecture-to-the-edge/",
-        "time": "20260909T182352",
-        "source": "HPCwire"
+        "title": "Microsoft 2.5: EVP Pavan Davuluri wants to remake Windows for both human and agent users",
+        "title_zh": "Microsoft 2.5 ：执行副总裁Pavan Davuluri希望为人类和代理用户重塑Windows",
+        "url": "https://www.geekwire.com/2026/microsoft-2-5-evp-pavan-davuluri-wants-to-remake-windows-for-both-human-and-agent-users/",
+        "time": "20260910T191828",
+        "source": "GeekWire"
       },
       {
-        "title": "GitHub tests multi-model routing with HydraFusion",
-        "title_zh": "GitHub使用HydraFusion测试多模型路由",
-        "url": "https://www.techtarget.com/it-infrastructure/news/366650182/GitHub-tests-multi-model-routing-with-HydraFusion",
-        "time": "20260909T165133",
-        "source": "TechTarget"
+        "title": "Lam Research CEO Timothy Archer sells $9.58 million in company stock",
+        "title_zh": "Lam Research首席执行官Timothy Archer出售$ 958万公司股票",
+        "url": "https://www.investing.com/news/insider-trading-news/lam-research-ceo-timothy-archer-sells-958-million-in-company-stock-93CH-4896620",
+        "time": "20260910T173917",
+        "source": "Investing.com"
       },
       {
-        "title": "AMD Rises 3% as CFO Lifts AI Chip Market Forecast Toward $3 Trillion; Intel Ticks Up",
-        "title_zh": "随着首席财务官将人工智能芯片市场预测提升至3万亿美元， AMD股价上涨3% ；英特尔上涨",
-        "url": "https://247wallst.com/investing/2026/09/09/amd-rises-3-as-cfo-lifts-ai-chip-market-forecast-toward-3-trillion-intel-ticks-up/",
-        "time": "20260909T150732",
+        "title": "Analog Devices Wants Robots to Think Without Nvidia | Is ADI the Next Big AI Stock?",
+        "title_zh": "Analog Devices希望机器人在没有英伟达的情况下思考| ADI是下一个大型AI股票吗？",
+        "url": "https://247wallst.com/investing/2026/09/10/analog-devices-wants-robots-to-think-without-nvidia-is-adi-the-next-big-ai-stock/",
+        "time": "20260910T173033",
         "source": "24/7 Wall St."
       }
     ],
@@ -245,134 +245,134 @@
     ],
     "INTC": [
       {
-        "title": "Midland States Bancorp (NASDAQ:MSBI) COO Sells 2,400 Shares of Stock",
-        "title_zh": "Midland States Bancorp (NASDAQ: MSBI)首席运营官出售2,400股股票",
-        "url": "https://www.marketbeat.com/instant-alerts/insider-midland-states-bancorp-nasdaq-msbi-coo-sells-2400-shares-of-stock-2026-09-09/",
-        "time": "20260909T151340",
-        "source": "MarketBeat"
-      },
-      {
-        "title": "AMD Rises 3% as CFO Lifts AI Chip Market Forecast Toward $3 Trillion; Intel Ticks Up",
-        "title_zh": "随着首席财务官将人工智能芯片市场预测提升至3万亿美元， AMD股价上涨3% ；英特尔上涨",
-        "url": "https://247wallst.com/investing/2026/09/09/amd-rises-3-as-cfo-lifts-ai-chip-market-forecast-toward-3-trillion-intel-ticks-up/",
-        "time": "20260909T150732",
-        "source": "24/7 Wall St."
-      },
-      {
-        "title": "AMKR Stock Gains After-Hours — Amkor Doubles Down On US Chip Manufacturing With $12B Arizona Campus Expansion",
-        "title_zh": "AMKR下班后股价上涨— Amkor通过$ 120B的亚利桑那州校园扩建，使美国芯片制造业翻了一番",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/amkr-stock-gains-hours-amkor-234207542.html",
-        "time": "20260909T093107",
+        "title": "Super Micro Computer Sees $60B AI Order Book Powering Fiscal 2027 Outlook",
+        "title_zh": "超级微电脑看到$ 600亿人工智能订单簿推动2027财年展望",
+        "url": "https://finance.yahoo.com/technology/ai/articles/super-micro-computer-sees-60b-210215702.html",
+        "time": "20260910T211235",
         "source": "Yahoo Finance"
       },
       {
-        "title": "INTC Stock Slips Overnight: AMD Reaffirms TSMC Ties Amid Intel Foundry Buzz — But Keeps Supplier Options Open",
-        "title_zh": "INTC股票隔夜下跌： AMD重申台积电与英特尔代工厂的关系-但仍保留供应商选择权",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/intc-stock-slips-overnight-amd-034507732.html",
-        "time": "20260909T035145",
+        "title": "Intel Stock Plunges 4% as Piper Sandler Turns Neutral on Chipmaker",
+        "title_zh": "英特尔股价暴跌4% ， Piper Sandler对芯片制造商持中立态度",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-plunges-4-piper-182238098.html",
+        "time": "20260910T182622",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "Lam Research CEO Timothy Archer sells $9.58 million in company stock",
+        "title_zh": "Lam Research首席执行官Timothy Archer出售$ 958万公司股票",
+        "url": "https://www.investing.com/news/insider-trading-news/lam-research-ceo-timothy-archer-sells-958-million-in-company-stock-93CH-4896620",
+        "time": "20260910T173917",
+        "source": "Investing.com"
+      },
+      {
+        "title": "ASML Expands High-NA Ties With Samsung and Intel as AI Demand Builds",
+        "title_zh": "随着人工智能需求的增长， ASML扩大了与三星和英特尔的高NA关系",
+        "url": "https://finance.yahoo.com/technology/articles/asml-expands-high-na-ties-143900733.html",
+        "time": "20260910T143911",
         "source": "Yahoo Finance"
       }
     ],
     "GOOGL": [
       {
-        "title": "Broadcom (AVGO) Faces Google Chip Risks, But Macquarie Sees a $40 Billion Anthropic Opportunity",
-        "title_zh": "博通(AVGO)面临谷歌芯片风险，但麦格理看到了400亿美元的人类机遇",
-        "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-faces-google-chip-184606814.html",
-        "time": "20260909T184652",
-        "source": "Yahoo Finance"
+        "title": "Alphabet vs Meta: which stock has the stronger AI position",
+        "title_zh": "Alphabet vs Meta ：哪只股票的人工智能地位更强",
+        "url": "https://m.investing.com/news/stock-market-news/alphabet-vs-meta-which-stock-has-the-stronger-ai-position-93CH-4896559?ampMode=1",
+        "time": "20260910T172051",
+        "source": "Investing.com"
       },
       {
-        "title": "SC utility buyout cleared by Dominion and NextEra shareholders",
-        "title_zh": "Dominion和NextEra股东批准的SC公用事业收购",
-        "url": "https://www.postandcourier.com/business/sc-electric-utility-dominion-energy-nextera/article_59329254-7d39-4ee3-b78a-9becbce7b99e.html",
-        "time": "20260909T175928",
-        "source": "Post and Courier"
+        "title": "Salesforce Might Pay $2 Billion for This AI Company. Is the ‘SaaSpocalypse’ Finally Over?",
+        "title_zh": "Salesforce可能会为这家人工智能公司支付20亿美元$。“SaaSpocalypse”终于结束了吗？",
+        "url": "https://www.inc.com/brian-contreras/salesforce-2-billion-ai-company-listen-labs-saaspocalypse-software-google-microsoft/91403558",
+        "time": "20260910T162203",
+        "source": "Inc.com"
       },
       {
-        "title": "Technical analysis 📉 Alphabet shares fall 2% and test the 200-day moving average",
-        "title_zh": "技术分析📉Alphabet股价下跌2%并测试200日移动平均线",
-        "url": "https://www.xtb.com/en/market-analysis/technical-analysis-alphabet-shares-fall-2-and-test-the-200-day-moving-average",
-        "time": "20260909T173350",
-        "source": "XTB.com"
+        "title": "NextEra Energy Seals $1.9B DOE Loan to Restart Iowa Nuclear Plant",
+        "title_zh": "NextEra Energy获得$ 19亿DOE贷款重启爱荷华州核电站",
+        "url": "https://www.rigzone.com/news/nextera_energy_seals_19b_doe_loan_to_restart_iowa_nuclear_plant-10-sep-2026-184588-article/",
+        "time": "20260910T152600",
+        "source": "Rigzone"
       },
       {
-        "title": "Datadog Inc Stock (DDOG) Moved Up by 6.79% on Sep 9: Facts Behind the Movement",
-        "title_zh": "Datadog Inc股票（ DDOG ）在9月9日上涨6.79 ％ ：运动背后的事实",
-        "url": "https://www.tradingkey.com/news/market-movers/262159102-market-movers-ddog-20260909",
-        "time": "20260909T161502",
-        "source": "TradingKey"
+        "title": "Forget the Magnificent Seven Stocks, Gary Black Says This Tech Giant Is Cheaper",
+        "title_zh": "忘记华丽的七只股票，加里·布莱克说这家科技巨头更便宜",
+        "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/09/61716878/forget-the-magnificent-seven-stocks-gary-black-says-this-tech-giant-is-cheaper",
+        "time": "20260910T151310",
+        "source": "Benzinga"
       }
     ]
   },
   "quotes": {
     "MU": {
-      "price": 1027.77,
+      "price": 977.41,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "AMD": {
-      "price": 521.095,
+      "price": 503.6,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "SNDK": {
-      "price": 1764.17,
+      "price": 1692.59,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "000660.KS": {
-      "price": 1856000.0,
+      "price": 1853000.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "005930.KS": {
-      "price": 269500.0,
+      "price": 269000.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "DELL": {
-      "price": 535.25,
+      "price": 506.62,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "ASX": {
-      "price": 41.2,
+      "price": 39.86,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "CBRS": {
-      "price": 196.2,
+      "price": 191.34,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "NVDA": {
-      "price": 223.67,
+      "price": 218.36,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "TSM": {
-      "price": 435.36,
+      "price": 428.03,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "INTC": {
-      "price": 106.24,
+      "price": 100.32,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "GOOGL": {
-      "price": 330.65,
+      "price": 332.6,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
