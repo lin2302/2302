@@ -1,64 +1,64 @@
 {
-  "updated_at": "2026-09-11T23:24:26.904473+00:00",
+  "updated_at": "2026-09-14T23:54:34.656985+00:00",
   "companies": {
     "MU": [
       {
-        "title": "S&P Global downgrades Hormel Foods outlook on high leverage",
-        "title_zh": "标普全球下调Hormel Foods对高杠杆率的展望",
-        "url": "https://www.investing.com/news/stock-market-news/sp-global-downgrades-hormel-foods-outlook-on-high-leverage-93CH-4898368",
-        "time": "20260911T193601",
-        "source": "Investing.com"
+        "title": "Netflix Stock Rose 4% While the AI Trade Sold Off on Monday. Its Capital Goes Into Shows, Not Silicon.",
+        "title_zh": "Netflix股价上涨4% ，而AI交易周一售罄。它的资本进入表演，而不是硅。",
+        "url": "https://currently.att.yahoo.com/att/netflix-stock-rose-4-while-194701621.html",
+        "time": "20260914T194800",
+        "source": "Currently.com"
       },
       {
-        "title": "STX - Seagate Has Two Engines — Industry Pricing And A Cost Curve Only It Controls",
-        "title_zh": "STX -希捷有两个引擎—行业定价和仅由其控制的成本曲线",
-        "url": "https://simplywall.st/community/narratives/us/tech/nasdaq-stx/seagate-technology-holdings/7pz5pecq-seagate-has-two-engines-industry-pricing-and-a-cost-curve-only-it-controls",
-        "time": "20260911T021559",
-        "source": "Simply Wall Street"
+        "title": "The NY Creates and Micron Technology Joint Apprenticeship program welcomes first cohort",
+        "title_zh": "纽约创建和美光技术联合学徒计划欢迎第一批",
+        "url": "https://www.eurekalert.org/news-releases/1143915",
+        "time": "20260914T190505",
+        "source": "EurekAlert!"
       },
       {
-        "title": "Micron Is Down 19% From Its High. History Suggests a $5,000 Investment Today Could Be Worth This Much by 2030.",
-        "title_zh": "美光从高位下跌了19%。历史表明，到2030年，今天的5000 $投资可能值得这么多。",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/micron-down-19-high-history-230100067.html",
-        "time": "20260910T231622",
-        "source": "Yahoo Finance"
+        "title": "Anthropic's AI Warning Is 'Noise' in a 'Secular Bull Market:' Bank of America Says",
+        "title_zh": "Anthropic的人工智能警告是“长期牛市”中的“噪音” ：美国银行表示",
+        "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/09/61770221/bofa-ai-slowdown-noise-semiconductor-stocks-upside-secular-bull-market",
+        "time": "20260914T162327",
+        "source": "Benzinga"
       },
       {
-        "title": "RB Global Inc stock hits 52-week low at 80.62 USD",
-        "title_zh": "RB Global Inc股价触及52周低点80.62美元",
-        "url": "https://www.investing.com/news/company-news/rb-global-inc-stock-hits-52week-low-at-8062-usd-93CH-4896614",
-        "time": "20260910T173030",
-        "source": "Investing.com"
+        "title": "Nvidia and other chipmakers suffer as AI warnings raise spending concerns",
+        "title_zh": "英伟达和其他芯片制造商因人工智能警告引发支出担忧而受挫",
+        "url": "https://ca.finance.yahoo.com/news/nvidia-other-chipmakers-suffer-ai-161200128.html",
+        "time": "20260914T161140",
+        "source": "Yahoo! Finance Canada"
       }
     ],
     "AMD": [
       {
-        "title": "Intel Climbs 3% on Chip Price Hike Report a Day After Piper Sandler Went Neutral; AMD Rises 2%, Taiwan Semiconductor Drifts",
-        "title_zh": "英特尔在Piper Sandler持中立态度后的第二天芯片价格上涨报告上涨3 ％ ； AMD上涨2 ％ ，台湾半导体上涨",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/intel-climbs-3-chip-price-141744701.html",
-        "time": "20260911T152509",
-        "source": "Yahoo Finance"
-      },
-      {
-        "title": "NVIDIA Corporation $NVDA is OLD Second National Bank of Aurora's 4th Largest Position",
-        "title_zh": "英伟达公司$ NVDA是Aurora的老第二国家银行的第四大位置",
-        "url": "https://www.marketbeat.com/instant-alerts/filing-nvidia-corporation-nvda-is-old-second-national-bank-of-auroras-4th-largest-position-2026-09-11/",
-        "time": "20260911T091221",
+        "title": "Advanced Micro Devices (NASDAQ:AMD) Trading Down 4.4% After Insider Selling",
+        "title_zh": "Advanced Micro Devices (NASDAQ: AMD)内幕抛售后下跌4.4%",
+        "url": "https://www.marketbeat.com/instant-alerts/price-advanced-micro-devices-nasdaq-amd-trading-down-44-after-insider-selling-2026-09-14/",
+        "time": "20260914T212418",
         "source": "MarketBeat"
       },
       {
-        "title": "Advanced Micro Devices, Inc. $AMD Shares Sold by Corient Private Wealth LP",
-        "title_zh": "由Corient Private Wealth LP出售的Advanced Micro Devices, Inc. $ AMD股票",
-        "url": "https://www.marketbeat.com/instant-alerts/filing-advanced-micro-devices-inc-amd-shares-sold-by-corient-private-wealth-lp-2026-09-11/",
-        "time": "20260911T075704",
-        "source": "MarketBeat"
+        "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+        "title_zh": "人工智能基础设施公司Cornelis筹集了2.05亿美元，以削弱英伟达的主导地位",
+        "url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
+        "time": "20260914T201112",
+        "source": "TechCrunch"
       },
       {
-        "title": "NVIDIA Corporation $NVDA Holdings Lowered by Franchise GP Ltd",
-        "title_zh": "NVIDIA Corporation $ NVDA Holdings被Franchise GP Ltd下调",
-        "url": "https://www.marketbeat.com/instant-alerts/filing-nvidia-corporation-nvda-holdings-lowered-by-franchise-gp-ltd-2026-09-11/",
-        "time": "20260911T072618",
-        "source": "MarketBeat"
+        "title": "Ceva and LG Partner to Advance UWB Integration for Automotive and IoT SoCs",
+        "title_zh": "Ceva和LG合作推进汽车和物联网SoC的UWB集成",
+        "url": "https://www.eetasia.com/ceva-and-lg-partner-to-advance-uwb-integration-for-automotive-and-iot-socs/",
+        "time": "20260914T162754",
+        "source": "EE Times Asia"
+      },
+      {
+        "title": "Why Is Super Micro Computer Stock Falling Monday?",
+        "title_zh": "为什么超级微电脑股票周一下跌？",
+        "url": "https://www.benzinga.com/markets/tech/26/09/61765144/why-is-super-micro-computer-stock-falling-monday",
+        "time": "20260914T140838",
+        "source": "Benzinga"
       }
     ],
     "SNDK": [
@@ -95,32 +95,32 @@
     "005930.KS": [],
     "DELL": [
       {
-        "title": "Hewlett Packard Enterprise and Dell Surge 11% as Oracle's Capex Guidance Lifts AI Server Demand, Super Micro Climbs 7%",
-        "title_zh": "随着甲骨文资本支出指引提振人工智能服务器需求， Hewlett Packard Enterprise和戴尔股价飙升11% ， Super Micro股价攀升7%",
-        "url": "https://247wallst.com/investing/2026/09/11/hewlett-packard-enterprise-and-dell-surge-11-as-oracles-capex-guidance-lifts-ai-server-demand-super-micro-climbs-7/",
-        "time": "20260911T145147",
+        "title": "Hewlett Packard Enterprise Sinks 9% on Downgrade After Triple-Digit Run; Dell Falls 5%, Super Micro Drops 8%",
+        "title_zh": "惠普企业在三位数运行后降级下跌9% ；戴尔下跌5% ，超级微跌8%",
+        "url": "https://247wallst.com/investing/2026/09/14/hewlett-packard-enterprise-sinks-9-on-downgrade-after-triple-digit-run-dell-falls-5-super-micro-drops-8/",
+        "time": "20260914T142725",
         "source": "24/7 Wall St."
       },
       {
-        "title": "Expeditors International stock hits all-time high of 192.34 USD",
-        "title_zh": "Expeditors International股票创历史新高192.34美元",
-        "url": "https://www.investing.com/news/company-news/expeditors-international-stock-hits-alltime-high-of-19234-usd-93CH-4898095",
-        "time": "20260911T143812",
-        "source": "Investing.com"
+        "title": "Western Digital Drops 6.7% Amid Sector-Wide Selling",
+        "title_zh": "西部数据在全行业销售中下跌6.7%",
+        "url": "https://news.alphastreet.com/western-digital-drops-6-7-amid-sector-wide-selling/",
+        "time": "20260914T131537",
+        "source": "AlphaStreet"
       },
       {
-        "title": "Alphabet vs. Meta: One Magnificent Seven Stock Is the Better Buy",
-        "title_zh": "Alphabet vs. Meta ：一只华丽的Seven股票是更好的买入方式",
-        "url": "https://247wallst.com/investing/2026/09/11/alphabet-vs-meta-one-magnificent-seven-stock-is-the-better-buy/",
-        "time": "20260911T142906",
+        "title": "Apple vs. Microsoft: This Is the Magnificent Seven Stock I’d Buy Today",
+        "title_zh": "苹果与微软：这是我今天买的七大股票",
+        "url": "https://247wallst.com/investing/2026/09/14/apple-vs-microsoft-this-is-the-magnificent-seven-stock-id-buy-today/",
+        "time": "20260914T130040",
         "source": "24/7 Wall St."
       },
       {
-        "title": "Hewlett Packard Enterprise and Dell Surge 11% as Oracle’s Capex Guidance Lifts AI Server Demand, Super Micro Climbs 7%",
-        "title_zh": "随着甲骨文资本支出指引提振人工智能服务器需求， Hewlett Packard Enterprise和戴尔股价飙升11% ， Super Micro股价攀升7%",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/hewlett-packard-enterprise-dell-surge-145118783.html",
-        "time": "20260911T142639",
-        "source": "Yahoo Finance"
+        "title": "Cummins Returned 512% in a Decade. Its Dividend Did Something Even More Impressive",
+        "title_zh": "康明斯十年回报率为512%。它的股息做了更令人印象深刻的事情",
+        "url": "https://247wallst.com/investing/2026/09/13/if-you-invested-1000-in-cummins-the-dividend-tells-a-stranger-story-than-the-stock/",
+        "time": "20260913T154813",
+        "source": "24/7 Wall St."
       }
     ],
     "ASX": [
@@ -185,32 +185,32 @@
     ],
     "NVDA": [
       {
-        "title": "Enphase Energy (ENPH) Stock Looks Fairly Valued Despite New Product Hopes",
-        "title_zh": "尽管存在新产品的希望， Enphase Energy (ENPH)股票看起来仍然具有相当的价值",
-        "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-enph/enphase-energy/news/enphase-energy-enph-stock-looks-fairly-valued-despite-new-pr",
-        "time": "20260911T212659",
-        "source": "Simply Wall Street"
+        "title": "Advanced Micro Devices (NASDAQ:AMD) Trading Down 4.4% After Insider Selling",
+        "title_zh": "Advanced Micro Devices (NASDAQ: AMD)内幕抛售后下跌4.4%",
+        "url": "https://www.marketbeat.com/instant-alerts/price-advanced-micro-devices-nasdaq-amd-trading-down-44-after-insider-selling-2026-09-14/",
+        "time": "20260914T212418",
+        "source": "MarketBeat"
       },
       {
-        "title": "Kalshi stock futures plan targets Tesla and Apple shares - Bloomberg",
-        "title_zh": "Kalshi股票期货计划瞄准特斯拉和苹果股票-彭博社",
-        "url": "https://www.investing.com/news/stock-market-news/kalshi-stock-futures-plan-targets-tesla-and-apple-shares--bloomberg-93CH-4898406",
-        "time": "20260911T203149",
-        "source": "Investing.com"
+        "title": "Broadcom Drops Over 4% as $21.7 Billion AI Forecast Meets Slowdown Fears",
+        "title_zh": "博通下跌逾4% ， $ 217亿人工智能预测遭遇放缓担忧",
+        "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-drops-over-4-21-210015158.html",
+        "time": "20260914T211620",
+        "source": "Yahoo Finance"
       },
       {
-        "title": "S&P Global downgrades Hormel Foods outlook on high leverage",
-        "title_zh": "标普全球下调Hormel Foods对高杠杆率的展望",
-        "url": "https://www.investing.com/news/stock-market-news/sp-global-downgrades-hormel-foods-outlook-on-high-leverage-93CH-4898368",
-        "time": "20260911T193601",
-        "source": "Investing.com"
+        "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+        "title_zh": "人工智能基础设施公司Cornelis筹集了2.05亿美元，以削弱英伟达的主导地位",
+        "url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
+        "time": "20260914T201112",
+        "source": "TechCrunch"
       },
       {
-        "title": "Why Is Digital Realty Stock Gaining Friday? - Digital Realty Trust (NYSE:DLR)",
-        "title_zh": "为什么数字房地产股票周五上涨？ - Digital Realty Trust (NYSE: DLR)",
-        "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/09/61745500/digital-realty-pullback-is-a-buying-opportunity-analyst",
-        "time": "20260911T161902",
-        "source": "Benzinga"
+        "title": "Netflix Stock Rose 4% While the AI Trade Sold Off on Monday. Its Capital Goes Into Shows, Not Silicon.",
+        "title_zh": "Netflix股价上涨4% ，而AI交易周一售罄。它的资本进入表演，而不是硅。",
+        "url": "https://currently.att.yahoo.com/att/netflix-stock-rose-4-while-194701621.html",
+        "time": "20260914T194800",
+        "source": "Currently.com"
       }
     ],
     "TSM": [
@@ -245,134 +245,134 @@
     ],
     "INTC": [
       {
-        "title": "What is Intel? The semiconductor company explained",
-        "title_zh": "英特尔是什么？半导体公司解释说",
-        "url": "https://qz.com/what-is-intel",
-        "time": "20260911T202359",
-        "source": "Quartz at Work"
+        "title": "Advanced Micro Devices (NASDAQ:AMD) Trading Down 4.4% After Insider Selling",
+        "title_zh": "Advanced Micro Devices (NASDAQ: AMD)内幕抛售后下跌4.4%",
+        "url": "https://www.marketbeat.com/instant-alerts/price-advanced-micro-devices-nasdaq-amd-trading-down-44-after-insider-selling-2026-09-14/",
+        "time": "20260914T212418",
+        "source": "MarketBeat"
       },
       {
-        "title": "Should You Buy Elevance Health Stock For The Margin It Lost?",
-        "title_zh": "您是否应该购买Elevance Health股票，以弥补其损失的保证金？",
-        "url": "https://www.trefis.com/stock/elv/articles/614937/should-you-buy-elevance-health-stock-for-the-margin-it-lost/2026-09-10",
-        "time": "20260911T192650",
-        "source": "Trefis"
+        "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+        "title_zh": "人工智能基础设施公司Cornelis筹集了2.05亿美元，以削弱英伟达的主导地位",
+        "url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
+        "time": "20260914T201112",
+        "source": "TechCrunch"
       },
       {
-        "title": "KLA at Goldman Sachs conference: growth outlook stays strong",
-        "title_zh": "KLA在高盛会议上：增长前景依然强劲",
-        "url": "https://www.investing.com/news/transcripts/kla-at-goldman-sachs-conference-growth-outlook-stays-strong-93CH-4898286",
-        "time": "20260911T173624",
-        "source": "Investing.com"
+        "title": "Apple releases test of redesigned Siri AI before iPhone 18 hits stores this week",
+        "title_zh": "苹果在本周iPhone 18上市前发布重新设计的Siri AI测试",
+        "url": "https://www.cnbc.com/2026/09/14/apple-releases-ios-27-redesigned-siri-ai.html",
+        "time": "20260914T190616",
+        "source": "CNBC"
       },
       {
-        "title": "Intel Climbs 3% on Chip Price Hike Report a Day After Piper Sandler Went Neutral; AMD Rises 2%, Taiwan Semiconductor Drifts",
-        "title_zh": "英特尔在Piper Sandler持中立态度后的第二天芯片价格上涨报告上涨3 ％ ； AMD上涨2 ％ ，台湾半导体上涨",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/intel-climbs-3-chip-price-141744701.html",
-        "time": "20260911T152509",
-        "source": "Yahoo Finance"
+        "title": "Intel Upgraded, CVS Health Downgraded: Updated Rankings on Top Blue-Chip Stocks",
+        "title_zh": "情报升级， CVS生命值降级：蓝筹股排名更新",
+        "url": "https://investorplace.com/market360/2026/09/20260914-blue-chip-upgrades-downgrades/",
+        "time": "20260914T170053",
+        "source": "InvestorPlace"
       }
     ],
     "GOOGL": [
       {
-        "title": "Enphase Energy (ENPH) Stock Looks Fairly Valued Despite New Product Hopes",
-        "title_zh": "尽管存在新产品的希望， Enphase Energy (ENPH)股票看起来仍然具有相当的价值",
-        "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-enph/enphase-energy/news/enphase-energy-enph-stock-looks-fairly-valued-despite-new-pr",
-        "time": "20260911T212659",
-        "source": "Simply Wall Street"
+        "title": "Big Tech Issued About $220 Billion of Bonds. Alphabet and Meta Show How AI Is Warping the Credit Market",
+        "title_zh": "Big Tech发行了约$ 2200亿的债券。Alphabet和Meta展示人工智能如何扭曲信贷市场",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/big-tech-issued-220-billion-212946047.html",
+        "time": "20260914T213009",
+        "source": "Yahoo Finance"
       },
       {
-        "title": "Best Buy stock hits 52-week high at 91.27 USD",
-        "title_zh": "百思买股票触及52周高点91.27美元",
-        "url": "https://www.investing.com/news/company-news/best-buy-stock-hits-52week-high-at-9127-usd-93CH-4898361",
-        "time": "20260911T192204",
+        "title": "Maryland Appeals Google, Apple, Peacock’s Take Down of Ad Tax",
+        "title_zh": "马里兰州对谷歌、苹果、孔雀取消广告税提出上诉",
+        "url": "https://news.bloombergtax.com/daily-tax-report-state/maryland-appeals-google-apple-peacocks-take-down-of-ad-tax",
+        "time": "20260914T212449",
+        "source": "Bloomberg Tax"
+      },
+      {
+        "title": "Netflix Stock Rose 4% While the AI Trade Sold Off on Monday. Its Capital Goes Into Shows, Not Silicon.",
+        "title_zh": "Netflix股价上涨4% ，而AI交易周一售罄。它的资本进入表演，而不是硅。",
+        "url": "https://currently.att.yahoo.com/att/netflix-stock-rose-4-while-194701621.html",
+        "time": "20260914T194800",
+        "source": "Currently.com"
+      },
+      {
+        "title": "John W. Rose sells Alphabet Inc. stock worth between $250,001 and $500,000",
+        "title_zh": "John W. Rose出售价值250,001美元至500,000美元的Alphabet Inc.股票",
+        "url": "https://www.investing.com/news/company-news/john-w-rose-sells-alphabet-inc-stock-worth-between-250001-and-500000-93CH-4900241",
+        "time": "20260914T192512",
         "source": "Investing.com"
-      },
-      {
-        "title": "Alphabet vs. Meta: One Magnificent Seven Stock Is the Better Buy",
-        "title_zh": "Alphabet vs. Meta ：一只华丽的Seven股票是更好的买入方式",
-        "url": "https://247wallst.com/investing/2026/09/11/alphabet-vs-meta-one-magnificent-seven-stock-is-the-better-buy/",
-        "time": "20260911T142906",
-        "source": "24/7 Wall St."
-      },
-      {
-        "title": "Jensen Huang Mocks Nvidia ‘Circular Financing’ Fears: ‘If That Is, Let’s Do More of That’",
-        "title_zh": "Jensen Huang嘲笑Nvidia的“循环融资”恐惧： “如果是这样的话，让我们做更多的事情”",
-        "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61740701/nvidia-circular-financing-jensen-huang",
-        "time": "20260911T141241",
-        "source": "Benzinga"
       }
     ]
   },
   "quotes": {
     "MU": {
-      "price": 975.26,
+      "price": 924.03,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "AMD": {
-      "price": 516.13,
+      "price": 493.41,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "SNDK": {
-      "price": 1633.35,
+      "price": 1551.99,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "000660.KS": {
-      "price": 1812000.0,
+      "price": 1697000.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "005930.KS": {
-      "price": 259500.0,
+      "price": 249000.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "DELL": {
-      "price": 567.29,
+      "price": 534.28,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "ASX": {
-      "price": 39.47,
+      "price": 37.08,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "CBRS": {
-      "price": 191.93,
+      "price": 181.21,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "NVDA": {
-      "price": 218.29,
+      "price": 210.96,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "TSM": {
-      "price": 433.24,
+      "price": 418.01,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "INTC": {
-      "price": 102.94,
+      "price": 97.19,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "GOOGL": {
-      "price": 338.5,
+      "price": 349.39,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
