@@ -1,67 +1,81 @@
 {
-  "updated_at": "2026-09-15T23:33:43.979336+00:00",
+  "updated_at": "2026-09-16T23:41:45.125277+00:00",
   "companies": {
     "MU": [
+      {
+        "title": "SK Hynix stock jumps as memory maker responds to report of potential deal with Intel",
+        "title_zh": "随着内存制造商对英特尔潜在交易的报道做出回应， SK海力士股票上涨",
+        "url": "https://finance.yahoo.com/markets/article/sk-hynix-stock-jumps-as-memory-maker-responds-to-report-of-potential-deal-with-intel-125828355.html",
+        "time": "20260916T125116",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "NXP Semiconductors NV's Dividend Analysis",
+        "title_zh": "恩智浦半导体NV的股息分析",
+        "url": "https://ca.finance.yahoo.com/news/nxp-semiconductors-nvs-dividend-analysis-110234555.html",
+        "time": "20260916T104139",
+        "source": "Yahoo! Finance Canada"
+      },
+      {
+        "title": "SK Hynix and Intel Shares Rise Following Report of US Memory Chip Manufacturing Talks",
+        "title_zh": "SK海力士和英特尔股价在美国内存芯片制造业谈判报告后上涨",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-intel-shares-rise-100802678.html",
+        "time": "20260916T095023",
+        "source": "Yahoo Finance"
+      },
       {
         "title": "Micron Appoints Deirdre Hanford to Lead Micron Research Labs",
         "title_zh": "美光任命Deirdre Hanford领导美光研究实验室",
         "url": "https://investingnews.com/micron-appoints-deirdre-hanford-to-lead-micron-research-labs/",
         "time": "20260915T211155",
         "source": "Investing News Network"
-      },
-      {
-        "title": "Micron Appoints Deirdre Hanford to Lead Micron Research Labs",
-        "title_zh": "美光任命Deirdre Hanford领导美光研究实验室",
-        "url": "https://uk.finance.yahoo.com/news/micron-appoints-deirdre-hanford-lead-200100153.html",
-        "time": "20260915T200159",
-        "source": "Yahoo Finance UK"
-      },
-      {
-        "title": "EOG Resources stock hits all-time high at 153.71 USD",
-        "title_zh": "EOG Resources股票创历史新高，达到153.71美元",
-        "url": "https://www.investing.com/news/company-news/eog-resources-stock-hits-alltime-high-at-15371-usd-93CH-4902357",
-        "time": "20260915T175411",
-        "source": "Investing.com"
-      },
-      {
-        "title": "MU Stock Rises After Micron Debuts 512GB DDR5 Server Memory – AMD, Intel To Validate New Server Technology",
-        "title_zh": "在美光推出512GB DDR5服务器内存后， MU库存上升– AMD、英特尔将验证新的服务器技术",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/mu-stock-rises-micron-debuts-142303900.html",
-        "time": "20260915T144751",
-        "source": "Yahoo Finance"
       }
     ],
     "AMD": [
       {
+        "title": "Super Micro Rebounds 3% After This Week's AI Infrastructure Selloff",
+        "title_zh": "超微在本周人工智能基础设施抛售后反弹3%",
+        "url": "https://www.benzinga.com/markets/tech/26/09/61820795/super-micro-rebounds-3-after-this-weeks-ai-infrastructure-selloff",
+        "time": "20260916T155347",
+        "source": "Benzinga"
+      },
+      {
+        "title": "Dell Rises 5% Despite Fresh Silver Lake Share Sale Filings; Super Micro Climbs 3%, Hewlett Packard Enterprise Ticks Up",
+        "title_zh": "尽管有新鲜的银湖股票销售申请，戴尔股价仍上涨5% ；超微股价上涨3% ，惠普企业股价上涨",
+        "url": "https://247wallst.com/investing/2026/09/16/dell-rises-5-despite-fresh-silver-lake-share-sale-filings-super-micro-climbs-3-hewlett-packard-enterprise-ticks-up/?tpid=1662297&tv=link&tc=in_content",
+        "time": "20260916T143133",
+        "source": "24/7 Wall St."
+      },
+      {
+        "title": "SK Hynix stock jumps as memory maker responds to report of potential deal with Intel",
+        "title_zh": "随着内存制造商对英特尔潜在交易的报道做出回应， SK海力士股票上涨",
+        "url": "https://finance.yahoo.com/markets/article/sk-hynix-stock-jumps-as-memory-maker-responds-to-report-of-potential-deal-with-intel-125828355.html",
+        "time": "20260916T125116",
+        "source": "Yahoo Finance"
+      },
+      {
         "title": "EOG Resources stock hits all-time high at 153.71 USD",
         "title_zh": "EOG Resources股票创历史新高，达到153.71美元",
         "url": "https://www.investing.com/news/company-news/eog-resources-stock-hits-alltime-high-at-15371-usd-93CH-4902357",
         "time": "20260915T175411",
         "source": "Investing.com"
-      },
-      {
-        "title": "MU Stock Rises After Micron Debuts 512GB DDR5 Server Memory – AMD, Intel To Validate New Server Technology",
-        "title_zh": "在美光推出512GB DDR5服务器内存后， MU库存上升– AMD、英特尔将验证新的服务器技术",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/mu-stock-rises-micron-debuts-142303900.html",
-        "time": "20260915T144751",
-        "source": "Yahoo Finance"
-      },
-      {
-        "title": "AMD, Skyworks among market cap stock movers on Tuesday By Investing.com",
-        "title_zh": "AMD ， Skyworks周二在市值股票推动者中由Investing.com提供",
-        "url": "https://ca.investing.com/news/stock-market-news/amd-skyworks-among-market-cap-stock-movers-on-tuesday-93CH-4840346",
-        "time": "20260915T144128",
-        "source": "Investing.com Canada"
-      },
-      {
-        "title": "HP Redefines the Mobile Workstation for the Era of Agentic AI",
-        "title_zh": "惠普为Agentic AI时代重新定义移动工作站",
-        "url": "https://investingnews.com/hp-redefines-the-mobile-workstation-for-the-era-of-agentic-ai/",
-        "time": "20260915T132435",
-        "source": "Investing News Network"
       }
     ],
     "SNDK": [
+      {
+        "title": "AI 'Slowdown' Jitters Fading? Micron, Intel, SanDisk, Nvidia, SK Hynix Up Pre-Market Day After Crash",
+        "title_zh": "AI “减速”抖动消退？美光、英特尔、闪迪、英伟达、SK海力士在崩盘后上市当天上市",
+        "url": "https://www.ndtvprofit.com/markets/ai-slowdown-jitters-fading-micron-intel-sandisk-nvidia-sk-hynix-up-pre-market-day-after-crash-12049075",
+        "time": "20260915T104848",
+        "source": "NDTV Profit"
+      },
+      {
+        "title": "SanDisk Shares Fall 5.5% as AI Demand Concerns Weigh on Memory Stocks",
+        "title_zh": "闪迪股价下跌5.5% ，因人工智能需求担忧拖累内存库存",
+        "url": "https://finance.yahoo.com/technology/ai/articles/sandisk-shares-fall-5-5-120141549.html",
+        "time": "20260914T080100",
+        "source": "Yahoo Finance"
+      },
       {
         "title": "Micron vs. Sandisk: 1 Artificial Intelligence (AI) Memory Winner Is Down 20% and Clearly the Superior Buy Today",
         "title_zh": "美光与桑迪斯克： 1个人工智能（ AI ）内存获胜者下跌20 ％ ，显然是今天的超级买家",
@@ -75,52 +89,38 @@
         "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-corporation-sndk-23-6-153019811.html",
         "time": "20260904T103000",
         "source": "Yahoo Finance"
-      },
-      {
-        "title": "Sandisk chief legal officer sells $915,360 in common stock By Investing.com",
-        "title_zh": "Sandisk首席法务官通过Investing.com出售$ 915,360的普通股",
-        "url": "https://uk.investing.com/news/stock-market-news/sandisk-chief-legal-officer-sells-915360-in-common-stock-93CH-4856589",
-        "time": "20260903T061849",
-        "source": "Investing.com UK"
-      },
-      {
-        "title": "Data Centers Now Deliver a Third of Sandisk's Revenue -- $2.98 Billion in a Single Quarter",
-        "title_zh": "数据中心现在交付了三分之一的Sandisk收入--单季度收入为29.8亿美元（ $ ）",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/data-centers-now-deliver-third-225801151.html",
-        "time": "20260902T185800",
-        "source": "Yahoo Finance"
       }
     ],
     "000660.KS": [],
     "005930.KS": [],
     "DELL": [
       {
-        "title": "Flex finalizes spinoff plans with corporate structure shakeup, new company name",
-        "title_zh": "Flex通过公司结构重组和新公司名称最终确定分拆计划",
-        "url": "https://www.bizjournals.com/austin/news/2026/09/15/flex-ltd-spinoff-separation-executives-boards-atx.html",
-        "time": "20260915T185826",
-        "source": "The Business Journals"
+        "title": "Motorola Solutions at Piper Sandler conference: ai, resilience drive growth",
+        "title_zh": "摩托罗拉解决方案在Piper Sandler会议上：人工智能，弹性驱动增长",
+        "url": "https://www.investing.com/news/transcripts/motorola-solutions-at-piper-sandler-conference-ai-resilience-drive-growth-93CH-4904021",
+        "time": "20260916T145128",
+        "source": "Investing.com"
       },
       {
-        "title": "Zacks Investment Ideas feature highlights: Nvidia, Taiwan Semiconductor, Arista Networks, Dell Technologies, Hewlett Packard and Super Micro Computer",
-        "title_zh": "Zacks投资理念亮点：英伟达、台湾半导体、Arista Networks、戴尔科技、惠普和超微电脑",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-143400211.html",
-        "time": "20260915T145438",
-        "source": "Yahoo Finance"
+        "title": "Dell Rises 5% Despite Fresh Silver Lake Share Sale Filings; Super Micro Climbs 3%, Hewlett Packard Enterprise Ticks Up",
+        "title_zh": "尽管有新鲜的银湖股票销售申请，戴尔股价仍上涨5% ；超微股价上涨3% ，惠普企业股价上涨",
+        "url": "https://247wallst.com/investing/2026/09/16/dell-rises-5-despite-fresh-silver-lake-share-sale-filings-super-micro-climbs-3-hewlett-packard-enterprise-ticks-up/?tpid=1662297&tv=link&tc=in_content",
+        "time": "20260916T143133",
+        "source": "24/7 Wall St."
       },
       {
-        "title": "HPE combats memory constraints with supplier help, better forecasting",
-        "title_zh": "HPE借助供应商帮助，更好地预测内存限制",
-        "url": "https://www.supplychaindive.com/news/hpe-combats-memory-constraints-with-supplier-help-better-forecasting/830199/",
-        "time": "20260915T142633",
-        "source": "Supply Chain Dive"
+        "title": "Sysco EVP Phillips sells $79,680 in shares",
+        "title_zh": "Sysco执行副总裁Phillips出售$ 79,680股股份",
+        "url": "https://www.investing.com/news/insider-trading-news/sysco-evp-phillips-sells-79680-in-shares-93CH-4903835",
+        "time": "20260916T141441",
+        "source": "Investing.com"
       },
       {
-        "title": "Announcing Koa: Salesforce’s First CRM Reasoning Model, Built on NVIDIA Nemotron",
-        "title_zh": "宣布推出KOA ： Salesforce基于NVIDIA Nemotron构建的首个CRM推理模型",
-        "url": "https://www.salesforce.com/news/press-releases/2026/09/15/koa-reasoning-model/",
-        "time": "20260915T124822",
-        "source": "Salesforce"
+        "title": "Prediction: Alphabet Stock at $400 May Be Just the Beginning",
+        "title_zh": "预测： 400 $的Alphabet股票可能只是一个开始",
+        "url": "https://247wallst.com/investing/2026/09/16/prediction-alphabet-stock-at-400-may-be-just-the-beginning/",
+        "time": "20260916T140037",
+        "source": "24/7 Wall St."
       }
     ],
     "ASX": [
@@ -185,32 +185,32 @@
     ],
     "NVDA": [
       {
-        "title": "Align Technology (ALGN) Following Invisalign Expansion, Fair Value Still Sits Higher",
-        "title_zh": "Align Technology (ALGN)在Invisalign扩张后，公允价值仍处于较高水平",
-        "url": "https://simplywall.st/stocks/us/healthcare/nasdaq-algn/align-technology/news/align-technology-algn-following-invisalign-expansion-fair-va",
-        "time": "20260915T223425",
-        "source": "Simply Wall Street"
+        "title": "International Business Machines (NYSE:IBM) Trading Down 4.3% - Here's Why",
+        "title_zh": "International Business Machines (NYSE: IBM)交易价格下跌4.3% -原因如下",
+        "url": "https://www.marketbeat.com/instant-alerts/price-international-business-machines-nyse-ibm-trading-down-43-heres-why-2026-09-16/",
+        "time": "20260916T213031",
+        "source": "MarketBeat"
       },
       {
-        "title": "Trump stuns Nvidia's Jensen Huang with an unexpected AI remark",
-        "title_zh": "特朗普以意想不到的人工智能言论震惊英伟达Jensen Huang",
-        "url": "https://sg.finance.yahoo.com/news/trump-stuns-nvidias-jensen-huang-211430505.html",
-        "time": "20260915T211508",
-        "source": "Yahoo Finance Singapore"
+        "title": "KKR Doubles Private Debt Deals to $80 Billion as AI Spending Explodes",
+        "title_zh": "随着人工智能支出的爆炸式增长， KKR的私人债务交易翻了一番，达到800 $",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/kkr-doubles-private-debt-deals-204851814.html",
+        "time": "20260916T205227",
+        "source": "Yahoo Finance"
       },
       {
-        "title": "Assurant Inc stock hits 52-week low at 17.61 USD",
-        "title_zh": "Assurant Inc股价触及52周低点17.61美元",
-        "url": "https://www.investing.com/news/company-news/assurant-inc-stock-hits-52week-low-at-1761-usd-93CH-4902398",
-        "time": "20260915T184518",
-        "source": "Investing.com"
+        "title": "Salesforce (CRM), Why Is The Latest Attention Building?",
+        "title_zh": "Salesforce (CRM) ，为什么最新的关注正在形成？",
+        "url": "https://ca.finance.yahoo.com/news/salesforce-crm-why-latest-attention-180956321.html",
+        "time": "20260916T181123",
+        "source": "Yahoo! Finance Canada"
       },
       {
-        "title": "Genco Shipping & Trading stock hits 52-week high at 27.84 USD",
-        "title_zh": "Genco Shipping & Trading股票触及52周高位27.84美元",
-        "url": "https://www.investing.com/news/company-news/genco-shipping--trading-stock-hits-52week-high-at-2784-usd-93CH-4902380",
-        "time": "20260915T175622",
-        "source": "Investing.com"
+        "title": "SMCI Has Something Nvidia Doesn’t. Here’s Why That Matters",
+        "title_zh": "SMCI有Nvidia没有的东西。这才是最重要的",
+        "url": "https://247wallst.com/investing/2026/09/16/smci-has-something-nvidia-doesnt-heres-why-that-matters/",
+        "time": "20260916T163047",
+        "source": "24/7 Wall St."
       }
     ],
     "TSM": [
@@ -245,134 +245,134 @@
     ],
     "INTC": [
       {
-        "title": "Lenovo vs. HP: Which PC Giant Stock Has Better Prospects?",
-        "title_zh": "联想vs惠普：哪家PC巨头股票前景更好？",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/lenovo-vs-hp-pc-giant-164200304.html",
-        "time": "20260915T165131",
-        "source": "Yahoo Finance"
+        "title": "Super Micro Rebounds 3% After This Week's AI Infrastructure Selloff",
+        "title_zh": "超微在本周人工智能基础设施抛售后反弹3%",
+        "url": "https://www.benzinga.com/markets/tech/26/09/61820795/super-micro-rebounds-3-after-this-weeks-ai-infrastructure-selloff",
+        "time": "20260916T155347",
+        "source": "Benzinga"
       },
       {
-        "title": "MU Stock Rises After Micron Debuts 512GB DDR5 Server Memory – AMD, Intel To Validate New Server Technology",
-        "title_zh": "在美光推出512GB DDR5服务器内存后， MU库存上升– AMD、英特尔将验证新的服务器技术",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/mu-stock-rises-micron-debuts-142303900.html",
-        "time": "20260915T144751",
-        "source": "Yahoo Finance"
+        "title": "Hawaiian Electric stock hits 52-week low at 10.1 USD",
+        "title_zh": "夏威夷电气股价触及52周低点10.1美元",
+        "url": "https://www.investing.com/news/company-news/hawaiian-electric-stock-hits-52week-low-at-101-usd-93CH-4904051",
+        "time": "20260916T150446",
+        "source": "Investing.com"
       },
       {
-        "title": "Infosys Q2 Results: Date, Time, Dividend News, Earnings Call Schedule And More",
-        "title_zh": "Infosys第二季度业绩：日期、时间、股息新闻、盈利电话会议时间表等",
-        "url": "https://www.ndtvprofit.com/markets/infosys-q2-results-date-time-dividend-news-earnings-call-schedule-and-more-12050520",
-        "time": "20260915T140945",
-        "source": "NDTV Profit"
+        "title": "Intel, SK Hynix Stocks Soar on Rumored U.S. Partnership",
+        "title_zh": "英特尔、SK海力士股票因传闻中的美国合作伙伴关系而飙升",
+        "url": "https://www.schaeffersresearch.com/content/news/2026/09/16/intel-sk-hynix-stocks-soar-on-rumored-us-partnership",
+        "time": "20260916T145044",
+        "source": "Schaeffer's Investment Research"
       },
       {
-        "title": "Micron Advances Memory Innovation With the World's First Ultra-Dense Module for Next-Generation Servers",
-        "title_zh": "美光推出全球首款面向下一代服务器的超高密度模块，推动内存创新",
-        "url": "https://ca.finance.yahoo.com/news/micron-advances-memory-innovation-worlds-130100668.html",
-        "time": "20260915T130108",
-        "source": "Yahoo! Finance Canada"
+        "title": "Dell Rises 5% Despite Fresh Silver Lake Share Sale Filings; Super Micro Climbs 3%, Hewlett Packard Enterprise Ticks Up",
+        "title_zh": "尽管有新鲜的银湖股票销售申请，戴尔股价仍上涨5% ；超微股价上涨3% ，惠普企业股价上涨",
+        "url": "https://247wallst.com/investing/2026/09/16/dell-rises-5-despite-fresh-silver-lake-share-sale-filings-super-micro-climbs-3-hewlett-packard-enterprise-ticks-up/?tpid=1662297&tv=link&tc=in_content",
+        "time": "20260916T143133",
+        "source": "24/7 Wall St."
       }
     ],
     "GOOGL": [
       {
-        "title": "Alphabet Has 50% Upside and the Cheapest Multiple of the Big Six",
-        "title_zh": "Alphabet有50%的上行和六大最便宜的倍数",
-        "url": "https://247wallst.com/investing/2026/09/15/alphabet-has-50-upside-and-the-cheapest-multiple-of-the-big-six/",
-        "time": "20260915T140059",
+        "title": "Banks provide $22 billion loan for Blackstone and Alphabet AI venture - Bloomberg",
+        "title_zh": "银行为Blackstone和Alphabet AI风险投资公司提供220亿美元贷款-彭博社",
+        "url": "https://www.investing.com/news/stock-market-news/banks-provide-22-billion-loan-for-blackstone-and-alphabet-ai-venture--bloomberg-93CH-4904384",
+        "time": "20260916T194953",
+        "source": "Investing.com"
+      },
+      {
+        "title": "DTE Is Sitting on an AI-Era Power Opportunity",
+        "title_zh": "DTE正坐拥人工智能时代的电力机遇",
+        "url": "https://247wallst.com/investing/2026/09/16/dte-is-sitting-on-an-ai-era-power-opportunity/",
+        "time": "20260916T170000",
         "source": "24/7 Wall St."
       },
       {
-        "title": "Salesforce Unveils AIforce, Bringing the Full Power of Its Platform to Any Interface",
-        "title_zh": "Salesforce推出AIforce ，将其平台的全部功能带到任何界面",
-        "url": "https://www.salesforce.com/news/stories/aiforce-announcement/",
-        "time": "20260915T124808",
-        "source": "Salesforce"
+        "title": "Essex Property Trust at BofA real estate conference: west coast edge",
+        "title_zh": "埃塞克斯房地产信托在美国银行房地产会议：西海岸边缘",
+        "url": "https://ca.investing.com/news/stock-market-news/essex-property-trust-at-bofa-real-estate-conference-west-coast-edge-93CH-4842092",
+        "time": "20260916T155207",
+        "source": "Investing.com Canada"
       },
       {
-        "title": "Salesforce deepens its integrations with AWS and Google Cloud to support AI agents",
-        "title_zh": "Salesforce深化与AWS和Google Cloud的集成，以支持AI代理",
-        "url": "https://siliconangle.com/2026/09/15/salesforce-deepens-its-integrations-with-aws-and-google-cloud-to-support-ai-agents/",
-        "time": "20260915T120102",
-        "source": "SiliconANGLE"
-      },
-      {
-        "title": "ETSY Price Today: Etsy, Inc. Stock Price, Quote & Chart",
-        "title_zh": "ETSY今日价格： Etsy, Inc.股价、报价和图表",
-        "url": "https://www.mexc.co/stocks/etsy",
-        "time": "20260915T105826",
-        "source": "MEXC"
+        "title": "Tapestry enables direct Google AI purchase of Coach, Kate Spade items",
+        "title_zh": "Tapestry支持Google AI直接购买Coach、Kate Spade物品",
+        "url": "https://chainstoreage.com/tapestry-enables-direct-google-ai-purchase-coach-kate-spade-items",
+        "time": "20260916T140900",
+        "source": "Chain Store Age"
       }
     ]
   },
   "quotes": {
     "MU": {
-      "price": 927.6,
+      "price": 926.55,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "AMD": {
-      "price": 504.2,
+      "price": 512.5,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "SNDK": {
-      "price": 1530.895,
+      "price": 1519.97,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "000660.KS": {
-      "price": 1690000.0,
+      "price": 1759000.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "005930.KS": {
-      "price": 248500.0,
+      "price": 253500.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "DELL": {
-      "price": 543.51,
+      "price": 563.29,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "ASX": {
-      "price": 37.12,
+      "price": 37.95,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "CBRS": {
-      "price": 184.03,
+      "price": 190.47,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "NVDA": {
-      "price": 212.17,
+      "price": 213.9,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "TSM": {
-      "price": 413.75,
+      "price": 417.72,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "INTC": {
-      "price": 97.14,
+      "price": 101.05,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "GOOGL": {
-      "price": 344.98,
+      "price": 342.87,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
