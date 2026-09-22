@@ -1,67 +1,74 @@
 {
-  "updated_at": "2026-09-18T23:24:40.053998+00:00",
+  "updated_at": "2026-09-22T00:11:42.741708+00:00",
   "companies": {
     "MU": [
       {
-        "title": "Jim Cramer on Reformation (REF): “It Should Be Higher Than It Is”",
-        "title_zh": "吉姆·克莱默（ Jim Cramer ）谈改革（ REF ） ： “它应该比它更高”",
-        "url": "https://sg.finance.yahoo.com/news/jim-cramer-reformation-ref-higher-120724947.html",
-        "time": "20260918T180706",
-        "source": "Yahoo Finance Singapore"
+        "title": "Micron (MU) Beats Stock Market Upswing: What Investors Need to Know",
+        "title_zh": "美光(MU)击败股市上涨：投资者需要了解的信息",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-beats-stock-market-214506765.html",
+        "time": "20260921T214536",
+        "source": "Yahoo Finance"
       },
       {
-        "title": "SanDisk Jumps 6% as Storage Bid Concentrates in One Name; Western Digital Rises 3%, Micron Ticks Up",
-        "title_zh": "闪迪上涨6% ，存储竞价集中在一个名称上；西部数据上涨3% ，微米上涨",
-        "url": "https://247wallst.com/investing/2026/09/18/sandisk-jumps-6-as-storage-bid-concentrates-in-one-name-western-digital-rises-3-micron-ticks-up/",
-        "time": "20260918T155109",
+        "title": "SanDisk Falls 2% Despite Memory Rally; Micron Advances 3%, Western Digital Nudges Higher",
+        "title_zh": "闪迪内存激增，跌幅2% ；美光提升3% ，西部数据提升",
+        "url": "https://247wallst.com/investing/2026/09/21/sandisk-falls-2-despite-memory-rally-micron-advances-3-western-digital-nudges-higher/",
+        "time": "20260921T191418",
         "source": "24/7 Wall St."
       },
       {
-        "title": "Jim Cramer Calls Intel (INTC) the Best Stock in Show and Micron (MU) No. 2",
-        "title_zh": "Jim Cramer称英特尔（ INTC ）是展会最佳股票，美光（ MU ）排名第二",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-calls-intel-intc-181522000.html",
-        "time": "20260918T141500",
-        "source": "Yahoo Finance"
+        "title": "AMD, Tesla among market cap stock movers on Monday",
+        "title_zh": "AMD、特斯拉周一成为市值上涨股票推动者",
+        "url": "https://www.investing.com/news/stock-market-news/amd-tesla-among-market-cap-stock-movers-on-monday-93CH-4909344",
+        "time": "20260921T154021",
+        "source": "Investing.com"
       },
       {
-        "title": "Intel Slips 1.7% as Its CEO Prices the Memory Bottleneck",
-        "title_zh": "英特尔首席执行官为内存瓶颈定价下滑1.7%",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/intel-slips-1-7-ceo-181447848.html",
-        "time": "20260918T141400",
-        "source": "Yahoo Finance"
+        "title": "Alphabet tests $354 resistance after $325 double bottom: Live",
+        "title_zh": "Alphabet在$ 325双底后测试$ 354阻力：实时",
+        "url": "https://www.investing.com/news/stock-market-news/alphabet-tests-354-resistance-after-325-double-bottom-live-93CH-4909305",
+        "time": "20260921T141958",
+        "source": "Investing.com"
       }
     ],
     "AMD": [
       {
-        "title": "Schwab Capital Trust's S&P 500 Index Fund Holds $133.7B in Assets, AbbVie Tops Equity Holdings",
-        "title_zh": "Schwab Capital Trust的标准普尔500指数基金持有1337亿美元资产， AbbVie Tops Equity Holdings",
-        "url": "https://kalkinemedia.com/us/news/announcements/schwab-capital-trusts-sp-500-index-fund-holds-1337b-in-assets-abbvie-tops-equity-holdings",
-        "time": "20260918T173949",
-        "source": "Kalkine Media"
+        "title": "Amazon blocks Meta’s Muse agent from shopping on users’ behalf",
+        "title_zh": "Amazon blocks Meta’s Muse agent from shopping on users’ behalf",
+        "url": "https://siliconangle.com/2026/09/21/amazon-blocks-metas-muse-agent-from-shopping-on-users-behalf/",
+        "time": "20260921T224047",
+        "source": "SiliconANGLE"
       },
       {
-        "title": "Zacks Investment Ideas feature highlights: NVIDIA, Advanced Micro Devices, Tempus, Moderna, Super Micro Computer and Aya Gold & Silver",
-        "title_zh": "Zacks投资理念亮点： NVIDIA、Advanced Micro Devices、Tempus、Moderna、Super Micro Computer和Aya Gold & Silver",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-101300743.html",
-        "time": "20260918T101058",
+        "title": "Coherent launches optical platform for AI datacenters",
+        "title_zh": "Coherent推出面向人工智能数据中心的光学平台",
+        "url": "https://www.investing.com/news/company-news/coherent-launches-optical-platform-for-ai-datacenters-93CH-4909583",
+        "time": "20260921T202953",
+        "source": "Investing.com"
+      },
+      {
+        "title": "AMD joins the $1 trillion club, leaving Intel behind",
+        "title_zh": "AMD joins the $1 trillion club, leaving Intel behind",
+        "url": "https://www.notebookcheck.net/AMD-joins-the-1-trillion-club-leaving-Intel-behind.1404984.0.html",
+        "time": "20260921T191844",
+        "source": "Notebookcheck"
+      },
+      {
+        "title": "Arm Surges 13% as Meta’s Muse Agent Reignites CPU Demand Bet; Intel Jumps 12%, AMD Climbs 9%",
+        "title_zh": "随着Meta的Muse代理重新点燃CPU需求投注， ARM飙升13% ；英特尔飙升12% ， AMD攀升9%",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/arm-surges-13-meta-muse-152410038.html",
+        "time": "20260921T155418",
         "source": "Yahoo Finance"
-      },
-      {
-        "title": "SK hynix Launches ‘SK hynix Ventures’ in Silicon Valley to Expand Global AI Ecosystem Investment",
-        "title_zh": "SK海力士在硅谷推出“SK海力士风投” ，以扩大全球人工智能生态系统投资",
-        "url": "https://news.skhynix.com/en/sk-hynix-ventures/",
-        "time": "20260918T082120",
-        "source": "SK hynix"
-      },
-      {
-        "title": "Nykredit A S Buys New Holdings in Advanced Micro Devices, Inc. $AMD",
-        "title_zh": "Nykredit A S收购Advanced Micro Devices, Inc.的新控股公司$ AMD",
-        "url": "https://www.marketbeat.com/instant-alerts/filing-nykredit-a-s-buys-new-holdings-in-advanced-micro-devices-inc-amd-2026-09-18/",
-        "time": "20260918T081146",
-        "source": "MarketBeat"
       }
     ],
     "SNDK": [
+      {
+        "title": "Chip Rally To Sustain? Intel, SanDisk, Micron, Nvidia, SK Hynix Futures Edge Higher Day After Up To 10% Surge",
+        "title_zh": "Chip Rally To Sustain? Intel, SanDisk, Micron, Nvidia, SK Hynix Futures Edge Higher Day After Up To 10% Surge",
+        "url": "https://www.ndtvprofit.com/markets/chip-rally-to-sustain-intel-sandisk-micron-nvidia-sk-hynix-futures-edge-higher-day-after-up-to-10-surge-12064175",
+        "time": "20260918T100429",
+        "source": "NDTV Profit"
+      },
       {
         "title": "Prediction: A $5,000 Investment Split Between Micron and Sandisk Will Triple Before 2028",
         "title_zh": "预测：美光和桑迪斯克之间5000 $的投资分割将在2028年之前增加两倍",
@@ -82,48 +89,48 @@
         "url": "https://www.ndtvprofit.com/markets/sk-hynix-intel-micron-sandisk-other-chip-stocks-surge-up-to-7-as-ai-optimism-outweighs-fed-jolt-12059826",
         "time": "20260917T115702",
         "source": "NDTV Profit"
-      },
-      {
-        "title": "AI 'Slowdown' Jitters Fading? Micron, Intel, SanDisk, Nvidia, SK Hynix Up Pre-Market Day After Crash",
-        "title_zh": "AI “减速”抖动消退？美光、英特尔、闪迪、英伟达、SK海力士在崩盘后上市当天上市",
-        "url": "https://www.ndtvprofit.com/markets/ai-slowdown-jitters-fading-micron-intel-sandisk-nvidia-sk-hynix-up-pre-market-day-after-crash-12049075",
-        "time": "20260915T104848",
-        "source": "NDTV Profit"
       }
     ],
     "000660.KS": [],
     "005930.KS": [],
     "DELL": [
       {
-        "title": "Willow Lane Acqu (WLAC) Stock Price, News & Analysis",
-        "title_zh": "Willow Lane Acqu (WLAC)股价、新闻和分析",
-        "url": "https://www.stocktitan.net/overview/WLAC/",
-        "time": "20260918T131601",
-        "source": "Stock Titan"
+        "title": "Silver Lake Technology Investors V, L.P. Offloads Dell Class C Shares at Prices Up to $591.24",
+        "title_zh": "Silver Lake Technology Investors V, L.P.以高达591.24 $的价格出售戴尔C类股票",
+        "url": "https://kalkinemedia.com/us/news/announcements/silver-lake-technology-investors-v-lp-offloads-dell-class-c-shares-at-prices-up-to-59124",
+        "time": "20260921T215754",
+        "source": "Kalkine Media"
       },
       {
-        "title": "AI Server Stocks Surge In Hardware Rotation: Hewlett Packard Enterprise (NYSE: HPE) Jumps 9%, Super Micro (NASDAQ: SMCI) Climbs 6%, Dell (NYSE: DELL) Rises 3%",
-        "title_zh": "AI服务器硬件轮换股激增： Hewlett Packard Enterprise (NYSE: HPE)上涨9% ， Super Micro (NASDAQ: SMCI)上涨6% ， Dell (NYSE: DELL)上涨3%",
-        "url": "https://www.foreignpolicyjournal.com/2026/09/18/ai-server-stocks-surge-in-hardware-rotation-hewlett-packard-enterprise-nyse-hpe-jumps-9-super-micro-nasdaq-smci-climbs-6-dell-nyse-dell-rises-3/",
-        "time": "20260918T120538",
-        "source": "Foreign Policy Journal"
+        "title": "Dell Technologies CFO David Alan Kennedy Sells Nearly 24,000 Class C Shares in September 2026",
+        "title_zh": "Dell Technologies CFO David Alan Kennedy Sells Nearly 24,000 Class C Shares in September 2026",
+        "url": "https://kalkinemedia.com/us/news/announcements/dell-technologies-cfo-david-alan-kennedy-sells-nearly-24000-class-c-shares-in-september-2026",
+        "time": "20260921T215700",
+        "source": "Kalkine Media"
       },
       {
-        "title": "Jim Cramer Says Hewlett Packard Enterprise (HPE) Has the “Horses” but Remains a Dell (DELL) “Fan”",
-        "title_zh": "吉姆·克莱默（ Jim Cramer ）表示，惠普企业（ HPE ）拥有“马” ，但仍然是戴尔（ DELL ）的“粉丝”",
-        "url": "https://www.insidermonkey.com/news/jim-cramer-says-hewlett-packard-enterprise-hpe-has-the-horses-but-remains-a-dell-dell-fan-1839187/",
-        "time": "20260918T115138",
-        "source": "Insider Monkey"
+        "title": "Super Micro Rises 6% as AI Server Bid Concentrates in One Name; Dell and Hewlett Packard Enterprise Tick Up",
+        "title_zh": "Super Micro Rises 6% as AI Server Bid Concentrates in One Name; Dell and Hewlett Packard Enterprise Tick Up",
+        "url": "https://247wallst.com/investing/2026/09/21/super-micro-rises-6-as-ai-server-bid-concentrates-in-one-name-dell-and-hewlett-packard-enterprise-tick-up/",
+        "time": "20260921T144114",
+        "source": "24/7 Wall St."
       },
       {
-        "title": "Sl spv-2, l.p. sells $25.9m in Dell Technologies stock",
-        "title_zh": "Sl spv-2, l.p.出售$ 2590万Dell Technologies股票",
-        "url": "https://www.investing.com/news/insider-trading-news/sl-spv2-lp-sells-259m-in-dell-technologies-stock-93CH-4906536",
-        "time": "20260917T224937",
-        "source": "Investing.com"
+        "title": "HP Shares Fall 2% as Company Anticipates PC Market Contraction in 2027",
+        "title_zh": "HP Shares Fall 2% as Company Anticipates PC Market Contraction in 2027",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/hp-shares-fall-2-company-124218604.html",
+        "time": "20260921T124853",
+        "source": "Yahoo Finance"
       }
     ],
     "ASX": [
+      {
+        "title": "Nykredit A S Buys New Holdings in ASE Technology Holding Co., Ltd. $ASX",
+        "title_zh": "Nykredit A S收购ASE Technology Holding Co., Ltd.的新控股公司$ ASX",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-nykredit-a-s-buys-new-holdings-in-ase-technology-holding-co-ltd-asx-2026-09-20/",
+        "time": "20260920T074638",
+        "source": "MarketBeat"
+      },
       {
         "title": "Engineers Gate Manager LP Sells 47,611 Shares of ASE Technology Holding Co., Ltd. $ASX",
         "title_zh": "Engineers Gate Manager LP出售日月光科技控股有限公司47,611股股票$ ASX",
@@ -144,19 +151,12 @@
         "url": "https://www.marketbeat.com/instant-alerts/filing-nilsine-partners-llc-invests-128-million-in-ase-technology-holding-co-ltd-asx-2026-09-07/",
         "time": "20260907T090425",
         "source": "MarketBeat"
-      },
-      {
-        "title": "315,750 Shares in ASE Technology Holding Co., Ltd. $ASX Acquired by Nykredit A S",
-        "title_zh": "ASE Technology Holding Co., Ltd. 315,750股股份$ ASX被Nykredit A S收购",
-        "url": "https://www.marketbeat.com/instant-alerts/filing-315750-shares-in-ase-technology-holding-co-ltd-asx-acquired-by-nykredit-a-s-2026-09-05/",
-        "time": "20260905T094247",
-        "source": "MarketBeat"
       }
     ],
     "CBRS": [
       {
         "title": "Cerebras Systems Director Susan Lior Reports In-Kind Stock Distributions on NASDAQ:CBRS",
-        "title_zh": "Cerebras Systems董事Susan Lior在纳斯达克报告实物股票分布： CBRS",
+        "title_zh": "Cerebras Systems Director Susan Lior Reports In-Kind Stock Distributions on NASDAQ:CBRS",
         "url": "https://kalkinemedia.com/us/news/announcements/cerebras-systems-director-susan-lior-reports-in-kind-stock-distributions-on-nasdaqcbrs",
         "time": "20260904T222520",
         "source": "Kalkine Media"
@@ -169,51 +169,58 @@
         "source": "MarketBeat"
       },
       {
+        "title": "Cerebras System's Choppy Year Continues But a Wall Street Pro Forecasts 80% Returns Moving Forward",
+        "title_zh": "Cerebras System的波涛汹涌的一年仍在继续，但华尔街专业人士预测80 ％的回报向前发展",
+        "url": "https://247wallst.com/investing/2026/08/25/cerebras-systems-choppy-year-continues-but-a-wall-street-pro-forecasts-80-returns-moving-forward/",
+        "time": "20260830T060525",
+        "source": "24/7 Wall St."
+      },
+      {
         "title": "Cerebras (CBRS) fund shifts Class B stake into Class A",
         "title_zh": "Cerebras (CBRS)基金将B类股权转移至A类",
         "url": "https://www.stocktitan.net/sec-filings/CBRS/form-4-cerebras-systems-inc-insider-trading-activity-92a8dfda1f1e.html",
         "time": "20260825T234110",
         "source": "Stock Titan"
-      },
-      {
-        "title": "Cerebras Systems (CBRS) CEO sells stock above $195 a share",
-        "title_zh": "Cerebras Systems （ CBRS ）首席执行官出售每股195 $以上的股票",
-        "url": "https://www.stocktitan.net/sec-filings/CBRS/form-4-cerebras-systems-inc-insider-trading-activity-b1823716990d.html",
-        "time": "20260825T224111",
-        "source": "Stock Titan"
       }
     ],
     "NVDA": [
       {
-        "title": "SpaceX Stock Is Down 33% From Its High. Here's Why Morgan Stanley Thinks There's 106% Upside From Here.",
-        "title_zh": "SpaceX股价较高点下跌33%。这就是为什么摩根士丹利认为这里有106%的上升空间。",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-down-33-high-195000333.html",
-        "time": "20260918T200931",
+        "title": "Adobe CEO Shantanu Narayen Sells $31.3 Million Stock",
+        "title_zh": "Adobe首席执行官Shantanu Narayen出售价值3130万美元的股票",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-ceo-shantanu-narayen-sells-212001776.html",
+        "time": "20260921T212000",
         "source": "Yahoo Finance"
       },
       {
-        "title": "Intel vs. SK Hynix: Which Chip Stock Is Worth Chasing After This Week's Surge?",
-        "title_zh": "英特尔与SK海力士：在本周的激增之后，哪种芯片库存值得追逐？",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/intel-vs-sk-hynix-chip-191000596.html",
-        "time": "20260918T192120",
-        "source": "Yahoo Finance"
+        "title": "Coherent launches optical platform for AI datacenters",
+        "title_zh": "Coherent推出面向人工智能数据中心的光学平台",
+        "url": "https://www.investing.com/news/company-news/coherent-launches-optical-platform-for-ai-datacenters-93CH-4909583",
+        "time": "20260921T202953",
+        "source": "Investing.com"
       },
       {
-        "title": "Arrow Electronics and ST Microelectronics accelerate industrial AMR development with a new reference platform",
-        "title_zh": "Arrow Electronics和ST Microelectronics通过新的参考平台加速工业AMR开发",
-        "url": "https://electronics360.globalspec.com/article/24031/arrow-electronics-and-st-microelectronics-accelerate-industrial-amr-development-with-a-new-reference-platform",
-        "time": "20260918T134757",
-        "source": "Electronics360"
+        "title": "AMD joins the $1 trillion club, leaving Intel behind",
+        "title_zh": "AMD加入$ 1万亿美元俱乐部，英特尔落后",
+        "url": "https://www.notebookcheck.net/AMD-joins-the-1-trillion-club-leaving-Intel-behind.1404984.0.html",
+        "time": "20260921T191844",
+        "source": "Notebookcheck"
       },
       {
-        "title": "Microsoft (NASDAQ: MSFT) Caps Xbox Cloud Gaming Hours For Game Pass Subscribers Starting November",
-        "title_zh": "微软（纳斯达克股票代码： MSFT ）从11月起限制游戏通行证订阅者的Xbox云游戏时间",
-        "url": "https://www.foreignpolicyjournal.com/2026/09/18/microsoft-nasdaq-msft-caps-xbox-cloud-gaming-hours-for-game-pass-subscribers-starting-november/",
-        "time": "20260918T104754",
-        "source": "www.foreignpolicyjournal.com"
+        "title": "Broadcom’s AI Opportunity Is Bigger Than Its Stock Price Suggests",
+        "title_zh": "博通的人工智能机遇大于股价暗示",
+        "url": "https://247wallst.com/investing/2026/09/21/broadcoms-ai-opportunity-is-bigger-than-its-stock-price-suggests/",
+        "time": "20260921T153829",
+        "source": "24/7 Wall St."
       }
     ],
     "TSM": [
+      {
+        "title": "There's a Good Reason to Choose GLOBALFOUNDRIES Over Taiwan Semiconductor Manufacturing",
+        "title_zh": "选择GLOBALFOUNDRIES胜过台湾半导体制造的充分理由",
+        "url": "https://247wallst.com/investing/2026/09/17/theres-a-good-reason-to-choose-globalfoundries-over-taiwan-semiconductor-manufacturing/",
+        "time": "20260918T150713",
+        "source": "24/7 Wall St."
+      },
       {
         "title": "Taiwan Semiconductor Is a No-Brainer Buy On Repeat And Not For The Reason You Think",
         "title_zh": "台湾半导体是一个重复购买的明智之举，而不是出于您认为的原因",
@@ -234,145 +241,138 @@
         "url": "https://english.cw.com.tw/article/article.action?id=5000",
         "time": "20260915T030224",
         "source": "天下雜誌"
-      },
-      {
-        "title": "Taiwan Semiconductor September Revenue Surges 53% and Can’t Keep Up With Demand",
-        "title_zh": "台湾半导体9月营收飙升53% ，无法跟上需求",
-        "url": "https://247wallst.com/investing/2026/09/10/taiwan-semiconductor-september-revenue-surges-53-and-cant-keep-up-with-demand/",
-        "time": "20260910T152756",
-        "source": "24/7 Wall St."
       }
     ],
     "INTC": [
       {
-        "title": "Intel vs. SK Hynix: Which Chip Stock Is Worth Chasing After This Week's Surge?",
-        "title_zh": "英特尔与SK海力士：在本周的激增之后，哪种芯片库存值得追逐？",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/intel-vs-sk-hynix-chip-191000596.html",
-        "time": "20260918T192120",
-        "source": "Yahoo Finance"
+        "title": "Amazon blocks Meta’s Muse agent from shopping on users’ behalf",
+        "title_zh": "亚马逊阻止Meta的Muse代理代表用户购物",
+        "url": "https://siliconangle.com/2026/09/21/amazon-blocks-metas-muse-agent-from-shopping-on-users-behalf/",
+        "time": "20260921T224047",
+        "source": "SiliconANGLE"
       },
       {
-        "title": "Jim Cramer on Reformation (REF): “It Should Be Higher Than It Is”",
-        "title_zh": "吉姆·克莱默（ Jim Cramer ）谈改革（ REF ） ： “它应该比它更高”",
-        "url": "https://sg.finance.yahoo.com/news/jim-cramer-reformation-ref-higher-120724947.html",
-        "time": "20260918T180706",
-        "source": "Yahoo Finance Singapore"
+        "title": "AMD joins the $1 trillion club, leaving Intel behind",
+        "title_zh": "AMD加入$ 1万亿美元俱乐部，英特尔落后",
+        "url": "https://www.notebookcheck.net/AMD-joins-the-1-trillion-club-leaving-Intel-behind.1404984.0.html",
+        "time": "20260921T191844",
+        "source": "Notebookcheck"
       },
       {
-        "title": "Jim Cramer Calls Intel (INTC) the Best Stock in Show and Micron (MU) No. 2",
-        "title_zh": "Jim Cramer称英特尔（ INTC ）是展会最佳股票，美光（ MU ）排名第二",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-calls-intel-intc-181522000.html",
-        "time": "20260918T141500",
-        "source": "Yahoo Finance"
+        "title": "We Think Meta Could Keep Soaring Higher and Wells Fargo Agrees",
+        "title_zh": "我们认为Meta可以继续飙升，富国银行同意",
+        "url": "https://247wallst.com/investing/2026/09/21/we-think-meta-could-keep-soaring-higher-and-wells-fargo-agrees/",
+        "time": "20260921T171118",
+        "source": "24/7 Wall St."
       },
       {
-        "title": "Intel Slips 1.7% as Its CEO Prices the Memory Bottleneck",
-        "title_zh": "英特尔首席执行官为内存瓶颈定价下滑1.7%",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/intel-slips-1-7-ceo-181447848.html",
-        "time": "20260918T141400",
-        "source": "Yahoo Finance"
+        "title": "Universal Corp stock hits 52-week low at $43.35",
+        "title_zh": "Universal Corp股价触及52周低点$ 43.35",
+        "url": "https://www.investing.com/news/company-news/universal-corp-stock-hits-52week-low-at-4335-93CH-4909399",
+        "time": "20260921T155925",
+        "source": "Investing.com"
       }
     ],
     "GOOGL": [
       {
-        "title": "Scott Franklin purchases Accenture and McDonald’s shares, sells Alphabet and JP Morgan Chase stocks",
-        "title_zh": "斯科特·富兰克林购买埃森哲和麦当劳股票，出售Alphabet和摩根大通股票",
-        "url": "https://www.investing.com/news/company-news/scott-franklin-purchases-accenture-and-mcdonalds-shares-sells-alphabet-and-jp-morgan-chase-stocks-93CH-4907901",
-        "time": "20260918T210954",
+        "title": "Southern Co unit signs deal with Google to add nuclear capacity",
+        "title_zh": "Southern Co部门与谷歌达成协议，增加核电产能",
+        "url": "https://www.reuters.com/legal/litigation/southern-co-unit-signs-deal-with-google-add-nuclear-capacity-2026-09-21/",
+        "time": "20260921T214039",
+        "source": "Reuters"
+      },
+      {
+        "title": "Georgia Power, Google strike nuclear uprate deal worth $900M",
+        "title_zh": "乔治亚州电力公司和谷歌达成价值9亿美元的核升级协议",
+        "url": "https://www.investing.com/news/company-news/georgia-power-google-strike-nuclear-uprate-deal-worth-900m-93CH-4909647",
+        "time": "20260921T211039",
         "source": "Investing.com"
       },
       {
-        "title": "Sovereign AI requires extending governance to AI layer",
-        "title_zh": "Sovereign AI需要将治理扩展到AI层",
-        "url": "https://www.techtarget.com/searchcloudcomputing/tip/Sovereign-AI-requires-extending-governance-to-AI-layer",
-        "time": "20260918T182054",
-        "source": "TechTarget"
+        "title": "Marvell Stock (MRVL) Rises as Morgan Stanley Lifts Price Target Ahead of Oct. 6 Investor Day",
+        "title_zh": "随着摩根士丹利在10月6日投资者日之前提高价格目标， Marvell股票(MRVL)上涨",
+        "url": "https://www.tipranks.com/news/marvell-stock-mrvl-rises-as-morgan-stanley-lifts-price-target-ahead-of-oct-6-investor-day",
+        "time": "20260921T191107",
+        "source": "TipRanks"
       },
       {
-        "title": "AI ate the first rung of the technology career ladder",
-        "title_zh": "人工智能吞噬了科技事业阶梯的第一道台阶",
-        "url": "https://www.techtarget.com/it-strategy/opinion/AI-ate-the-first-rung-of-the-technology-career-ladder",
-        "time": "20260918T172054",
-        "source": "TechTarget"
-      },
-      {
-        "title": "JPMorgan Sees Investment Banking and Trading Powering Q3 Growth",
-        "title_zh": "摩根大通认为投资银行和交易推动第三季度增长",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-sees-investment-banking-trading-164740809.html",
-        "time": "20260918T161918",
-        "source": "Yahoo Finance"
+        "title": "Litmus Named a Leader in the 2026 Gartner(R) Magic Quadrant(TM) for Global Industrial AIoT Platforms",
+        "title_zh": "Litmus在2026年Gartner (R)全球工业AIoT平台魔力象限(TM)中被评为领导者",
+        "url": "https://www.accessnewswire.com/newsroom/en/industrial-and-manufacturing/litmus-named-a-leader-in-the-2026-gartnerr-magic-quadranttm-for-global-1223182",
+        "time": "20260921T184848",
+        "source": "ACCESS Newswire"
       }
     ]
   },
   "quotes": {
     "MU": {
-      "price": 1015.8,
+      "price": 1043.96,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "AMD": {
-      "price": 559.82,
+      "price": 615.52,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "SNDK": {
-      "price": 1791.82,
+      "price": 1766.64,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "000660.KS": {
-      "price": 1857000.0,
+      "price": 1868000.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "005930.KS": {
-      "price": 261000.0,
+      "price": 274000.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "DELL": {
-      "price": 568.06,
+      "price": 575.31,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "ASX": {
-      "price": 41.63,
+      "price": 43.73,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "CBRS": {
-      "price": 198.37,
+      "price": 208.49,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "NVDA": {
-      "price": 222.27,
+      "price": 227.38,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "TSM": {
-      "price": 434.67,
+      "price": 445.14,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "INTC": {
-      "price": 108.6,
+      "price": 121.78,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "GOOGL": {
-      "price": 349.54,
+      "price": 354.97,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
