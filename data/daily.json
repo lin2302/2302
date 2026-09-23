@@ -1,64 +1,64 @@
 {
-  "updated_at": "2026-09-22T23:40:06.137193+00:00",
+  "updated_at": "2026-09-23T23:48:31.205309+00:00",
   "companies": {
     "MU": [
       {
-        "title": "Nvidia’s Cooling Stock Valuations Are Being Looked At As A Warning Signal",
-        "title_zh": "英伟达的冷却库存估值被视为警告信号",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-cooling-stock-valuations-being-224519317.html",
-        "time": "20260922T224546",
-        "source": "Yahoo Finance"
+        "title": "QRG Capital Management Inc. Buys 28,171 Shares of Citigroup Inc. $C",
+        "title_zh": "QRG Capital Management Inc.收购Citigroup Inc. 28,171股股票$ C",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-qrg-capital-management-inc-buys-28171-shares-of-citigroup-inc-c-2026-09-23/",
+        "time": "20260923T230810",
+        "source": "MarketBeat"
       },
       {
-        "title": "Micron Earnings Are Set for a 10x Jump: The Stock Is Still the Cheapest in Tech",
-        "title_zh": "微米的收入将增长10倍：该股仍然是科技股中最便宜的",
-        "url": "https://www.benzinga.com/markets/tech/26/09/61930540/micron-third-quarter-earnings-10x-jump-cheapest-tech-stock",
-        "time": "20260922T181054",
-        "source": "Benzinga"
+        "title": "Micron (MU) vs Western Digital (WDC): Which is a Better Stock to Buy",
+        "title_zh": "美光(MU)与西部数据(WDC) ：哪种股票更值得购买",
+        "url": "https://www.insidermonkey.com/news/micron-mu-vs-western-digital-wdc-which-is-a-better-stock-to-buy-1843163/?amp=1",
+        "time": "20260923T200844",
+        "source": "Insider Monkey"
       },
       {
-        "title": "Uber, Micron, Datadog And A Health Care Stock: CNBC’s ‘Final Trades’",
-        "title_zh": "优步、美光、Datadog和医疗保健股： CNBC的“最终交易”",
-        "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/09/61917211/uber-micron-datadog-and-a-health-care-stock-cnbcs-final-trades",
-        "time": "20260922T121329",
-        "source": "Benzinga"
+        "title": "Freeport-McMoRan Inc Stock (FCX) Moved Down by 3.44% on Sep 23: What Signal Does It Send?",
+        "title_zh": "Freeport-McMoRan Inc股票(FCX)在9月23日下跌3.44% ：它发出了什么信号？",
+        "url": "https://www.tradingkey.com/news/market-movers/262183324-market-movers-fcx-20260923",
+        "time": "20260923T174523",
+        "source": "TradingKey"
       },
       {
-        "title": "Micron Likely To Report Higher Q4 Earnings; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call",
-        "title_zh": "美光可能公布更高的第四季度盈利；这些最准确的分析师在盈利电话会议之前修改预测",
-        "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/09/61915878/micron-likely-to-report-higher-q4-earnings-these-most-accurate-analysts-revise-forecasts-ahead-of-earnings-call",
-        "time": "20260922T121105",
-        "source": "Benzinga"
+        "title": "Micron keeps analysts bullish as memory demand strengthens",
+        "title_zh": "随着内存需求的增强，美光继续看涨分析师",
+        "url": "https://ca.finance.yahoo.com/news/micron-keeps-analysts-bullish-memory-173500771.html",
+        "time": "20260923T174045",
+        "source": "Yahoo! Finance Canada"
       }
     ],
     "AMD": [
       {
-        "title": "Nvidia’s Cooling Stock Valuations Are Being Looked At As A Warning Signal",
-        "title_zh": "英伟达的冷却库存估值被视为警告信号",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-cooling-stock-valuations-being-224519317.html",
-        "time": "20260922T224546",
+        "title": "QRG Capital Management Inc. Grows Stock Holdings in Advanced Micro Devices, Inc. $AMD",
+        "title_zh": "QRG Capital Management Inc.增持Advanced Micro Devices, Inc.股票$ AMD",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-qrg-capital-management-inc-grows-stock-holdings-in-advanced-micro-devices-inc-amd-2026-09-23/",
+        "time": "20260923T230812",
+        "source": "MarketBeat"
+      },
+      {
+        "title": "Hewlett Packard Enterprise (NYSE:HPE) Shares Up 2.3% - Should You Buy?",
+        "title_zh": "Hewlett Packard Enterprise (NYSE: HPE)股价上涨2.3% -您应该买入吗？",
+        "url": "https://www.marketbeat.com/instant-alerts/price-hewlett-packard-enterprise-nyse-hpe-shares-up-23-should-you-buy-2026-09-23/",
+        "time": "20260923T212551",
+        "source": "MarketBeat"
+      },
+      {
+        "title": "Alchip collaborates with Synopsys to Address Scale Up and Out Bandwidth Constraints",
+        "title_zh": "Alchip与Synopsys合作解决扩展和扩展带宽限制",
+        "url": "https://finance.yahoo.com/technology/ai/articles/alchip-collaborates-synopsys-address-scale-190000001.html",
+        "time": "20260923T190111",
         "source": "Yahoo Finance"
       },
       {
-        "title": "Freeport-McMoRan (NYSE:FCX) Shares Up 3% - Still a Buy?",
-        "title_zh": "Freeport-McMoRan (NYSE: FCX)股价上涨3% -仍然买入？",
-        "url": "https://www.marketbeat.com/instant-alerts/price-freeport-mcmoran-nyse-fcx-shares-up-3-still-a-buy-2026-09-22/",
-        "time": "20260922T214551",
-        "source": "MarketBeat"
-      },
-      {
-        "title": "Qualcomm reveals 2 new smartphone chips focusing on agentic AI",
-        "title_zh": "高通公司推出2款专注于智能AI的新型智能手机芯片",
-        "url": "https://ca.finance.yahoo.com/news/qualcomm-reveals-2-new-smartphone-chips-focusing-on-agentic-ai-200000608.html",
-        "time": "20260922T201522",
-        "source": "Yahoo! Finance Canada"
-      },
-      {
-        "title": "Royal Caribbean Cruises (NYSE:RCL) Trading Down 5.4% - Here's Why",
-        "title_zh": "皇家加勒比邮轮(NYSE: RCL)交易价格下跌5.4% -原因如下",
-        "url": "https://www.marketbeat.com/instant-alerts/price-royal-caribbean-cruises-nyse-rcl-trading-down-54-heres-why-2026-09-22/",
-        "time": "20260922T185306",
-        "source": "MarketBeat"
+        "title": "AAON (AAON) Shares Just Moved, What Is Catching Attention Now?",
+        "title_zh": "AAON （ AAON ）股票刚刚移动，现在引起注意的是什么？",
+        "url": "https://simplywall.st/stocks/us/capital-goods/nasdaq-aaon/aaon/news/aaon-aaon-shares-just-moved-what-is-catching-attention-now",
+        "time": "20260923T175623",
+        "source": "Simply Wall Street"
       }
     ],
     "SNDK": [
@@ -95,65 +95,72 @@
     "005930.KS": [],
     "DELL": [
       {
-        "title": "Form 4 Dell Technologies Inc For: 22 September By Investing.com",
-        "title_zh": "表格4 Dell Technologies Inc发给： 9月22日Investing.com",
-        "url": "https://in.investing.com/news/stock-market-news/form-4-dell-technologies-inc-for-22-september-93CH-5601944",
-        "time": "20260922T212120",
-        "source": "Investing.com India"
+        "title": "Qualcomm’s Snapdragon X Elite and X2 Plus powers new Googlebook and Surface lineup",
+        "title_zh": "高通公司的Snapdragon X Elite和X2 Plus为新的Googlebook和Surface阵容提供支持",
+        "url": "https://www.theshortcut.com/p/qualcomms-snapdragon-x-elite-and-x2-plus-powers-new-googlebook-and-surface-lineup",
+        "time": "20260923T203106",
+        "source": "The Shortcut | Matt Swider"
       },
       {
-        "title": "NetApp (NTAP) Just Deepened Its VMware Cloud Integration. How Much Does It Matter?",
-        "title_zh": "NetApp (NTAP)刚刚深化了其VMware云集成。这有多重要？",
-        "url": "https://www.insidermonkey.com/news/netapp-ntap-just-deepened-its-vmware-cloud-integration-how-much-does-it-matter-1841197/",
-        "time": "20260922T183800",
-        "source": "Insider Monkey"
+        "title": "Seagate Retired Its 2028 Notes. Buybacks Are Next",
+        "title_zh": "希捷淘汰其2028年票据。下一步是回购",
+        "url": "https://www.tikr.com/blog/seagate-retired-its-2028-notes-buybacks-are-next",
+        "time": "20260923T141137",
+        "source": "TIKR.com"
       },
       {
-        "title": "Bank of New York Mellon options flow shows heavy put bias at 2.63x put/call ratio",
-        "title_zh": "纽约梅隆银行期权流量显示2.63倍看跌期权/看涨期权比率的严重看跌期权偏好",
-        "url": "https://www.investing.com/news/stock-market-news/bank-of-new-york-mellon-options-flow-shows-heavy-put-bias-at-263x-putcall-ratio-93CH-4911315",
-        "time": "20260922T163414",
-        "source": "Investing.com"
+        "title": "Daiwa Securities Adjusts Hewlett Packard Enterprise Price Target to $65 From $52, Maintains Neutral Rating",
+        "title_zh": "大和证券将惠普企业目标价从52 $调整至65 $ ，维持中性评级",
+        "url": "https://www.marketscreener.com/news/daiwa-securities-adjusts-hewlett-packard-enterprise-price-target-to-65-from-52-maintains-neutral-ce785ad9df8fff20",
+        "time": "20260923T131655",
+        "source": "www.marketscreener.com"
       },
       {
-        "title": "Qualcomm Shares Slip 0.93% In Premarket - Qualcomm (NASDAQ:QCOM)",
-        "title_zh": "高通股票在盘前下跌0.93 ％ -高通（纳斯达克股票代码： QCOM ）",
-        "url": "https://www.benzinga.com/markets/equities/26/09/61912812/qualcomm-shares-rise-after-hours-google-partnership",
-        "time": "20260922T081532",
-        "source": "Benzinga"
+        "title": "Key facts: NASDAQ:GOOG Gemini breach; Search leads; Cloud/AI +52%",
+        "title_zh": "关键信息：纳斯达克： GOOG Gemini漏洞；搜索线索；云/人工智能+52%",
+        "url": "https://www.tradingview.com/news/tradingview:59258988ab6f3:0-key-facts-nasdaq-goog-gemini-breach-search-leads-cloud-ai-52/",
+        "time": "20260923T071535",
+        "source": "TradingView"
       }
     ],
     "ASX": [
       {
-        "title": "Nykredit A S Buys New Holdings in ASE Technology Holding Co., Ltd. $ASX",
-        "title_zh": "Nykredit A S收购ASE Technology Holding Co., Ltd.的新控股公司$ ASX",
-        "url": "https://www.marketbeat.com/instant-alerts/filing-nykredit-a-s-buys-new-holdings-in-ase-technology-holding-co-ltd-asx-2026-09-20/",
-        "time": "20260920T074638",
-        "source": "MarketBeat"
+        "title": "ASE Technology Holding Co Ltd Stock (ASX) Moved Down by 3.30% on Sep 23: What Signal Does It Send?",
+        "title_zh": "ASE Technology Holding Co Ltd Stock (ASX)在9月23日下跌3.30% ：它发出了什么信号？",
+        "url": "https://www.tradingkey.com/news/market-movers/262183247-market-movers-asx-20260923",
+        "time": "20260923T155217",
+        "source": "TradingKey"
       },
       {
-        "title": "Engineers Gate Manager LP Sells 47,611 Shares of ASE Technology Holding Co., Ltd. $ASX",
-        "title_zh": "Engineers Gate Manager LP出售日月光科技控股有限公司47,611股股票$ ASX",
-        "url": "https://www.marketbeat.com/instant-alerts/filing-engineers-gate-manager-lp-sells-47611-shares-of-ase-technology-holding-co-ltd-asx-2026-09-15/",
-        "time": "20260915T080829",
-        "source": "MarketBeat"
+        "title": "ASE Technology Holding Co., Ltd. (ASX) Options Chain - Yahoo Finance",
+        "title_zh": "日月光科技控股有限公司（ ASX ）期权链-雅虎财经",
+        "url": "https://ca.finance.yahoo.com/quote/ASX/options/?date=1805414400&straddle=false&type=all",
+        "time": "20260923T075217",
+        "source": "Yahoo! Finance Canada"
       },
       {
-        "title": "ASE Technology Holding Co., Ltd. Announces Monthly Net Revenues*",
-        "title_zh": "日月光科技控股有限公司公布月度净收入*",
-        "url": "https://sg.finance.yahoo.com/news/ase-technology-holding-co-ltd-070000502.html",
-        "time": "20260909T070000",
-        "source": "Yahoo Finance Singapore"
+        "title": "Is ASE Technology's $10.5B CapEx Plan Key to Capturing AI Demand?",
+        "title_zh": "日月光科技的105亿美元资本支出计划是捕捉人工智能需求的关键吗？",
+        "url": "https://www.theglobeandmail.com/investing/markets/stocks/AMKR/pressreleases/4736652/is-ase-technologys-105b-capex-plan-key-to-capturing-ai-demand/",
+        "time": "20260922T152051",
+        "source": "The Globe and Mail"
       },
       {
-        "title": "Nilsine Partners LLC Invests $1.28 Million in ASE Technology Holding Co., Ltd. $ASX",
-        "title_zh": "Nilsine Partners LLC向ASE Technology Holding Co., Ltd.投资$ 128万$ ASX",
-        "url": "https://www.marketbeat.com/instant-alerts/filing-nilsine-partners-llc-invests-128-million-in-ase-technology-holding-co-ltd-asx-2026-09-07/",
-        "time": "20260907T090425",
-        "source": "MarketBeat"
+        "title": "ASE Technology's Unit Acquires NT$1.33 Billion Machinery",
+        "title_zh": "日月光科技收购新台币13.3亿元机械",
+        "url": "https://www.marketscreener.com/news/ase-technology-s-unit-acquires-nt-1-33-billion-machinery-ce785ad8db8bf12c",
+        "time": "20260922T092051",
+        "source": "marketscreener.com"
       }
     ],
     "CBRS": [
+      {
+        "title": "Nearly 500,000 Cerebras Systems (CBRS) shares reshuffled in director’s non-cash move",
+        "title_zh": "在董事的非现金转移中重组了近50万股Cerebras Systems (CBRS)股票",
+        "url": "https://www.stocktitan.net/sec-filings/CBRS/form-4-cerebras-systems-inc-insider-trading-activity-3ca694c6f9e6.html",
+        "time": "20260918T141102",
+        "source": "Stock Titan"
+      },
       {
         "title": "Cerebras Systems Director Susan Lior Reports In-Kind Stock Distributions on NASDAQ:CBRS",
         "title_zh": "Cerebras Systems董事Susan Lior在纳斯达克报告实物股票分布： CBRS",
@@ -162,217 +169,210 @@
         "source": "Kalkine Media"
       },
       {
+        "title": "Family trust lines up new Cerebras (CBRS) stock sale",
+        "title_zh": "家族信托排队出售新Cerebras (CBRS)股票",
+        "url": "https://www.stocktitan.net/sec-filings/CBRS/144-cerebras-systems-inc-sec-filing-d548a51033fc.html",
+        "time": "20260902T141102",
+        "source": "Stock Titan"
+      },
+      {
         "title": "Top Cerebras Systems (CBRS) Competitors 2026",
         "title_zh": "2026年顶级大脑系统（ CBRS ）竞争对手",
         "url": "https://www.marketbeat.com/stocks/NASDAQ/CBRS/competitors-and-alternatives/",
         "time": "20260901T174120",
         "source": "MarketBeat"
-      },
-      {
-        "title": "Cerebras System's Choppy Year Continues But a Wall Street Pro Forecasts 80% Returns Moving Forward",
-        "title_zh": "Cerebras System的波涛汹涌的一年仍在继续，但华尔街专业人士预测80 ％的回报向前发展",
-        "url": "https://247wallst.com/investing/2026/08/25/cerebras-systems-choppy-year-continues-but-a-wall-street-pro-forecasts-80-returns-moving-forward/",
-        "time": "20260830T060525",
-        "source": "24/7 Wall St."
-      },
-      {
-        "title": "Cerebras (CBRS) fund shifts Class B stake into Class A",
-        "title_zh": "Cerebras (CBRS)基金将B类股权转移至A类",
-        "url": "https://www.stocktitan.net/sec-filings/CBRS/form-4-cerebras-systems-inc-insider-trading-activity-92a8dfda1f1e.html",
-        "time": "20260825T234110",
-        "source": "Stock Titan"
       }
     ],
     "NVDA": [
       {
-        "title": "Nvidia’s Cooling Stock Valuations Are Being Looked At As A Warning Signal",
-        "title_zh": "英伟达的冷却库存估值被视为警告信号",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-cooling-stock-valuations-being-224519317.html",
-        "time": "20260922T224546",
-        "source": "Yahoo Finance"
-      },
-      {
-        "title": "Freeport-McMoRan (NYSE:FCX) Shares Up 3% - Still a Buy?",
-        "title_zh": "Freeport-McMoRan (NYSE: FCX)股价上涨3% -仍然买入？",
-        "url": "https://www.marketbeat.com/instant-alerts/price-freeport-mcmoran-nyse-fcx-shares-up-3-still-a-buy-2026-09-22/",
-        "time": "20260922T214551",
+        "title": "QRG Capital Management Inc. Grows Stock Holdings in Advanced Micro Devices, Inc. $AMD",
+        "title_zh": "QRG Capital Management Inc.增持Advanced Micro Devices, Inc.股票$ AMD",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-qrg-capital-management-inc-grows-stock-holdings-in-advanced-micro-devices-inc-amd-2026-09-23/",
+        "time": "20260923T230812",
         "source": "MarketBeat"
       },
       {
-        "title": "Qualcomm reveals 2 new smartphone chips focusing on agentic AI",
-        "title_zh": "高通公司推出2款专注于智能AI的新型智能手机芯片",
-        "url": "https://ca.finance.yahoo.com/news/qualcomm-reveals-2-new-smartphone-chips-focusing-on-agentic-ai-200000608.html",
-        "time": "20260922T201522",
-        "source": "Yahoo! Finance Canada"
+        "title": "Hewlett Packard Enterprise (NYSE:HPE) Shares Up 2.3% - Should You Buy?",
+        "title_zh": "Hewlett Packard Enterprise (NYSE: HPE)股价上涨2.3% -您应该买入吗？",
+        "url": "https://www.marketbeat.com/instant-alerts/price-hewlett-packard-enterprise-nyse-hpe-shares-up-23-should-you-buy-2026-09-23/",
+        "time": "20260923T212551",
+        "source": "MarketBeat"
       },
       {
-        "title": "Apple Takes Aim at Nvidia’s AI Economics: New Macs Have ‘No Cost per Token,’ Hardware Chief Says",
-        "title_zh": "苹果瞄准英伟达的人工智能经济：硬件主管表示，新款Mac “每个代币没有成本”",
-        "url": "https://finance.yahoo.com/technology/ai/articles/apple-takes-aim-nvidia-ai-193250242.html",
-        "time": "20260922T191325",
+        "title": "This Dividend King Was Removed From the S&P 100. Here's Why It's a Great Buy for Long-Term Investors Anyway.",
+        "title_zh": "这位股息王被从标准普尔100指数中删除。这就是为什么这对长期投资者来说是一个很好的选择。",
+        "url": "https://currently.att.yahoo.com/att/dividend-king-removed-p-100-193500771.html",
+        "time": "20260923T193500",
+        "source": "Currently.com"
+      },
+      {
+        "title": "Alchip collaborates with Synopsys to Address Scale Up and Out Bandwidth Constraints",
+        "title_zh": "Alchip与Synopsys合作解决扩展和扩展带宽限制",
+        "url": "https://finance.yahoo.com/technology/ai/articles/alchip-collaborates-synopsys-address-scale-190000001.html",
+        "time": "20260923T190111",
         "source": "Yahoo Finance"
       }
     ],
     "TSM": [
       {
-        "title": "There's a Good Reason to Choose GLOBALFOUNDRIES Over Taiwan Semiconductor Manufacturing",
-        "title_zh": "选择GLOBALFOUNDRIES胜过台湾半导体制造的充分理由",
-        "url": "https://247wallst.com/investing/2026/09/17/theres-a-good-reason-to-choose-globalfoundries-over-taiwan-semiconductor-manufacturing/",
-        "time": "20260918T150713",
-        "source": "24/7 Wall St."
+        "title": "TSMC's A14 Gains Customer Traction Ahead of 2028 Volume Production",
+        "title_zh": "台积电A14在2028年量产之前获得客户牵引力",
+        "url": "https://www.tradingview.com/news/zacks:5729b8822094b:0-tsmc-s-a14-gains-customer-traction-ahead-of-2028-volume-production/",
+        "time": "20260923T124916",
+        "source": "TradingView"
       },
       {
-        "title": "Taiwan Semiconductor Is a No-Brainer Buy On Repeat And Not For The Reason You Think",
-        "title_zh": "台湾半导体是一个重复购买的明智之举，而不是出于您认为的原因",
-        "url": "https://247wallst.com/investing/2026/09/16/taiwan-semiconductor-is-a-no-brainer-buy-on-repeat-and-not-for-the-reason-you-think/",
-        "time": "20260916T150349",
-        "source": "24/7 Wall St."
+        "title": "Taiwan's TAIEX Closes Above 48,000 for First Time as TSMC Hits NT$2,500 Record High",
+        "title_zh": "台湾TAIEX首次突破48,000 ，台积电创下2500 $新台币历史新高",
+        "url": "https://finance.biggo.com/news/4f8e01d1-489f-43ce-8b45-fbb4e911fd13",
+        "time": "20260923T094916",
+        "source": "BigGo Finance"
       },
       {
-        "title": "ASML Vs. Taiwan Semiconductor Manufacturing: One Is More Misunderstood",
-        "title_zh": "ASML与台湾半导体制造：一个是更多的误解",
-        "url": "https://247wallst.com/investing/2026/09/16/asml-vs-taiwan-semiconductor-manufacturing-one-is-more-misunderstood/",
-        "time": "20260916T140349",
-        "source": "24/7 Wall St."
+        "title": "Taiwan Semiconductor Manufacturing (NYSE:TSM) Stock Could Be 13% Above Fair Value Despite Record AI Revenue",
+        "title_zh": "尽管人工智能收入创纪录，但台湾半导体制造(NYSE: TSM)股票可能高于公允价值13%",
+        "url": "https://simplywall.st/stocks/us/semiconductors/nyse-tsm/taiwan-semiconductor-manufacturing/news/taiwan-semiconductor-manufacturing-nysetsm-stock-could-be-13",
+        "time": "20260923T034915",
+        "source": "Simply Wall Street"
       },
       {
-        "title": "What Is Taiwan’s “Silicon Shield”—and Does It Still Protect Taiwan in 2026?",
-        "title_zh": "什么是台湾的“硅盾” ，它在2026年还能保护台湾吗？",
-        "url": "https://english.cw.com.tw/article/article.action?id=5000",
-        "time": "20260915T030224",
-        "source": "天下雜誌"
+        "title": "AMD Rises 5% as Report Flags 10% Chip Price Increase; NVIDIA and Taiwan Semiconductor Tick Up",
+        "title_zh": "AMD上涨5% ，报告显示芯片价格上涨10% ； NVIDIA和台湾半导体上涨",
+        "url": "https://247wallst.com/investing/2026/09/21/amd-rises-5-as-report-flags-10-chip-price-increase-nvidia-and-taiwan-semiconductor-tick-up/",
+        "time": "20260922T030105",
+        "source": "24/7 Wall St."
       }
     ],
     "INTC": [
       {
-        "title": "Nvidia’s Cooling Stock Valuations Are Being Looked At As A Warning Signal",
-        "title_zh": "英伟达的冷却库存估值被视为警告信号",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-cooling-stock-valuations-being-224519317.html",
-        "time": "20260922T224546",
+        "title": "Alchip collaborates with Synopsys to Address Scale Up and Out Bandwidth Constraints",
+        "title_zh": "Alchip与Synopsys合作解决扩展和扩展带宽限制",
+        "url": "https://finance.yahoo.com/technology/ai/articles/alchip-collaborates-synopsys-address-scale-190000001.html",
+        "time": "20260923T190111",
         "source": "Yahoo Finance"
       },
       {
-        "title": "Qualcomm reveals 2 new smartphone chips focusing on agentic AI",
-        "title_zh": "高通公司推出2款专注于智能AI的新型智能手机芯片",
-        "url": "https://ca.finance.yahoo.com/news/qualcomm-reveals-2-new-smartphone-chips-focusing-on-agentic-ai-200000608.html",
-        "time": "20260922T201522",
-        "source": "Yahoo! Finance Canada"
-      },
-      {
-        "title": "State Street Corp Raises Stock Holdings in Intel Corporation $INTC",
-        "title_zh": "State Street Corp增持英特尔公司股票$ INTC",
-        "url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-raises-stock-holdings-in-intel-corporation-intc-2026-09-22/",
-        "time": "20260922T171025",
-        "source": "MarketBeat"
-      },
-      {
-        "title": "Fortinet vs. Datadog: Which Cloud Security Stock Has Better Potential?",
-        "title_zh": "Fortinet与Datadog ：哪种云安全股具有更好的潜力？",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/fortinet-vs-datadog-cloud-security-125600728.html",
-        "time": "20260922T132121",
+        "title": "Intel Falls 2.24% as Muse Keeps the CPU Thesis Alive",
+        "title_zh": "英特尔股价下跌2.24% ，因为Muse保持了CPU论文的活力",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/intel-falls-2-24-muse-183004349.html",
+        "time": "20260923T183000",
         "source": "Yahoo Finance"
+      },
+      {
+        "title": "Cognex to Acquire Intel Spinoff RealSense in $600 Million Robotics Push",
+        "title_zh": "康耐视将以$ 6亿美金收购英特尔分拆的RealSense机器人",
+        "url": "https://finance.biggo.com/news/a80a06a9-207d-48c3-a310-b800b2ab930f",
+        "time": "20260923T181918",
+        "source": "BigGo Finance"
+      },
+      {
+        "title": "Intel cuts dozens of Bay Area jobs in latest layoffs",
+        "title_zh": "英特尔在最近的裁员中裁减了湾区数十个工作岗位",
+        "url": "https://www.kron4.com/news/technology-ai/intel-cuts-dozens-of-bay-area-jobs-in-latest-layoffs/",
+        "time": "20260923T163659",
+        "source": "KRON4"
       }
     ],
     "GOOGL": [
       {
-        "title": "Palo Alto Networks launches always-on AI security testing built on Claude Mythos and GPT-5.6-Cyber",
-        "title_zh": "Palo Alto Networks推出基于Claude Mythos和GPT-5.6-Cyber的始终在线AI安全测试",
-        "url": "https://thenextweb.com/news/palo-alto-networks-unit-42",
-        "time": "20260922T144240",
-        "source": "The Next Web"
+        "title": "Meta vs Alphabet Stock: 4.8-Point Split Before Connect",
+        "title_zh": "Meta vs Alphabet股票：连接前拆分4.8点",
+        "url": "https://www.techi.com/meta-vs-alphabet-stock-connect-valuation/",
+        "time": "20260923T211300",
+        "source": "www.techi.com"
       },
       {
-        "title": "A Powerful Voice Just Reaffirmed My Confidence in My Non-Stop Alphabet Accumulation",
-        "title_zh": "一个强大的声音刚刚重申了我对我不间断的字母积累的信心",
-        "url": "https://247wallst.com/investing/2026/09/22/a-powerful-voice-just-reaffirmed-my-confidence-in-my-non-stop-alphabet-accumulation/",
-        "time": "20260922T144156",
-        "source": "24/7 Wall St."
+        "title": "Above the Noise: Looking beyond the headlines",
+        "title_zh": "杂音之上：超越标题",
+        "url": "https://www.invesco.com/us/en/insights/above-the-noise-looking-beyond-the-headlines.html",
+        "time": "20260923T211217",
+        "source": "Invesco"
       },
       {
-        "title": "Microsoft Lays Off Roughly 500 Employees, Business Insider Reports",
-        "title_zh": "微软裁员约500人， Business Insider报道",
-        "url": "https://www.marketscreener.com/news/microsoft-lays-off-roughly-500-employees-business-insider-reports-ce785ad8df89f424",
-        "time": "20260922T141657",
-        "source": "marketscreener.com"
+        "title": "Qualcomm’s Snapdragon X Elite and X2 Plus powers new Googlebook and Surface lineup",
+        "title_zh": "高通公司的Snapdragon X Elite和X2 Plus为新的Googlebook和Surface阵容提供支持",
+        "url": "https://www.theshortcut.com/p/qualcomms-snapdragon-x-elite-and-x2-plus-powers-new-googlebook-and-surface-lineup",
+        "time": "20260923T203106",
+        "source": "The Shortcut | Matt Swider"
       },
       {
-        "title": "Netflix Faces Growing YouTube Threat As Viewer Share Hits Multi-Year Low, HSBC Says — Wells Fargo Flags Engagement Risk",
-        "title_zh": "汇丰银行表示， Netflix面临日益增长的YouTube威胁，观众份额创下多年新低—富国银行旗帜参与风险",
-        "url": "https://finance.yahoo.com/media-advertising/articles/netflix-faces-growing-youtube-threat-135041838.html",
-        "time": "20260922T141254",
-        "source": "Yahoo Finance"
+        "title": "Alphabet stock falls 3.73 percent at the close",
+        "title_zh": "Alphabet股价收盘下跌3.73%",
+        "url": "https://www.ad-hoc-news.de/boerse/news/nebenwerte/alphabet-stock-falls-3-73-percent-at-the-close/70170239",
+        "time": "20260923T201144",
+        "source": "AD HOC NEWS"
       }
     ]
   },
   "quotes": {
     "MU": {
-      "price": 1096.16,
+      "price": 1071.88,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "AMD": {
-      "price": 623.77,
+      "price": 614.61,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "SNDK": {
-      "price": 1887.04,
+      "price": 1816.57,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "000660.KS": {
-      "price": 1840000.0,
+      "price": 1862000.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "005930.KS": {
-      "price": 276500.0,
+      "price": 285500.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "DELL": {
-      "price": 548.92,
+      "price": 549.83,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "ASX": {
-      "price": 45.2,
+      "price": 43.93,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "CBRS": {
-      "price": 212.41,
+      "price": 205.24,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "NVDA": {
-      "price": 228.87,
+      "price": 225.51,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "TSM": {
-      "price": 452.0,
+      "price": 446.57,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "INTC": {
-      "price": 123.86,
+      "price": 122.6,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "GOOGL": {
-      "price": 351.16,
+      "price": 337.83,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
