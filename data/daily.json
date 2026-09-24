@@ -1,64 +1,64 @@
 {
-  "updated_at": "2026-09-23T23:48:31.205309+00:00",
+  "updated_at": "2026-09-24T23:55:16.904969+00:00",
   "companies": {
     "MU": [
       {
-        "title": "QRG Capital Management Inc. Buys 28,171 Shares of Citigroup Inc. $C",
-        "title_zh": "QRG Capital Management Inc.收购Citigroup Inc. 28,171股股票$ C",
-        "url": "https://www.marketbeat.com/instant-alerts/filing-qrg-capital-management-inc-buys-28171-shares-of-citigroup-inc-c-2026-09-23/",
-        "time": "20260923T230810",
-        "source": "MarketBeat"
+        "title": "Akamai shares jump more than 20% on $11.6B Anthropic computing deal",
+        "title_zh": "Akamai股价在116亿美元的人类计算交易中上涨超过20% $",
+        "url": "https://siliconangle.com/2026/09/24/akamai-shares-jump-more-than-20-on-11-6b-anthropic-computing-deal/",
+        "time": "20260924T224711",
+        "source": "SiliconANGLE"
       },
       {
-        "title": "Micron (MU) vs Western Digital (WDC): Which is a Better Stock to Buy",
-        "title_zh": "美光(MU)与西部数据(WDC) ：哪种股票更值得购买",
-        "url": "https://www.insidermonkey.com/news/micron-mu-vs-western-digital-wdc-which-is-a-better-stock-to-buy-1843163/?amp=1",
-        "time": "20260923T200844",
-        "source": "Insider Monkey"
+        "title": "Microchip Technology, Skyworks Solutions, and Universal Display Shares Are Falling, What You Need To Know",
+        "title_zh": "Microchip技术、Skyworks解决方案和通用显示器份额正在下降，您需要了解的内容",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/microchip-technology-skyworks-solutions-universal-212858687.html",
+        "time": "20260924T212839",
+        "source": "Yahoo Finance"
       },
       {
-        "title": "Freeport-McMoRan Inc Stock (FCX) Moved Down by 3.44% on Sep 23: What Signal Does It Send?",
-        "title_zh": "Freeport-McMoRan Inc股票(FCX)在9月23日下跌3.44% ：它发出了什么信号？",
-        "url": "https://www.tradingkey.com/news/market-movers/262183324-market-movers-fcx-20260923",
-        "time": "20260923T174523",
-        "source": "TradingKey"
+        "title": "Micron (MU) Stock Looks Cheap. But Is AI Growth Already Priced In?",
+        "title_zh": "美光（ MU ）库存看起来很便宜。但人工智能的增长是否已经定价？",
+        "url": "https://sg.finance.yahoo.com/news/micron-mu-stock-looks-cheap-211634616.html",
+        "time": "20260924T211705",
+        "source": "Yahoo Finance Singapore"
       },
       {
-        "title": "Micron keeps analysts bullish as memory demand strengthens",
-        "title_zh": "随着内存需求的增强，美光继续看涨分析师",
-        "url": "https://ca.finance.yahoo.com/news/micron-keeps-analysts-bullish-memory-173500771.html",
-        "time": "20260923T174045",
-        "source": "Yahoo! Finance Canada"
+        "title": "Micron's Cash Generation Rises: Can MU Reward Shareholders More?",
+        "title_zh": "美光现金生成上升： MU能否为股东提供更多奖励？",
+        "url": "https://www.theglobeandmail.com/investing/markets/stocks/MU/pressreleases/4782153/microns-cash-generation-rises-can-mu-reward-shareholders-more/",
+        "time": "20260924T155055",
+        "source": "The Globe and Mail"
       }
     ],
     "AMD": [
       {
-        "title": "QRG Capital Management Inc. Grows Stock Holdings in Advanced Micro Devices, Inc. $AMD",
-        "title_zh": "QRG Capital Management Inc.增持Advanced Micro Devices, Inc.股票$ AMD",
-        "url": "https://www.marketbeat.com/instant-alerts/filing-qrg-capital-management-inc-grows-stock-holdings-in-advanced-micro-devices-inc-amd-2026-09-23/",
-        "time": "20260923T230812",
-        "source": "MarketBeat"
+        "title": "Is Taiwan Semiconductor (TSM) Stock a Better Bet than ASML Holding (ASML) as Advanced Chipmaking Accelerates?",
+        "title_zh": "随着先进芯片制造的加速，台湾半导体（ TSM ）股票是否比ASML控股（ ASML ）更好？",
+        "url": "https://www.insidermonkey.com/news/is-taiwan-semiconductor-tsm-stock-a-better-bet-than-asml-holding-asml-as-advanced-chipmaking-accelerates-1837410/",
+        "time": "20260924T212229",
+        "source": "Insider Monkey"
       },
       {
-        "title": "Hewlett Packard Enterprise (NYSE:HPE) Shares Up 2.3% - Should You Buy?",
-        "title_zh": "Hewlett Packard Enterprise (NYSE: HPE)股价上涨2.3% -您应该买入吗？",
-        "url": "https://www.marketbeat.com/instant-alerts/price-hewlett-packard-enterprise-nyse-hpe-shares-up-23-should-you-buy-2026-09-23/",
-        "time": "20260923T212551",
-        "source": "MarketBeat"
+        "title": "Micron (MU) Stock Looks Cheap. But Is AI Growth Already Priced In?",
+        "title_zh": "美光（ MU ）库存看起来很便宜。但人工智能的增长是否已经定价？",
+        "url": "https://sg.finance.yahoo.com/news/micron-mu-stock-looks-cheap-211634616.html",
+        "time": "20260924T211705",
+        "source": "Yahoo Finance Singapore"
       },
       {
-        "title": "Alchip collaborates with Synopsys to Address Scale Up and Out Bandwidth Constraints",
-        "title_zh": "Alchip与Synopsys合作解决扩展和扩展带宽限制",
-        "url": "https://finance.yahoo.com/technology/ai/articles/alchip-collaborates-synopsys-address-scale-190000001.html",
-        "time": "20260923T190111",
-        "source": "Yahoo Finance"
+        "title": "Microchip Technology, Skyworks Solutions, and Universal Display Shares Are Falling, What You Need To Know",
+        "title_zh": "Microchip技术、Skyworks解决方案和通用显示器份额正在下降，您需要了解的内容",
+        "url": "https://www.tradingview.com/news/stockstory:28cfea68d094b:0-microchip-technology-skyworks-solutions-and-universal-display-shares-are-falling-what-you-need-to-know/",
+        "time": "20260924T153845",
+        "source": "TradingView"
       },
       {
-        "title": "AAON (AAON) Shares Just Moved, What Is Catching Attention Now?",
-        "title_zh": "AAON （ AAON ）股票刚刚移动，现在引起注意的是什么？",
-        "url": "https://simplywall.st/stocks/us/capital-goods/nasdaq-aaon/aaon/news/aaon-aaon-shares-just-moved-what-is-catching-attention-now",
-        "time": "20260923T175623",
-        "source": "Simply Wall Street"
+        "title": "HPE vs. DELL: Which AI Infrastructure Stock is a Safer Bet?",
+        "title_zh": "HPE与DELL ：哪种AI基础设施股票更安全？",
+        "url": "https://www.tradingview.com/news/zacks:82061931a094b:0-hpe-vs-dell-which-ai-infrastructure-stock-is-a-safer-bet/",
+        "time": "20260924T141239",
+        "source": "TradingView"
       }
     ],
     "SNDK": [
@@ -95,31 +95,31 @@
     "005930.KS": [],
     "DELL": [
       {
-        "title": "Qualcomm’s Snapdragon X Elite and X2 Plus powers new Googlebook and Surface lineup",
-        "title_zh": "高通公司的Snapdragon X Elite和X2 Plus为新的Googlebook和Surface阵容提供支持",
-        "url": "https://www.theshortcut.com/p/qualcomms-snapdragon-x-elite-and-x2-plus-powers-new-googlebook-and-surface-lineup",
-        "time": "20260923T203106",
-        "source": "The Shortcut | Matt Swider"
+        "title": "Hewlett Packard Enterprise (NYSE:HPE) Shares Climb 1.9% - Here's Why",
+        "title_zh": "惠普企业(Hewlett Packard Enterprise) (NYSE: HPE)股价上涨1.9% -原因如下",
+        "url": "https://www.marketbeat.com/instant-alerts/price-hewlett-packard-enterprise-nyse-hpe-shares-climb-19-heres-why-2026-09-24/",
+        "time": "20260924T212450",
+        "source": "MarketBeat"
       },
       {
-        "title": "Seagate Retired Its 2028 Notes. Buybacks Are Next",
-        "title_zh": "希捷淘汰其2028年票据。下一步是回购",
-        "url": "https://www.tikr.com/blog/seagate-retired-its-2028-notes-buybacks-are-next",
-        "time": "20260923T141137",
-        "source": "TIKR.com"
+        "title": "Hewlett Packard Enterprise (NYSE:HPE) Hits New 52-Week High - What's Next?",
+        "title_zh": "惠普企业(Hewlett Packard Enterprise) (NYSE: HPE)创52周新高-下一步是什么？",
+        "url": "https://www.marketbeat.com/instant-alerts/price-hewlett-packard-enterprise-nyse-hpe-hits-new-52-week-high-whats-next-2026-09-24/",
+        "time": "20260924T194743",
+        "source": "MarketBeat"
       },
       {
-        "title": "Daiwa Securities Adjusts Hewlett Packard Enterprise Price Target to $65 From $52, Maintains Neutral Rating",
-        "title_zh": "大和证券将惠普企业目标价从52 $调整至65 $ ，维持中性评级",
-        "url": "https://www.marketscreener.com/news/daiwa-securities-adjusts-hewlett-packard-enterprise-price-target-to-65-from-52-maintains-neutral-ce785ad9df8fff20",
-        "time": "20260923T131655",
-        "source": "www.marketscreener.com"
+        "title": "Applied Digital vs. IREN: Which Technology Stock Is a Better Buy in 2026?",
+        "title_zh": "Applied Digital与IREN ：哪种科技股在2026年更适合买入？",
+        "url": "https://www.fool.com/coverage/better-buy/2026/09/24/applied-digital-vs-iren-which-technology-stock-is-a-better-buy-in-2026/",
+        "time": "20260924T174909",
+        "source": "The Motley Fool"
       },
       {
-        "title": "Key facts: NASDAQ:GOOG Gemini breach; Search leads; Cloud/AI +52%",
-        "title_zh": "关键信息：纳斯达克： GOOG Gemini漏洞；搜索线索；云/人工智能+52%",
-        "url": "https://www.tradingview.com/news/tradingview:59258988ab6f3:0-key-facts-nasdaq-goog-gemini-breach-search-leads-cloud-ai-52/",
-        "time": "20260923T071535",
+        "title": "HPE vs. DELL: Which AI Infrastructure Stock is a Safer Bet?",
+        "title_zh": "HPE与DELL ：哪种AI基础设施股票更安全？",
+        "url": "https://www.tradingview.com/news/zacks:82061931a094b:0-hpe-vs-dell-which-ai-infrastructure-stock-is-a-safer-bet/",
+        "time": "20260924T141239",
         "source": "TradingView"
       }
     ],
@@ -185,32 +185,32 @@
     ],
     "NVDA": [
       {
-        "title": "QRG Capital Management Inc. Grows Stock Holdings in Advanced Micro Devices, Inc. $AMD",
-        "title_zh": "QRG Capital Management Inc.增持Advanced Micro Devices, Inc.股票$ AMD",
-        "url": "https://www.marketbeat.com/instant-alerts/filing-qrg-capital-management-inc-grows-stock-holdings-in-advanced-micro-devices-inc-amd-2026-09-23/",
-        "time": "20260923T230812",
-        "source": "MarketBeat"
-      },
-      {
-        "title": "Hewlett Packard Enterprise (NYSE:HPE) Shares Up 2.3% - Should You Buy?",
-        "title_zh": "Hewlett Packard Enterprise (NYSE: HPE)股价上涨2.3% -您应该买入吗？",
-        "url": "https://www.marketbeat.com/instant-alerts/price-hewlett-packard-enterprise-nyse-hpe-shares-up-23-should-you-buy-2026-09-23/",
-        "time": "20260923T212551",
-        "source": "MarketBeat"
-      },
-      {
-        "title": "This Dividend King Was Removed From the S&P 100. Here's Why It's a Great Buy for Long-Term Investors Anyway.",
-        "title_zh": "这位股息王被从标准普尔100指数中删除。这就是为什么这对长期投资者来说是一个很好的选择。",
-        "url": "https://currently.att.yahoo.com/att/dividend-king-removed-p-100-193500771.html",
-        "time": "20260923T193500",
-        "source": "Currently.com"
-      },
-      {
-        "title": "Alchip collaborates with Synopsys to Address Scale Up and Out Bandwidth Constraints",
-        "title_zh": "Alchip与Synopsys合作解决扩展和扩展带宽限制",
-        "url": "https://finance.yahoo.com/technology/ai/articles/alchip-collaborates-synopsys-address-scale-190000001.html",
-        "time": "20260923T190111",
+        "title": "S&P Global raises Western Digital outlook to positive on surging AI demand",
+        "title_zh": "标准普尔全球将西部数据的前景提升至对人工智能需求激增持乐观态度",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/p-global-raises-western-digital-220840545.html",
+        "time": "20260924T220825",
         "source": "Yahoo Finance"
+      },
+      {
+        "title": "Is Taiwan Semiconductor (TSM) Stock a Better Bet than ASML Holding (ASML) as Advanced Chipmaking Accelerates?",
+        "title_zh": "随着先进芯片制造的加速，台湾半导体（ TSM ）股票是否比ASML控股（ ASML ）更好？",
+        "url": "https://www.insidermonkey.com/news/is-taiwan-semiconductor-tsm-stock-a-better-bet-than-asml-holding-asml-as-advanced-chipmaking-accelerates-1837410/",
+        "time": "20260924T212229",
+        "source": "Insider Monkey"
+      },
+      {
+        "title": "Micron (MU) Stock Looks Cheap. But Is AI Growth Already Priced In?",
+        "title_zh": "美光（ MU ）库存看起来很便宜。但人工智能的增长是否已经定价？",
+        "url": "https://sg.finance.yahoo.com/news/micron-mu-stock-looks-cheap-211634616.html",
+        "time": "20260924T211705",
+        "source": "Yahoo Finance Singapore"
+      },
+      {
+        "title": "Should AI Demand Tailwinds Require Action From Applied Materials (AMAT) Investors?",
+        "title_zh": "人工智能需求的顺风是否需要应用材料（ AMAT ）投资者采取行动？",
+        "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-amat/applied-materials/news/should-ai-demand-tailwinds-require-action-from-applied-mater",
+        "time": "20260924T185020",
+        "source": "Simply Wall Street"
       }
     ],
     "TSM": [
@@ -245,80 +245,80 @@
     ],
     "INTC": [
       {
-        "title": "Alchip collaborates with Synopsys to Address Scale Up and Out Bandwidth Constraints",
-        "title_zh": "Alchip与Synopsys合作解决扩展和扩展带宽限制",
-        "url": "https://finance.yahoo.com/technology/ai/articles/alchip-collaborates-synopsys-address-scale-190000001.html",
-        "time": "20260923T190111",
+        "title": "Micron (MU) Stock Looks Cheap. But Is AI Growth Already Priced In?",
+        "title_zh": "美光（ MU ）库存看起来很便宜。但人工智能的增长是否已经定价？",
+        "url": "https://sg.finance.yahoo.com/news/micron-mu-stock-looks-cheap-211634616.html",
+        "time": "20260924T211705",
+        "source": "Yahoo Finance Singapore"
+      },
+      {
+        "title": "Why Is First Solar (NASDAQ:FSLR) Back in Focus After Reaffirming Guidance?",
+        "title_zh": "为什么First Solar （纳斯达克股票代码： FSLR ）在重申指导意见后又重新成为焦点？",
+        "url": "https://kalkinemedia.com/us/stocks/energy/why-is-first-solar-nasdaqfslr-back-in-focus-after-reaffirming-guidance",
+        "time": "20260924T161503",
+        "source": "Kalkine Media"
+      },
+      {
+        "title": "How Long Has Procter & Gamble (NYSE:PG) Raised Its Distribution?",
+        "title_zh": "宝洁(NYSE: PG)在多长时间内提高了分销量？",
+        "url": "https://kalkinemedia.com/us/stocks/dividend/how-long-has-procter-gamble-nysepg-raised-its-distribution",
+        "time": "20260924T161500",
+        "source": "Kalkine Media"
+      },
+      {
+        "title": "Intel Drops 3% as Profit Taking Follows 223% YTD Run; AMD Falls 3%, NVIDIA Slips",
+        "title_zh": "英特尔年初至今盈利223% ，下跌3% ； AMD下跌3% ， NVIDIA下滑",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/intel-drops-3-profit-taking-132919975.html",
+        "time": "20260924T134557",
         "source": "Yahoo Finance"
-      },
-      {
-        "title": "Intel Falls 2.24% as Muse Keeps the CPU Thesis Alive",
-        "title_zh": "英特尔股价下跌2.24% ，因为Muse保持了CPU论文的活力",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/intel-falls-2-24-muse-183004349.html",
-        "time": "20260923T183000",
-        "source": "Yahoo Finance"
-      },
-      {
-        "title": "Cognex to Acquire Intel Spinoff RealSense in $600 Million Robotics Push",
-        "title_zh": "康耐视将以$ 6亿美金收购英特尔分拆的RealSense机器人",
-        "url": "https://finance.biggo.com/news/a80a06a9-207d-48c3-a310-b800b2ab930f",
-        "time": "20260923T181918",
-        "source": "BigGo Finance"
-      },
-      {
-        "title": "Intel cuts dozens of Bay Area jobs in latest layoffs",
-        "title_zh": "英特尔在最近的裁员中裁减了湾区数十个工作岗位",
-        "url": "https://www.kron4.com/news/technology-ai/intel-cuts-dozens-of-bay-area-jobs-in-latest-layoffs/",
-        "time": "20260923T163659",
-        "source": "KRON4"
       }
     ],
     "GOOGL": [
       {
-        "title": "Meta vs Alphabet Stock: 4.8-Point Split Before Connect",
-        "title_zh": "Meta vs Alphabet股票：连接前拆分4.8点",
-        "url": "https://www.techi.com/meta-vs-alphabet-stock-connect-valuation/",
-        "time": "20260923T211300",
-        "source": "www.techi.com"
+        "title": "Is Taiwan Semiconductor (TSM) Stock a Better Bet than ASML Holding (ASML) as Advanced Chipmaking Accelerates?",
+        "title_zh": "随着先进芯片制造的加速，台湾半导体（ TSM ）股票是否比ASML控股（ ASML ）更好？",
+        "url": "https://www.insidermonkey.com/news/is-taiwan-semiconductor-tsm-stock-a-better-bet-than-asml-holding-asml-as-advanced-chipmaking-accelerates-1837410/",
+        "time": "20260924T212229",
+        "source": "Insider Monkey"
       },
       {
-        "title": "Above the Noise: Looking beyond the headlines",
-        "title_zh": "杂音之上：超越标题",
-        "url": "https://www.invesco.com/us/en/insights/above-the-noise-looking-beyond-the-headlines.html",
-        "time": "20260923T211217",
-        "source": "Invesco"
+        "title": "AI agent security moves deeper into runtime",
+        "title_zh": "AI代理安全更深入地进入运行时",
+        "url": "https://siliconangle.com/2026/09/24/ai-agent-security-palo-alto-networks-googlecloudaiagentsinaction/",
+        "time": "20260924T164021",
+        "source": "SiliconANGLE"
       },
       {
-        "title": "Qualcomm’s Snapdragon X Elite and X2 Plus powers new Googlebook and Surface lineup",
-        "title_zh": "高通公司的Snapdragon X Elite和X2 Plus为新的Googlebook和Surface阵容提供支持",
-        "url": "https://www.theshortcut.com/p/qualcomms-snapdragon-x-elite-and-x2-plus-powers-new-googlebook-and-surface-lineup",
-        "time": "20260923T203106",
-        "source": "The Shortcut | Matt Swider"
+        "title": "Qualcomm Renews Patent License With Apple, Ushers in 'Agentic Age' With New Snapdragon",
+        "title_zh": "高通公司与苹果续签专利许可，与新的Snapdragon一起迎来“代理时代”",
+        "url": "https://www.benzinga.com/markets/tech/26/09/61971336/qualcomm-renews-patent-license-with-apple-ushers-in-agentic-age-with-new-snapdragon",
+        "time": "20260924T134442",
+        "source": "Benzinga"
       },
       {
-        "title": "Alphabet stock falls 3.73 percent at the close",
-        "title_zh": "Alphabet股价收盘下跌3.73%",
-        "url": "https://www.ad-hoc-news.de/boerse/news/nebenwerte/alphabet-stock-falls-3-73-percent-at-the-close/70170239",
-        "time": "20260923T201144",
-        "source": "AD HOC NEWS"
+        "title": "General Motors To Reintroduce CarPlay (Mostly)",
+        "title_zh": "通用汽车将重新引入CarPlay （主要）",
+        "url": "https://www.autoguide.com/auto/technology/general-motors-to-reintroduce-carplay-mostly-44639098",
+        "time": "20260924T121351",
+        "source": "Autoguide.com"
       }
     ]
   },
   "quotes": {
     "MU": {
-      "price": 1071.88,
+      "price": 1080.53,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "AMD": {
-      "price": 614.61,
+      "price": 629.26,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "SNDK": {
-      "price": 1816.57,
+      "price": 1753.62,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
@@ -336,43 +336,43 @@
       "marketState": null
     },
     "DELL": {
-      "price": 549.83,
+      "price": 536.02,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "ASX": {
-      "price": 43.93,
+      "price": 43.5,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "CBRS": {
-      "price": 205.24,
+      "price": 206.41,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "NVDA": {
-      "price": 225.51,
+      "price": 224.58,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "TSM": {
-      "price": 446.57,
+      "price": 451.15,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "INTC": {
-      "price": 122.6,
+      "price": 127.39,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "GOOGL": {
-      "price": 337.83,
+      "price": 342.36,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
