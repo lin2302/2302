@@ -1,129 +1,136 @@
 {
-  "updated_at": "2026-09-29T01:05:31.850195+00:00",
+  "updated_at": "2026-09-30T00:36:31.639543+00:00",
   "companies": {
     "MU": [
       {
-        "title": "Micron (MU) Highlights Tech Earnings to Watch This Week",
-        "title_zh": "美光(MU)公布本周值得关注的科技股收益",
-        "url": "https://www.tradingview.com/news/zacks:9200ad12c094b:0-micron-mu-highlights-tech-earnings-to-watch-this-week/",
-        "time": "20260928T201612",
-        "source": "TradingView"
+        "title": "Corning Inc Stock (GLW) Moved Up by 4.96% on Sep 29: What Investors Need To Know",
+        "title_zh": "康宁公司股票（ GLW ）于9月29日上涨4.96% ：投资者须知",
+        "url": "https://www.tradingkey.com/news/market-movers/262192226-market-movers-glw-20260929",
+        "time": "20260929T141822",
+        "source": "TradingKey"
       },
       {
-        "title": "Micron (MU) Highlights Tech Earnings to Watch This Week",
-        "title_zh": "美光(MU)公布本周值得关注的科技股收益",
-        "url": "https://ca.finance.yahoo.com/news/micron-mu-highlights-tech-earnings-203400356.html",
-        "time": "20260928T201304",
-        "source": "Yahoo! Finance Canada"
+        "title": "KLA Corp Stock (KLAC) Opened Up by 3.73% on Sep 29: Drivers Behind the Movement",
+        "title_zh": "KLA Corp股票（ KLAC ）于9月29日开盘上涨3.73 ％ ：运动背后的驱动因素",
+        "url": "https://www.tradingkey.com/news/market-movers/262192157-market-movers-klac-20260929",
+        "time": "20260929T134845",
+        "source": "TradingKey"
       },
       {
-        "title": "Micron Heads Into Earnings, JPMorgan Sees 2 More Years Of HBM Shortage - Micron Technology (NASDAQ:MU)",
-        "title_zh": "美光进入盈利领域，摩根大通预计HBM将再短缺2年-美光科技（纳斯达克股票代码： MU ）",
-        "url": "https://www.benzinga.com/markets/tech/26/09/62031127/micron-shortages-persist-2028-jpmorgan-multi-year-pricing-power",
-        "time": "20260928T171251",
+        "title": "Teradyne Announces Magnum E2 to Address Next-Generation Memory Test Demands Driven by AI and High-Performance Computing",
+        "title_zh": "Teradyne宣布推出Magnum E2 ，以满足人工智能和高性能计算驱动的下一代内存测试需求",
+        "url": "https://www.enidnews.com/region/teradyne-announces-magnum-e2-to-address-next-generation-memory-test-demands-driven-by-ai-and/article_690e1c8a-a023-521e-86e5-40e2a7c8155e.html",
+        "time": "20260929T131207",
+        "source": "Enidnews.com"
+      },
+      {
+        "title": "Micron Earnings: Should You Buy MU Stock Before Results? - Micron Technology (NASDAQ:MU)",
+        "title_zh": "Micron Earnings ：您是否应该在结果前购买MU股票？ -美光科技(NASDAQ: MU)",
+        "url": "https://www.benzinga.com/markets/tech/26/09/62048428/micron-earnings-buy-mu-stock-before-results-history",
+        "time": "20260929T130926",
         "source": "Benzinga"
-      },
-      {
-        "title": "Micron poised for upside as memory prices climb, according to Wedbush",
-        "title_zh": "Wedbush表示，随着内存价格攀升，美光有望上涨",
-        "url": "https://ca.finance.yahoo.com/news/micron-poised-upside-memory-prices-173700538.html",
-        "time": "20260928T171155",
-        "source": "Yahoo! Finance Canada"
       }
     ],
     "AMD": [
       {
-        "title": "AMD acquires world model developer World Labs for $8.2B",
-        "title_zh": "AMD以82亿美元收购世界模型开发商World Labs",
-        "url": "https://siliconangle.com/2026/09/28/amd-acquires-world-model-developer-world-labs-for-8-2b/",
-        "time": "20260929T002257",
+        "title": "Advanced Micro Devices, Inc. $AMD Shares Sold by Cim Investment Management Inc.",
+        "title_zh": "Cim Investment Management Inc.出售的Advanced Micro Devices, Inc. $ AMD股票",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-advanced-micro-devices-inc-amd-shares-sold-by-cim-investment-management-inc-2026-09-29/",
+        "time": "20260929T231050",
+        "source": "MarketBeat"
+      },
+      {
+        "title": "Prediction: Taiwan Semiconductor Manufacturing Will Hit a $3 Trillion Market Cap Before 2027 Is Over",
+        "title_zh": "预测：台湾半导体制造业将在2027年之前达到3万亿美元的市值$",
+        "url": "https://currently.att.yahoo.com/att/prediction-taiwan-semiconductor-manufacturing-hit-204900025.html",
+        "time": "20260929T205854",
+        "source": "Currently.com"
+      },
+      {
+        "title": "Invesco Expands QQQ Suite With International Innovators ETF",
+        "title_zh": "景顺通过国际创新者ETF扩展QQQ套件",
+        "url": "https://etfdb.com/innovative-etfs-content-hub/invexco-expands-qqq-suite-qqi/",
+        "time": "20260929T201353",
+        "source": "ETF Database"
+      },
+      {
+        "title": "Nvidia’s scale-in play: Controlling agents is the next infrastructure priority",
+        "title_zh": "英伟达的横向扩展：控制代理是下一个基础设施优先事项",
+        "url": "https://siliconangle.com/2026/09/29/nvidias-scale-in-play-controlling-agents-is-the-next-infrastructure-priority/",
+        "time": "20260929T201249",
         "source": "SiliconANGLE"
-      },
-      {
-        "title": "AMD to acquire AI pioneer's San Francisco startup for $8.2 billion",
-        "title_zh": "AMD以82亿美元收购人工智能先驱旧金山初创公司",
-        "url": "https://www.bizjournals.com/sanfrancisco/news/2026/09/28/amd-world-labs-fei-fei-li-nvidia.html",
-        "time": "20260928T215909",
-        "source": "The Business Journals"
-      },
-      {
-        "title": "AMD to Buy AI Firm World Labs in $8.2 Billion Deal",
-        "title_zh": "AMD将以82亿美元收购人工智能公司World Labs $",
-        "url": "https://www.benzinga.com/trading-ideas/movers/26/09/62036208/amd-to-buy-ai-firm-world-labs-in-8-2-billion-deal",
-        "time": "20260928T204101",
-        "source": "Benzinga"
-      },
-      {
-        "title": "9 Information Technology Stocks With Whale Alerts In Today’s Session",
-        "title_zh": "今天会议中的9个带有鲸鱼警报的信息技术股票",
-        "url": "https://www.benzinga.com/markets/options/26/09/62031626/9-information-technology-stocks-whale-alerts-today-s-session",
-        "time": "20260928T173036",
-        "source": "Benzinga"
       }
     ],
     "SNDK": [
+      {
+        "title": "SanDisk Stock Falls 3.65% as AI Storage Boom Faces Valuation Pressure",
+        "title_zh": "闪迪股价下跌3.65% ，因AI存储热潮面临估值压力",
+        "url": "https://www.fxleaders.com/news/2026/09/29/sandisk-stock-falls-ai-storage-valuation-pressure/",
+        "time": "20260929T145636",
+        "source": "FXLeaders"
+      },
+      {
+        "title": "Sandisk Corporation (SNDK) Stock Price, News, Quote & History",
+        "title_zh": "Sandisk Corporation (SNDK)股价、新闻、报价和历史",
+        "url": "https://ca.finance.yahoo.com/quote/SNDK/",
+        "time": "20260929T045636",
+        "source": "Yahoo! Finance Canada"
+      },
+      {
+        "title": "SanDisk Corp. R (BW9.MU) interactive stock chart",
+        "title_zh": "SanDisk Corp. R (BW9.MU)交互式股票图表",
+        "url": "https://au.finance.yahoo.com/quote/BW9.MU/chart/",
+        "time": "20260929T035636",
+        "source": "Yahoo Finance Australia"
+      },
       {
         "title": "Retail Investors Think These 2 Stocks Could Be The Next NVIDIA And Sandisk",
         "title_zh": "散户投资者认为这两只股票可能是下一个NVIDIA和Sandisk",
         "url": "https://finance.yahoo.com/markets/stocks/articles/retail-investors-think-2-stocks-130827686.html",
         "time": "20260928T152414",
         "source": "Yahoo Finance"
-      },
-      {
-        "title": "Down 23%, Should You Buy the Dip on Sandisk Stock?",
-        "title_zh": "下跌23% ，您是否应该买入Sandisk股票的跌幅？",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/down-23-buy-dip-sandisk-094500193.html",
-        "time": "20260927T094920",
-        "source": "Yahoo Finance"
-      },
-      {
-        "title": "Will SanDisk (SNDK) Ride the Next Wave of AI-Driven NAND Demand?",
-        "title_zh": "闪迪(SNDK)将迎来下一波人工智能驱动的NAND需求吗？",
-        "url": "https://www.insidermonkey.com/news/will-sandisk-sndk-ride-the-next-wave-of-ai-driven-nand-demand-1843843/?amp=1",
-        "time": "20260927T084920",
-        "source": "Insider Monkey"
-      },
-      {
-        "title": "SanDisk Corp. R (BW9.HA) Company Profile & Facts - Yahoo Finance",
-        "title_zh": "SanDisk Corp. R (BW9.HA)公司简介和概况-雅虎财经",
-        "url": "https://ca.finance.yahoo.com/quote/BW9.HA/profile/",
-        "time": "20260926T185914",
-        "source": "Yahoo! Finance Canada"
       }
     ],
     "000660.KS": [],
     "005930.KS": [],
     "DELL": [
       {
-        "title": "Dell Technologies (DELL) grants director William D. Green 261 shares and 419 deferred stock units.",
-        "title_zh": "Dell Technologies (DELL)授予董事William D. Green 261股和419个递延股票单位。",
-        "url": "https://www.stocktitan.net/sec-filings/DELL/form-4-dell-technologies-inc-insider-trading-activity-6981fbfed259.html",
-        "time": "20260928T201612",
-        "source": "Stock Titan"
+        "title": "NetApp and Oracle to Launch Fully Managed Cloud Storage Service for Demanding AI and Enterprise Workloads",
+        "title_zh": "NetApp和甲骨文将为要求苛刻的人工智能和企业工作负载推出完全托管的云存储服务",
+        "url": "https://www.oracle.com/news/announcement/netapp-and-oracle-to-launch-fully-managed-cloud-storage-service-for-demanding-ai-and-enterprise-workloads-2026-09-29/",
+        "time": "20260929T201352",
+        "source": "Oracle"
       },
       {
-        "title": "Dell Technologies (DELL) director David W. Dorman receives shares and stock units in an award.",
-        "title_zh": "Dell Technologies (DELL)董事David W. Dorman在奖励中获得股票和股票单位。",
-        "url": "https://www.stocktitan.net/sec-filings/DELL/form-4-dell-technologies-inc-insider-trading-activity-d215191e8dae.html",
-        "time": "20260928T201612",
-        "source": "Stock Titan"
+        "title": "Transforming the Future of Data Center Cooling",
+        "title_zh": "改变数据中心冷却的未来",
+        "url": "https://csrwire.com/press-release/transforming-future-data-center-cooling/",
+        "time": "20260929T132643",
+        "source": "CSRwire"
       },
       {
-        "title": "Microsoft Silent After Church Groups Seek 1% of Data Center Costs",
-        "title_zh": "微软在教会团体寻求1%的数据中心成本后保持沉默",
-        "url": "https://www.gadgetreview.com/microsoft-silent-after-church-groups-seek-1-of-data-center-costs",
-        "time": "20260928T181334",
-        "source": "Gadget Review"
+        "title": "The Market Is Closing The Gap Between Hewlett Packard And Dell and SanDisk. Who Wins?",
+        "title_zh": "市场正在缩小惠普、戴尔和闪迪之间的差距。谁赢了？",
+        "url": "https://www.trefis.com/stock/hpe/articles/616908/the-market-is-closing-the-gap-between-hewlett-packard-and-dell-and-sandisk-who-wins-2/2026-09-29",
+        "time": "20260929T114904",
+        "source": "Trefis"
       },
       {
-        "title": "Super Micro and Dell Drop 5% as AI Server Rally Reverses; Hewlett Packard Enterprise Falls 3%",
-        "title_zh": "随着人工智能服务器反弹，超微和戴尔下跌5 ％ ；惠普企业下跌3 ％",
-        "url": "https://247wallst.com/investing/2026/09/28/super-micro-and-dell-drop-5-as-ai-server-rally-reverses-hewlett-packard-enterprise-falls-3/",
-        "time": "20260928T160124",
-        "source": "24/7 Wall St."
+        "title": "Microsoft transforming Fabric into AI's foundational layer",
+        "title_zh": "微软将Fabric转变为AI的基础层",
+        "url": "https://www.techtarget.com/data-technologies/news/366651515/Microsoft-transforming-Fabric-into-AIs-foundational-layer",
+        "time": "20260929T075153",
+        "source": "TechTarget"
       }
     ],
     "ASX": [
+      {
+        "title": "Is ASE Technology (ASX) Becoming a Bigger AI Semiconductor Play?",
+        "title_zh": "日月光科技（ ASX ）正在成为更大的人工智能半导体公司吗？",
+        "url": "https://finance.yahoo.com/technology/ai/articles/ase-technology-asx-becoming-bigger-005936641.html",
+        "time": "20260929T042634",
+        "source": "Yahoo Finance"
+      },
       {
         "title": "What Makes ASE Technology Hldg (ASX) a Strong Momentum Stock: Buy Now?",
         "title_zh": "是什么让ASE Technology Hldg （ ASX ）成为强劲的动能股票：立即购买？",
@@ -144,13 +151,6 @@
         "url": "https://pluang.com/en/news-feed/ase-technology-pertumbuhan-didorong-permintaan-ai",
         "time": "20260925T112407",
         "source": "Pluang"
-      },
-      {
-        "title": "Hung Pen Chang Takes A Bullish Stance, Acquiring ASE Technology Holding Co Stock Options Worth $0",
-        "title_zh": "Hung Pen Chang采取看涨立场，收购价值$ 0的ASE Technology Holding Co股票期权",
-        "url": "https://www.benzinga.com/news/26/09/61974928/hung-pen-chang-takes-bullish-stance-acquiring-ase-technology-holding-co-stock-options-worth-0",
-        "time": "20260924T145607",
-        "source": "Benzinga"
       }
     ],
     "CBRS": [
@@ -185,194 +185,194 @@
     ],
     "NVDA": [
       {
-        "title": "AMD acquires world model developer World Labs for $8.2B",
-        "title_zh": "AMD以82亿美元收购世界模型开发商World Labs",
-        "url": "https://siliconangle.com/2026/09/28/amd-acquires-world-model-developer-world-labs-for-8-2b/",
-        "time": "20260929T002257",
-        "source": "SiliconANGLE"
+        "title": "Arista Networks CEO Ullal sells $13.2m in shares from trusts",
+        "title_zh": "Arista Networks首席执行官Ullal出售来自信托的$ 1320万股股票",
+        "url": "https://www.investing.com/news/insider-trading-news/arista-networks-ceo-ullal-sells-132m-in-shares-from-trusts-93CH-4923893",
+        "time": "20260930T001945",
+        "source": "Investing.com"
       },
       {
-        "title": "Samsung Commits $1 Billion to AI Infrastructure Firm Backed by KKR, Nvidia",
-        "title_zh": "三星向KKR、Nvidia支持的人工智能基础设施公司承诺投资10亿美元",
-        "url": "https://www.wsj.com/tech/ai/samsung-commits-1-billion-to-ai-infrastructure-firm-backed-by-kkr-nvidia-d1039c57",
-        "time": "20260928T231235",
-        "source": "WSJ"
+        "title": "TD Synnex posts record Q3 revenue of $21.6 billion as Hyve business more than doubles",
+        "title_zh": "TD Synnex公布创纪录的第三季度收入为216亿美元， Hyve业务增长一倍以上",
+        "url": "https://www.digitalcommerce360.com/2026/09/28/td-synnex-posts-record-q3-revenue-of-21-6-billion-as-hyve-more-than-doubles/amp/",
+        "time": "20260929T233049",
+        "source": "Digital Commerce 360"
       },
       {
-        "title": "What's Wrong With Netflix Stock?",
-        "title_zh": "Netflix股票有什么问题？",
-        "url": "https://www.theglobeandmail.com/investing/markets/stocks/NFLX/pressreleases/4842146/whats-wrong-with-netflix-stock/",
-        "time": "20260928T221325",
-        "source": "The Globe and Mail"
+        "title": "Advanced Micro Devices, Inc. $AMD Shares Sold by Cim Investment Management Inc.",
+        "title_zh": "Cim Investment Management Inc.出售的Advanced Micro Devices, Inc. $ AMD股票",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-advanced-micro-devices-inc-amd-shares-sold-by-cim-investment-management-inc-2026-09-29/",
+        "time": "20260929T231050",
+        "source": "MarketBeat"
       },
       {
-        "title": "WH Council of Economic Advisers Chair Christopher Phelan, Presidential adviser Peter Navarro, FERC Chair Laura Swett, Sens. Rounds and Gallego, Southern Company CEO Chris Womack, Reps. Adrian Smith, Beth Van Duyne, April Delaney, Bill Foster, a",
-        "title_zh": "WH经济顾问委员会主席Christopher Phelan ，总统顾问Peter Navarro ， FERC主席Laura Swett ， Sens. Rounds和Gallego ，南方公司首席执行官Chris Womack ，代表Adrian Smith ， Beth Van Duyne ， April Delaney ， Bill Foster ，",
-        "url": "https://www.prnewswire.com/news-releases/wh-council-of-economic-advisers-chair-christopher-phelan-presidential-adviser-peter-navarro-ferc-chair-laura-swett-sens-rounds-and-gallego-southern-company-ceo-chris-womack-reps-adrian-smith-beth-van-duyne-april-delaney--302892008.html",
-        "time": "20260928T214247",
-        "source": "PR Newswire"
+        "title": "Prediction: Taiwan Semiconductor Manufacturing Will Hit a $3 Trillion Market Cap Before 2027 Is Over",
+        "title_zh": "预测：台湾半导体制造业将在2027年之前达到3万亿美元的市值$",
+        "url": "https://currently.att.yahoo.com/att/prediction-taiwan-semiconductor-manufacturing-hit-204900025.html",
+        "time": "20260929T205854",
+        "source": "Currently.com"
       }
     ],
     "TSM": [
       {
-        "title": "Taiwan Semiconductor: AI CapEx Keeps Climbing, And TSMC Looks Undervalued (NYSE:TSM)",
-        "title_zh": "台湾半导体： AI资本支出持续攀升，台积电看似被低估（纽约证券交易所代码： TSM ）",
-        "url": "https://seekingalpha.com/article/4949681-taiwan-semiconductor-ai-capex-keeps-climbing-and-tsmc-looks-undervalued",
-        "time": "20260925T083000",
-        "source": "Seeking Alpha"
+        "title": "Prediction: Taiwan Semiconductor Manufacturing Will Hit a $3 Trillion Market Cap Before 2027 Is Over",
+        "title_zh": "预测：台湾半导体制造业将在2027年之前达到3万亿美元的市值$",
+        "url": "https://currently.att.yahoo.com/att/prediction-taiwan-semiconductor-manufacturing-hit-204900025.html",
+        "time": "20260929T205854",
+        "source": "Currently.com"
       },
       {
-        "title": "Taiwan Semiconductor: AI Hiccups Lately, But Strong Growth Persists",
-        "title_zh": "台湾半导体： AI近期打嗝，但强劲增长持续",
-        "url": "https://seekingalpha.com/article/4949629-taiwan-semiconductor-ai-hiccups-lately-but-strong-growth-persists",
-        "time": "20260925T015237",
-        "source": "Seeking Alpha"
+        "title": "TSMC's 2nm Push Could Create a New Winner in the AI Chip Boom",
+        "title_zh": "台积电的2nm推动可能在人工智能芯片热潮中创造新的赢家",
+        "url": "https://www.tradingview.com/news/gurufocus:a5ccb08ed094b:0-tsmc-s-2nm-push-could-create-a-new-winner-in-the-ai-chip-boom/",
+        "time": "20260929T175854",
+        "source": "TradingView"
       },
       {
-        "title": "TSMC to Raise Wafer Prices 3%-6% in 2027: Report - Taiwan Semiconductor (NYSE:TSM)",
-        "title_zh": "台积电将于2027年将晶圆价格提高3% -6% ：报告-台积电(NYSE: TSM)",
-        "url": "https://www.benzinga.com/markets/tech/26/09/61964879/tsmc-reportedly-plans-to-hike-wafer-price-next-year",
-        "time": "20260924T165345",
-        "source": "Benzinga"
+        "title": "I’m Jumping Back Into Taiwan Semiconductor Again and I Won’t Stop This Time",
+        "title_zh": "我再次跳回台湾半导体，这次我不会停下来",
+        "url": "https://247wallst.com/investing/2026/09/29/im-jumping-back-into-taiwan-semiconductor-again-and-i-wont-stop-this-time/",
+        "time": "20260929T155854",
+        "source": "24/7 Wall St."
       },
       {
-        "title": "Arm vs. Taiwan Semiconductor Manufacturing: Which Chip Stock Is a Better Buy in 2026?",
-        "title_zh": "ARM与台湾半导体制造： 2026年哪只芯片股买得更好？",
-        "url": "https://www.fool.com/coverage/better-buy/2026/09/23/arm-vs-taiwan-semiconductor-manufacturing-which-chip-stock-is-a-better-buy-in-2026/",
-        "time": "20260924T132314",
-        "source": "The Motley Fool"
+        "title": "TSMC Plans Second Texas Semiconductor Plant",
+        "title_zh": "台积电计划建设德克萨斯州第二家半导体工厂",
+        "url": "https://www.chosun.com/english/industry-en/2026/09/29/YFFWTWBGF5F7NC6MKFYTNJMVUM/",
+        "time": "20260929T082432",
+        "source": "조선일보"
       }
     ],
     "INTC": [
       {
-        "title": "Synchrony Financial (SYF) Expands Into AI Commerce, Is The Stock Cheap?",
-        "title_zh": "Synchrony Financial （ SYF ）扩展到人工智能商务，股票便宜吗？",
-        "url": "https://simplywall.st/stocks/us/diversified-financials/nyse-syf/synchrony-financial/news/synchrony-financial-syf-expands-into-ai-commerce-is-the-stoc",
-        "time": "20260928T205551",
-        "source": "Simply Wall Street"
+        "title": "Advanced Micro Devices, Inc. $AMD Shares Sold by Cim Investment Management Inc.",
+        "title_zh": "Cim Investment Management Inc.出售的Advanced Micro Devices, Inc. $ AMD股票",
+        "url": "https://www.marketbeat.com/instant-alerts/filing-advanced-micro-devices-inc-amd-shares-sold-by-cim-investment-management-inc-2026-09-29/",
+        "time": "20260929T231050",
+        "source": "MarketBeat"
       },
       {
-        "title": "Adeia Appoints Dipti Vachani as Chief Executive Officer",
-        "title_zh": "Adeia任命Dipti Vachani为首席执行官",
-        "url": "https://www.manilatimes.net/2026/09/29/tmt-newswire/globenewswire/adeia-appoints-dipti-vachani-as-chief-executive-officer/2434498",
-        "time": "20260928T202427",
-        "source": "The Manila Times"
+        "title": "Invesco Expands QQQ Suite With International Innovators ETF",
+        "title_zh": "景顺通过国际创新者ETF扩展QQQ套件",
+        "url": "https://etfdb.com/innovative-etfs-content-hub/invexco-expands-qqq-suite-qqi/",
+        "time": "20260929T201353",
+        "source": "ETF Database"
       },
       {
-        "title": "Synopsys Autopilot Aims to Consolidate Chip Design Around One Stack",
-        "title_zh": "Synopsys Autopilot旨在将芯片设计整合到一个堆栈周围",
-        "url": "https://futurumgroup.com/insights/synopsys-autopilot-aims-to-consolidate-chip-design-around-one-stack/",
-        "time": "20260928T154214",
-        "source": "The Futurum Group"
+        "title": "I’m Jumping Back Into Taiwan Semiconductor Again and I Won’t Stop This Time",
+        "title_zh": "我再次跳回台湾半导体，这次我不会停下来",
+        "url": "https://247wallst.com/investing/2026/09/29/im-jumping-back-into-taiwan-semiconductor-again-and-i-wont-stop-this-time/",
+        "time": "20260929T155854",
+        "source": "24/7 Wall St."
       },
       {
-        "title": "Skyworks Solutions and Himax Stocks Trade Down, What You Need To Know",
-        "title_zh": "Skyworks Solutions和Himax股票下跌，您需要了解的信息",
-        "url": "https://www.tradingview.com/news/stockstory:9b8ca088a094b:0-skyworks-solutions-and-himax-stocks-trade-down-what-you-need-to-know/",
-        "time": "20260928T151255",
-        "source": "TradingView"
+        "title": "Adeia Names Dipti Vachani CEO as Paul Davis Steps Down",
+        "title_zh": "Adeia任命Dipti Vachani为首席执行官， Paul Davis辞职",
+        "url": "https://www.citybiz.co/article/910520/adeia-names-dipti-vachani-ceo-as-paul-davis-steps-down/",
+        "time": "20260929T114358",
+        "source": "citybiz"
       }
     ],
     "GOOGL": [
       {
-        "title": "What's Wrong With Netflix Stock?",
-        "title_zh": "Netflix股票有什么问题？",
-        "url": "https://www.theglobeandmail.com/investing/markets/stocks/NFLX/pressreleases/4842146/whats-wrong-with-netflix-stock/",
-        "time": "20260928T221325",
-        "source": "The Globe and Mail"
+        "title": "TD Synnex posts record Q3 revenue of $21.6 billion as Hyve business more than doubles",
+        "title_zh": "TD Synnex公布创纪录的第三季度收入为216亿美元， Hyve业务增长一倍以上",
+        "url": "https://www.digitalcommerce360.com/2026/09/28/td-synnex-posts-record-q3-revenue-of-21-6-billion-as-hyve-more-than-doubles/amp/",
+        "time": "20260929T233049",
+        "source": "Digital Commerce 360"
       },
       {
-        "title": "Palo Alto Networks (PANW) Stock Trades Up, Here Is Why",
-        "title_zh": "Palo Alto Networks (PANW)股票成交，原因如下",
-        "url": "https://www.tradingview.com/news/stockstory:233035d84094b:0-palo-alto-networks-panw-stock-trades-up-here-is-why/",
-        "time": "20260928T201207",
-        "source": "TradingView"
+        "title": "NetApp Bringing Ontap Storage Natively To Oracle Cloud Infrastructure",
+        "title_zh": "NetApp将Ontap存储原生引入Oracle云基础架构",
+        "url": "https://www.crn.com/news/storage/2026/netapp-bringing-ontap-storage-natively-to-oracle-cloud-infrastructure",
+        "time": "20260929T173013",
+        "source": "CRN"
       },
       {
-        "title": "AI-assisted shopping to rise 130% during holidays, Adobe says",
-        "title_zh": "Adobe表示，人工智能辅助购物在假期期间将增长130%",
-        "url": "https://www.spokesman.com/stories/2026/sep/28/ai-assisted-shopping-to-rise-130-during-holidays-a/",
-        "time": "20260928T183337",
-        "source": "The Spokesman-Review"
+        "title": "Robotaxis Could Cost Less Than Half of Uber’s Human-Driven Rides, and Analyst Says Uber Can Cash In",
+        "title_zh": "机器人出租车的成本可能不到优步人类驾驶行程的一半，分析师表示，优步可以兑现",
+        "url": "https://www.benzinga.com/markets/tech/26/09/62058447/robotaxis-could-cost-less-than-half-of-ubers-human-driven-rides-and-analyst-says-uber-can-cash-in",
+        "time": "20260929T165403",
+        "source": "Benzinga"
       },
       {
-        "title": "Microsoft gives up: Copilot personal chatbot is about to disapper",
-        "title_zh": "微软放弃： Copilot个人聊天机器人即将消失",
-        "url": "https://www.ynetnews.com/tech-and-digital/article/rk65yzoqzg",
-        "time": "20260928T175005",
-        "source": "Ynetnews"
+        "title": "Nvidia’s historic buyback announcement underscores a sharp divide in Big Tech",
+        "title_zh": "英伟达历史性的回购公告凸显了大型科技公司的巨大分歧",
+        "url": "https://www.marketwatch.com/story/nvidias-historic-buyback-announcement-underscores-a-sharp-divide-in-big-tech-ac04a001",
+        "time": "20260929T165200",
+        "source": "MarketWatch"
       }
     ]
   },
   "quotes": {
     "MU": {
-      "price": 1053.98,
+      "price": 1065.08,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "AMD": {
-      "price": 607.87,
+      "price": 607.57,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "SNDK": {
-      "price": 1712.89,
+      "price": 1729.76,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "000660.KS": {
-      "price": 1774000.0,
+      "price": 1803000.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "005930.KS": {
-      "price": 272250.0,
+      "price": 274750.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "DELL": {
-      "price": 543.43,
+      "price": 539.59,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "ASX": {
-      "price": 43.79,
+      "price": 45.31,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "CBRS": {
-      "price": 196.74,
+      "price": 194.95,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "NVDA": {
-      "price": 228.86,
+      "price": 227.21,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "TSM": {
-      "price": 452.88,
+      "price": 456.94,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "INTC": {
-      "price": 116.03,
+      "price": 115.93,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "GOOGL": {
-      "price": 342.75,
+      "price": 340.92,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
