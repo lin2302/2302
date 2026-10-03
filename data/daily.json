@@ -1,324 +1,34 @@
 {
-  "updated_at": "2026-10-02T00:57:25.971554+00:00",
+  "updated_at": "2026-10-03T00:34:29.758579+00:00",
   "companies": {
-    "MU": [
-      {
-        "title": "Michael Burry Warns Nvidia, AI Infrastructure Expansion Mirroring 1960s Computer Leasing Bubble",
-        "title_zh": "迈克尔·伯里（ Michael Burry ）警告英伟达，人工智能基础设施扩张反映了20世纪60年代的计算机租赁泡沫",
-        "url": "https://finance.yahoo.com/technology/ai/articles/michael-burry-warns-nvidia-ai-213700343.html",
-        "time": "20261001T213758",
-        "source": "Yahoo Finance"
-      },
-      {
-        "title": "Buy Micron Stock After AI Memory Demand Fuels Record Q4 Results?",
-        "title_zh": "人工智能内存需求推动第四季度业绩创纪录后买入美光股票？",
-        "url": "https://sg.finance.yahoo.com/news/buy-micron-stock-ai-memory-194600314.html",
-        "time": "20261001T194105",
-        "source": "Yahoo Finance Singapore"
-      },
-      {
-        "title": "Lam Research Corp Stock (LRCX) Moved Up by 3.01% on Oct 1: Key Drivers Unveiled",
-        "title_zh": "Lam Research Corp (LRCX)股价于10月1日上涨3.01% ：关键驱动因素揭晓",
-        "url": "https://www.tradingkey.com/news/market-movers/262196787-market-movers-lrcx-20261001",
-        "time": "20261001T191518",
-        "source": "TradingKey"
-      },
-      {
-        "title": "Phillips 66 Stock (PSX) Moved Up by 3.11% on Oct 1: What Signal Does It Send?",
-        "title_zh": "10月1日， Phillips 66股票（ PSX ）上涨3.11% ：它发出了什么信号？",
-        "url": "https://www.tradingkey.com/news/market-movers/262196719-market-movers-psx-20261001",
-        "time": "20261001T181602",
-        "source": "TradingKey"
-      }
-    ],
-    "AMD": [
-      {
-        "title": "Ameriprise Financial, Inc. $AMP Stock Acquired by Montecito Bank & Trust",
-        "title_zh": "Ameriprise Financial, Inc. $ AMP股票被Montecito Bank & Trust收购",
-        "url": "https://www.marketbeat.com/instant-alerts/filing-ameriprise-financial-inc-amp-stock-acquired-by-montecito-bank-trust-2026-10-01/",
-        "time": "20261002T001113",
-        "source": "MarketBeat"
-      },
-      {
-        "title": "Montecito Bank & Trust Purchases 18,450 Shares of Digital Realty Trust, Inc. $DLR",
-        "title_zh": "Montecito Bank & Trust收购Digital Realty Trust, Inc. 18,450股股份$ DLR",
-        "url": "https://www.marketbeat.com/instant-alerts/filing-montecito-bank-trust-purchases-18450-shares-of-digital-realty-trust-inc-dlr-2026-10-01/",
-        "time": "20261001T232141",
-        "source": "MarketBeat"
-      },
-      {
-        "title": "Hewlett Packard Enterprise (NYSE:HPE) EVP Rami Rahim Sells 34,456 Shares of Stock",
-        "title_zh": "Hewlett Packard Enterprise (NYSE: HPE)执行副总裁Rami Rahim出售34,456股股票",
-        "url": "https://www.marketbeat.com/instant-alerts/insider-hewlett-packard-enterprise-nyse-hpe-evp-rami-rahim-sells-34456-shares-of-stock-2026-10-01/",
-        "time": "20261001T231609",
-        "source": "MarketBeat"
-      },
-      {
-        "title": "Hewlett Packard Enterprise (NYSE:HPE) Shares Climb 1.1% on Analyst Upgrade",
-        "title_zh": "惠普企业(Hewlett Packard Enterprise) (NYSE: HPE)股价在分析师升级后上涨1.1%",
-        "url": "https://www.marketbeat.com/instant-alerts/price-hewlett-packard-enterprise-nyse-hpe-shares-climb-11-on-analyst-upgrade-2026-10-01/",
-        "time": "20261001T213646",
-        "source": "MarketBeat"
-      }
-    ],
-    "SNDK": [
-      {
-        "title": "SanDisk Stock Falls 3.65% as AI Storage Boom Faces Valuation Pressure",
-        "title_zh": "闪迪股价下跌3.65% ，因AI存储热潮面临估值压力",
-        "url": "https://www.fxleaders.com/news/2026/09/29/sandisk-stock-falls-ai-storage-valuation-pressure/",
-        "time": "20260929T145636",
-        "source": "FXLeaders"
-      },
-      {
-        "title": "SanDisk Corp. R (BW9.MU) Stock Forum & Discussion - Yahoo Finance",
-        "title_zh": "SanDisk Corp. R (BW9.MU)股票论坛和讨论-雅虎财经",
-        "url": "https://ca.finance.yahoo.com/quote/BW9.MU/community/",
-        "time": "20260929T103149",
-        "source": "Yahoo! Finance Canada"
-      },
-      {
-        "title": "Sandisk Corporation (SNDK) Stock Price, News, Quote & History",
-        "title_zh": "Sandisk Corporation (SNDK)股价、新闻、报价和历史",
-        "url": "https://ca.finance.yahoo.com/quote/SNDK/",
-        "time": "20260929T045636",
-        "source": "Yahoo! Finance Canada"
-      },
-      {
-        "title": "SanDisk Corp. R (BW9.MU) interactive stock chart",
-        "title_zh": "SanDisk Corp. R (BW9.MU)交互式股票图表",
-        "url": "https://au.finance.yahoo.com/quote/BW9.MU/chart/",
-        "time": "20260929T035636",
-        "source": "Yahoo Finance Australia"
-      }
-    ],
+    "MU": [],
+    "AMD": [],
+    "SNDK": [],
     "000660.KS": [],
     "005930.KS": [],
-    "DELL": [
-      {
-        "title": "Nvidia Sentry's millisecond claim raises AI agent detection questions",
-        "title_zh": "Nvidia Sentry的毫秒声明引发了人工智能代理检测问题",
-        "url": "https://www.techtarget.com/cybersecurity/news/366651180/Nvidia-Sentrys-millisecond-claim-raises-AI-agent-detection-questions",
-        "time": "20261001T154454",
-        "source": "TechTarget"
-      },
-      {
-        "title": "Pre-tax profits at data centre builder Equinix down 36%",
-        "title_zh": "数据中心建设商Equinix的税前利润下降36%",
-        "url": "https://www.rte.ie/news/business/2026/1001/1593608-pre-tax-profits-at-data-centre-builder-equinix-down-36/",
-        "time": "20261001T083006",
-        "source": "RTE.ie"
-      },
-      {
-        "title": "How Dell Technologies Inc. Class C (DELL) Affects Rotational Strategy Timing",
-        "title_zh": "Dell Technologies Inc. C类（ DELL ）如何影响轮换战略计时",
-        "url": "https://news.stocktradersdaily.com/news_release/101/How_Dell_Technologies_Inc._Class_C_DELL_Affects_Rotational_Strategy_Timing_100126125802_1790830682.html",
-        "time": "20261001T011637",
-        "source": "Stock Traders Daily"
-      },
-      {
-        "title": "As AI agents take action, CIOs have to govern the outcome",
-        "title_zh": "随着人工智能代理采取行动，首席信息官必须掌控结果",
-        "url": "https://www.techtarget.com/it-strategy/news/366651553/As-AI-agents-take-action-CIOs-have-to-govern-the-outcome",
-        "time": "20260930T182451",
-        "source": "TechTarget"
-      }
-    ],
-    "ASX": [
-      {
-        "title": "ASE Technology Holding Co., Ltd. (ASX) latest stock news and headlines – Yahoo Finance",
-        "title_zh": "日月光科技控股有限公司（ ASX ）最新股票新闻和头条新闻–雅虎财经",
-        "url": "https://sg.finance.yahoo.com/quote/ASX/news/",
-        "time": "20260930T155156",
-        "source": "Yahoo Finance Singapore"
-      },
-      {
-        "title": "ASE Technology Holding Co., Ltd. (ASX) interactive stock chart – Yahoo Finance",
-        "title_zh": "日月光科技控股有限公司（ ASX ）互动股票图表–雅虎财经",
-        "url": "https://sg.finance.yahoo.com/quote/ASX/chart/",
-        "time": "20260930T065830",
-        "source": "Yahoo Finance Singapore"
-      },
-      {
-        "title": "Trading the Move, Not the Narrative: (ASX) Edition",
-        "title_zh": "Trading the Move, Not the Narrative ： （ ASX ）版",
-        "url": "https://news.stocktradersdaily.com/news_release/52/Trading_the_Move,_Not_the_Narrative:_ASX_Edition_093026064402_1790765042.html",
-        "time": "20260930T064400",
-        "source": "Stock Traders Daily"
-      },
-      {
-        "title": "ASE Technology Holding Co Ltd Stock (ASX) Moved Up by 3.01% on Sep 29: Key Drivers Unveiled",
-        "title_zh": "日月光科技控股股份有限公司（ ASX ） 9月29日上涨3.01% ：关键驱动因素揭晓",
-        "url": "https://www.tradingkey.com/news/market-movers/262192349-market-movers-asx-20260929",
-        "time": "20260930T020109",
-        "source": "TradingKey"
-      }
-    ],
-    "CBRS": [
-      {
-        "title": "A June 30 trading plan covers the CFO's sale of 32,500 shares in Cerebras Systems (CBRS).",
-        "title_zh": "6月30日的交易计划包括首席财务官出售Cerebras Systems （ CBRS ）的32,500股股票。",
-        "url": "https://www.stocktitan.net/sec-filings/CBRS/form-4-cerebras-systems-inc-insider-trading-activity-5b39ce82e195.html",
-        "time": "20261001T070229",
-        "source": "Stock Titan"
-      },
-      {
-        "title": "Exercising options at $0.98 per share, Cerebras Systems (CBRS) COO also sells stock.",
-        "title_zh": "Cerebras Systems （ CBRS ）首席运营官以每股0.98 $的价格行使期权，也出售股票。",
-        "url": "https://www.stocktitan.net/sec-filings/CBRS/form-4-cerebras-systems-inc-insider-trading-activity-b995bc4b1d82.html",
-        "time": "20261001T000229",
-        "source": "Stock Titan"
-      },
-      {
-        "title": "Form 4 Cerebras Systems Inc. For: 30 September By Investing.com",
-        "title_zh": "表格4 Cerebras Systems Inc.致： 9月30日Investing.com",
-        "url": "https://uk.investing.com/news/stock-market-news/form-4-cerebras-systems-inc-for-30-september-93CH-4890482",
-        "time": "20261001T000229",
-        "source": "Investing.com UK"
-      },
-      {
-        "title": "A fund distribution leaves entities controlled by a Cerebras (CBRS) director holding 275,854 shares.",
-        "title_zh": "基金分配让Cerebras （ CBRS ）董事控制的实体持有275,854股。",
-        "url": "https://www.stocktitan.net/sec-filings/CBRS/form-4-cerebras-systems-inc-insider-trading-activity-1c6ac13c1f9e.html",
-        "time": "20260923T212046",
-        "source": "Stock Titan"
-      }
-    ],
-    "NVDA": [
-      {
-        "title": "41,124 Shares of ServiceNow, Inc. $NOW Bought by First Financial Bank Trust Division",
-        "title_zh": "41,124股ServiceNow, Inc.股票$现由第一金融银行信托部购买",
-        "url": "https://www.marketbeat.com/instant-alerts/filing-41124-shares-of-servicenow-inc-now-bought-by-first-financial-bank-trust-division-2026-10-01/",
-        "time": "20261001T231209",
-        "source": "MarketBeat"
-      },
-      {
-        "title": "Why Jacobs Solutions (J) Stock Is Up Today",
-        "title_zh": "为什么Jacobs Solutions (J)的股票今天上涨",
-        "url": "https://ca.finance.yahoo.com/news/why-jacobs-solutions-j-stock-230107162.html",
-        "time": "20261001T225806",
-        "source": "Yahoo! Finance Canada"
-      },
-      {
-        "title": "Michael Burry Warns Nvidia, AI Infrastructure Expansion Mirroring 1960s Computer Leasing Bubble",
-        "title_zh": "迈克尔·伯里（ Michael Burry ）警告英伟达，人工智能基础设施扩张反映了20世纪60年代的计算机租赁泡沫",
-        "url": "https://finance.yahoo.com/technology/ai/articles/michael-burry-warns-nvidia-ai-213700343.html",
-        "time": "20261001T213758",
-        "source": "Yahoo Finance"
-      },
-      {
-        "title": "Buy Micron Stock After AI Memory Demand Fuels Record Q4 Results?",
-        "title_zh": "人工智能内存需求推动第四季度业绩创纪录后买入美光股票？",
-        "url": "https://sg.finance.yahoo.com/news/buy-micron-stock-ai-memory-194600314.html",
-        "time": "20261001T194105",
-        "source": "Yahoo Finance Singapore"
-      }
-    ],
-    "TSM": [
-      {
-        "title": "Key facts: TSMC (2330) $265B U.S. investment; $60–$64B capex outlook; Q3 results Oct. 15",
-        "title_zh": "关键数据：台积电(2330)美国投资2650亿美元；资本支出前景600-640亿美元； 10月15日第三季度业绩",
-        "url": "https://www.tradingview.com/news/tradingview:45baa77de04a2:0-key-facts-tsmc-2330-265b-u-s-investment-60-64b-capex-outlook-q3-results-oct-15/",
-        "time": "20261001T012759",
-        "source": "TradingView"
-      },
-      {
-        "title": "Nvidia, Broadcom, and AMD Investors Need to Have Oct. 15 Circled on Their Calendars",
-        "title_zh": "英伟达、博通和AMD的投资者需要在日历上圈出10月15日",
-        "url": "https://www.theglobeandmail.com/investing/markets/markets-news/motley/4891931/nvidia-broadcom-and-amd-investors-need-to-have-oct-15-circled-on-their-calendars/",
-        "time": "20260930T232759",
-        "source": "The Globe and Mail"
-      },
-      {
-        "title": "TSMC Reportedly Weighs Texas Chip Investment On Top Of $265B Arizona Push",
-        "title_zh": "据报道，台积电在亚利桑那州推动$ 265B的基础上权衡德克萨斯州芯片投资",
-        "url": "https://www.tradingview.com/news/stocktwits:79e4ee4d7094b:0-tsmc-reportedly-weighs-texas-chip-investment-on-top-of-265b-arizona-push/",
-        "time": "20260930T131756",
-        "source": "TradingView"
-      },
-      {
-        "title": "AI’s Semiconductor Boom Has a Clear Center of Gravity: Taiwan Semiconductor",
-        "title_zh": "人工智能的半导体热潮有一个明确的重心：台湾半导体",
-        "url": "https://www.benzinga.com/markets/tech/26/09/62074203/ais-semiconductor-boom-has-a-clear-center-of-gravity-taiwan-semiconductor",
-        "time": "20260930T105456",
-        "source": "Benzinga"
-      }
-    ],
-    "INTC": [
-      {
-        "title": "Vulcan Infrastructure Recapitalizes with New Senior Notes",
-        "title_zh": "Vulcan基础设施通过新的高级票据进行资本重组",
-        "url": "https://www.theglobeandmail.com/investing/markets/stocks/VIP-Q/pressreleases/4890778/vulcan-infrastructure-recapitalizes-with-new-senior-notes/",
-        "time": "20261001T165853",
-        "source": "The Globe and Mail"
-      },
-      {
-        "title": "Nvidia, Intel and 3 More: BofA Reveals 5 Chip Stocks to Own",
-        "title_zh": "英伟达、英特尔和其他3家公司：美银美林公布5只芯片股可供持有",
-        "url": "https://finance.yahoo.com/technology/articles/nvidia-intel-3-more-bofa-153501470.html",
-        "time": "20261001T153609",
-        "source": "Yahoo Finance"
-      },
-      {
-        "title": "Intel Surges 222% in a Year: Should Investors Join the Bandwagon?",
-        "title_zh": "英特尔在一年内飙升222% ：投资者是否应该加入潮流？",
-        "url": "https://au.finance.yahoo.com/news/intel-surges-222-investors-join-124900941.html",
-        "time": "20261001T131653",
-        "source": "Yahoo Finance Australia"
-      },
-      {
-        "title": "Advanced Micro Devices vs. Arm: Which Tech Stock Is a Better Buy in 2026?",
-        "title_zh": "先进微型设备与ARM ：哪种科技股在2026年是更好的买入？",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-vs-arm-230009098.html",
-        "time": "20261001T111152",
-        "source": "Yahoo Finance"
-      }
-    ],
-    "GOOGL": [
-      {
-        "title": "How Much Must Google Cloud Be Worth to Justify Alphabet’s Valuation?",
-        "title_zh": "谷歌云需要多少钱才能证明Alphabet的估值？",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/much-must-google-cloud-worth-211643123.html",
-        "time": "20261001T211653",
-        "source": "Yahoo Finance"
-      },
-      {
-        "title": "GOOGL Sheds $160 Billion in Value in a Single After-Hours Session",
-        "title_zh": "GOOGL在一个课后会话中贬值$ 1600亿",
-        "url": "https://247wallst.com/cards/google-googl-price-swing-01m3wmbtyeqrrtrp1yw9b840pd",
-        "time": "20261001T210400",
-        "source": "24/7 Wall St."
-      },
-      {
-        "title": "Google Just Went Nuclear in Georgia. These 2 Industrial Stocks Get Paid to Build It.",
-        "title_zh": "谷歌刚刚在格鲁吉亚进行了核试验。这两种工业股票通过建造它获得报酬。",
-        "url": "https://www.theglobeandmail.com/investing/markets/stocks/CCJ-N/pressreleases/4915810/google-just-went-nuclear-in-georgia-these-2-industrial-stocks-get-paid-to-build-it/",
-        "time": "20261001T205157",
-        "source": "The Globe and Mail"
-      },
-      {
-        "title": "Cognizant Technology Solutions Corp Stock (CTSH) Moved Up by 7.29% on Oct 1: What Investors Need To Know",
-        "title_zh": "Cognizant Technology Solutions Corp股票(CTSH)于10月1日上涨7.29% ：投资者须知",
-        "url": "https://www.tradingkey.com/news/market-movers/262196720-market-movers-ctsh-20261001",
-        "time": "20261001T185033",
-        "source": "TradingKey"
-      }
-    ]
+    "DELL": [],
+    "ASX": [],
+    "CBRS": [],
+    "NVDA": [],
+    "TSM": [],
+    "INTC": [],
+    "GOOGL": []
   },
   "quotes": {
     "MU": {
-      "price": 1097.39,
+      "price": 1074.89,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "AMD": {
-      "price": 615.73,
+      "price": 633.91,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "SNDK": {
-      "price": 1787.69,
+      "price": 1719.99,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
@@ -330,49 +40,49 @@
       "marketState": null
     },
     "005930.KS": {
-      "price": 275500.0,
+      "price": 276000.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "DELL": {
-      "price": 541.74,
+      "price": 562.52,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "ASX": {
-      "price": 44.73,
+      "price": 47.45,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "CBRS": {
-      "price": 169.52,
+      "price": 166.43,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "NVDA": {
-      "price": 230.86,
+      "price": 233.95,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "TSM": {
-      "price": 459.2,
+      "price": 472.78,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "INTC": {
-      "price": 120.0,
+      "price": 119.33,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "GOOGL": {
-      "price": 338.24,
+      "price": 343.5,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
