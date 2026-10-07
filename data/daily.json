@@ -1,378 +1,88 @@
 {
-  "updated_at": "2026-10-06T01:48:14.610021+00:00",
+  "updated_at": "2026-10-07T00:51:27.719068+00:00",
   "companies": {
-    "MU": [
-      {
-        "title": "Nvidia, Broadcom May Be Surprisingly Safe From a 32-GW Hole in the AI Boom, Morgan Stanley Says",
-        "title_zh": "摩根士丹利表示，英伟达、博通在人工智能热潮中的32GW漏洞中可能出人意料地安全",
-        "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-broadcom-may-surprisingly-safe-185153456.html",
-        "time": "20261005T185257",
-        "source": "Yahoo Finance"
-      },
-      {
-        "title": "Micron, Sandisk Seen Positively Despite Talk of Memory Workarounds -- Market Talk",
-        "title_zh": "美光，桑迪斯积极看待尽管谈论记忆解决方案-市场谈话",
-        "url": "https://www.moomoo.com/news/post/1000616748/micron-sandisk-seen-positively-despite-talk-of-memory-workarounds-market",
-        "time": "20261005T180258",
-        "source": "Moomoo"
-      },
-      {
-        "title": "Caterpillar: Data Center Tailwinds Are Real, But The Valuation Is Too Steep For Me",
-        "title_zh": "卡特彼勒：数据中心的顺风是真实的，但估值对我来说太陡了",
-        "url": "https://seekingalpha.com/article/4952032-caterpillar-data-center-tailwinds-are-real-but-the-valuation-is-too-steep-for-me",
-        "time": "20261005T175726",
-        "source": "Seeking Alpha"
-      },
-      {
-        "title": "Skyworks Solutions, Inc. Announces Management and Committee Changes, Effective October 5, 2026",
-        "title_zh": "Skyworks Solutions, Inc.宣布管理层和委员会变动，自2026年10月5日起生效",
-        "url": "https://www.marketscreener.com/news/skyworks-solutions-inc-announces-management-and-committee-changes-effective-october-5-2026-ce785dd8db80f324",
-        "time": "20261005T165021",
-        "source": "marketscreener.com"
-      }
-    ],
-    "AMD": [
-      {
-        "title": "AMD Just Got a $700 Price Target as Wall Street Eyes Its Next AI Catalyst",
-        "title_zh": "随着华尔街关注其下一个人工智能催化剂， AMD刚刚获得了700 $的目标价",
-        "url": "https://www.tradingview.com/news/gurufocus:0b1fd207f094b:0-amd-just-got-a-700-price-target-as-wall-street-eyes-its-next-ai-catalyst/",
-        "time": "20261005T181522",
-        "source": "TradingView"
-      },
-      {
-        "title": "Eastern Bank Purchases 1,614 Shares of Advanced Micro Devices, Inc. $AMD",
-        "title_zh": "东方银行收购Advanced Micro Devices, Inc. 1,614股股份$ AMD",
-        "url": "https://www.marketbeat.com/instant-alerts/filing-eastern-bank-purchases-1614-shares-of-advanced-micro-devices-inc-amd-2026-10-05/",
-        "time": "20261005T171608",
-        "source": "MarketBeat"
-      },
-      {
-        "title": "AMD Stock Could Surge on ‘Beat-and-Raise’ Q3 Earnings, Analyst Says - Advanced Micro Devices (NASDAQ:AMD)",
-        "title_zh": "分析师表示， AMD股票可能会在第三季度盈利上涨-先进微型设备（纳斯达克股票代码： AMD ）",
-        "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/10/62167366/advanced-micro-devices-q3-preview-amd-stock-could-surge-on-beat-and-raise-earnings-analyst-says",
-        "time": "20261005T154456",
-        "source": "Benzinga"
-      },
-      {
-        "title": "Why Is Advanced Micro Devices (NASDAQ:AMD) Pushing Deeper Into AI Model Research?",
-        "title_zh": "为什么Advanced Micro Devices （纳斯达克股票代码： AMD ）要更深入地推进人工智能模型研究？",
-        "url": "https://kalkinemedia.com/us/stocks/artificial-intelligence/why-is-advanced-micro-devices-nasdaqamd-pushing-deeper-into-ai-model-research",
-        "time": "20261005T143014",
-        "source": "Kalkine Media"
-      }
-    ],
-    "SNDK": [
-      {
-        "title": "Micron, Sandisk Seen Positively Despite Talk of Memory Workarounds -- Market Talk",
-        "title_zh": "美光，桑迪斯积极看待尽管谈论记忆解决方案-市场谈话",
-        "url": "https://www.moomoo.com/news/post/1000616748/micron-sandisk-seen-positively-despite-talk-of-memory-workarounds-market",
-        "time": "20261005T180258",
-        "source": "Moomoo"
-      },
-      {
-        "title": "SanDisk Corp. R (BW9.HA) interactive stock chart",
-        "title_zh": "SanDisk Corp. R (BW9.HA)交互式股票图表",
-        "url": "https://au.finance.yahoo.com/quote/BW9.HA/chart/",
-        "time": "20261004T215345",
-        "source": "Yahoo Finance Australia"
-      },
-      {
-        "title": "Sandisk chief legal officer Shek sells $1 million in shares",
-        "title_zh": "Sandisk首席法务官Shek出售$ 100万股股票",
-        "url": "https://www.investing.com/news/insider-trading-news/sandisk-chief-legal-officer-shek-sells-1-million-in-shares-93CH-4930642",
-        "time": "20261003T012854",
-        "source": "Investing.com"
-      },
-      {
-        "title": "After selling 600 shares, Sandisk (SNDK) legal chief holds 25,588 shares directly.",
-        "title_zh": "在出售600股股票后，桑迪斯克（ SNDK ）法务主管直接持有25,588股股票。",
-        "url": "https://www.stocktitan.net/sec-filings/SNDK/form-4-sandisk-corp-insider-trading-activity-87a5c55e965b.html",
-        "time": "20261003T002854",
-        "source": "Stock Titan"
-      }
-    ],
+    "MU": [],
+    "AMD": [],
+    "SNDK": [],
     "000660.KS": [],
     "005930.KS": [],
-    "DELL": [
-      {
-        "title": "A director gifts 9,214 Dell Technologies (DELL) shares to The Dorman Family Foundation.",
-        "title_zh": "一位董事向Dorman家族基金会赠送了9,214股Dell Technologies (DELL)股份。",
-        "url": "https://www.stocktitan.net/sec-filings/DELL/form-4-dell-technologies-inc-insider-trading-activity-a916ff3909cd.html",
-        "time": "20261005T195041",
-        "source": "Stock Titan"
-      },
-      {
-        "title": "NXP Semiconductors (NASDAQ:NXPI) EVP Christopher Jensen Sells 3,355 Shares of Stock",
-        "title_zh": "恩智浦半导体(NASDAQ: NXPI)执行副总裁Christopher Jensen出售3,355股股票",
-        "url": "https://www.marketbeat.com/instant-alerts/insider-nxp-semiconductors-nasdaq-nxpi-evp-christopher-jensen-sells-3355-shares-of-stock-2026-10-05/",
-        "time": "20261005T131928",
-        "source": "MarketBeat"
-      },
-      {
-        "title": "Cisco Systems Inc. Advanced Charts | CSCO",
-        "title_zh": "Cisco Systems Inc.高级图表| CSCO",
-        "url": "https://www.barrons.com/market-data/stocks/csco/interactive-chart?%253Bmod=quotes&%2525253Bmod=quotes&%25253Bmod=quotes&%252525253Bmod=quotes&mod=quotes&%25252525253Bmod=quotes",
-        "time": "20261004T085027",
-        "source": "Barron's"
-      },
-      {
-        "title": "The Lumen Technologies Story Was Tougher Than It Looked",
-        "title_zh": "Lumen Technologies的故事比看起来更艰难",
-        "url": "https://simplywall.st/stocks/us/telecom/nyse-lumn/lumen-technologies/news/the-lumen-technologies-story-was-tougher-than-it-looked/amp",
-        "time": "20261004T050304",
-        "source": "Simply Wall Street"
-      }
-    ],
-    "ASX": [
-      {
-        "title": "What Makes ASE Technology (NYSE:ASX) Key to NYSE Composite?",
-        "title_zh": "是什么让ASE Technology (NYSE: ASX)成为NYSE Composite的关键？",
-        "url": "https://kalkinemedia.com/us/stocks/technology/what-makes-ase-technology-nyseasx-key-to-nyse-composite",
-        "time": "20261005T142439",
-        "source": "Kalkine Media"
-      },
-      {
-        "title": "ASE Technology Holding Co., Ltd. (ASX) Stock Price, News, Quote & History",
-        "title_zh": "日月光科技控股有限公司（ ASX ）股价、新闻、报价和历史",
-        "url": "https://ca.finance.yahoo.com/quote/ASX/",
-        "time": "20261004T002439",
-        "source": "Yahoo! Finance Canada"
-      },
-      {
-        "title": "ASE Technology Holding Co., Ltd. (3711.TW) Stock Price, News, Quote & History",
-        "title_zh": "日月光科技控股有限公司(3711.TW)股票价格、新闻、报价和历史",
-        "url": "https://ca.finance.yahoo.com/quote/3711.TW/",
-        "time": "20261003T043043",
-        "source": "Yahoo! Finance Canada"
-      },
-      {
-        "title": "ASE Technology Holding Co., Ltd. (ASX) latest stock news and headlines – Yahoo Finance",
-        "title_zh": "日月光科技控股有限公司（ ASX ）最新股票新闻和头条新闻–雅虎财经",
-        "url": "https://sg.finance.yahoo.com/quote/ASX/news/",
-        "time": "20260930T155156",
-        "source": "Yahoo Finance Singapore"
-      }
-    ],
-    "CBRS": [
-      {
-        "title": "A June 30 trading plan covers the CFO's sale of 32,500 shares in Cerebras Systems (CBRS).",
-        "title_zh": "6月30日的交易计划包括首席财务官出售Cerebras Systems （ CBRS ）的32,500股股票。",
-        "url": "https://www.stocktitan.net/sec-filings/CBRS/form-4-cerebras-systems-inc-insider-trading-activity-5b39ce82e195.html",
-        "time": "20261001T070229",
-        "source": "Stock Titan"
-      },
-      {
-        "title": "Exercising options at $0.98 per share, Cerebras Systems (CBRS) COO also sells stock.",
-        "title_zh": "Cerebras Systems （ CBRS ）首席运营官以每股0.98 $的价格行使期权，也出售股票。",
-        "url": "https://www.stocktitan.net/sec-filings/CBRS/form-4-cerebras-systems-inc-insider-trading-activity-b995bc4b1d82.html",
-        "time": "20261001T000229",
-        "source": "Stock Titan"
-      },
-      {
-        "title": "Form 4 Cerebras Systems Inc. For: 30 September By Investing.com",
-        "title_zh": "表格4 Cerebras Systems Inc.致： 9月30日Investing.com",
-        "url": "https://uk.investing.com/news/stock-market-news/form-4-cerebras-systems-inc-for-30-september-93CH-4890482",
-        "time": "20261001T000229",
-        "source": "Investing.com UK"
-      },
-      {
-        "title": "A fund distribution leaves entities controlled by a Cerebras (CBRS) director holding 275,854 shares.",
-        "title_zh": "基金分配让Cerebras （ CBRS ）董事控制的实体持有275,854股。",
-        "url": "https://www.stocktitan.net/sec-filings/CBRS/form-4-cerebras-systems-inc-insider-trading-activity-1c6ac13c1f9e.html",
-        "time": "20260923T212046",
-        "source": "Stock Titan"
-      }
-    ],
-    "NVDA": [
-      {
-        "title": "Form 4 CareDx, Inc. For: Oct 01 Filed by: Novack Jeffrey Adam",
-        "title_zh": "表格4 CareDx, Inc.收件人： 10月1日提交者： Novack Jeffrey Adam",
-        "url": "https://www.streetinsider.com/SEC+Filings/Form+4+CareDx,+Inc.+For:+Oct+01+Filed+by:+Novack+Jeffrey+Adam/27150361.html",
-        "time": "20261006T012719",
-        "source": "StreetInsider"
-      },
-      {
-        "title": "Arch Capital Group (ACGL) Stock Could Be A Bargain As Earnings Matter Most",
-        "title_zh": "由于盈利至关重要， Arch Capital Group (ACGL)的股票可能很便宜",
-        "url": "https://simplywall.st/stocks/us/insurance/nasdaq-acgl/arch-capital-group/news/arch-capital-group-acgl-stock-could-be-a-bargain-as-earnings",
-        "time": "20261005T231054",
-        "source": "Simply Wall Street"
-      },
-      {
-        "title": "Sovereign storage becomes an architecture decision for Europe",
-        "title_zh": "主权存储成为欧洲的架构决策",
-        "url": "https://siliconangle.com/2026/10/05/sovereign-storage-becomes-architecture-decision-europe-netappinsight/",
-        "time": "20261005T215841",
-        "source": "SiliconANGLE"
-      },
-      {
-        "title": "Charter Communications stock hits 52-week low at $108.00",
-        "title_zh": "Charter Communications股价触及52周低点$ 108.00",
-        "url": "https://www.investing.com/news/company-news/charter-communications-stock-hits-52week-low-at-10800-93CH-4932338",
-        "time": "20261005T214829",
-        "source": "Investing.com"
-      }
-    ],
-    "TSM": [
-      {
-        "title": "Taiwan Semiconductor Gains 2% to Record as Musk Confirms Early Terafab Talks; Broadcom Rises 2%, Qualcomm Pulls Back",
-        "title_zh": "随着马斯克确认Terafab早期谈判，台湾半导体上涨2% ；博通上涨2% ，高通退出",
-        "url": "https://247wallst.com/investing/2026/10/05/taiwan-semiconductor-gains-2-to-record-as-musk-confirms-early-terafab-talks-broadcom-rises-2-qualcomm-pulls-back/",
-        "time": "20261005T173219",
-        "source": "24/7 Wall St."
-      },
-      {
-        "title": "Can Taiwan Semiconductor Manufacturing (NYSE:TSM) Justify A Rich Price On Cash Flow?",
-        "title_zh": "台湾半导体制造（纽约证券交易所代码： TSM ）能否证明现金流价格过高是合理的？",
-        "url": "https://simplywall.st/stocks/us/semiconductors/nyse-tsm/taiwan-semiconductor-manufacturing/news/can-taiwan-semiconductor-manufacturing-nysetsm-justify-a-ric",
-        "time": "20261003T015641",
-        "source": "Simply Wall Street"
-      },
-      {
-        "title": "Taiwan Semiconductor Manufacturing (TSM) Could Be 21% Overvalued As Texas Plans Draw Focus",
-        "title_zh": "随着德克萨斯州的计划引发关注，台湾半导体制造业（ TSM ）可能被高估21 ％",
-        "url": "https://simplywall.st/stocks/us/semiconductors/nyse-tsm/taiwan-semiconductor-manufacturing/news/taiwan-semiconductor-manufacturing-tsm-could-be-21-overvalue/amp",
-        "time": "20261001T182105",
-        "source": "Simply Wall Street"
-      },
-      {
-        "title": "TSMC mulls multibillion-dollar chip manufacturing campus in Texas",
-        "title_zh": "台积电考虑在德克萨斯州建设价值数十亿美元的芯片制造园区",
-        "url": "https://finance.yahoo.com/technology/articles/tsmc-mulls-multibillion-dollar-chip-135354924.html",
-        "time": "20261001T095300",
-        "source": "Yahoo Finance"
-      }
-    ],
-    "INTC": [
-      {
-        "title": "14,843 Broadcom Inc. $AVGO Shares Purchased by Park National Corp OH",
-        "title_zh": "14,843 Broadcom Inc. $由Park National Corp购买的AVGO股票，俄亥俄州",
-        "url": "https://www.marketbeat.com/instant-alerts/filing-14843-broadcom-inc-avgo-shares-purchased-by-park-national-corp-oh-2026-10-05/",
-        "time": "20261005T175954",
-        "source": "MarketBeat"
-      },
-      {
-        "title": "Taiwan Semiconductor Gains 2% to Record as Musk Confirms Early Terafab Talks; Broadcom Rises 2%, Qualcomm Pulls Back",
-        "title_zh": "随着马斯克确认Terafab早期谈判，台湾半导体上涨2% ；博通上涨2% ，高通退出",
-        "url": "https://247wallst.com/investing/2026/10/05/taiwan-semiconductor-gains-2-to-record-as-musk-confirms-early-terafab-talks-broadcom-rises-2-qualcomm-pulls-back/",
-        "time": "20261005T173219",
-        "source": "24/7 Wall St."
-      },
-      {
-        "title": "Tesla Stock Trends Higher: What's Happening?",
-        "title_zh": "特斯拉股价走高：发生了什么？",
-        "url": "https://www.benzinga.com/trading-ideas/movers/26/10/62168706/tesla-stock-trends-higher-whats-happening",
-        "time": "20261005T164244",
-        "source": "Benzinga"
-      },
-      {
-        "title": "PURR Stock Extends Rally As Buyers Crowd Into Hyperliquid Strategies",
-        "title_zh": "PURR股票扩展反弹，买家纷纷进入超流动性策略",
-        "url": "https://stockstotrade.com/news/hyperliquid-strategies-inc-purr-news-2026_10_05/",
-        "time": "20261005T163419",
-        "source": "StocksToTrade"
-      }
-    ],
-    "GOOGL": [
-      {
-        "title": "Form 4 CareDx, Inc. For: Oct 01 Filed by: Novack Jeffrey Adam",
-        "title_zh": "表格4 CareDx, Inc.收件人： 10月1日提交者： Novack Jeffrey Adam",
-        "url": "https://www.streetinsider.com/SEC+Filings/Form+4+CareDx,+Inc.+For:+Oct+01+Filed+by:+Novack+Jeffrey+Adam/27150361.html",
-        "time": "20261006T012719",
-        "source": "StreetInsider"
-      },
-      {
-        "title": "Apple (NASDAQ:AAPL) CEO John Ternus Sells 25,412 Shares of Company Stock",
-        "title_zh": "苹果（纳斯达克股票代码： AAPL ）首席执行官John Ternus出售25,412股公司股票",
-        "url": "https://www.marketbeat.com/instant-alerts/insider-apple-nasdaq-aapl-ceo-john-ternus-sells-25412-shares-of-company-stock-2026-10-05/",
-        "time": "20261005T232530",
-        "source": "MarketBeat"
-      },
-      {
-        "title": "GOOGL, GOOG Investors Have Opportunity to Lead Alphabet Inc. Securities Fraud Lawsuit",
-        "title_zh": "GOOGL、GOOG投资者有机会领导Alphabet Inc.证券欺诈诉讼",
-        "url": "https://www.prnewswire.com/news-releases/googl-goog-investors-have-opportunity-to-lead-alphabet-inc-securities-fraud-lawsuit-302898735.html",
-        "time": "20261005T210439",
-        "source": "PR Newswire"
-      },
-      {
-        "title": "Class action lawsuit filed against Alphabet over misleading statements on Gemini 3.5 Pro delays",
-        "title_zh": "针对Alphabet对Gemini 3.5 Pro延迟的误导性陈述提起集体诉讼",
-        "url": "https://pluang.com/en/news-feed/investor-alphabet-inc-gugat-penipuan-sekuritas",
-        "time": "20261005T205139",
-        "source": "Pluang"
-      }
-    ]
+    "DELL": [],
+    "ASX": [],
+    "CBRS": [],
+    "NVDA": [],
+    "TSM": [],
+    "INTC": [],
+    "GOOGL": []
   },
   "quotes": {
     "MU": {
-      "price": 1063.96,
+      "price": 1045.56,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "AMD": {
-      "price": 631.75,
+      "price": 649.42,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "SNDK": {
-      "price": 1704.16,
+      "price": 1660.46,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "000660.KS": {
-      "price": 1793000.0,
+      "price": 1774000.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "005930.KS": {
-      "price": 275250.0,
+      "price": 278500.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "DELL": {
-      "price": 552.29,
+      "price": 574.0,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "ASX": {
-      "price": 47.53,
+      "price": 46.78,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "CBRS": {
-      "price": 181.55,
+      "price": 177.1,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "NVDA": {
-      "price": 238.9,
+      "price": 239.24,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "TSM": {
-      "price": 485.8,
+      "price": 482.3,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "INTC": {
-      "price": 116.19,
+      "price": 112.5,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "GOOGL": {
-      "price": 346.47,
+      "price": 347.68,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
