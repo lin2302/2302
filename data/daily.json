@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T00:51:27.719068+00:00",
+  "updated_at": "2026-10-08T01:07:11.805994+00:00",
   "companies": {
     "MU": [],
     "AMD": [],
@@ -16,73 +16,73 @@
   },
   "quotes": {
     "MU": {
-      "price": 1045.56,
+      "price": 1088.0,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "AMD": {
-      "price": 649.42,
+      "price": 645.86,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "SNDK": {
-      "price": 1660.46,
+      "price": 1692.42,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "000660.KS": {
-      "price": 1774000.0,
+      "price": 1731000.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "005930.KS": {
-      "price": 278500.0,
+      "price": 266500.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "DELL": {
-      "price": 574.0,
+      "price": 578.96,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "ASX": {
-      "price": 46.78,
+      "price": 45.76,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "CBRS": {
-      "price": 177.1,
+      "price": 175.05,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "NVDA": {
-      "price": 239.24,
+      "price": 237.47,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "TSM": {
-      "price": 482.3,
+      "price": 472.2,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "INTC": {
-      "price": 112.5,
+      "price": 113.12,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "GOOGL": {
-      "price": 347.68,
+      "price": 350.5,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
