@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T01:17:40.401541+00:00",
+  "updated_at": "2026-10-10T01:02:48.626304+00:00",
   "companies": {
     "MU": [],
     "AMD": [],
@@ -16,19 +16,19 @@
   },
   "quotes": {
     "MU": {
-      "price": 1035.84,
+      "price": 1029.0,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "AMD": {
-      "price": 620.68,
+      "price": 608.1,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "SNDK": {
-      "price": 1609.46,
+      "price": 1581.82,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
@@ -46,43 +46,43 @@
       "marketState": null
     },
     "DELL": {
-      "price": 574.55,
+      "price": 586.06,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "ASX": {
-      "price": 45.26,
+      "price": 46.43,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "CBRS": {
-      "price": 167.92,
+      "price": 164.17,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "NVDA": {
-      "price": 230.48,
+      "price": 229.28,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "TSM": {
-      "price": 457.99,
+      "price": 453.31,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "INTC": {
-      "price": 107.08,
+      "price": 104.7,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "GOOGL": {
-      "price": 348.29,
+      "price": 351.66,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
