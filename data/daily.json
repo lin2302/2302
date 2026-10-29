@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T00:35:40.560256+00:00",
+  "updated_at": "2026-10-29T01:05:45.766883+00:00",
   "companies": {
     "MU": [],
     "AMD": [],
@@ -16,73 +16,73 @@
   },
   "quotes": {
     "MU": {
-      "price": 928.76,
+      "price": 983.23,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "AMD": {
-      "price": 560.26,
+      "price": 578.44,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "SNDK": {
-      "price": 1304.84,
+      "price": 1404.77,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "000660.KS": {
-      "price": 1382000.0,
+      "price": 1581000.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "005930.KS": {
-      "price": 232500.0,
+      "price": 248500.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "DELL": {
-      "price": 501.96,
+      "price": 493.79,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "ASX": {
-      "price": 42.06,
+      "price": 43.92,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "CBRS": {
-      "price": 119.31,
+      "price": 112.56,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "NVDA": {
-      "price": 217.94,
+      "price": 215.38,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "TSM": {
-      "price": 436.87,
+      "price": 439.51,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "INTC": {
-      "price": 93.74,
+      "price": 95.53,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "GOOGL": {
-      "price": 320.58,
+      "price": 324.89,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
