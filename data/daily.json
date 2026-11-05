@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T01:30:48.789053+00:00",
+  "updated_at": "2026-11-05T01:33:22.354856+00:00",
   "companies": {
     "MU": [],
     "AMD": [],
@@ -16,73 +16,73 @@
   },
   "quotes": {
     "MU": {
-      "price": 855.1,
+      "price": 795.23,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "AMD": {
-      "price": 483.9,
+      "price": 488.78,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "SNDK": {
-      "price": 1126.52,
+      "price": 1037.4,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "000660.KS": {
-      "price": 1398000.0,
+      "price": 1281000.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "005930.KS": {
-      "price": 219500.0,
+      "price": 205000.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "DELL": {
-      "price": 408.4,
+      "price": 372.36,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "ASX": {
-      "price": 39.05,
+      "price": 37.51,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "CBRS": {
-      "price": 97.82,
+      "price": 91.85,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "NVDA": {
-      "price": 206.69,
+      "price": 200.13,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "TSM": {
-      "price": 404.8,
+      "price": 395.75,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "INTC": {
-      "price": 60.55,
+      "price": 58.27,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "GOOGL": {
-      "price": 280.03,
+      "price": 288.93,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
