@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T01:40:19.975409+00:00",
+  "updated_at": "2026-11-07T00:59:57.652103+00:00",
   "companies": {
     "MU": [],
     "AMD": [],
@@ -16,73 +16,73 @@
   },
   "quotes": {
     "MU": {
-      "price": 656.39,
+      "price": 690.0,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "AMD": {
-      "price": 404.4,
+      "price": 449.04,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "SNDK": {
-      "price": 806.43,
+      "price": 835.06,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "000660.KS": {
-      "price": 1135000.0,
+      "price": 1132000.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "005930.KS": {
-      "price": 187000.0,
+      "price": 188700.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "DELL": {
-      "price": 316.91,
+      "price": 328.53,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "ASX": {
-      "price": 29.72,
+      "price": 31.63,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "CBRS": {
-      "price": 81.71,
+      "price": 89.68,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "NVDA": {
-      "price": 181.6,
+      "price": 186.64,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "TSM": {
-      "price": 353.1,
+      "price": 375.44,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "INTC": {
-      "price": 52.25,
+      "price": 56.28,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "GOOGL": {
-      "price": 282.57,
+      "price": 284.78,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
