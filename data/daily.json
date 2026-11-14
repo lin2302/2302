@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T01:59:01.218185+00:00",
+  "updated_at": "2026-11-14T01:31:13.286456+00:00",
   "companies": {
     "MU": [],
     "AMD": [],
@@ -16,73 +16,73 @@
   },
   "quotes": {
     "MU": {
-      "price": 798.44,
+      "price": 778.31,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "AMD": {
-      "price": 585.3,
+      "price": 534.06,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "SNDK": {
-      "price": 937.46,
+      "price": 885.01,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "000660.KS": {
-      "price": 1281000.0,
+      "price": 1216000.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "005930.KS": {
-      "price": 212750.0,
+      "price": 206000.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "DELL": {
-      "price": 371.17,
+      "price": 344.53,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "ASX": {
-      "price": 36.29,
+      "price": 35.55,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "CBRS": {
-      "price": 97.75,
+      "price": 108.72,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "NVDA": {
-      "price": 166.19,
+      "price": 162.85,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "TSM": {
-      "price": 405.49,
+      "price": 398.73,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "INTC": {
-      "price": 61.2,
+      "price": 59.66,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "GOOGL": {
-      "price": 298.7,
+      "price": 295.77,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
