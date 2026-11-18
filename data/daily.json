@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T04:01:44.200141+00:00",
+  "updated_at": "2026-11-18T02:58:45.477902+00:00",
   "companies": {
     "MU": [],
     "AMD": [],
@@ -16,73 +16,73 @@
   },
   "quotes": {
     "MU": {
-      "price": 719.02,
+      "price": 712.42,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "AMD": {
-      "price": 504.28,
+      "price": 503.41,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "SNDK": {
-      "price": 809.11,
+      "price": 797.24,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "000660.KS": {
-      "price": 1132000.0,
+      "price": 1123500.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "005930.KS": {
-      "price": 192900.0,
+      "price": 191000.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "DELL": {
-      "price": 320.55,
+      "price": 322.79,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "ASX": {
-      "price": 32.8,
+      "price": 31.83,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "CBRS": {
-      "price": 100.99,
+      "price": 104.18,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "NVDA": {
-      "price": 156.14,
+      "price": 155.46,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "TSM": {
-      "price": 373.45,
+      "price": 359.69,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "INTC": {
-      "price": 55.47,
+      "price": 55.17,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "GOOGL": {
-      "price": 283.72,
+      "price": 280.2,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
