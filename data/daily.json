@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T02:26:53.051892+00:00",
+  "updated_at": "2026-11-21T02:36:48.497954+00:00",
   "companies": {
     "MU": [],
     "AMD": [],
@@ -16,73 +16,73 @@
   },
   "quotes": {
     "MU": {
-      "price": 690.44,
+      "price": 594.51,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "AMD": {
-      "price": 489.19,
+      "price": 424.39,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "SNDK": {
-      "price": 755.16,
+      "price": 79.24,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "000660.KS": {
-      "price": 1105000.0,
+      "price": 1113000.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "005930.KS": {
-      "price": 184700.0,
+      "price": 183100.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "DELL": {
-      "price": 312.54,
+      "price": 278.02,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "ASX": {
-      "price": 30.49,
+      "price": 26.27,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "CBRS": {
-      "price": 86.96,
+      "price": 82.67,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "NVDA": {
-      "price": 145.98,
+      "price": 125.53,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "TSM": {
-      "price": 352.09,
+      "price": 318.71,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "INTC": {
-      "price": 55.72,
+      "price": 51.28,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "GOOGL": {
-      "price": 272.66,
+      "price": 265.29,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
