@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T02:36:48.497954+00:00",
+  "updated_at": "2026-11-24T05:22:54.668665+00:00",
   "companies": {
     "MU": [],
     "AMD": [],
@@ -16,73 +16,73 @@
   },
   "quotes": {
     "MU": {
-      "price": 594.51,
+      "price": 707.7,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "AMD": {
-      "price": 424.39,
+      "price": 453.46,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "SNDK": {
-      "price": 79.24,
+      "price": 87.71,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "000660.KS": {
-      "price": 1113000.0,
+      "price": 1182000.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "005930.KS": {
-      "price": 183100.0,
+      "price": 192000.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "DELL": {
-      "price": 278.02,
+      "price": 334.91,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "ASX": {
-      "price": 26.27,
+      "price": 31.88,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "CBRS": {
-      "price": 82.67,
+      "price": 98.51,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "NVDA": {
-      "price": 125.53,
+      "price": 165.05,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "TSM": {
-      "price": 318.71,
+      "price": 363.6,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "INTC": {
-      "price": 51.28,
+      "price": 59.66,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "GOOGL": {
-      "price": 265.29,
+      "price": 282.1,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
