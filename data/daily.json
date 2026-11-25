@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T05:22:54.668665+00:00",
+  "updated_at": "2026-11-25T04:23:03.457192+00:00",
   "companies": {
     "MU": [],
     "AMD": [],
@@ -16,73 +16,73 @@
   },
   "quotes": {
     "MU": {
-      "price": 707.7,
+      "price": 629.79,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "AMD": {
-      "price": 453.46,
+      "price": 413.27,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "SNDK": {
-      "price": 87.71,
+      "price": 77.95,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "000660.KS": {
-      "price": 1182000.0,
+      "price": 1050000.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "005930.KS": {
-      "price": 192000.0,
+      "price": 171400.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "DELL": {
-      "price": 334.91,
+      "price": 295.28,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "ASX": {
-      "price": 31.88,
+      "price": 29.33,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "CBRS": {
-      "price": 98.51,
+      "price": 88.78,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "NVDA": {
-      "price": 165.05,
+      "price": 155.38,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "TSM": {
-      "price": 363.6,
+      "price": 349.2,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "INTC": {
-      "price": 59.66,
+      "price": 54.8,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "GOOGL": {
-      "price": 282.1,
+      "price": 279.05,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
