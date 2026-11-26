@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T04:23:03.457192+00:00",
+  "updated_at": "2026-11-26T03:40:10.457894+00:00",
   "companies": {
     "MU": [],
     "AMD": [],
@@ -16,73 +16,73 @@
   },
   "quotes": {
     "MU": {
-      "price": 629.79,
+      "price": 601.25,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "AMD": {
-      "price": 413.27,
+      "price": 406.03,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "SNDK": {
-      "price": 77.95,
+      "price": 73.61,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "000660.KS": {
-      "price": 1050000.0,
+      "price": 1060500.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "005930.KS": {
-      "price": 171400.0,
+      "price": 172600.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "DELL": {
-      "price": 295.28,
+      "price": 297.06,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "ASX": {
-      "price": 29.33,
+      "price": 29.49,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "CBRS": {
-      "price": 88.78,
+      "price": 89.68,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "NVDA": {
-      "price": 155.38,
+      "price": 149.3,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "TSM": {
-      "price": 349.2,
+      "price": 342.34,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "INTC": {
-      "price": 54.8,
+      "price": 54.47,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
     },
     "GOOGL": {
-      "price": 279.05,
+      "price": 273.1,
       "changePercent": null,
       "currency": "USD",
       "marketState": null
