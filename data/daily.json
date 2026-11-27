@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T03:40:10.457894+00:00",
+  "updated_at": "2026-11-27T03:41:08.134374+00:00",
   "companies": {
     "MU": [],
     "AMD": [],
@@ -34,13 +34,13 @@
       "marketState": null
     },
     "000660.KS": {
-      "price": 1060500.0,
+      "price": 1100000.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
     },
     "005930.KS": {
-      "price": 172600.0,
+      "price": 178000.0,
       "changePercent": null,
       "currency": "KRW",
       "marketState": null
